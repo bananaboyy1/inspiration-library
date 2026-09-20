@@ -1,0 +1,44 @@
+{
+  "name": "app-orange-white-events-app-home-and-detail-two-phones",
+  "image": "images/app-orange-white-events-app-home-and-detail-two-phones.jpg",
+  "discipline": "app",
+  "designType": "E-commerce app",
+  "title": "Orange Events App Home and Detail",
+  "tags": [
+    "events",
+    "orange",
+    "white",
+    "photos",
+    "tickets",
+    "two-phones",
+    "categories"
+  ],
+  "whatItIs": "Two white phones with orange accents: a home with location, search, category circles and event cards with photos, and an event detail with a hero photo, teaser video button, attendee avatars, organizer and a big Book Now bar.",
+  "whatItMeans": "Orange on white feels lively and social, and warm event photos carry the mood.",
+  "techniques": [
+    "Orange for icons, tags and the main button",
+    "Circular category icons in pale orange",
+    "Hero photo with overlaid teaser video pill",
+    "Attendee avatar stack with a plus count",
+    "Sticky bottom bar with price and CTA"
+  ],
+  "bestFor": [
+    "Event and ticketing apps",
+    "Light UI with a warm accent",
+    "Discovery and detail screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Category circle",
+      "definition": "A round icon button for a content category."
+    },
+    {
+      "term": "Avatar stack",
+      "definition": "Overlapping avatars showing attendees."
+    },
+    {
+      "term": "Sticky CTA bar",
+      "definition": "A bottom bar with price and action that stays visible."
+    }
+  ]
+}

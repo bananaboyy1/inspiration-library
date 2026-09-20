@@ -1,0 +1,44 @@
+{
+  "name": "app-serif-italic-persona-cards-on-dashed-path",
+  "image": "images/app-serif-italic-persona-cards-on-dashed-path.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Primary and Secondary Personas on a Dashed Path",
+  "tags": [
+    "persona",
+    "serif-italic",
+    "dashed-path",
+    "portraits",
+    "quotes",
+    "pills",
+    "white"
+  ],
+  "whatItIs": "A white page titled 'Main Issues' with two tilted portrait cards hanging from a curving dashed path, each with a role pill, an italic serif name, a quote with key words darker, and three icon pill tags for feelings.",
+  "whatItMeans": "Portraits hanging like tags along a path make personas feel like a story, and italic names add warmth.",
+  "techniques": [
+    "Tilted framed portraits pinned to a dashed path",
+    "Italic serif names beside sans quotes",
+    "Key phrases darker within a grey quote",
+    "Icon pills naming emotions",
+    "Alternating left and right layout"
+  ],
+  "bestFor": [
+    "Persona presentations",
+    "Care and health research",
+    "Story-led UX documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Primary user",
+      "definition": "The main person the product is designed for."
+    },
+    {
+      "term": "Secondary user",
+      "definition": "Someone affected by or supporting the primary user."
+    },
+    {
+      "term": "Emotion pill",
+      "definition": "A small tag naming a feeling with an icon."
+    }
+  ]
+}

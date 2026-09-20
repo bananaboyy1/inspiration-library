@@ -1,0 +1,44 @@
+{
+  "name": "web-travel-landing-faq-and-dark-app-download-footer",
+  "image": "images/web-travel-landing-faq-and-dark-app-download-footer.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Travel Landing FAQ, Dark Download Band and Footer",
+  "tags": [
+    "travel",
+    "faq",
+    "dark-band",
+    "footer",
+    "circled-word",
+    "download",
+    "blue"
+  ],
+  "whatItIs": "The lower part of a travel landing page: a beach photo beside accordion FAQ rows, a black band with 'All Your Travel Plans One Smart App' and a hand holding a dark app screen, and a white footer with links and email signup.",
+  "whatItMeans": "A dark band between light sections creates a strong closing moment, and the hand-held phone makes the download CTA tangible.",
+  "techniques": [
+    "Dark full-width band as the final CTA",
+    "Circled word in the headline",
+    "Hand-held phone breaking into the band",
+    "Lavender FAQ accordions with plus toggles",
+    "Footer with newsletter card and store buttons"
+  ],
+  "bestFor": [
+    "Landing page endings",
+    "App download sections",
+    "Travel and booking sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "CTA band",
+      "definition": "A contrasting full-width section carrying the final call to action."
+    },
+    {
+      "term": "Accordion",
+      "definition": "A list of rows that expand to reveal answers."
+    },
+    {
+      "term": "Newsletter card",
+      "definition": "A boxed email signup in a footer."
+    }
+  ]
+}

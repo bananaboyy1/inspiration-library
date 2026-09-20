@@ -1,0 +1,44 @@
+{
+  "name": "app-user-journey-map-table-with-emoji-emotion-row",
+  "image": "images/app-user-journey-map-table-with-emoji-emotion-row.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "User Journey Map Table with Emotion Emoji",
+  "tags": [
+    "journey-map",
+    "persona",
+    "table",
+    "lilac",
+    "red",
+    "emoji",
+    "banking"
+  ],
+  "whatItIs": "A pale grey page titled User Journey Map with a persona card, a scenario card and a goals card, above an eight-column table of stages (Discover to Support) with rows for Activities, Pain Points in red, Touch points and an Emotional row of emoji faces with two-word feelings, the Grow column highlighted in lilac.",
+  "whatItMeans": "Emoji make emotion readable at a glance, and pale colour-coded rows keep a dense table calm.",
+  "techniques": [
+    "Row labels coloured by type (red for pain)",
+    "Emoji row showing emotion per stage",
+    "Lilac highlight on one column",
+    "Persona, scenario and goals cards across the top",
+    "Uniform rounded cells"
+  ],
+  "bestFor": [
+    "Journey map slides",
+    "Banking UX research",
+    "Dense tables with colour coding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Journey stage",
+      "definition": "A phase in a user's experience such as Discover or Support."
+    },
+    {
+      "term": "Pain point",
+      "definition": "A frustration a user experiences at a stage."
+    },
+    {
+      "term": "Touchpoint",
+      "definition": "A place where the user interacts with the product."
+    }
+  ]
+}

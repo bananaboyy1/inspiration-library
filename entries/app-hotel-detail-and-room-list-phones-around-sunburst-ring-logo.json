@@ -1,0 +1,44 @@
+{
+  "name": "app-hotel-detail-and-room-list-phones-around-sunburst-ring-logo",
+  "image": "images/app-hotel-detail-and-room-list-phones-around-sunburst-ring-logo.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Hotel Screens around a Sunburst Ring Logo",
+  "tags": [
+    "hotel",
+    "phones",
+    "ring",
+    "logo",
+    "brush-note",
+    "lavender",
+    "blue"
+  ],
+  "whatItIs": "A lavender page with two phones (hotel detail and room list) flanking a centre logo tile inside a big ring of white rounded dashes like a sunburst, a third phone cropped at the top and a torn white note explaining the screens.",
+  "whatItMeans": "The ring of dashes radiates from the logo like a sun, giving a static screen layout a pulse.",
+  "techniques": [
+    "Ring of radial dashes around a logo",
+    "Flanking phones at equal heights",
+    "Torn paper note under the logo",
+    "Cropped extra phone at the top edge",
+    "Blue primary buttons and pill chips"
+  ],
+  "bestFor": [
+    "Hotel and booking case studies",
+    "Radial compositions",
+    "Logo-centred screen layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radial dash ring",
+      "definition": "Short strokes arranged in a circle radiating outward."
+    },
+    {
+      "term": "Centre logo",
+      "definition": "A brand mark placed at the middle of a composition."
+    },
+    {
+      "term": "Facility chips",
+      "definition": "Small pills listing amenities like Wi-Fi and food."
+    }
+  ]
+}

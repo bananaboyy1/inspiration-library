@@ -1,0 +1,44 @@
+{
+  "name": "app-food-ordering-curved-category-arc-thumbnail",
+  "image": "images/app-food-ordering-curved-category-arc-thumbnail.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Food Ordering App Thumbnail",
+  "tags": [
+    "food",
+    "hands",
+    "thumbnail",
+    "arc",
+    "peach",
+    "cover",
+    "touch"
+  ],
+  "whatItIs": "A small square cover of the same food ordering app in dark hands with a pizza slice card and category arc under a peach gradient.",
+  "whatItMeans": "Food photography and a finger pointing to it read instantly even at small size.",
+  "techniques": [
+    "Tight crop on hands and screen",
+    "Bright food photos as the colour pop",
+    "Soft peach-to-grey background",
+    "Arc of category thumbnails as a recognisable motif",
+    "No text overlay"
+  ],
+  "bestFor": [
+    "Portfolio grid thumbnails",
+    "Food app teasers",
+    "Quick-glance covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cover crop",
+      "definition": "A crop chosen to fit a square gallery thumbnail."
+    },
+    {
+      "term": "Colour pop",
+      "definition": "A saturated element against neutral surroundings."
+    },
+    {
+      "term": "Recognisable motif",
+      "definition": "A repeated shape that identifies a product."
+    }
+  ]
+}

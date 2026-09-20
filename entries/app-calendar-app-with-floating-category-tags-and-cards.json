@@ -1,0 +1,44 @@
+{
+  "name": "app-calendar-app-with-floating-category-tags-and-cards",
+  "image": "images/app-calendar-app-with-floating-category-tags-and-cards.png",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Calendar App with Floating Category Tags",
+  "tags": [
+    "calendar",
+    "tags",
+    "cards",
+    "pastel",
+    "floating",
+    "white",
+    "month-view"
+  ],
+  "whatItIs": "A white slide with a month-view calendar phone at centre surrounded by floating coloured tag pills (School, Home, Plants, Friends, Work, Sport, Grandma) and activity cards with big coloured letter blocks, plus a headline 'Where your time finally makes sense'.",
+  "whatItMeans": "Colour-coded tags scattered around the phone show how categories carry through the app, and letter blocks give each card a friendly identity.",
+  "techniques": [
+    "Tag pills floating around the device as a visual system",
+    "Colour-coded dashes on the calendar matching the tags",
+    "Cards with large initial letters in coloured tiles",
+    "White canvas so the colours pop",
+    "Light large headline set beside the phone"
+  ],
+  "bestFor": [
+    "Planner and organiser apps",
+    "Explaining a colour system",
+    "Feature explainers with floating UI parts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Exploded UI",
+      "definition": "Interface parts pulled out and floated around the device."
+    },
+    {
+      "term": "Category tag",
+      "definition": "A coloured pill classifying an item."
+    },
+    {
+      "term": "Letter tile",
+      "definition": "A colour block with an initial used as an icon."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cobalt-grid-step-five-poster-tutorial-slide",
+  "image": "images/print-social-cobalt-grid-step-five-poster-tutorial-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Cobalt Step Five Tutorial Slide",
+  "tags": [
+    "tutorial",
+    "cobalt",
+    "step",
+    "grid",
+    "sparkles",
+    "poster",
+    "swipe"
+  ],
+  "whatItIs": "A saturated blue slide with big glossy italic 'Step 5', a subtitle 'Add some details', a framed poster preview of smiling children with face-selection boxes, sparkle stars and a swipe cue.",
+  "whatItMeans": "Glossy chrome-like numerals and sparkles feel fun and current, and the preview shows the exact result of the step.",
+  "techniques": [
+    "Chrome gradient on the step title",
+    "Faint grid and four-point sparkle stars",
+    "Preview of the work in progress at centre",
+    "Selection boxes drawn on the preview to teach where to act",
+    "Swipe prompt and author handle in the footer"
+  ],
+  "bestFor": [
+    "Design tutorial carousels",
+    "Poster-making lessons",
+    "Educational social posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chrome type",
+      "definition": "Lettering with a metallic gradient highlight."
+    },
+    {
+      "term": "Sparkle",
+      "definition": "A four-point star used as a decorative accent."
+    },
+    {
+      "term": "Swipe cue",
+      "definition": "A small indicator prompting the next carousel slide."
+    }
+  ]
+}

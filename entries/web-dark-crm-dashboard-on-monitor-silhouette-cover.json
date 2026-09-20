@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-crm-dashboard-on-monitor-silhouette-cover",
+  "image": "images/web-dark-crm-dashboard-on-monitor-silhouette-cover.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Dark CRM Dashboard Cover with Silhouette",
+  "tags": [
+    "dark",
+    "dashboard",
+    "monitor",
+    "silhouette",
+    "crm",
+    "cover",
+    "minimal"
+  ],
+  "whatItIs": "A cover with a desktop monitor showing a dark relationship-management dashboard, a person's silhouette at the right and dark grey shading around.",
+  "whatItMeans": "The dark room and lit screen create a focused, professional mood, as if seen at night. The silhouette adds human context.",
+  "techniques": [
+    "Lit screen as the only bright object in a dark scene",
+    "Human silhouette at the frame edge for scale",
+    "Monochrome scene with a tiny green accent",
+    "Cool grey vignette",
+    "Simple central composition"
+  ],
+  "bestFor": [
+    "Dark-mode SaaS covers",
+    "B2B dashboards",
+    "Project thumbnails"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lit screen",
+      "definition": "A display glowing in an otherwise dark composition."
+    },
+    {
+      "term": "Silhouette",
+      "definition": "A figure shown only as a dark outline."
+    },
+    {
+      "term": "Vignette",
+      "definition": "Edges darkened to focus the centre."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-concentric-circle-user-persona-slide",
+  "image": "images/app-concentric-circle-user-persona-slide.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Concentric Circle Persona Slide",
+  "tags": [
+    "persona",
+    "circles",
+    "minimal",
+    "serif-italic",
+    "white",
+    "quote",
+    "pain-gain"
+  ],
+  "whatItIs": "A white slide with a mixed sans and italic serif headline, a persona portrait sitting on two large concentric hairline circles containing a quote and Goals text, with Pain and Gain blocks at the sides and an icon tab bar below.",
+  "whatItMeans": "Circles place the person at the centre, and pain and gain flank them like a balance.",
+  "techniques": [
+    "Persona portrait cut out over a circle edge",
+    "Concentric hairline circles as containers",
+    "Pain and Gain placed left and right",
+    "Square nodes on the circle line",
+    "Mini avatar switcher and pill tab bar"
+  ],
+  "bestFor": [
+    "Persona slides",
+    "Minimal case-study documentation",
+    "Research-to-design storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Concentric circles",
+      "definition": "Circles sharing a centre used to nest information."
+    },
+    {
+      "term": "Pain/gain",
+      "definition": "Paired blocks describing frustrations and benefits."
+    },
+    {
+      "term": "Cut-out portrait",
+      "definition": "A person masked from the background."
+    }
+  ]
+}

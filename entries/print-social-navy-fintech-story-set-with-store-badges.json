@@ -1,0 +1,44 @@
+{
+  "name": "print-social-navy-fintech-story-set-with-store-badges",
+  "image": "images/print-social-navy-fintech-story-set-with-store-badges.jpg",
+  "discipline": "print-social",
+  "designType": "Story set",
+  "title": "Navy Fintech Story Set with Store Badges",
+  "tags": [
+    "stories",
+    "fintech",
+    "sky",
+    "card",
+    "glass-coin",
+    "store-badges",
+    "blue"
+  ],
+  "whatItIs": "Three vertical stories: a woman with headphones under a cloudy sky, a translucent blue card, and a glass dollar orb, each with a centred navy headline and the App Store and Google Play badges.",
+  "whatItMeans": "Airy pastel blues make finance feel light, and repeated headline and badge positions make the set cohesive.",
+  "techniques": [
+    "Consistent story chrome and headline position",
+    "One hero object per story (person, card, orb)",
+    "Store badges anchored at the bottom",
+    "Blur and pearlescent glass rendering for objects",
+    "Blue gradient washes from the sky to white"
+  ],
+  "bestFor": [
+    "App install campaigns",
+    "Fintech social stories",
+    "Product launch story sets"
+  ],
+  "vocabulary": [
+    {
+      "term": "Store badge",
+      "definition": "Official App Store or Google Play download buttons."
+    },
+    {
+      "term": "Glass orb",
+      "definition": "A translucent sphere rendered with refraction."
+    },
+    {
+      "term": "Story set",
+      "definition": "A sequence of vertical stories designed together."
+    }
+  ]
+}

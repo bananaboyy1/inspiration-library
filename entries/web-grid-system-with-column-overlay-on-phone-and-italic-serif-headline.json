@@ -1,0 +1,44 @@
+{
+  "name": "web-grid-system-with-column-overlay-on-phone-and-italic-serif-headline",
+  "image": "images/web-grid-system-with-column-overlay-on-phone-and-italic-serif-headline.jpg",
+  "discipline": "web",
+  "designType": "Design system documentation",
+  "title": "Grid System Columns over a Phone",
+  "tags": [
+    "grid-system",
+    "columns",
+    "fintech",
+    "serif-italic",
+    "overlay",
+    "spec",
+    "navy"
+  ],
+  "whatItIs": "A pale page with a Grid System pill and a headline mixing light sans and bold italic serif, and a tall phone with translucent grey column bars over the screen, dimensions in italic serif above and below.",
+  "whatItMeans": "Overlaying columns on a real screen makes the grid tangible, and italic serif measurements feel refined.",
+  "techniques": [
+    "Translucent column bars over a real screen",
+    "Measurements in italic serif",
+    "Blue-grey gradient fading up from the phone base",
+    "Centred layout on a white page",
+    "Mixed-weight headline"
+  ],
+  "bestFor": [
+    "Grid and layout documentation",
+    "Fintech design systems",
+    "Explaining responsive columns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column overlay",
+      "definition": "Semi-transparent bars showing layout columns over a design."
+    },
+    {
+      "term": "Margin and gutter",
+      "definition": "Outer space and space between columns."
+    },
+    {
+      "term": "Italic spec",
+      "definition": "Measurements set in italic type."
+    }
+  ]
+}

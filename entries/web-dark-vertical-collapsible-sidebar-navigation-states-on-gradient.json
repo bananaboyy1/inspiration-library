@@ -1,0 +1,45 @@
+{
+  "name": "web-dark-vertical-collapsible-sidebar-navigation-states-on-gradient",
+  "image": "images/web-dark-vertical-collapsible-sidebar-navigation-states-on-gradient.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Collapsible Dark Sidebar States on Gradient",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "dark",
+    "collapsible",
+    "gradient",
+    "purple",
+    "mint",
+    "states"
+  ],
+  "whatItIs": "Five black vertical sidebar states on a purple-to-mint gradient: a collapsed icon rail, one with a flyout submenu on hover, one with a profile pill expanding from the avatar, and two expanded with a white Admin panel of grouped links with an active blue item and an Expand Navigation tooltip.",
+  "whatItMeans": "Showing each state in order documents the interaction, and the vivid gradient makes the dark rail pop.",
+  "techniques": [
+    "Rail that expands into a white panel",
+    "Hover flyout submenu on an icon",
+    "Profile pill sliding out of the avatar",
+    "Grouped nav sections with small caps headings",
+    "Cursor icons showing interaction"
+  ],
+  "bestFor": [
+    "Navigation interaction documentation",
+    "Admin dashboards",
+    "Collapsible sidebars"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon rail",
+      "definition": "A narrow vertical bar of icons."
+    },
+    {
+      "term": "Flyout menu",
+      "definition": "A submenu that appears beside an item on hover."
+    },
+    {
+      "term": "Expand state",
+      "definition": "The widened version of a collapsed navigation."
+    }
+  ]
+}

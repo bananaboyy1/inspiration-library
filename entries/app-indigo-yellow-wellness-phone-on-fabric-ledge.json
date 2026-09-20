@@ -1,0 +1,44 @@
+{
+  "name": "app-indigo-yellow-wellness-phone-on-fabric-ledge",
+  "image": "images/app-indigo-yellow-wellness-phone-on-fabric-ledge.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Indigo Wellness Tracker on Lilac Fabric",
+  "tags": [
+    "indigo",
+    "yellow",
+    "donut-chart",
+    "wellness",
+    "fabric",
+    "stripes",
+    "tilted"
+  ],
+  "whatItIs": "A tilted indigo phone showing a medication adherence donut chart with a yellow plus button, standing on a lilac fabric ramp against vertical stripes of navy, indigo, yellow and white.",
+  "whatItMeans": "Colour blocks behind the device match the app palette so the scene feels like part of the brand.",
+  "techniques": [
+    "Vertical colour stripes echoing the palette",
+    "Textured fabric ledge for tactility",
+    "Donut chart as the hero data",
+    "Yellow as sole warm accent",
+    "Device tilted with a soft shadow"
+  ],
+  "bestFor": [
+    "Wellness and medication apps",
+    "Brand-matched device scenes",
+    "Colour-block hero images"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour stripes",
+      "definition": "Vertical bands of brand colours behind a subject."
+    },
+    {
+      "term": "Donut chart",
+      "definition": "A ring chart showing proportions."
+    },
+    {
+      "term": "Fabric ledge",
+      "definition": "A textile surface used as a stage."
+    }
+  ]
+}

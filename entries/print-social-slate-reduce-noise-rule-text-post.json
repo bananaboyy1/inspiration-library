@@ -1,0 +1,44 @@
+{
+  "name": "print-social-slate-reduce-noise-rule-text-post",
+  "image": "images/print-social-slate-reduce-noise-rule-text-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Reduce Noise Rule Post",
+  "tags": [
+    "educational",
+    "rule",
+    "slate",
+    "cream",
+    "text-only",
+    "minimal",
+    "condensed"
+  ],
+  "whatItIs": "A slate-blue text-only slide, Rule 5 Reduce Noise, with a condensed uppercase label, a large light statement and a list of what to reduce, in cream.",
+  "whatItMeans": "The slide practises what it says: it is nearly empty, using type alone.",
+  "techniques": [
+    "Only type and two colours, no graphics",
+    "Condensed caps label above light sentence",
+    "Generous negative space",
+    "Small page number top right",
+    "Series consistency with the other rule slides"
+  ],
+  "bestFor": [
+    "Design principle carousels",
+    "Minimal educational posts",
+    "Series slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type-only slide",
+      "definition": "A slide with no imagery, relying on typography."
+    },
+    {
+      "term": "Negative space",
+      "definition": "Empty space that gives content room."
+    },
+    {
+      "term": "Rule series",
+      "definition": "Numbered slides each stating one principle."
+    }
+  ]
+}

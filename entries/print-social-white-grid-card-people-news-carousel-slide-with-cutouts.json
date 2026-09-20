@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-grid-card-people-news-carousel-slide-with-cutouts",
+  "image": "images/print-social-white-grid-card-people-news-carousel-slide-with-cutouts.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "People News Slide with Cut-Out Team Photos",
+  "tags": [
+    "carousel",
+    "white",
+    "grid-paper",
+    "cutouts",
+    "script-labels",
+    "arrows",
+    "team"
+  ],
+  "whatItIs": "A portrait carousel slide on a stacked grid-paper card with a blue 'Company news' back link, a large 'People' heading, two icon bullets about new hires and an anniversary, cut-out portraits of team members and small circle portraits with handwritten names and curved arrows, and a Workshops link.",
+  "whatItMeans": "Cut-out people with handwritten labels make company news feel personal and lively.",
+  "techniques": [
+    "Cut-out photos overlapping the card edge",
+    "Handwritten names with curved arrows",
+    "Circle portraits and large bust portraits mixed",
+    "Icon bullets in blue tiles",
+    "Series chrome with slide counter and tags"
+  ],
+  "bestFor": [
+    "Company news and HR carousels",
+    "Team announcements",
+    "Series-based LinkedIn content"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cut-out portrait",
+      "definition": "A person masked from their background."
+    },
+    {
+      "term": "Handwritten label",
+      "definition": "A script-style name with a hand-drawn arrow."
+    },
+    {
+      "term": "Series chrome",
+      "definition": "Repeated header and footer elements across slides."
+    }
+  ]
+}

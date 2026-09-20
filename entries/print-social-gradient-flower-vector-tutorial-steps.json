@@ -1,0 +1,44 @@
+{
+  "name": "print-social-gradient-flower-vector-tutorial-steps",
+  "image": "images/print-social-gradient-flower-vector-tutorial-steps.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Gradient Flower Illustration Tutorial",
+  "tags": [
+    "tutorial",
+    "steps",
+    "gradient",
+    "flower",
+    "vector",
+    "dark",
+    "how-to"
+  ],
+  "whatItIs": "A six-step tutorial on charcoal showing how a glowing orange-red flower is built: half hexagon, corner radius, nested scaled copies, masked blur, leaf shapes, and the finished flower with vines.",
+  "whatItMeans": "Big faint step numbers and simple shapes make craft approachable. The glowing finished piece rewards the reader.",
+  "techniques": [
+    "Oversized ghost numerals as step markers",
+    "Layout of six equal cells with progressive complexity",
+    "Parameter labels (radius, colors, blur) under each step",
+    "Finished result at full saturation as the payoff",
+    "Vines framing the corners"
+  ],
+  "bestFor": [
+    "Design tutorials and process posts",
+    "Illustration and icon designers",
+    "Educational carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Step numeral",
+      "definition": "A large faded number marking each stage of a process."
+    },
+    {
+      "term": "Masked blur",
+      "definition": "A blur limited to a shape to create soft glowing color."
+    },
+    {
+      "term": "Payoff frame",
+      "definition": "The final polished result shown last and most vividly."
+    }
+  ]
+}

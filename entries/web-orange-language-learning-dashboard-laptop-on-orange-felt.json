@@ -1,0 +1,44 @@
+{
+  "name": "web-orange-language-learning-dashboard-laptop-on-orange-felt",
+  "image": "images/web-orange-language-learning-dashboard-laptop-on-orange-felt.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Orange Learning Dashboard on Orange Felt",
+  "tags": [
+    "laptop",
+    "orange",
+    "dark-ui",
+    "felt",
+    "education",
+    "dashboard",
+    "tilted"
+  ],
+  "whatItIs": "A tilted laptop on orange felt showing a dark learning dashboard with progress hero, orange and white lesson cards, module list and a scheduled sessions panel.",
+  "whatItMeans": "Matching the orange felt to the UI accent makes the scene feel intentional, and the dark UI makes cards pop.",
+  "techniques": [
+    "Textured felt in the brand colour",
+    "Dark UI with orange highlight cards",
+    "Line-illustrated lesson cards",
+    "Angled laptop and crop",
+    "Sidebar with a mascot upgrade card"
+  ],
+  "bestFor": [
+    "Learning platforms",
+    "Dark dashboard mockups",
+    "Brand-colour scene matching"
+  ],
+  "vocabulary": [
+    {
+      "term": "Brand-colour scene",
+      "definition": "A setting whose colour matches the brand accent."
+    },
+    {
+      "term": "Lesson card",
+      "definition": "A card representing a lesson with an illustration."
+    },
+    {
+      "term": "Upgrade card",
+      "definition": "A sidebar card promoting a paid plan."
+    }
+  ]
+}

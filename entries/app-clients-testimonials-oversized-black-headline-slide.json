@@ -1,0 +1,44 @@
+{
+  "name": "app-clients-testimonials-oversized-black-headline-slide",
+  "image": "images/app-clients-testimonials-oversized-black-headline-slide.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Clients Testimonials Oversized Headline",
+  "tags": [
+    "testimonial",
+    "white",
+    "black",
+    "oversized-type",
+    "avatar",
+    "minimal",
+    "quote"
+  ],
+  "whatItIs": "A white slide with a huge black two-line 'Clients Testimonials' at top left and, at the lower right, a paragraph quote with a small avatar, name and title at the left.",
+  "whatItMeans": "Very large heavy type against a small quote gives a strong hierarchy and an editorial feel.",
+  "techniques": [
+    "Giant heavy headline as the main graphic",
+    "Small quote paragraph placed low right",
+    "Tiny avatar with name at the opposite side",
+    "Only black on white",
+    "Extreme scale contrast"
+  ],
+  "bestFor": [
+    "Testimonial slides",
+    "Editorial case-study pages",
+    "Typographic layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scale contrast",
+      "definition": "Placing very large and very small text together."
+    },
+    {
+      "term": "Diagonal balance",
+      "definition": "Elements at opposite corners balancing the layout."
+    },
+    {
+      "term": "Testimonial slide",
+      "definition": "A slide presenting a client's words."
+    }
+  ]
+}

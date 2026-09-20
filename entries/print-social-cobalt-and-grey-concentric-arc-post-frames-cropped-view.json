@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cobalt-and-grey-concentric-arc-post-frames-cropped-view",
+  "image": "images/print-social-cobalt-and-grey-concentric-arc-post-frames-cropped-view.png",
+  "discipline": "print-social",
+  "designType": "Feed mockup",
+  "title": "Cobalt Arc Post Frames (Cropped View)",
+  "tags": [
+    "instagram-frames",
+    "cobalt",
+    "grey",
+    "concentric-arcs",
+    "ring-logo",
+    "template",
+    "cropped"
+  ],
+  "whatItIs": "A cropped screenshot of the same four Instagram frames: a cobalt post with a white headline over concentric arcs, a grey post with fine arcs, a split post with a phone photo above a cobalt band and a grey post with a big cobalt half-disc holding a ring logo, labelled 'Image not included'.",
+  "whatItMeans": "A single circle motif in two colours gives four different layouts one consistent identity.",
+  "techniques": [
+    "Concentric arc motif across posts",
+    "Cobalt and grey as the only colours",
+    "Ring logo repeated in each post",
+    "Real Instagram frame chrome",
+    "Light sans headlines"
+  ],
+  "bestFor": [
+    "Minimal social template previews",
+    "Blue and grey business posts",
+    "Motif-driven post systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Arc motif",
+      "definition": "Concentric curves used as a signature pattern."
+    },
+    {
+      "term": "Placeholder image note",
+      "definition": "A caption stating that a photo is not part of the template."
+    },
+    {
+      "term": "Post chrome",
+      "definition": "The platform's header and action icons around a post."
+    }
+  ]
+}

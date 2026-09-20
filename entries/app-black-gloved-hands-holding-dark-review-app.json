@@ -1,0 +1,45 @@
+{
+  "name": "app-black-gloved-hands-holding-dark-review-app",
+  "image": "images/app-black-gloved-hands-holding-dark-review-app.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Gloved Hands Holding Dark Review App",
+  "tags": [
+    "dark",
+    "teal",
+    "hands",
+    "gloves",
+    "3d",
+    "reviews",
+    "metadata",
+    "grid"
+  ],
+  "whatItIs": "A dark cover with black-gloved hands holding a phone showing a location reviews app with teal highlights, faint grid, and a small meta block (platform, category, role) at top right.",
+  "whatItMeans": "Everything is black-on-black with one teal glow, giving a sleek, stealthy, premium feel. The metadata row reads like a spec plate.",
+  "techniques": [
+    "Render hands in the same black as the background so only the glowing screen stands out",
+    "Teal glow as the only colour",
+    "Faint background grid for a technical feel",
+    "Small metadata columns in a corner",
+    "Symmetrical central device"
+  ],
+  "bestFor": [
+    "Dark UI portfolio covers",
+    "Discovery and review apps",
+    "Premium tech presentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tone-on-tone",
+      "definition": "Using near-identical dark values to hide everything but the focal point."
+    },
+    {
+      "term": "Meta block",
+      "definition": "Small labeled fields listing platform, category and role."
+    },
+    {
+      "term": "Screen glow",
+      "definition": "Light emanating from a device display."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-red-fashion-site-on-monitor-with-model-on-chair",
+  "image": "images/web-red-fashion-site-on-monitor-with-model-on-chair.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Red Fashion Site with Model on Chair",
+  "tags": [
+    "fashion",
+    "monitor",
+    "model",
+    "chair",
+    "red",
+    "ghost-type",
+    "photo-composite"
+  ],
+  "whatItIs": "A cover with a pale grey ground, a monitor showing a deep red fashion website, a model in a pale suit seated on a chrome chair in front of it, and giant faint 'Dressiva' lettering across the top.",
+  "whatItMeans": "The model in front of the screen ties the site to the brand's fashion world, and the deep red screen glows against the pale room.",
+  "techniques": [
+    "Real model composited in front of the monitor",
+    "Deep red site as the colour anchor",
+    "Pale wardrobe against a red screen",
+    "Ghost brand name across the top",
+    "Chrome furniture as a styling prop"
+  ],
+  "bestFor": [
+    "Fashion e-commerce websites",
+    "Website covers with people",
+    "Editorial-feeling mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Composite mockup",
+      "definition": "A device and a person photo combined in one scene."
+    },
+    {
+      "term": "Tonal contrast",
+      "definition": "A pale subject set against a dark saturated field."
+    },
+    {
+      "term": "Styling prop",
+      "definition": "A furniture item chosen to support the mood."
+    }
+  ]
+}

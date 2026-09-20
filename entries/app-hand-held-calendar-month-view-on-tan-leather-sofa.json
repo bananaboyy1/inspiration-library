@@ -1,0 +1,44 @@
+{
+  "name": "app-hand-held-calendar-month-view-on-tan-leather-sofa",
+  "image": "images/app-hand-held-calendar-month-view-on-tan-leather-sofa.png",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Month Calendar in Hand on Tan Leather",
+  "tags": [
+    "calendar",
+    "month-view",
+    "hand",
+    "leather",
+    "tan",
+    "navy",
+    "dash-markers"
+  ],
+  "whatItIs": "A lifestyle crop of a hand holding a phone with a cream month calendar showing coloured dash markers under dates, a Day/Week/Month toggle and a floating blue Calendar tab, against navy trousers and a tan quilted leather sofa.",
+  "whatItMeans": "Warm neutral surroundings match the cream UI, and coloured dashes add subtle life to a grid.",
+  "techniques": [
+    "Coloured dash markers under dates",
+    "Blue selected tab as the single cool accent",
+    "Natural lifestyle setting with warm leather",
+    "Segmented Day/Week/Month toggle",
+    "Tilted phone in a relaxed grip"
+  ],
+  "bestFor": [
+    "Calendar and planner apps",
+    "Lifestyle mockups",
+    "Warm-toned interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dash marker",
+      "definition": "A short coloured line under a date showing an event."
+    },
+    {
+      "term": "Segmented toggle",
+      "definition": "A joined set of options with one selected."
+    },
+    {
+      "term": "Lifestyle mockup",
+      "definition": "A device shown in real everyday use."
+    }
+  ]
+}

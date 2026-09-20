@@ -1,0 +1,44 @@
+{
+  "name": "app-ai-assistant-long-scroll-case-study-blue-sky",
+  "image": "images/app-ai-assistant-long-scroll-case-study-blue-sky.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "AI Assistant Long-Scroll Case Study",
+  "tags": [
+    "ai",
+    "case-study",
+    "blue",
+    "dandelion",
+    "long-scroll",
+    "voice",
+    "assistant"
+  ],
+  "whatItIs": "A very tall case study strip: dark colour palette header, then alternating photo-backed blocks with dandelion and sky imagery, phone screens, chart close-ups and tablet views for a voice-first AI assistant.",
+  "whatItMeans": "Airy nature photography softens the AI theme, with glassy blue UI floating over it for a calm, breathable brand.",
+  "techniques": [
+    "Nature photo backgrounds behind glassy phone UI",
+    "Alternating dark text tiles with image tiles",
+    "Consistent blue palette introduced in the first block",
+    "Close-up hand and screen for scale",
+    "Vertical rhythm through varied tile heights"
+  ],
+  "bestFor": [
+    "AI and voice assistant case studies",
+    "Long-form portfolio pages",
+    "Products wanting a calm, natural tone"
+  ],
+  "vocabulary": [
+    {
+      "term": "Long scroll",
+      "definition": "A single tall image or page presenting a full case study."
+    },
+    {
+      "term": "Photo-backed UI",
+      "definition": "Interface shown on top of a photographic background."
+    },
+    {
+      "term": "Glass UI",
+      "definition": "Translucent blurred surfaces in an interface."
+    }
+  ]
+}

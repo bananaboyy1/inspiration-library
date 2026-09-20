@@ -1,0 +1,44 @@
+{
+  "name": "print-social-grey-paper-mvp-home-dashboard-screen-post",
+  "image": "images/print-social-grey-paper-mvp-home-dashboard-screen-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "MVP Guide Home Dashboard Post",
+  "tags": [
+    "educational",
+    "mvp",
+    "grey",
+    "condensed",
+    "phone",
+    "orange",
+    "dashboard"
+  ],
+  "whatItIs": "A grainy grey post in a series with a tall condensed 'HOME / DASHBOARD' heading, orange subhead, explanatory copy and an orange-bezel phone showing a product home screen.",
+  "whatItMeans": "The repeated layout makes a series easy to follow and the phone illustrates the advice instantly.",
+  "techniques": [
+    "Series template: same header, subhead and phone placement each slide",
+    "Condensed heavy caps for the title",
+    "Orange subhead and bezel as unifying accent",
+    "Left text and right device balance",
+    "Footer creator card and save prompt"
+  ],
+  "bestFor": [
+    "Multi-slide educational series",
+    "Product design creators",
+    "LinkedIn and Instagram carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series template",
+      "definition": "A repeatable layout used across slides."
+    },
+    {
+      "term": "Subhead accent",
+      "definition": "A coloured line under the title summarising the point."
+    },
+    {
+      "term": "Creator footer",
+      "definition": "A bar with the author's avatar, handle and save prompt."
+    }
+  ]
+}

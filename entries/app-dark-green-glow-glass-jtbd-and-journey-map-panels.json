@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-green-glow-glass-jtbd-and-journey-map-panels",
+  "image": "images/app-dark-green-glow-glass-jtbd-and-journey-map-panels.png",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Glass Jobs-to-Be-Done and Journey Map Panels",
+  "tags": [
+    "jtbd",
+    "journey-map",
+    "dark",
+    "green-glow",
+    "glass",
+    "tilted",
+    "table"
+  ],
+  "whatItIs": "Two dark rounded panels with a lime-green glow rising from the base: at left a Jobs To Be Done heading with tilted frosted glass cards stating user needs, and at right a CJM heading with a tilted glass table of Stage, Goal and User Action rows, each with a short paragraph with phrases in brighter white.",
+  "whatItMeans": "Tilting glass cards and tables in 3D makes text-heavy research feel like an object, and the green glow adds atmosphere to a dark slide.",
+  "techniques": [
+    "Glass cards tilted in perspective",
+    "Green glow rising from the bottom corner",
+    "Bright key phrases inside a grey paragraph",
+    "Table rendered as a floating tilted sheet",
+    "Two equal dark panels side by side"
+  ],
+  "bestFor": [
+    "Research and journey documentation",
+    "Dark smart-home case studies",
+    "Text content presented as glass objects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Jobs to be done",
+      "definition": "A framework describing what users want to achieve in a situation."
+    },
+    {
+      "term": "Customer journey map (CJM)",
+      "definition": "A table of stages, goals and actions over a user's experience."
+    },
+    {
+      "term": "Tilted glass",
+      "definition": "Translucent panels rotated in perspective."
+    }
+  ]
+}

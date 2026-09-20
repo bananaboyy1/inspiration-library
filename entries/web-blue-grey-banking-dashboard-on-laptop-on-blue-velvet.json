@@ -1,0 +1,44 @@
+{
+  "name": "web-blue-grey-banking-dashboard-on-laptop-on-blue-velvet",
+  "image": "images/web-blue-grey-banking-dashboard-on-laptop-on-blue-velvet.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Frosted Banking Dashboard on Blue Velvet",
+  "tags": [
+    "laptop",
+    "dashboard",
+    "frosted",
+    "blue-grey",
+    "velvet",
+    "cursor",
+    "banking"
+  ],
+  "whatItIs": "A laptop tilted on a ribbed blue velvet cushion against a pale blue wall, showing a frosted banking dashboard with balance, quick actions, transactions, upcoming bills, an earning chart, send money form and a credit card, with a mouse cursor nearby.",
+  "whatItMeans": "The blue velvet matches the UI's blue and adds tactile richness, and frosted cards keep the data calm.",
+  "techniques": [
+    "Ribbed velvet as a stage matched to the palette",
+    "Frosted white cards over a blue-grey wash",
+    "Laptop cropped by the frame edge",
+    "Cursor arrow implying interactivity",
+    "Pale blue wall backdrop"
+  ],
+  "bestFor": [
+    "Banking dashboard presentations",
+    "Tonal mockup scenes",
+    "Frosted glass desktop UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal stage",
+      "definition": "A set whose colour matches the interface."
+    },
+    {
+      "term": "Frosted card",
+      "definition": "A translucent blurred card."
+    },
+    {
+      "term": "Cursor prop",
+      "definition": "A pointer graphic added to imply interaction."
+    }
+  ]
+}

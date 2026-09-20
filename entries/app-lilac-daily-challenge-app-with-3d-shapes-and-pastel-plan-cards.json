@@ -1,0 +1,44 @@
+{
+  "name": "app-lilac-daily-challenge-app-with-3d-shapes-and-pastel-plan-cards",
+  "image": "images/app-lilac-daily-challenge-app-with-3d-shapes-and-pastel-plan-cards.jpg",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Lilac Daily Challenge App with 3D Shapes",
+  "tags": [
+    "fitness",
+    "lilac",
+    "3d-shapes",
+    "pastel-cards",
+    "date-strip",
+    "yoga",
+    "phone"
+  ],
+  "whatItIs": "A lilac page with a phone showing 'Hello, Sandra', a purple Daily challenge card with 3D orange, yellow and grey shapes, a pill date strip with Wed selected in black, Your plan cards (orange Yoga Group, blue Balance with 3D stones, pink social icons) and a pill tab bar, with a footer band and website.",
+  "whatItMeans": "Bright 3D toy-like shapes and pastel cards make fitness feel playful, and the pill date strip is a friendly detail.",
+  "techniques": [
+    "3D toy shapes as card illustrations",
+    "Pill-shaped date strip with one black selected day",
+    "Pastel card colours by class type",
+    "Black pill tab bar with a white active button",
+    "Lilac page and a darker footer band"
+  ],
+  "bestFor": [
+    "Fitness and class booking apps",
+    "Playful pastel UI",
+    "3D illustration in mobile cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Date strip",
+      "definition": "A row of day pills with the current day highlighted."
+    },
+    {
+      "term": "Toy shapes",
+      "definition": "Chunky rounded 3D objects used as illustration."
+    },
+    {
+      "term": "Plan card",
+      "definition": "A colour-coded card for a scheduled activity."
+    }
+  ]
+}

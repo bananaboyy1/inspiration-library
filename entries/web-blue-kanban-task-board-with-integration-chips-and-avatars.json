@@ -1,0 +1,45 @@
+{
+  "name": "web-blue-kanban-task-board-with-integration-chips-and-avatars",
+  "image": "images/web-blue-kanban-task-board-with-integration-chips-and-avatars.webp",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Blue Kanban Task Board",
+  "tags": [
+    "kanban",
+    "tasks",
+    "blue",
+    "white",
+    "cards",
+    "avatars",
+    "integrations",
+    "sidebar"
+  ],
+  "whatItIs": "A white app window with a sidebar (menu and messaging integrations, dark mode toggle), a Tasks header with table, list and kanban tabs, an avatar stack and a blue Create Task button, and four columns (To Do, In Progress, In Review, Done) of cards with dates, source-app chips and avatar stacks, some with image covers.",
+  "whatItMeans": "Colour-coded column titles and source chips make a busy board scannable, and one blue accent keeps it clean.",
+  "techniques": [
+    "Column titles coloured by status",
+    "Source-app chips on each card",
+    "Avatar stacks with a +N count",
+    "Image covers on selected cards",
+    "Active sidebar item as a blue filled pill"
+  ],
+  "bestFor": [
+    "Task and project management UI",
+    "Kanban board patterns",
+    "Team collaboration dashboards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Kanban",
+      "definition": "A board with columns showing task status."
+    },
+    {
+      "term": "Source chip",
+      "definition": "A small label showing which app a task came from."
+    },
+    {
+      "term": "Avatar stack",
+      "definition": "Overlapping avatars with a remainder count."
+    }
+  ]
+}

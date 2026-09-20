@@ -1,0 +1,44 @@
+{
+  "name": "web-industrial-mobile-site-phone-on-steel-frame-thumbnail",
+  "image": "images/web-industrial-mobile-site-phone-on-steel-frame-thumbnail.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Industrial Mobile Site on Steel Frame (Small)",
+  "tags": [
+    "mobile-web",
+    "steel",
+    "grey",
+    "industrial",
+    "blue",
+    "isometric",
+    "cover"
+  ],
+  "whatItIs": "A phone lying on a brushed steel frame showing a mobile site with a Cyrillic headline about scrap-metal grapples, a photo card and a blue call-out card.",
+  "whatItMeans": "Cool metal surroundings match the heavy-industry subject, and the royal-blue card gives one confident accent.",
+  "techniques": [
+    "Product context reflected in the mockup material (metal)",
+    "Isometric angle with diagonal frame lines",
+    "Single saturated blue block on a white page",
+    "Large stacked headline with a smaller subtitle",
+    "Grey gradient studio background"
+  ],
+  "bestFor": [
+    "Industrial and B2B websites",
+    "Responsive design showcases",
+    "Case-study cover images"
+  ],
+  "vocabulary": [
+    {
+      "term": "Material matching",
+      "definition": "Choosing a scene material that reflects the subject."
+    },
+    {
+      "term": "Callout card",
+      "definition": "A coloured card on a photo carrying a short message."
+    },
+    {
+      "term": "Isometric angle",
+      "definition": "A three-quarter view with parallel lines on diagonals."
+    }
+  ]
+}

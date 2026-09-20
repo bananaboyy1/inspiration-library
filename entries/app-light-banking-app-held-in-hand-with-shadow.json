@@ -1,0 +1,44 @@
+{
+  "name": "app-light-banking-app-held-in-hand-with-shadow",
+  "image": "images/app-light-banking-app-held-in-hand-with-shadow.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Light Banking App in a Hand with Long Shadow",
+  "tags": [
+    "banking",
+    "light",
+    "hand",
+    "shadow",
+    "cover",
+    "logo",
+    "minimal"
+  ],
+  "whatItIs": "A cover with a hand holding a phone showing a pale banking home with a large balance, income card and quick-action avatars, against a soft grey wall with a cast shadow, with a title and logo at the corners.",
+  "whatItMeans": "Soft light and shadow make a quiet, premium mood, and the hand keeps it human.",
+  "techniques": [
+    "Natural window shadow across the wall",
+    "Pale grey UI matching the scene",
+    "Lilac cuff as a small colour note",
+    "Logo mark and title top-left",
+    "Diamond emblem bottom right"
+  ],
+  "bestFor": [
+    "Banking app covers",
+    "Soft lifestyle mockups",
+    "Case-study openers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cast shadow",
+      "definition": "A shadow thrown onto a wall or surface."
+    },
+    {
+      "term": "Quick actions",
+      "definition": "A row of shortcuts to common tasks."
+    },
+    {
+      "term": "Tonal UI",
+      "definition": "An interface in the same pale tones as its surroundings."
+    }
+  ]
+}

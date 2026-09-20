@@ -1,0 +1,44 @@
+{
+  "name": "web-white-sales-analytics-widget-board-with-gauge-and-charts",
+  "image": "images/web-white-sales-analytics-widget-board-with-gauge-and-charts.jpg",
+  "discipline": "web",
+  "designType": "Data visualization",
+  "title": "Sales Analytics Widget Board",
+  "tags": [
+    "analytics",
+    "widgets",
+    "white",
+    "gauge",
+    "line-chart",
+    "hatch-bars",
+    "heatmap"
+  ],
+  "whatItIs": "A pale grey board of white dashboard cards: a segmented semicircle gauge with channel performance, an average sales line chart with a dark tooltip, recent activity product rows, a top-three bar chart with hatched bars and a visitor heat grid with dark cells.",
+  "whatItMeans": "Monochrome cards with one blue accent line make data feel clean, and varied chart shapes keep interest.",
+  "techniques": [
+    "Segmented gauge with fading dark to light petals",
+    "Hatched bars in graded greys",
+    "Dark tooltip on a light chart",
+    "Heat grid of dark and light squares",
+    "Blue as the only colour for a key line"
+  ],
+  "bestFor": [
+    "Dashboard widget showcases",
+    "Monochrome data visualisation",
+    "Sales and retail analytics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Petal gauge",
+      "definition": "A gauge made of rounded petal-like segments."
+    },
+    {
+      "term": "Heat grid",
+      "definition": "A grid of cells shaded by value."
+    },
+    {
+      "term": "Widget board",
+      "definition": "A collection of dashboard cards shown together."
+    }
+  ]
+}

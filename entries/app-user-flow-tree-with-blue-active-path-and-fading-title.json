@@ -1,0 +1,44 @@
+{
+  "name": "app-user-flow-tree-with-blue-active-path-and-fading-title",
+  "image": "images/app-user-flow-tree-with-blue-active-path-and-fading-title.png",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "User Flow Tree with Blue Active Path",
+  "tags": [
+    "user-flow",
+    "tree",
+    "blue",
+    "pills",
+    "fading-title",
+    "health",
+    "grey"
+  ],
+  "whatItIs": "A pale grey slide with a numbered User Flow pill, a headline fading from dark to light 'Simple, Seamless User Journey', a paragraph, and a left-to-right tree of pills where the main path (Welcome, Home, Dashboard, Distribution Overview) is outlined or filled in blue and other nodes are grey.",
+  "whatItMeans": "A blue path through grey nodes shows the happy path at a glance, and the fading title gives depth.",
+  "techniques": [
+    "Blue outlines and fills for the main path",
+    "Grey pills for secondary screens",
+    "Elbow connectors from a central hub",
+    "Headline fading line by line",
+    "Filled blue pills for the key destinations"
+  ],
+  "bestFor": [
+    "User flow documentation",
+    "Health-tech case studies",
+    "Highlighting a main route"
+  ],
+  "vocabulary": [
+    {
+      "term": "Happy path",
+      "definition": "The ideal route a user takes through a flow."
+    },
+    {
+      "term": "Hub node",
+      "definition": "A node from which several branches leave."
+    },
+    {
+      "term": "Fading headline",
+      "definition": "A headline whose lines lose contrast as they descend."
+    }
+  ]
+}

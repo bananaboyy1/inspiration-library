@@ -1,0 +1,44 @@
+{
+  "name": "branding-black-grotesk-type-scale-spec-page",
+  "image": "images/branding-black-grotesk-type-scale-spec-page.png",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Overused Grotesk Type Specimen on Black",
+  "tags": [
+    "typography",
+    "black",
+    "grotesk",
+    "specimen",
+    "fade",
+    "scale",
+    "white"
+  ],
+  "whatItIs": "A black page with a giant white 'Overused' above a dark grey 'Grotesk' fading away, then rows for heading, title and body samples with labels and sizes separated by hairlines.",
+  "whatItMeans": "The huge specimen makes the typeface the hero, and the fading second word adds depth.",
+  "techniques": [
+    "Giant specimen filling the width",
+    "Second line at very low contrast",
+    "Hairline-separated sample rows",
+    "Small caps role labels with right-aligned sizes",
+    "Only white and grey on black"
+  ],
+  "bestFor": [
+    "Typography documentation",
+    "Dark brand guidelines",
+    "Type specimens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Specimen",
+      "definition": "A large display of a typeface."
+    },
+    {
+      "term": "Role label",
+      "definition": "A small caption naming a text role like heading or body."
+    },
+    {
+      "term": "Fade line",
+      "definition": "A line set at very low contrast to recede."
+    }
+  ]
+}

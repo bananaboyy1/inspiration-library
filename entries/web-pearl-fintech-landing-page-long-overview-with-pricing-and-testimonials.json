@@ -1,0 +1,45 @@
+{
+  "name": "web-pearl-fintech-landing-page-long-overview-with-pricing-and-testimonials",
+  "image": "images/web-pearl-fintech-landing-page-long-overview-with-pricing-and-testimonials.jpg",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Pearl Fintech Landing Page Overview",
+  "tags": [
+    "fintech",
+    "pearl",
+    "serif",
+    "landing",
+    "pricing",
+    "testimonials",
+    "long-page",
+    "overview"
+  ],
+  "whatItIs": "A presentation of a long pearl-toned landing page for a finance app shown as two offset columns: a hero with a serif headline and a phone, trusted-by logos, about and stats, a feature grid, and at right a global services row, testimonial portraits, three-tier pricing, a phone download section with a QR code and a footer with a giant brand name.",
+  "whatItMeans": "Serif headlines and pearl gradients feel refined and calm for finance, and the overview shows every section at a glance.",
+  "techniques": [
+    "Serif headlines on a pearl gradient",
+    "Feature grid of soft glass cards",
+    "Portrait testimonial cards in a row",
+    "Three-tier pricing with a highlighted middle plan",
+    "Footer with a giant brand name over a photo"
+  ],
+  "bestFor": [
+    "Fintech landing page presentations",
+    "Premium finance marketing sites",
+    "Full-page overview boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Offset columns",
+      "definition": "Two page screenshots staggered in one presentation."
+    },
+    {
+      "term": "Feature grid",
+      "definition": "A grid of cards each describing a feature."
+    },
+    {
+      "term": "Giant footer wordmark",
+      "definition": "A brand name set enormous across a site footer."
+    }
+  ]
+}

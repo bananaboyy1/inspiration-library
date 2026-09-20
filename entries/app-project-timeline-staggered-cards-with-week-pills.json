@@ -1,0 +1,44 @@
+{
+  "name": "app-project-timeline-staggered-cards-with-week-pills",
+  "image": "images/app-project-timeline-staggered-cards-with-week-pills.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Staggered Project Timeline Cards",
+  "tags": [
+    "timeline",
+    "cards",
+    "blue",
+    "lilac",
+    "week-pills",
+    "dotted-arrows",
+    "grey"
+  ],
+  "whatItIs": "A grey slide titled Project Timeline with four alternating cards (Research, UI/UX Design, Prototype & Test, Final Delivery), each with a vertical rounded duration pill, an icon, a description and dotted elbow arrows leading to the next.",
+  "whatItMeans": "Alternating blue and lilac cards with arrows make sequence and duration clear at a glance.",
+  "techniques": [
+    "Cards stepping left and right down the page",
+    "Vertical duration pills in blue and lilac",
+    "Dotted elbow arrows between cards",
+    "Small icon in a white circle per card",
+    "Header with numbered title and tag list"
+  ],
+  "bestFor": [
+    "Project timelines",
+    "Process summaries",
+    "Duration-based workflow slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Duration pill",
+      "definition": "A vertical rounded label showing how long a phase takes."
+    },
+    {
+      "term": "Elbow arrow",
+      "definition": "A right-angled dotted arrow linking cards."
+    },
+    {
+      "term": "Alternating layout",
+      "definition": "Items placed left then right to create a zigzag."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "app-blue-gradient-hand-held-phone-closing-banner",
+  "image": "images/app-blue-gradient-hand-held-phone-closing-banner.jpg",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Weekly Project Closing Banner",
+  "tags": [
+    "closing",
+    "blue",
+    "gradient",
+    "hand",
+    "cta",
+    "follow",
+    "phone",
+    "thanks"
+  ],
+  "whatItIs": "A wide closing banner with black-to-blue gradient, big bold sans 'We launch a new project weekly!' with 'weekly' in blue, a tilted Follow pill, a like button, and a hand holding a phone showing a travel app.",
+  "whatItMeans": "It ends the case study with a direct, upbeat call to follow. Floating social buttons make the ask visual.",
+  "techniques": [
+    "Tilted follow pill as a playful CTA",
+    "Blue-to-white gradient text for emphasis",
+    "3D like button floating in the space",
+    "Hand with phone anchoring the right",
+    "Dark-to-blue radial background"
+  ],
+  "bestFor": [
+    "Case study endings",
+    "Portfolio calls to action",
+    "Social follow prompts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Closing slide",
+      "definition": "The last frame of a case study with thanks and CTA."
+    },
+    {
+      "term": "Floating action",
+      "definition": "UI elements like Follow rendered as objects in the scene."
+    },
+    {
+      "term": "Gradient text",
+      "definition": "Type filled with a gradient rather than a flat color."
+    }
+  ]
+}

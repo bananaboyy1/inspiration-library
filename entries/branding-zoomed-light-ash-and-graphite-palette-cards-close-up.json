@@ -1,0 +1,44 @@
+{
+  "name": "branding-zoomed-light-ash-and-graphite-palette-cards-close-up",
+  "image": "images/branding-zoomed-light-ash-and-graphite-palette-cards-close-up.png",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Zoomed Light Ash and Graphite Swatch Cards",
+  "tags": [
+    "palette",
+    "close-up",
+    "ash",
+    "graphite",
+    "rounded-cards",
+    "hex-rgb",
+    "zoom"
+  ],
+  "whatItIs": "A zoomed-in view of the palette cards showing Light Ash in pale grey with an outline and Graphite Black in a warm cream card, each with a heavy name and hex and RGB values, over a dark page.",
+  "whatItMeans": "Zooming into a swatch shows how big rounded corners and heavy names make colour information legible.",
+  "techniques": [
+    "Very large rounded corners on swatches",
+    "Bold rounded sans names",
+    "Hex and RGB values aligned bottom-left",
+    "Soft outlines and shadows on light cards",
+    "Text colour switched to suit each swatch"
+  ],
+  "bestFor": [
+    "Colour card component references",
+    "Detail views of palette layouts",
+    "Rounded UI swatches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Swatch card",
+      "definition": "A rounded card showing a colour and its values."
+    },
+    {
+      "term": "Zoomed detail",
+      "definition": "An enlarged view of a small part of a layout."
+    },
+    {
+      "term": "Value block",
+      "definition": "A pair of hex and RGB lines under a name."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-white-crypto-wallet-home-and-convert-screens-with-black-floating-button",
+  "image": "images/app-white-crypto-wallet-home-and-convert-screens-with-black-floating-button.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "White Crypto Wallet with Floating Exchange Button",
+  "tags": [
+    "crypto",
+    "wallet",
+    "white",
+    "black",
+    "convert",
+    "floating-button",
+    "market-list"
+  ],
+  "whatItIs": "Two white phones on light grey: a wallet home with a balance card and sparkline, Deposit, Withdraw and Buy actions, and a crypto market list with green and red changes; and a Convert screen with sent and receive fields, a black Convert button, rate details and a history list, both with a raised black exchange button in the tab bar.",
+  "whatItMeans": "Clean white cards with black actions and semantic green and red make market data easy to scan.",
+  "techniques": [
+    "Raised black button in the tab bar for the main action",
+    "Small sparkline in the balance card",
+    "Green and red price changes",
+    "Two-field converter with a black CTA",
+    "Coin icons in their brand colours as the only colour"
+  ],
+  "bestFor": [
+    "Crypto wallet and exchange apps",
+    "Light minimal fintech UI",
+    "Convert and swap screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Raised tab button",
+      "definition": "A tab bar item lifted above the bar as the primary action."
+    },
+    {
+      "term": "Sparkline",
+      "definition": "A tiny line chart shown beside a figure."
+    },
+    {
+      "term": "Converter",
+      "definition": "A two-field form for exchanging one asset for another."
+    }
+  ]
+}

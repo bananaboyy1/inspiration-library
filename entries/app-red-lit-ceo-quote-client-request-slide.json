@@ -1,0 +1,44 @@
+{
+  "name": "app-red-lit-ceo-quote-client-request-slide",
+  "image": "images/app-red-lit-ceo-quote-client-request-slide.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Red-Lit CEO Quote Client Request",
+  "tags": [
+    "quote",
+    "portrait",
+    "red",
+    "dark",
+    "client-request",
+    "photography",
+    "cover"
+  ],
+  "whatItIs": "A dark red vignette slide with a small 'Client Request' label, a large white quote about traders needing simple data, a name and title, and a professional portrait lit in red at the right.",
+  "whatItMeans": "A red-graded portrait keeps the photo on-brand and gives the quote authority.",
+  "techniques": [
+    "Photo graded in the brand red",
+    "Large white quote left, portrait right",
+    "Small caption label top-left",
+    "Quote mark as a simple double bar",
+    "Rounded frame edges with dark vignette"
+  ],
+  "bestFor": [
+    "Client request slides",
+    "Testimonials",
+    "Fintech case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Client request",
+      "definition": "A slide summarising what the client asked for."
+    },
+    {
+      "term": "Brand grade",
+      "definition": "Colour grading a photo to the brand palette."
+    },
+    {
+      "term": "Vignette",
+      "definition": "Darkened edges of an image."
+    }
+  ]
+}

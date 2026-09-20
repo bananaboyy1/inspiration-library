@@ -1,0 +1,44 @@
+{
+  "name": "app-black-founder-quote-with-tilted-climate-phone",
+  "image": "images/app-black-founder-quote-with-tilted-climate-phone.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Founder Quote with Tilted Climate Phone",
+  "tags": [
+    "quote",
+    "black",
+    "lime",
+    "tilted-phone",
+    "fade",
+    "founder",
+    "smart-home"
+  ],
+  "whatItIs": "A black slide with a large quote in alternating white and grey words, a lime quote mark, a founder avatar and title, and a steeply tilted cream climate control phone fading into black at the base.",
+  "whatItMeans": "The fading phone and tone-shifting quote create depth, and the lime quote mark is the single accent.",
+  "techniques": [
+    "Words alternating bright and grey in a quote",
+    "Lime quotation mark as an accent",
+    "Phone rotated steeply and faded at the bottom",
+    "Avatar with name and role",
+    "Generous black space"
+  ],
+  "bestFor": [
+    "Founder or client quotes",
+    "Dark case-study slides",
+    "Combining testimony with product"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fade-out device",
+      "definition": "A device whose bottom dissolves into the background."
+    },
+    {
+      "term": "Tone-shift quote",
+      "definition": "A quotation with words at alternating brightness."
+    },
+    {
+      "term": "Accent quote mark",
+      "definition": "A quotation mark in the brand accent colour."
+    }
+  ]
+}

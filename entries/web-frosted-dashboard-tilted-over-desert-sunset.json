@@ -1,0 +1,44 @@
+{
+  "name": "web-frosted-dashboard-tilted-over-desert-sunset",
+  "image": "images/web-frosted-dashboard-tilted-over-desert-sunset.jpg",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Frosted Dashboard Tilted over Desert",
+  "tags": [
+    "dashboard",
+    "desert",
+    "sunset",
+    "frosted",
+    "serif",
+    "tilted",
+    "gold"
+  ],
+  "whatItIs": "A cream, frosted-glass analytics dashboard tilted steeply over a golden-hour desert photo, with a serif 'Explore your performance' banner, sidebar and product table.",
+  "whatItMeans": "Warm sky and dune tones make data feel calm and premium. The serif headline adds editorial warmth to a business tool.",
+  "techniques": [
+    "Frosted panel blending into a photo background",
+    "Serif headline inside a sans-serif UI",
+    "Steep perspective tilt with cropped edges",
+    "Yellow gradient banner echoing the sunset",
+    "Rounded nested cards with soft shadows"
+  ],
+  "bestFor": [
+    "Analytics and CRM products",
+    "Premium SaaS marketing images",
+    "Vertical story or Pinterest formats"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted panel",
+      "definition": "A translucent blurred surface showing the background."
+    },
+    {
+      "term": "Type pairing",
+      "definition": "Combining a serif and a sans-serif for contrast."
+    },
+    {
+      "term": "Perspective tilt",
+      "definition": "Rotating a flat UI in 3D space."
+    }
+  ]
+}

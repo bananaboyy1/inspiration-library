@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-anime-figure-seat-selection-with-brush-notes",
+  "image": "images/app-dark-anime-figure-seat-selection-with-brush-notes.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Dark Seat Selection with Anime Traveller",
+  "tags": [
+    "seat-map",
+    "dark",
+    "brush-notes",
+    "illustration",
+    "anime",
+    "tablet",
+    "travel"
+  ],
+  "whatItIs": "A dark slate slide with a torn white note 'Choose Your Perfect Seat', a dark phone showing an aircraft seat map with blue selected seats and a Confirm Seat button, an anime-style illustrated traveller in black holding a phone, a torn note 'How It Work?' and a tilted tablet peeking at the base.",
+  "whatItMeans": "An illustrated character adds personality to a dark UI, and torn notes give an informal, crafted feel.",
+  "techniques": [
+    "Anime character as a mascot",
+    "Torn white brush notes as headings",
+    "Dark UI with blue selected seats",
+    "Character overlapping a note edge",
+    "Tilted tablet cropped at the bottom"
+  ],
+  "bestFor": [
+    "Dark case-study slides",
+    "Booking flow explanations",
+    "UI plus illustration mixes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Seat map",
+      "definition": "A diagram of seats a user can choose."
+    },
+    {
+      "term": "Character mascot",
+      "definition": "An illustrated person representing the user."
+    },
+    {
+      "term": "Brush note",
+      "definition": "A rough painted shape holding text."
+    }
+  ]
+}

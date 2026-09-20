@@ -1,0 +1,44 @@
+{
+  "name": "web-orange-pet-store-homepage-with-deals-banner-and-product-row",
+  "image": "images/web-orange-pet-store-homepage-with-deals-banner-and-product-row.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Orange Pet Store Deals Homepage",
+  "tags": [
+    "pet-store",
+    "orange",
+    "cream",
+    "banner",
+    "categories",
+    "product-cards",
+    "friendly"
+  ],
+  "whatItIs": "A wide rounded store page on an orange curve with a header of logo, orange Deals button, search and icons, pet category pills, a big orange hero 'Special deals for happy pets' with a dog and product bags, two stacked Dogs and Cats photo tiles and a Popular row of product cards with Top Seller tags.",
+  "whatItMeans": "Warm orange and friendly pet photography feel cheerful and trustworthy, and cut-out products around the dog make the offer tangible.",
+  "techniques": [
+    "Orange hero banner with cut-out products and pet",
+    "Stacked category photo tiles beside the hero",
+    "Icon pills for pet categories",
+    "Small orange tags on product cards",
+    "White cards on a light grey ground"
+  ],
+  "bestFor": [
+    "Pet and retail e-commerce",
+    "Category-led storefronts",
+    "Orange and white brand systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Deals banner",
+      "definition": "A hero promoting discounts with a photo and CTA."
+    },
+    {
+      "term": "Category pill",
+      "definition": "A rounded label with an icon for browsing a category."
+    },
+    {
+      "term": "Top seller tag",
+      "definition": "A small label marking a popular product."
+    }
+  ]
+}

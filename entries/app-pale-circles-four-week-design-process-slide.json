@@ -1,0 +1,44 @@
+{
+  "name": "app-pale-circles-four-week-design-process-slide",
+  "image": "images/app-pale-circles-four-week-design-process-slide.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Four-Week Process in Overlapping Circles",
+  "tags": [
+    "process",
+    "circles",
+    "weeks",
+    "minimal",
+    "pale",
+    "serif-italic",
+    "timeline"
+  ],
+  "whatItIs": "A near-white slide with a two-typeface headline and four huge overlapping thin-line circles, each labelled with a week tag, a stage name (Discover, Define, Structure, Design) and a one-line description.",
+  "whatItMeans": "Overlapping circles suggest stages that build on one another. Hairline strokes keep it elegant.",
+  "techniques": [
+    "Giant hairline circles as containers for each stage",
+    "Small square nodes at the circle intersections",
+    "Week chips above each stage title",
+    "Light sans with italic serif emphasis in the headline",
+    "Circles cropped by the canvas edges"
+  ],
+  "bestFor": [
+    "Case-study process slides",
+    "Time-boxed project phases",
+    "Minimal editorial layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overlapping circles",
+      "definition": "Circles that intersect to show connected stages."
+    },
+    {
+      "term": "Node marker",
+      "definition": "A tiny square or dot on a line marking a point."
+    },
+    {
+      "term": "Week chip",
+      "definition": "A small label with a time range."
+    }
+  ]
+}

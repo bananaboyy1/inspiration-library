@@ -1,0 +1,43 @@
+{
+  "name": "print-social-slate-visual-hierarchy-primary-secondary-tertiary-post",
+  "image": "images/print-social-slate-visual-hierarchy-primary-secondary-tertiary-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Visual Hierarchy Primary Secondary Tertiary",
+  "tags": [
+    "educational",
+    "hierarchy",
+    "slate",
+    "type-scale",
+    "dots",
+    "minimal"
+  ],
+  "whatItIs": "A slate-blue slide, Rule 4 Visual Hierarchy, with a light heading and three words, Primary, Secondary and Tertiary, each smaller and paired with a solid, half-tone and outlined dot.",
+  "whatItMeans": "The slide is its own demonstration: the layout itself shows what hierarchy looks like through size and fill.",
+  "techniques": [
+    "Demonstrate the concept in the layout itself",
+    "Three sizes stepping down for three importance levels",
+    "Filled, half, empty dots as an importance scale",
+    "Condensed caps label above a light sentence",
+    "Two-colour palette of slate and cream"
+  ],
+  "bestFor": [
+    "Design-principle carousels",
+    "Teaching typography and hierarchy",
+    "Minimal slide-style posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Visual hierarchy",
+      "definition": "Ordering elements by importance using size, weight and contrast."
+    },
+    {
+      "term": "Self-demonstrating layout",
+      "definition": "A design that illustrates its own message."
+    },
+    {
+      "term": "Importance dots",
+      "definition": "Marks whose fill level signals priority."
+    }
+  ]
+}

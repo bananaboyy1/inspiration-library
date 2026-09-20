@@ -1,0 +1,44 @@
+{
+  "name": "app-lobed-circle-problem-solution-diagram-with-red-and-green-segments",
+  "image": "images/app-lobed-circle-problem-solution-diagram-with-red-and-green-segments.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Lobed Circle Problem and Solution Diagram",
+  "tags": [
+    "problem-solution",
+    "diagram",
+    "red",
+    "green",
+    "white",
+    "stats",
+    "grey"
+  ],
+  "whatItIs": "A light grey slide titled Problem & Solution with a paragraph, a white sphere-like circle with three lobed segments (two red numbered 01 and 02, one green 03), red and green connector lines to Problem 1 and 2 labels with percentages and a Solution heading and paragraph below.",
+  "whatItMeans": "A single circle with coloured lobes makes problems and the solution parts of one whole, and red versus green reads instantly.",
+  "techniques": [
+    "Lobed segments on a white circle as an infographic",
+    "Red for problems, green for the solution",
+    "Thin connector lines to pill labels",
+    "Percentages set beside each problem",
+    "Soft shadow and glow around the circle"
+  ],
+  "bestFor": [
+    "Problem and solution slides",
+    "Fintech case studies",
+    "Single-graphic explanations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lobed segment",
+      "definition": "A rounded tab shape that fits into a circle's edge."
+    },
+    {
+      "term": "Connector label",
+      "definition": "A pill linked by a thin line to a part of a graphic."
+    },
+    {
+      "term": "Colour semantics",
+      "definition": "Using red and green to signal negative and positive."
+    }
+  ]
+}

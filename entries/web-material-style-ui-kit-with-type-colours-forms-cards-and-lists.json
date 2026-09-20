@@ -1,0 +1,45 @@
+{
+  "name": "web-material-style-ui-kit-with-type-colours-forms-cards-and-lists",
+  "image": "images/web-material-style-ui-kit-with-type-colours-forms-cards-and-lists.webp",
+  "discipline": "web",
+  "designType": "Design system documentation",
+  "title": "Material-Style UI Kit Overview",
+  "tags": [
+    "ui-kit",
+    "material",
+    "typography",
+    "colours",
+    "forms",
+    "cards",
+    "lists",
+    "checkboxes"
+  ],
+  "whatItIs": "A pale board of white panels showing a UI kit: Inter headings H1 to H6, a colour palette (blue, green, red, yellow, magenta gradient), application bars, a news feed with a green nav bar, a checkout stepper, checkboxes and radios, buttons, form controls, cards in light and dark variants and menu and list items.",
+  "whatItMeans": "Showing every component category in tiles on one board gives a complete overview of the system in a familiar Material style.",
+  "techniques": [
+    "One panel per component category",
+    "Primary colours as coloured square swatches",
+    "Light and dark variants of cards",
+    "Stepper with numbered sections",
+    "Consistent panel size and radius"
+  ],
+  "bestFor": [
+    "Design-system overviews",
+    "UI kit previews",
+    "Material Design references"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type ramp",
+      "definition": "A list of heading and body styles from H1 downward."
+    },
+    {
+      "term": "Application bar",
+      "definition": "A bar at the top of a screen with title and actions."
+    },
+    {
+      "term": "Stepper",
+      "definition": "A component showing progress through numbered steps."
+    }
+  ]
+}

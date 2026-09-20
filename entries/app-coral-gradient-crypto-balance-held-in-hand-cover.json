@@ -1,0 +1,44 @@
+{
+  "name": "app-coral-gradient-crypto-balance-held-in-hand-cover",
+  "image": "images/app-coral-gradient-crypto-balance-held-in-hand-cover.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Coral Gradient Crypto Balance in Hand",
+  "tags": [
+    "coral",
+    "pink",
+    "crypto",
+    "hand",
+    "balance",
+    "ghost-type",
+    "cover"
+  ],
+  "whatItIs": "A cover with a hand holding a phone showing a coral-pink gradient balance card ($34,567.90), action buttons, asset tiles and a transaction row, over pale pink with ghost lettering behind.",
+  "whatItMeans": "A glowing coral card is the focal point and feels friendly and warm for crypto. The hand keeps it human.",
+  "techniques": [
+    "Gradient card with a soft mesh as the balance hero",
+    "Ghost lettering behind the device",
+    "Hand entering from the right",
+    "Pill buttons and small asset tiles below the card",
+    "Logo mark top left"
+  ],
+  "bestFor": [
+    "Crypto and wallet apps",
+    "Warm gradient fintech branding",
+    "Portfolio covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Balance card",
+      "definition": "A large card showing account value."
+    },
+    {
+      "term": "Mesh gradient",
+      "definition": "An organic multi-colour blend."
+    },
+    {
+      "term": "Asset tile",
+      "definition": "A small card for one holding, such as a coin."
+    }
+  ]
+}

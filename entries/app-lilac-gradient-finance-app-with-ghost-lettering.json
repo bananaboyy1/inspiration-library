@@ -1,0 +1,44 @@
+{
+  "name": "app-lilac-gradient-finance-app-with-ghost-lettering",
+  "image": "images/app-lilac-gradient-finance-app-with-ghost-lettering.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lilac Finance App with Ghost Lettering",
+  "tags": [
+    "lilac",
+    "finance",
+    "balance",
+    "bar-chart",
+    "ghost-type",
+    "thumbnail",
+    "clean"
+  ],
+  "whatItIs": "A cover with a phone showing a light finance home (large balance, action buttons, hatched bar chart) against a lilac-to-white gradient with huge faint 'FOLIO' lettering.",
+  "whatItMeans": "Soft violet and white feel calm and modern. Hatched bars are a light touch of texture in an otherwise airy screen.",
+  "techniques": [
+    "Ghost brand name behind the phone",
+    "Gradient fading to white toward the bottom",
+    "Hatched bars with one solid highlighted bar",
+    "Big balance figure with small cents",
+    "Pill action buttons in a row"
+  ],
+  "bestFor": [
+    "Personal finance apps",
+    "Case-study covers",
+    "Soft, friendly fintech branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched bar",
+      "definition": "A bar filled with fine lines to look lighter than solid."
+    },
+    {
+      "term": "Action row",
+      "definition": "A row of pill buttons for the main actions."
+    },
+    {
+      "term": "Fade to white",
+      "definition": "A gradient ending in white to blend into the page."
+    }
+  ]
+}

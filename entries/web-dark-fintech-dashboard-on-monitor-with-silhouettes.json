@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-fintech-dashboard-on-monitor-with-silhouettes",
+  "image": "images/web-dark-fintech-dashboard-on-monitor-with-silhouettes.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark Fintech Dashboard between Silhouettes",
+  "tags": [
+    "monitor",
+    "dashboard",
+    "dark",
+    "silhouettes",
+    "lime",
+    "lilac",
+    "charts"
+  ],
+  "whatItIs": "A grey studio scene with a monitor showing a black finance dashboard with lime and lilac widgets, framed by the silhouettes of two people at left and right and a hand on the keyboard.",
+  "whatItMeans": "Silhouettes frame the monitor like an audience, and the bright widgets glow against the dark.",
+  "techniques": [
+    "Dark silhouettes framing the subject",
+    "Lime and lilac accents on a dark UI",
+    "Monitor centred in a grey studio",
+    "Small keyboard hand for scale",
+    "Bento widgets of different chart types"
+  ],
+  "bestFor": [
+    "Dark dashboard covers",
+    "Fintech case studies",
+    "Framed monitor presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Framing silhouettes",
+      "definition": "Dark shapes at the frame edges that direct focus to the centre."
+    },
+    {
+      "term": "Bento widget",
+      "definition": "A dashboard tile with one visual."
+    },
+    {
+      "term": "Studio grey",
+      "definition": "A neutral grey backdrop used in product staging."
+    }
+  ]
+}

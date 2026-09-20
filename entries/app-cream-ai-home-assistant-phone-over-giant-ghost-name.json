@@ -1,0 +1,44 @@
+{
+  "name": "app-cream-ai-home-assistant-phone-over-giant-ghost-name",
+  "image": "images/app-cream-ai-home-assistant-phone-over-giant-ghost-name.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Cream AI Home Assistant over Ghost Name",
+  "tags": [
+    "ai-assistant",
+    "cream",
+    "ghost-type",
+    "gradient-arc",
+    "voice",
+    "chips",
+    "cover"
+  ],
+  "whatItIs": "A cream cover with a giant faint 'Niva' behind a phone showing 'How can I help you today?' with quick chip actions, a colourful blue-to-orange gradient arc and an ask field with a blue voice button, with upcoming activity cards below.",
+  "whatItMeans": "A warm gradient arc gives the assistant a friendly personality, and the cream palette stays calm.",
+  "techniques": [
+    "Ghost brand name behind the device",
+    "Blue-to-orange gradient arc as an assistant graphic",
+    "Suggestion chips above the input",
+    "Blue mic button as the sole cool accent",
+    "Cream page and UI for warmth"
+  ],
+  "bestFor": [
+    "AI assistant and family apps",
+    "Soft cream covers",
+    "Conversational UI presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Suggestion chip",
+      "definition": "A tappable pill offering a prompt."
+    },
+    {
+      "term": "Gradient arc",
+      "definition": "A curved band of blended colour used as decoration."
+    },
+    {
+      "term": "Ghost name",
+      "definition": "Oversized faint brand text behind a subject."
+    }
+  ]
+}

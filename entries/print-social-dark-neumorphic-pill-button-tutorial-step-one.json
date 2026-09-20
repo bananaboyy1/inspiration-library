@@ -1,0 +1,44 @@
+{
+  "name": "print-social-dark-neumorphic-pill-button-tutorial-step-one",
+  "image": "images/print-social-dark-neumorphic-pill-button-tutorial-step-one.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Create a Rectangle Neumorphic Pill Tutorial",
+  "tags": [
+    "tutorial",
+    "dark",
+    "neumorphic",
+    "effects",
+    "step-01",
+    "figma",
+    "panels"
+  ],
+  "whatItIs": "A charcoal tutorial post with a glowing number bubble 01, an italic title 'Create a Rectangle', instructions, a dark pill shape and three floating effect panels (inner shadow and drop shadow values) linked to it, and a rounded footer bar promoting an asset bundle.",
+  "whatItMeans": "Showing actual property values beside the shape makes the recipe reproducible, and monochrome keeps attention on the effect.",
+  "techniques": [
+    "Glowing number bubble as a step marker",
+    "Property panels floating around the subject",
+    "Inner and drop shadows to make a soft raised pill",
+    "Italic headline for a dynamic feel",
+    "Footer bar with link and offer"
+  ],
+  "bestFor": [
+    "UI effect tutorials",
+    "Neumorphic and soft UI lessons",
+    "Asset bundle promotion"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inner shadow",
+      "definition": "A shadow drawn inside a shape's edge."
+    },
+    {
+      "term": "Drop shadow",
+      "definition": "A shadow cast outside and beneath a shape."
+    },
+    {
+      "term": "Effect panel",
+      "definition": "A screenshot of tool settings used as a teaching aid."
+    }
+  ]
+}

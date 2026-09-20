@@ -1,0 +1,44 @@
+{
+  "name": "app-white-benefits-cards-on-curved-path-with-app-icon-root",
+  "image": "images/app-white-benefits-cards-on-curved-path-with-app-icon-root.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Benefit Cards on a Curved Path from the App Icon",
+  "tags": [
+    "benefits",
+    "cards",
+    "curved-path",
+    "dashed-line",
+    "checkmarks",
+    "app-icon",
+    "pale"
+  ],
+  "whatItIs": "A pale page with an app icon at the top from which a dashed and solid curved path descends past four tilted white cards (Accessibility, Engagement, Support, UX/UI), each with an icon, a short description and an indigo check badge.",
+  "whatItMeans": "Cards hanging along a flowing path feel like a journey of outcomes, and check badges confirm each goal.",
+  "techniques": [
+    "Flowing line bundle from an icon down the page",
+    "Tilted cards alternating left and right",
+    "Indigo check badge on each card corner",
+    "Faint giant logo shape as a background",
+    "Soft shadows for a floating feel"
+  ],
+  "bestFor": [
+    "Outcome and benefit slides",
+    "Case-study results summaries",
+    "Path-based storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Path bundle",
+      "definition": "Several parallel lines curving together as a route."
+    },
+    {
+      "term": "Check badge",
+      "definition": "A small circle with a tick marking completion."
+    },
+    {
+      "term": "Floating card",
+      "definition": "A card with a soft shadow that appears to hover."
+    }
+  ]
+}

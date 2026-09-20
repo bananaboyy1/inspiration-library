@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cobalt-step-one-canvas-gradient-tutorial-slide",
+  "image": "images/print-social-cobalt-step-one-canvas-gradient-tutorial-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Step 1 Canvas and Gradient Tutorial",
+  "tags": [
+    "tutorial",
+    "cobalt",
+    "step-1",
+    "gradient",
+    "grid",
+    "sparkles",
+    "swipe"
+  ],
+  "whatItIs": "A saturated blue slide with glossy 'Step 1', an instruction to set the canvas size and make a gradient, a red gradient rectangle as the demo, sparkle stars, faint grid and a swipe cue.",
+  "whatItMeans": "Showing the plain red canvas at the very start of a poster tutorial makes the build feel achievable.",
+  "techniques": [
+    "Glossy chrome step title",
+    "Key words highlighted in cream",
+    "Plain gradient shape as a step-one visual",
+    "Four-point sparkles and grid",
+    "Author handle and swipe prompt"
+  ],
+  "bestFor": [
+    "Poster tutorial carousels",
+    "Beginner design lessons",
+    "Series openers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Step title",
+      "definition": "A large label marking the current tutorial step."
+    },
+    {
+      "term": "Key word highlight",
+      "definition": "Making important words a different colour."
+    },
+    {
+      "term": "Canvas setup",
+      "definition": "Choosing the size and background before designing."
+    }
+  ]
+}

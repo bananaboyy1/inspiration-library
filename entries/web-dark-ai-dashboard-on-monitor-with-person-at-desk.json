@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-ai-dashboard-on-monitor-with-person-at-desk",
+  "image": "images/web-dark-ai-dashboard-on-monitor-with-person-at-desk.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark AI Dashboard on Monitor at a Desk",
+  "tags": [
+    "dark-ui",
+    "monitor",
+    "desk",
+    "person",
+    "calendar",
+    "ai",
+    "minimal-room"
+  ],
+  "whatItIs": "A cover showing a person at a white desk with a keyboard and a large monitor displaying a dark AI meeting dashboard with a calendar and task tables, against a pale wall.",
+  "whatItMeans": "A bright real desk scene makes a dark interface feel grounded, and the contrast makes the screen pop.",
+  "techniques": [
+    "Dark UI on a light neutral scene",
+    "Person's shoulder in the frame for context",
+    "Minimal white desk and keyboard",
+    "Screen slightly angled for depth",
+    "Very little colour outside the screen"
+  ],
+  "bestFor": [
+    "Dark dashboard covers",
+    "B2B and AI tools",
+    "Contextual desk mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Contextual mockup",
+      "definition": "A screen shown in a realistic work setting."
+    },
+    {
+      "term": "Dark on light",
+      "definition": "A dark UI placed in a bright room for contrast."
+    },
+    {
+      "term": "Minimal scene",
+      "definition": "A staged setting with very few props."
+    }
+  ]
+}

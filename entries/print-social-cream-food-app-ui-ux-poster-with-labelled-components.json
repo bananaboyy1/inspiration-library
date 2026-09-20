@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cream-food-app-ui-ux-poster-with-labelled-components",
+  "image": "images/print-social-cream-food-app-ui-ux-poster-with-labelled-components.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "title": "Food App UI/UX Poster with Labelled Components",
+  "tags": [
+    "food-app",
+    "poster",
+    "cream",
+    "illustrated",
+    "components",
+    "labels",
+    "coral"
+  ],
+  "whatItIs": "A cream A4-style poster titled 'FOOD APP' with labelled components: search bar, category pills, featured restaurant card, food item cards, product detail card, shopping cart, delivery tracking and bottom navigation, decorated with illustrated food, fries and a scooter rider.",
+  "whatItMeans": "Labels on the left name every component, and playful food illustrations keep the technical sheet friendly.",
+  "techniques": [
+    "Component names as left-aligned labels",
+    "Hand-drawn style food illustrations",
+    "Coral primary buttons on white cards",
+    "Scattered sparkles and fries as decoration",
+    "Cream ground with navy title"
+  ],
+  "bestFor": [
+    "UI component overview posters",
+    "Food delivery app presentations",
+    "Educational design sheets"
+  ],
+  "vocabulary": [
+    {
+      "term": "Component sheet",
+      "definition": "A board showing each UI component with a name."
+    },
+    {
+      "term": "Delivery tracker",
+      "definition": "A card with progress steps and a map."
+    },
+    {
+      "term": "Bottom navigation",
+      "definition": "A bar of tabs at the bottom of a mobile screen."
+    }
+  ]
+}

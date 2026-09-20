@@ -1,0 +1,45 @@
+{
+  "name": "branding-maroon-pink-star-wordmark-type-and-palette-board",
+  "image": "images/branding-maroon-pink-star-wordmark-type-and-palette-board.jpg",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Maroon and Pink Star Wordmark Board",
+  "tags": [
+    "wordmark",
+    "maroon",
+    "pink",
+    "sky-blue",
+    "palette",
+    "type-specimen",
+    "charity",
+    "playful"
+  ],
+  "whatItIs": "A three-band board: a maroon panel with a chunky pink wordmark 'GOOD*STORE' with a smiling star, a sky-blue panel with a website statement annotated with typeface names, and a cream band with seven colour swatches and hex codes.",
+  "whatItMeans": "A warm, sweet palette and bubbly letters give a cause-driven store an optimistic, friendly voice, and annotations link type to use.",
+  "techniques": [
+    "Chunky rounded wordmark with a character-star as the divider",
+    "Labeled leader lines naming the typeface for each text role",
+    "Seven-swatch strip with names and hex codes",
+    "Blue mock section showing the type in context",
+    "Contrast of a slab-like serif body against a heavy sans headline"
+  ],
+  "bestFor": [
+    "Social enterprise and charity brands",
+    "Retail identity documentation",
+    "Playful yet trustworthy identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type annotation",
+      "definition": "A leader line labelling which typeface is used where."
+    },
+    {
+      "term": "Swatch strip",
+      "definition": "A row of adjacent colour samples with codes."
+    },
+    {
+      "term": "Character glyph",
+      "definition": "A small mascot or star used in place of punctuation or a letter."
+    }
+  ]
+}

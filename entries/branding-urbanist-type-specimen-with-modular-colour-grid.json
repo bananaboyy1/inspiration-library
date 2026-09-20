@@ -1,0 +1,45 @@
+{
+  "name": "branding-urbanist-type-specimen-with-modular-colour-grid",
+  "image": "images/branding-urbanist-type-specimen-with-modular-colour-grid.png",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Urbanist Specimen with Modular Colour Grid",
+  "tags": [
+    "typography",
+    "specimen",
+    "colour-grid",
+    "blue",
+    "black",
+    "white",
+    "grey",
+    "hairlines"
+  ],
+  "whatItIs": "A pale grey-blue slide with a numbered Typography & Colors pill, alphabet lines, a type scale (36, 24, 16), a giant black 'Urbanist' specimen and a grid of hairline cells in which four colours (white, black, blue, grey) appear as a circle or a filled cell with hex codes.",
+  "whatItMeans": "Placing swatches on a hairline grid makes the palette feel architectural, and the huge word makes the typeface unmistakable.",
+  "techniques": [
+    "Hairline modular grid of unequal cells",
+    "Colours shown as circles and one full cell",
+    "Hex codes in outlined pills",
+    "Giant one-word specimen",
+    "Blue as the sole colour accent"
+  ],
+  "bestFor": [
+    "Typography and colour slides",
+    "Minimal brand documentation",
+    "Modular layout inspiration"
+  ],
+  "vocabulary": [
+    {
+      "term": "Modular grid",
+      "definition": "A grid of cells of different sizes."
+    },
+    {
+      "term": "Hex pill",
+      "definition": "An outlined label holding a colour code."
+    },
+    {
+      "term": "Type scale",
+      "definition": "Sizes for title, subtitle and body."
+    }
+  ]
+}

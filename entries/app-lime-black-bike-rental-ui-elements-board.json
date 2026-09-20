@@ -1,0 +1,44 @@
+{
+  "name": "app-lime-black-bike-rental-ui-elements-board",
+  "image": "images/app-lime-black-bike-rental-ui-elements-board.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Lime and Black Bike Rental UI Elements",
+  "tags": [
+    "bike",
+    "rental",
+    "lime",
+    "black",
+    "components",
+    "cards",
+    "ui-elements"
+  ],
+  "whatItIs": "A tall board with a header row of bicycle cards and nav pills on black, a heading 'UI Elements', a tilted phone detail with stat circles and Book Now, and a lime panel with a hand holding the phone plus a blurred cyclist photo.",
+  "whatItMeans": "Neon lime on near-black is sporty and sustainable, and mixing tight component crops with lifestyle photos tells both the design and the story.",
+  "techniques": [
+    "Lime cards as bold accents among dark cards",
+    "Circular stat icons in pastel lime, lilac and grey",
+    "Extreme crop of the phone at an angle",
+    "Light and dark versions of the same card side by side",
+    "Motion-blurred lifestyle photo for energy"
+  ],
+  "bestFor": [
+    "Mobility and rental apps",
+    "UI element showcases in case studies",
+    "Sports and eco brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Component board",
+      "definition": "A layout showing individual UI elements outside the full screens."
+    },
+    {
+      "term": "Stat circle",
+      "definition": "A round icon with a number showing one metric."
+    },
+    {
+      "term": "Motion blur",
+      "definition": "Streaking that implies movement in a photo."
+    }
+  ]
+}

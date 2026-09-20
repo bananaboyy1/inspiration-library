@@ -1,0 +1,43 @@
+{
+  "name": "app-red-gradient-app-icon-store-listing-and-homescreen",
+  "image": "images/app-red-gradient-app-icon-store-listing-and-homescreen.png",
+  "discipline": "app",
+  "designType": "App icon showcase",
+  "title": "Red App Icon in Store Listing and Home Screen",
+  "tags": [
+    "app-icon",
+    "red",
+    "store-listing",
+    "close-up",
+    "dark",
+    "3d"
+  ],
+  "whatItIs": "Two rounded panels: a store listing card with a black icon holding a white-and-red mark, rating stats, and a macro shot of the icon beside Safari on a phone corner.",
+  "whatItMeans": "The contrast of black and one red disc makes a memorable tiny mark. Showing it in context proves recognition.",
+  "techniques": [
+    "Stacked card edge for depth",
+    "Macro close-up of hardware",
+    "Red vignette background shared across both panels",
+    "Real-world neighbor app (Safari) to test scale",
+    "Simple geometric mark in two colors"
+  ],
+  "bestFor": [
+    "App icon reveals",
+    "Brand presentations for apps",
+    "Fintech and automation brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Store listing card",
+      "definition": "The app-store style card with icon, name, rating and Open button."
+    },
+    {
+      "term": "Macro shot",
+      "definition": "An extreme close-up of a small object."
+    },
+    {
+      "term": "Scale test",
+      "definition": "Showing a logo beside familiar icons to check legibility."
+    }
+  ]
+}

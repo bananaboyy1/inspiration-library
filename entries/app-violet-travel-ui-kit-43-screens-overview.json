@@ -1,0 +1,44 @@
+{
+  "name": "app-violet-travel-ui-kit-43-screens-overview",
+  "image": "images/app-violet-travel-ui-kit-43-screens-overview.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Violet Travel UI Kit Overview",
+  "tags": [
+    "ui-kit",
+    "violet",
+    "travel",
+    "screens",
+    "booking",
+    "tags",
+    "flat"
+  ],
+  "whatItIs": "A tall pale sheet titled '43 Editable Screens' with tag chips (Booking, Hotel, Flight...) above a grid of flat violet-and-white app screens: splash, onboarding, login, home, hotel booking, lists, filters, reviews, checkout, seat select and tickets.",
+  "whatItMeans": "A dense grid with an obvious count sells completeness, and a single violet keeps the kit unified.",
+  "techniques": [
+    "Headline states the quantity of content",
+    "Category tag chips summarising coverage",
+    "Uniform grid of full screens with consistent headers",
+    "Violet header blocks with white content cards",
+    "Fade at the bottom with an 'and more' pill"
+  ],
+  "bestFor": [
+    "UI kit product listings",
+    "Template marketplaces",
+    "Showing an entire app flow at a glance"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen grid",
+      "definition": "A grid showing many app screens together."
+    },
+    {
+      "term": "Coverage tags",
+      "definition": "Chips listing the topics a kit includes."
+    },
+    {
+      "term": "Fade-out tail",
+      "definition": "A gradual fade at the end hinting at more content."
+    }
+  ]
+}

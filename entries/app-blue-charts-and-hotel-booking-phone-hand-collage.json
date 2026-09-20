@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-charts-and-hotel-booking-phone-hand-collage",
+  "image": "images/app-blue-charts-and-hotel-booking-phone-hand-collage.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Bars, Sky Phone and Hotel Booking Hand",
+  "tags": [
+    "bars",
+    "sky",
+    "ghost-type",
+    "hotel",
+    "hand",
+    "lavender",
+    "blue"
+  ],
+  "whatItIs": "A lavender collage: a blue bar chart with faded tracks, a tilted phone against a sky, and a large tile with ghost 'Hotel Booking' lettering, a hand-held phone and floating cards for villa, facilities and description.",
+  "whatItMeans": "Tiles mix data, atmosphere and product, and the floating cards explain the screen without clutter.",
+  "techniques": [
+    "Ghost lettering behind a held phone",
+    "Floating info cards around the device",
+    "Sky photograph as a tile background",
+    "Faded track bars in the chart",
+    "Blue facilities panel with icon tiles"
+  ],
+  "bestFor": [
+    "Feature showcase pages",
+    "Travel app case studies",
+    "Bento-style presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating card",
+      "definition": "A UI card placed outside the device to explain it."
+    },
+    {
+      "term": "Tile collage",
+      "definition": "Rounded tiles of different content arranged together."
+    },
+    {
+      "term": "Track bar",
+      "definition": "A faint bar showing the maximum behind a value."
+    }
+  ]
+}

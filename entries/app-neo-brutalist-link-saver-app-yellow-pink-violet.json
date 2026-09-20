@@ -1,0 +1,45 @@
+{
+  "name": "app-neo-brutalist-link-saver-app-yellow-pink-violet",
+  "image": "images/app-neo-brutalist-link-saver-app-yellow-pink-violet.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Neo-Brutalist Link Saver App",
+  "tags": [
+    "neo-brutalism",
+    "yellow",
+    "pink",
+    "violet",
+    "black-outline",
+    "hard-shadow",
+    "collections",
+    "folders"
+  ],
+  "whatItIs": "A phone with a thick black outline and hard offset shadow on a yellow background with a pink circle and violet block, showing 'Save now. Find anytime.' with a paste field and plus button and six folder cards each with a coloured tab and icon.",
+  "whatItMeans": "Thick outlines, hard shadows and saturated flat colours feel playful and tactile, like paper stickers.",
+  "techniques": [
+    "Thick black outlines on every element",
+    "Hard offset shadows instead of blur",
+    "Folder-shaped cards with coloured tabs",
+    "Saturated flat background shapes",
+    "Bold heavy grotesque headline"
+  ],
+  "bestFor": [
+    "Playful utility apps",
+    "Neo-brutalist UI explorations",
+    "Collection and folder interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Neo-brutalism",
+      "definition": "A style using thick outlines, hard shadows and flat saturated colour."
+    },
+    {
+      "term": "Hard shadow",
+      "definition": "A solid offset shadow with no blur."
+    },
+    {
+      "term": "Folder tab",
+      "definition": "A raised coloured tab on a card's top edge."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-strategic-plan-radial-tick-arc-with-team-avatars-and-steps",
+  "image": "images/app-strategic-plan-radial-tick-arc-with-team-avatars-and-steps.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Strategic Plan with Radial Arc and Team Avatars",
+  "tags": [
+    "strategy",
+    "team",
+    "avatars",
+    "arc",
+    "tick-marks",
+    "steps",
+    "pale-blue"
+  ],
+  "whatItIs": "A pale grey-blue slide with a numbered Strategic Plan pill, a large fading two-line title, a paragraph, a big arc of tick marks around a cluster of six avatars and three blue-dot nodes linked by lines to three team members with a Step 1 pill, name, role and description.",
+  "whatItMeans": "The tick arc and radiating lines make a team feel like a coordinated system, and each role gets a simple card.",
+  "techniques": [
+    "Arc of fine tick marks as a circular frame",
+    "Avatar cluster at the centre",
+    "Thin lines to blue dot nodes at three points",
+    "Step pills above each person",
+    "Title fading from dark to light"
+  ],
+  "bestFor": [
+    "Team and role slides",
+    "Strategy documentation",
+    "Radial team diagrams"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tick arc",
+      "definition": "A curved row of tiny marks forming a dial-like arc."
+    },
+    {
+      "term": "Avatar cluster",
+      "definition": "A group of small portraits arranged together."
+    },
+    {
+      "term": "Node line",
+      "definition": "A line connecting a central group to an outer point."
+    }
+  ]
+}

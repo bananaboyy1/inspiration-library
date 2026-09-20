@@ -1,0 +1,45 @@
+{
+  "name": "print-social-burgundy-grid-services-pills-poster",
+  "image": "images/print-social-burgundy-grid-services-pills-poster.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "title": "Burgundy Services Pills Post",
+  "tags": [
+    "services",
+    "burgundy",
+    "pink",
+    "pills",
+    "grid",
+    "grain",
+    "agency",
+    "condensed"
+  ],
+  "whatItIs": "A burgundy portrait post with a faint pink grid and grain, a short logo, a circular back arrow, a huge pale pink 'OUR SERVICES' with a small underlined 'Work with us', six service pills alternating solid pink and gold outline, and a URL and handle at the base.",
+  "whatItMeans": "Heavy pale type on deep burgundy is bold and elegant, and pills make a list into friendly tags.",
+  "techniques": [
+    "Huge heavy caps headline in pale pink",
+    "Pills filled or outlined alternately",
+    "Faint grid and grain over flat burgundy",
+    "Small underlined call to action",
+    "URL and handle at opposite base corners"
+  ],
+  "bestFor": [
+    "Agency service overviews",
+    "Two-colour social posts",
+    "Pill-list layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Service pill",
+      "definition": "A rounded label naming an offering."
+    },
+    {
+      "term": "Outline pill",
+      "definition": "A pill drawn as an outline rather than filled."
+    },
+    {
+      "term": "Grain overlay",
+      "definition": "Fine noise texture over a flat colour."
+    }
+  ]
+}

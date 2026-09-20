@@ -1,0 +1,44 @@
+{
+  "name": "app-overview-slide-with-inline-icon-headline-and-metadata",
+  "image": "images/app-overview-slide-with-inline-icon-headline-and-metadata.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Overview Slide with Icon-Studded Headline",
+  "tags": [
+    "overview",
+    "headline",
+    "metadata",
+    "grey",
+    "icons",
+    "blue",
+    "two-tone"
+  ],
+  "whatItIs": "A pale grey slide with a numbered 'Overview' pill, a huge headline whose phrases alternate black and grey with blue icon bubbles, and key-value metadata at the bottom left with a paragraph at the right.",
+  "whatItMeans": "Alternating tones and icon bubbles make a long headline scannable and lively.",
+  "techniques": [
+    "Alternate dark and mid grey phrases in the headline",
+    "Small blue icon bubbles dotted over the text",
+    "Number bubble joined to a title pill",
+    "Slash-style key/value metadata",
+    "Paragraph right-aligned in a second column"
+  ],
+  "bestFor": [
+    "Project overview slides",
+    "Health-tech case studies",
+    "Headline-led slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon bubble",
+      "definition": "A small circular icon placed over or beside text."
+    },
+    {
+      "term": "Number pill",
+      "definition": "A numbered circle joined to a label."
+    },
+    {
+      "term": "Key/value list",
+      "definition": "Label and value pairs in compact lines."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "app-orange-marketplace-app-two-phones-on-corrugated-backdrop",
+  "image": "images/app-orange-marketplace-app-two-phones-on-corrugated-backdrop.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Orange Marketplace Phones on Ribbed Backdrop",
+  "tags": [
+    "orange",
+    "marketplace",
+    "two-phones",
+    "ribbed",
+    "podium",
+    "shopping"
+  ],
+  "whatItIs": "Two black-framed phones showing an orange and white shopping home and search screen, standing before a peach ribbed panel backdrop with a white block at the base and a logo at top left.",
+  "whatItMeans": "Orange gradients and vertical ribs feel warm and energetic, and the two screens show home and search together.",
+  "techniques": [
+    "Ribbed vertical texture behind the phones",
+    "Gradient orange banner as hero card",
+    "Two screens at slightly different heights",
+    "White plinth at the bottom",
+    "Product cut-outs in a clean grid"
+  ],
+  "bestFor": [
+    "Shopping app presentations",
+    "Two-screen hero mockups",
+    "Warm-toned brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ribbed backdrop",
+      "definition": "A vertically fluted surface used as a scene background."
+    },
+    {
+      "term": "Plinth",
+      "definition": "A block used as a display base."
+    },
+    {
+      "term": "Paired screens",
+      "definition": "Two related screens shown side by side."
+    }
+  ]
+}

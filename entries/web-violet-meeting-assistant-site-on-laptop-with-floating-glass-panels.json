@@ -1,0 +1,45 @@
+{
+  "name": "web-violet-meeting-assistant-site-on-laptop-with-floating-glass-panels",
+  "image": "images/web-violet-meeting-assistant-site-on-laptop-with-floating-glass-panels.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Violet Meeting Assistant Site with Glass Panels",
+  "tags": [
+    "laptop",
+    "violet",
+    "dark",
+    "glass",
+    "floating",
+    "ai",
+    "website",
+    "cover"
+  ],
+  "whatItIs": "A violet gradient cover with a giant white 'Meeting Assistant' title partly behind a dark laptop that shows a dark AI meeting site, with a translucent site panel floating in front, a calendar panel and Download App card at the right, an app icon tile at the top right and a Website Design pill.",
+  "whatItMeans": "Layers of floating glass panels around a dark laptop explode the site into parts and give depth to a dark UI.",
+  "techniques": [
+    "Floating translucent panels in front of the device",
+    "Giant title partly hidden behind the laptop",
+    "Violet gradient with soft glow",
+    "App icon tile as a brand stamp",
+    "Dark UI with lit calendar cards"
+  ],
+  "bestFor": [
+    "SaaS website case-study covers",
+    "AI meeting and productivity tools",
+    "Layered glass mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating panel",
+      "definition": "A UI panel pulled out of the screen and floated in front."
+    },
+    {
+      "term": "Layered mockup",
+      "definition": "A scene with elements at several depths."
+    },
+    {
+      "term": "Brand stamp",
+      "definition": "A small icon tile signing the composition."
+    }
+  ]
+}

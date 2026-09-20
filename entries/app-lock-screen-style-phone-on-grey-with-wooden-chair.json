@@ -1,0 +1,44 @@
+{
+  "name": "app-lock-screen-style-phone-on-grey-with-wooden-chair",
+  "image": "images/app-lock-screen-style-phone-on-grey-with-wooden-chair.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Phone on Grey Floor beside a Chair",
+  "tags": [
+    "top-down",
+    "grey",
+    "yellow",
+    "chair",
+    "lock-screen",
+    "gradient-orb",
+    "thumbnail"
+  ],
+  "whatItIs": "A top-down shot of a phone lying on a grey surface next to a wooden chair leg and yellow furniture, showing a bold black-and-white notification screen with an orange and blue orb clock.",
+  "whatItMeans": "Everyday objects make the scene feel like a real moment, and the bold black type on the screen stays legible from above.",
+  "techniques": [
+    "Overhead angle for a natural resting-phone view",
+    "Neutral grey surface with a single yellow accent",
+    "Blurred gradient orb as the screen's visual centre",
+    "Heavy black headline in the UI",
+    "Sharp, casual crop with props at the edges"
+  ],
+  "bestFor": [
+    "Lifestyle app presentations",
+    "Wellness and sleep apps",
+    "Cover thumbnails with a documentary feel"
+  ],
+  "vocabulary": [
+    {
+      "term": "Top-down mockup",
+      "definition": "A device shot from directly above."
+    },
+    {
+      "term": "Gradient orb",
+      "definition": "A blurred multi-colour circle used as a visual centre."
+    },
+    {
+      "term": "Casual crop",
+      "definition": "A composition that looks captured rather than staged."
+    }
+  ]
+}

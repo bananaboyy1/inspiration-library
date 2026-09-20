@@ -1,0 +1,44 @@
+{
+  "name": "app-heart-rate-chart-component-beside-hand-held-analytics-phone",
+  "image": "images/app-heart-rate-chart-component-beside-hand-held-analytics-phone.png",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Heart Rate Chart Component beside Analytics Phone",
+  "tags": [
+    "heart-rate",
+    "chart",
+    "component",
+    "analytics",
+    "hand",
+    "white",
+    "red-line"
+  ],
+  "whatItIs": "Two rounded white panels: one enlarging a heart rate card with a stepped red line chart, dotted forecast and time ruler, the other showing the same card in a hand-held analytics phone in a dark hand.",
+  "whatItMeans": "Enlarging the component beside the phone shows detail and context together.",
+  "techniques": [
+    "Stepped line with a dotted projection",
+    "Red marker dot at the current value",
+    "Time ruler with tick marks under the chart",
+    "Component shown large beside the full screen",
+    "Dark hand against pale UI"
+  ],
+  "bestFor": [
+    "Chart component showcases",
+    "Health data visualisation",
+    "Component-plus-context presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dotted forecast",
+      "definition": "A dotted continuation of a line showing a prediction."
+    },
+    {
+      "term": "Time ruler",
+      "definition": "A tick-mark scale beneath a chart's time axis."
+    },
+    {
+      "term": "Component enlargement",
+      "definition": "A UI piece shown large next to its screen."
+    }
+  ]
+}

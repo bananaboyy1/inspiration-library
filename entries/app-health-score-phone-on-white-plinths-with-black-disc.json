@@ -1,0 +1,44 @@
+{
+  "name": "app-health-score-phone-on-white-plinths-with-black-disc",
+  "image": "images/app-health-score-phone-on-white-plinths-with-black-disc.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Health Score Phone on White Plinths",
+  "tags": [
+    "health",
+    "white",
+    "plinth",
+    "grey",
+    "black-disc",
+    "score",
+    "tilted"
+  ],
+  "whatItIs": "A grey rounded panel with a phone tilted across a white block and cylinder, next to a black disc, showing a light blue 92% health score, a sunburst graphic and four metric cards (calories, water, sleep, heart rate).",
+  "whatItMeans": "Simple geometric blocks in white and grey with one black disc give a calm, gallery-like stage.",
+  "techniques": [
+    "White blocks and cylinders as a stage",
+    "One black disc as the contrast",
+    "Phone leaning against a block at an angle",
+    "Light blue gradient inside the UI",
+    "Rounded grey panel background"
+  ],
+  "bestFor": [
+    "Health app mockups",
+    "Geometric product staging",
+    "Calm neutral scenes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Geometric stage",
+      "definition": "Simple solids used as props in a product scene."
+    },
+    {
+      "term": "Contrast disc",
+      "definition": "A single dark shape balancing a pale scene."
+    },
+    {
+      "term": "Sunburst graphic",
+      "definition": "Radiating lines drawn like a rising sun."
+    }
+  ]
+}

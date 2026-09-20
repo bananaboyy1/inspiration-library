@@ -1,0 +1,44 @@
+{
+  "name": "print-social-blue-theatre-seats-limited-spaces-webinar-flyer",
+  "image": "images/print-social-blue-theatre-seats-limited-spaces-webinar-flyer.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Limited Spaces Webinar over Blue Theatre Seats",
+  "tags": [
+    "webinar",
+    "blue",
+    "seats",
+    "dark",
+    "green-label",
+    "scarcity",
+    "flyer"
+  ],
+  "whatItIs": "A dark flyer over a photo of glowing blue theatre seats with a green label 'LIMITED' above huge white 'SPACES' with a hand-drawn underline, logo and 'Free live webinar' at the top, a short paragraph and an outlined 'Register now' oval.",
+  "whatItMeans": "Rows of seats literalise the scarcity message, and the one lit seat draws the eye.",
+  "techniques": [
+    "Photo that literally illustrates the message",
+    "Green label sticker over heavy white type",
+    "Hand-drawn underline scribble",
+    "Outlined oval CTA",
+    "Dark vignette to focus the centre"
+  ],
+  "bestFor": [
+    "Webinar and event registration",
+    "Scarcity messaging",
+    "Photo-led social flyers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scarcity message",
+      "definition": "Copy stressing limited availability to prompt action."
+    },
+    {
+      "term": "Label sticker",
+      "definition": "A coloured tag placed over a headline."
+    },
+    {
+      "term": "Outlined CTA",
+      "definition": "A call to action drawn as an outline."
+    }
+  ]
+}

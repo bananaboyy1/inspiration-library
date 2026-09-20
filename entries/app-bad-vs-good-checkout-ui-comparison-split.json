@@ -1,0 +1,44 @@
+{
+  "name": "app-bad-vs-good-checkout-ui-comparison-split",
+  "image": "images/app-bad-vs-good-checkout-ui-comparison-split.jpg",
+  "discipline": "app",
+  "designType": "Checkout and forms",
+  "title": "Bad versus Good Checkout UI Comparison",
+  "tags": [
+    "checkout",
+    "comparison",
+    "forms",
+    "red-green",
+    "before-after",
+    "education",
+    "payment"
+  ],
+  "whatItIs": "A split image comparing a cluttered checkout with a red cross and a red Place Order button against a clean checkout with a green tick, numbered sections, icons on fields, payment method tiles and a green Pay Securely button.",
+  "whatItMeans": "Side-by-side before and after with red and green makes the lesson obvious, and grouping and icons show what better looks like.",
+  "techniques": [
+    "Before and after split with red and green headers",
+    "Numbered sections with green circles",
+    "Payment method tiles with icons",
+    "Fields with leading icons",
+    "Single strong primary button"
+  ],
+  "bestFor": [
+    "UX education comparisons",
+    "Checkout and form design",
+    "Before and after posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Before/after split",
+      "definition": "Two versions of a design shown side by side."
+    },
+    {
+      "term": "Grouped form",
+      "definition": "Fields organised under numbered headings."
+    },
+    {
+      "term": "Primary action",
+      "definition": "The main coloured button of a screen."
+    }
+  ]
+}

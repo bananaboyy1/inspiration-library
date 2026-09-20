@@ -1,0 +1,44 @@
+{
+  "name": "web-hotel-search-and-recommend-crop-with-feature-chips",
+  "image": "images/web-hotel-search-and-recommend-crop-with-feature-chips.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Hotel Search Crop with Feature Chips",
+  "tags": [
+    "hotel",
+    "search",
+    "recommend",
+    "chips",
+    "blue",
+    "lavender",
+    "crop"
+  ],
+  "whatItIs": "A cropped lavender page of a phone showing hotel search fields and a Recommend card with a 25% OFF torn sticker over a villa photo, a room photo, three pill chips (Nearby, Top Rated, Best Value) with icons and a paragraph, above a centred phone showing the same screen.",
+  "whatItMeans": "Torn sticker and icon chips add friendly details to a clean form, and cropping suggests a longer scroll.",
+  "techniques": [
+    "Torn-edge discount sticker on a photo",
+    "Icon circles inside pill chips",
+    "Blue gradient search button",
+    "Phones cropped by section edges",
+    "Lavender panels with white cards"
+  ],
+  "bestFor": [
+    "Hotel booking screens",
+    "Feature chips beside device crops",
+    "Cropped landing page sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Torn sticker",
+      "definition": "A label with rough torn edges placed over a photo."
+    },
+    {
+      "term": "Feature chip",
+      "definition": "A pill with an icon naming a benefit."
+    },
+    {
+      "term": "Section crop",
+      "definition": "A page fragment cut at the edges."
+    }
+  ]
+}

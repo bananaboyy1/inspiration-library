@@ -1,0 +1,44 @@
+{
+  "name": "app-orange-gradient-bar-survey-insights-slide-for-smart-home",
+  "image": "images/app-orange-gradient-bar-survey-insights-slide-for-smart-home.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Orange Segmented Bars Survey Insights",
+  "tags": [
+    "research",
+    "survey",
+    "orange",
+    "segmented-bars",
+    "beige",
+    "questions",
+    "legend"
+  ],
+  "whatItIs": "A warm beige rounded slide titled Key Insights From User Research with six survey questions each above a single pill bar split into orange tints, and a legend of percentages and answers below each.",
+  "whatItMeans": "One hue in graded tints turns survey results into an easy-to-scan ramp, and repeated structure makes six questions feel calm.",
+  "techniques": [
+    "Single horizontal segmented bar per question",
+    "One orange in five graded tints",
+    "Legend chips with percentage and label",
+    "Question headings in plain sans",
+    "Header labels in the corners"
+  ],
+  "bestFor": [
+    "Survey result slides",
+    "Smart-home and product research",
+    "Single-colour data presentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented bar",
+      "definition": "A bar split into parts proportional to answers."
+    },
+    {
+      "term": "Tonal ramp",
+      "definition": "Tints of one hue from dark to light."
+    },
+    {
+      "term": "Legend chip",
+      "definition": "A small coloured square with a value and label."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-red-crypto-web-app-laptop-tilted-on-rough-stone",
+  "image": "images/web-red-crypto-web-app-laptop-tilted-on-rough-stone.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Red Crypto Web App on Tilted Laptop over Stone",
+  "tags": [
+    "laptop",
+    "red",
+    "black",
+    "crypto",
+    "stone",
+    "dashboard",
+    "tilted"
+  ],
+  "whatItIs": "A dark red vignette panel labelled Web Application with a laptop tilted on rough grey stone, showing a red wallet chart page with a striped bar chart and orange line and a black side panel with portfolio risk score and transactions, and a headline about an intuitive interface for quick secure asset exchange.",
+  "whatItMeans": "Rough stone against a glossy black laptop and red UI gives tension and drama.",
+  "techniques": [
+    "Laptop tilted steeply on stone",
+    "Red striped chart as the identity texture",
+    "Split red and black UI",
+    "Headline with dimmed words",
+    "Dark red radial vignette"
+  ],
+  "bestFor": [
+    "Crypto web app covers",
+    "Dark red brand systems",
+    "Dramatic laptop mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stripe chart",
+      "definition": "A chart made of thin vertical lines."
+    },
+    {
+      "term": "Stone stage",
+      "definition": "Rough rock used as a product base."
+    },
+    {
+      "term": "Split UI",
+      "definition": "A screen divided into two colour zones."
+    }
+  ]
+}

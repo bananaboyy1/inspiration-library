@@ -1,0 +1,44 @@
+{
+  "name": "app-says-thinks-does-feels-persona-quadrant-with-orb",
+  "image": "images/app-says-thinks-does-feels-persona-quadrant-with-orb.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Says, Thinks, Does, Feels Persona Quadrant",
+  "tags": [
+    "persona",
+    "empathy-map",
+    "quadrant",
+    "orb",
+    "grey",
+    "quotes",
+    "health"
+  ],
+  "whatItIs": "A light grey slide titled User Persona with a headline that shifts from grey to black, and an empathy map of four icon pills (Says, Thinks, Does, Feels) with short texts around a central gradient orb holding a portrait, divided by crosshair lines.",
+  "whatItMeans": "The orb at the centre puts the person first, and four quadrants organise insights cleanly.",
+  "techniques": [
+    "Crosshair lines dividing four quadrants",
+    "Gradient orb behind the central portrait",
+    "Icon pills naming each quadrant",
+    "Short quotes in small grey text",
+    "Headline with tone shifts"
+  ],
+  "bestFor": [
+    "Empathy maps",
+    "User persona slides",
+    "Quadrant diagrams"
+  ],
+  "vocabulary": [
+    {
+      "term": "Empathy map",
+      "definition": "A four-part diagram of what a user says, thinks, does and feels."
+    },
+    {
+      "term": "Quadrant layout",
+      "definition": "A page divided into four equal areas."
+    },
+    {
+      "term": "Centre orb",
+      "definition": "A glowing circle placed at the heart of a diagram."
+    }
+  ]
+}

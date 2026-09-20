@@ -1,0 +1,44 @@
+{
+  "name": "app-event-splits-phone-in-flower-meadow-thumbnail",
+  "image": "images/app-event-splits-phone-in-flower-meadow-thumbnail.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Event App Meadow Thumbnail",
+  "tags": [
+    "meadow",
+    "sky",
+    "events",
+    "thumbnail",
+    "phone",
+    "cover",
+    "green"
+  ],
+  "whatItIs": "A small square cover of a white event app phone rising from a green flower meadow under a blue sky, with a chrome arc at the base.",
+  "whatItMeans": "Big colour fields of blue sky and green grass read instantly at thumbnail size and set a cheerful tone.",
+  "techniques": [
+    "Three simple colour bands (sky, grass, phone) for legibility",
+    "Phone centred and upright as a monolith",
+    "Cloud texture for depth",
+    "Chrome element for a subtle surprise",
+    "No text, the picture alone sells the mood"
+  ],
+  "bestFor": [
+    "Portfolio gallery thumbnails",
+    "App campaign teasers",
+    "Playful social apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monolith placement",
+      "definition": "A device standing upright and centred like a monument."
+    },
+    {
+      "term": "Colour band",
+      "definition": "A large area of a single colour that structures the image."
+    },
+    {
+      "term": "Thumbnail legibility",
+      "definition": "How well a design reads when shrunk."
+    }
+  ]
+}

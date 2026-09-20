@@ -1,0 +1,44 @@
+{
+  "name": "app-real-estate-app-long-case-study-with-research-and-persona",
+  "image": "images/app-real-estate-app-long-case-study-with-research-and-persona.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Real Estate App Long Case Study",
+  "tags": [
+    "real-estate",
+    "long-scroll",
+    "research",
+    "persona",
+    "white",
+    "gloved-hand",
+    "orange-bezel"
+  ],
+  "whatItIs": "An extremely tall white case study: a black gloved hand holding a map-based property app, research stats with ring gauges, a full-width house photo, orange-bezel phones showing filters, a persona block and a closing hero with 'Find your new home'.",
+  "whatItMeans": "A restrained white page with photos and orange-edged devices keeps a long story clean and readable.",
+  "techniques": [
+    "Dark hero image opening a very white page",
+    "Ring gauges for research percentages",
+    "Full-bleed real photo as a break",
+    "Copper phone frames repeated as a motif",
+    "Persona portrait beside short need statements"
+  ],
+  "bestFor": [
+    "Real estate and property tech",
+    "Long case-study pages",
+    "Research-to-solution storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ring gauge",
+      "definition": "A circular progress ring showing a percentage."
+    },
+    {
+      "term": "Full-bleed photo",
+      "definition": "An image extending to the edges of the canvas."
+    },
+    {
+      "term": "Motif frame",
+      "definition": "A repeated device bezel colour used across images."
+    }
+  ]
+}

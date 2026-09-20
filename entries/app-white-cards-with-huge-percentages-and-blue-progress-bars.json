@@ -1,0 +1,44 @@
+{
+  "name": "app-white-cards-with-huge-percentages-and-blue-progress-bars",
+  "image": "images/app-white-cards-with-huge-percentages-and-blue-progress-bars.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Huge Percentages with Blue Progress Bars",
+  "tags": [
+    "research",
+    "percentages",
+    "progress-bars",
+    "white-cards",
+    "blue",
+    "staggered",
+    "interview"
+  ],
+  "whatItIs": "A pale slide with a numbered User Interview & Insight pill and three staggered white cards, each with a topic, a very large percentage, a label, a blue progress bar and a sentence, and a closing statement bottom right.",
+  "whatItMeans": "Enormous numerals and simple bars make research findings instantly readable.",
+  "techniques": [
+    "Giant bold percentages as the hero",
+    "Chunky blue progress bars",
+    "Staggered cards in two columns",
+    "Small descriptive sentence at the card base",
+    "Closing statement outside the cards"
+  ],
+  "bestFor": [
+    "User interview summaries",
+    "Research finding slides",
+    "Stat-led case-study slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hero percentage",
+      "definition": "A very large number that is the focal point of a card."
+    },
+    {
+      "term": "Progress bar",
+      "definition": "A bar showing a proportion filled."
+    },
+    {
+      "term": "Stagger",
+      "definition": "Cards offset vertically to avoid a rigid grid."
+    }
+  ]
+}

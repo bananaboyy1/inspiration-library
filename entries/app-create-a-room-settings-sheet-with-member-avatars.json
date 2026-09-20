@@ -1,0 +1,44 @@
+{
+  "name": "app-create-a-room-settings-sheet-with-member-avatars",
+  "image": "images/app-create-a-room-settings-sheet-with-member-avatars.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Create a Room Settings Sheet",
+  "tags": [
+    "settings",
+    "bottom-sheet",
+    "avatars",
+    "toggle",
+    "blue",
+    "form",
+    "white"
+  ],
+  "whatItIs": "A close-up of a phone screen with a white sheet titled Create a room, edit and delete buttons, room name and description fields, a row of member avatars with roles, setting cards including a privacy toggle and a big blue Let's start! button.",
+  "whatItMeans": "Big rounded controls and clear grouping make setup feel quick, and one blue button marks the primary action.",
+  "techniques": [
+    "Rounded grey field group with plus icons",
+    "Member avatars with role captions",
+    "Setting cards with toggles",
+    "Single blue pill as the primary action",
+    "Circular icon buttons on the header"
+  ],
+  "bestFor": [
+    "Room and group creation flows",
+    "Settings sheets",
+    "Collaboration apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bottom sheet",
+      "definition": "A panel sliding up from the bottom of a screen."
+    },
+    {
+      "term": "Setting card",
+      "definition": "A card holding one option and its control."
+    },
+    {
+      "term": "Primary pill",
+      "definition": "A full-width rounded button for the main action."
+    }
+  ]
+}

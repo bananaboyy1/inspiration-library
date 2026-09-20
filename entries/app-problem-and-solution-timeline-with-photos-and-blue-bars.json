@@ -1,0 +1,44 @@
+{
+  "name": "app-problem-and-solution-timeline-with-photos-and-blue-bars",
+  "image": "images/app-problem-and-solution-timeline-with-photos-and-blue-bars.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Problem and Solution Blue Timeline",
+  "tags": [
+    "problem",
+    "solution",
+    "timeline",
+    "blue",
+    "photos",
+    "chat",
+    "light"
+  ],
+  "whatItIs": "A pale slide with a numbered Problem & Solution pill, a red Problem heading, three image tiles (phone, chat prompt with a curly arrow, medical photo), a blue Solution heading and a vertical blue bar timeline with three paragraphs alternating sides.",
+  "whatItMeans": "The red-to-blue shift shows the move from problem to solution, and the timeline bars keep the reading order clear.",
+  "techniques": [
+    "Red dot for problem, blue dot for solution",
+    "Hand-drawn curly arrow linking image to statement",
+    "Vertical blue bar with side dots",
+    "Paragraphs alternating left and right",
+    "Bold key words in a light headline"
+  ],
+  "bestFor": [
+    "Problem and solution slides",
+    "Case-study narrative sections",
+    "Health product stories"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour coding",
+      "definition": "Using colour to signal meaning, like red for problem."
+    },
+    {
+      "term": "Vertical timeline",
+      "definition": "A line with points and text alternating along it."
+    },
+    {
+      "term": "Hand-drawn arrow",
+      "definition": "A sketchy arrow adding informal direction."
+    }
+  ]
+}

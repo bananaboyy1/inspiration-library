@@ -1,0 +1,43 @@
+{
+  "name": "app-lavender-user-journey-node-map-slide",
+  "image": "images/app-lavender-user-journey-node-map-slide.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Lavender User Journey Node Map",
+  "tags": [
+    "user-journey",
+    "nodes",
+    "lavender",
+    "pills",
+    "tree",
+    "progress-bar"
+  ],
+  "whatItIs": "A lavender slide, User Journey Map, with a plane-topped progress bar and a left-to-right tree of white pill nodes from the logo through Discover, Search and Compare to booking, payment and travel steps.",
+  "whatItMeans": "Soft pill nodes make a complex flow feel light, and the tree layout shows branching clearly.",
+  "techniques": [
+    "Logo as the root node in a circle",
+    "White pill nodes with soft shadows",
+    "Thin elbow connectors",
+    "Aligned columns for consistent steps",
+    "Progress bar with plane marker"
+  ],
+  "bestFor": [
+    "User flow documentation",
+    "App architecture slides",
+    "Booking journeys"
+  ],
+  "vocabulary": [
+    {
+      "term": "Journey map",
+      "definition": "A diagram of the steps a user takes."
+    },
+    {
+      "term": "Elbow connector",
+      "definition": "A right-angled line linking nodes."
+    },
+    {
+      "term": "Root node",
+      "definition": "The starting item of a tree."
+    }
+  ]
+}

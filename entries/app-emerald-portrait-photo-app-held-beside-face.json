@@ -1,0 +1,44 @@
+{
+  "name": "app-emerald-portrait-photo-app-held-beside-face",
+  "image": "images/app-emerald-portrait-photo-app-held-beside-face.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Emerald Photo App Held Beside a Face",
+  "tags": [
+    "emerald",
+    "portrait",
+    "photo-app",
+    "hand",
+    "ghost-type",
+    "dark-green",
+    "thumbnail"
+  ],
+  "whatItIs": "A cover where a woman in profile holds a phone with a dark teal photo-editing app next to her face, on an emerald gradient with giant ghost 'FaceNova' lettering and a hex logo.",
+  "whatItMeans": "Putting the phone beside a real face tells the product story instantly (face editing). Deep emerald feels premium.",
+  "techniques": [
+    "Person in profile pairing subject with product",
+    "Ghost brand name cropped behind the figure",
+    "Deep green gradient with a light glow behind the head",
+    "Ring and hand detail for realism",
+    "Logo lockup top left"
+  ],
+  "bestFor": [
+    "Photo and beauty AI apps",
+    "Portfolio cover images",
+    "Dark premium consumer apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Profile portrait",
+      "definition": "A side view of a face used as a compositional anchor."
+    },
+    {
+      "term": "Ghost brand name",
+      "definition": "Oversized low-contrast brand text behind the subject."
+    },
+    {
+      "term": "Product-in-context",
+      "definition": "Showing an app next to the thing it acts on."
+    }
+  ]
+}

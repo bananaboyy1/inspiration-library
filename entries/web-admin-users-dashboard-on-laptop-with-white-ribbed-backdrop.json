@@ -1,0 +1,44 @@
+{
+  "name": "web-admin-users-dashboard-on-laptop-with-white-ribbed-backdrop",
+  "image": "images/web-admin-users-dashboard-on-laptop-with-white-ribbed-backdrop.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Admin Dashboard Laptop on White Ribbed Forms",
+  "tags": [
+    "laptop",
+    "dashboard",
+    "white",
+    "ribbed",
+    "lavender",
+    "admin",
+    "3d"
+  ],
+  "whatItIs": "A laptop tilted on a sculptural white ribbed surface showing a light admin users dashboard with KPI cards and a table, beneath a lavender panel with a phone edge.",
+  "whatItMeans": "Sculptural white ribs give an architectural stage, and the pale UI melts into it for a calm premium feel.",
+  "techniques": [
+    "Ribbed 3D forms as a stage",
+    "White and grey monochrome scene",
+    "Laptop angled with soft shadows",
+    "Coloured KPI cards as the only colour",
+    "Lavender background around the render"
+  ],
+  "bestFor": [
+    "Dashboard showcase renders",
+    "SaaS admin UI presentations",
+    "Neutral, premium scenes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ribbed form",
+      "definition": "A fluted 3D shape used as a backdrop."
+    },
+    {
+      "term": "Tonal scene",
+      "definition": "An image kept to one colour family."
+    },
+    {
+      "term": "KPI card",
+      "definition": "A card showing a key metric with a trend."
+    }
+  ]
+}

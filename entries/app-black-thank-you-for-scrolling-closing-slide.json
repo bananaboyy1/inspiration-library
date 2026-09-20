@@ -1,0 +1,44 @@
+{
+  "name": "app-black-thank-you-for-scrolling-closing-slide",
+  "image": "images/app-black-thank-you-for-scrolling-closing-slide.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Thank You for Scrolling Closing Slide",
+  "tags": [
+    "closing",
+    "black",
+    "thanks",
+    "orange",
+    "lime",
+    "phone",
+    "thumbs-up"
+  ],
+  "whatItIs": "A black closing slide with a huge white 'Thank you for scrolling' headline, a lime-tinted invitation line, an orange logo pill, a lime thumbs-up bubble and a tilted phone showing a cream climate-control screen.",
+  "whatItMeans": "Big friendly type ends a case study with warmth, and glowing pills add playful sign-off energy.",
+  "techniques": [
+    "Oversized lightweight headline as the main graphic",
+    "Glowing pill stickers (logo, thumbs-up) overlapping the text",
+    "Phone cropped off the right edge at an angle",
+    "Lime accent line inviting contact",
+    "Deep black with subtle radial lift"
+  ],
+  "bestFor": [
+    "Case study endings",
+    "Portfolio sign-offs",
+    "Contact and hiring calls to action"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sign-off slide",
+      "definition": "The final slide thanking viewers and inviting contact."
+    },
+    {
+      "term": "Glow pill",
+      "definition": "A rounded label with a soft coloured glow."
+    },
+    {
+      "term": "Cropped device",
+      "definition": "A device cut off by the frame edge."
+    }
+  ]
+}

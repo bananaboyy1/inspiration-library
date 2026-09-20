@@ -1,0 +1,44 @@
+{
+  "name": "web-security-feature-sections-holographic-card-and-vault-door",
+  "image": "images/web-security-feature-sections-holographic-card-and-vault-door.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Security Sections: Holographic Card and Vault Door",
+  "tags": [
+    "security",
+    "monochrome",
+    "holographic",
+    "vault",
+    "black",
+    "pills",
+    "photography"
+  ],
+  "whatItIs": "A collage of three dark and light panels for a bank's security messaging: a hand holding a holographic credit card on grey, a black panel 'Enterprise Grade Security for Everyday Banking' with pill feature tags, and a black and white photograph of an open bank vault door with 'Bank-Level Protection' and pills.",
+  "whatItMeans": "A vault photo is an instant metaphor for security, and a tiny rainbow sheen on the card is the only colour.",
+  "techniques": [
+    "Black and white vault photo as a metaphor",
+    "Iridescent card on plain grey",
+    "Pill tags summarising features",
+    "Dimmed words in the headline",
+    "Emoji inserted in a headline"
+  ],
+  "bestFor": [
+    "Security sections on fintech sites",
+    "Metaphor-led imagery",
+    "Monochrome feature panels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metaphor imagery",
+      "definition": "A picture that stands for an idea, like a vault for security."
+    },
+    {
+      "term": "Feature pills",
+      "definition": "Rounded tags listing key features."
+    },
+    {
+      "term": "Holographic sheen",
+      "definition": "A rainbow-like reflective gradient on a surface."
+    }
+  ]
+}

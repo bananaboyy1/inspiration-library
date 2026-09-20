@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-meeting-assistant-phone-in-hands-ghost-lettering",
+  "image": "images/app-lavender-meeting-assistant-phone-in-hands-ghost-lettering.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lavender Meeting Assistant in Hands",
+  "tags": [
+    "lavender",
+    "hands",
+    "meetings",
+    "ai",
+    "ghost-type",
+    "cards",
+    "cover"
+  ],
+  "whatItIs": "A cover with hands holding a phone showing a meeting assistant home (AI greeting, upcoming meetings, task counts) on a white and lavender gradient with faint 'Meetniva' lettering and a logo tile.",
+  "whatItMeans": "Soft lavender and rounded cards make a work tool feel calm rather than corporate.",
+  "techniques": [
+    "Black card for today's meetings as a strong contrast",
+    "Lavender gradient cards for upcoming items",
+    "Ghost brand name behind the phone",
+    "Hands entering from left and right",
+    "Logo tile bottom right"
+  ],
+  "bestFor": [
+    "Productivity and AI meeting tools",
+    "Case-study covers",
+    "Soft-toned workplace apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Contrast card",
+      "definition": "A dark card among light ones to mark the primary item."
+    },
+    {
+      "term": "AI greeting",
+      "definition": "An assistant prompt card at the top of a home screen."
+    },
+    {
+      "term": "Ghost lettering",
+      "definition": "Oversized faint brand text behind a subject."
+    }
+  ]
+}

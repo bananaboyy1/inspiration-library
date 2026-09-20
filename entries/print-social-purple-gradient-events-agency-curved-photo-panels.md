@@ -1,0 +1,29 @@
+# Purple Events Post with Curved Photo Panels
+
+![](../images/print-social-purple-gradient-events-agency-curved-photo-panels.jpg)
+
+**Discipline:** print-social · **Design type:** Social promo post
+**Tags:** events, purple, gradient, curved-photos, arc, agency, square
+
+## What it is
+A square purple gradient post with a logo top left, a headline 'We make every Events like:', a curved rainbow-dotted arc and three curved photo panels of outdoor, corporate and internal events with captions below each and thin leader lines.
+
+## What it means
+Curved photo windows on flowing purple lines feel dynamic and celebratory, fitting an events brand.
+
+## Techniques
+- Photos cropped into curved pillow shapes
+- Thin leader lines linking photos to captions
+- Dotted coloured arc as a decorative smile
+- Contour lines flowing across the gradient
+- Large light headline with one giant word
+
+## Best for
+- Event agency promotion
+- Service category overviews
+- Social posts with a photo trio
+
+## Vocabulary
+- **Curved crop** — A photo masked into a soft curved shape.
+- **Leader line** — A thin line linking an image to its caption.
+- **Contour lines** — Flowing thin lines used as a background texture.

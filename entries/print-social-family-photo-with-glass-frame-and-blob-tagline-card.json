@@ -1,0 +1,44 @@
+{
+  "name": "print-social-family-photo-with-glass-frame-and-blob-tagline-card",
+  "image": "images/print-social-family-photo-with-glass-frame-and-blob-tagline-card.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Family Photo with Glass Frame and Blob Card",
+  "tags": [
+    "family",
+    "glass-frame",
+    "blob",
+    "navy",
+    "fintech",
+    "photography",
+    "ad"
+  ],
+  "whatItIs": "A candid family scene in a kitchen with a thin glass frame around the centre, a hashtag and brand pill at the top, and a white blob-shaped card overlapping the lower edge with the headline 'Less managing. More living.', an advisor avatar and a Get button.",
+  "whatItMeans": "A warm candid photo with a soft blob card feels human and reassuring, and the frame focuses on the play moment.",
+  "techniques": [
+    "Glass frame highlighting the centre of a photo",
+    "Blob-shaped card cut by the photo elements",
+    "Blurred foreground family members for depth",
+    "Headline with bold sans and italic name",
+    "Brand pill and hashtag in the frame corners"
+  ],
+  "bestFor": [
+    "Lifestyle-led fintech ads",
+    "Family and household campaigns",
+    "Social ads with human moments"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass frame",
+      "definition": "A thin translucent border framing part of an image."
+    },
+    {
+      "term": "Blob card",
+      "definition": "A card with soft irregular contour edges."
+    },
+    {
+      "term": "Foreground blur",
+      "definition": "Out-of-focus objects in front of the subject."
+    }
+  ]
+}

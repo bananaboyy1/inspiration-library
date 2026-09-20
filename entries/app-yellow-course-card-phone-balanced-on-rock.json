@@ -1,0 +1,44 @@
+{
+  "name": "app-yellow-course-card-phone-balanced-on-rock",
+  "image": "images/app-yellow-course-card-phone-balanced-on-rock.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Course App Phone Balanced on Rock",
+  "tags": [
+    "education",
+    "yellow",
+    "black",
+    "rock",
+    "balance",
+    "dark",
+    "learning"
+  ],
+  "whatItIs": "A tall dark poster with a phone showing a black learning app with a big yellow course card balanced on a grey rock, and a text section below introducing the platform with a yellow graduation-cap icon inline.",
+  "whatItMeans": "Balancing on rock signals stability and craft, and yellow on black reads as smart and energetic.",
+  "techniques": [
+    "Phone balanced on a rough stone for contrast with sleek UI",
+    "Yellow card as the only warm colour on black",
+    "Inline icon inside a paragraph as a visual break",
+    "Gradient from dark grey to black for depth",
+    "Two-column small print below the hero"
+  ],
+  "bestFor": [
+    "Education and course platforms",
+    "Tall case-study heroes",
+    "Dark premium tech brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inline icon",
+      "definition": "A small icon placed within a line of text."
+    },
+    {
+      "term": "Stone pedestal",
+      "definition": "A rock used as a display base."
+    },
+    {
+      "term": "Warm accent on dark",
+      "definition": "A single warm hue set against a black scheme."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-green-crypto-finance-app-three-screens-with-lime-buttons",
+  "image": "images/app-dark-green-crypto-finance-app-three-screens-with-lime-buttons.webp",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Dark Green Crypto Finance App Screens",
+  "tags": [
+    "crypto",
+    "dark-green",
+    "lime",
+    "keypad",
+    "balance",
+    "send",
+    "received"
+  ],
+  "whatItIs": "Three phones with white bezels on a black-green field with a ghost brand name: a home with balance, request and send buttons, recent recipients and transactions; a send money screen with recipient, amount and keypad; and a received bitcoin screen with details and a lime button.",
+  "whatItMeans": "Dark green gradient screens with lime buttons feel modern and secure, and consistent cards keep the flow calm.",
+  "techniques": [
+    "Dark green gradient header on each screen",
+    "Lime primary buttons",
+    "Dark rounded cards and keypad keys",
+    "Green and red amounts for positive and negative",
+    "Ghost brand name behind the phones"
+  ],
+  "bestFor": [
+    "Crypto and wallet apps",
+    "Dark green and lime UI",
+    "Three-screen flow presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Keypad",
+      "definition": "A grid of number keys for entering an amount."
+    },
+    {
+      "term": "Recipient row",
+      "definition": "A row of recent contacts for quick sending."
+    },
+    {
+      "term": "Ghost brand name",
+      "definition": "Oversized faint text behind a scene."
+    }
+  ]
+}

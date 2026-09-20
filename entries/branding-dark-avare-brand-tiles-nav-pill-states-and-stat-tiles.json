@@ -1,0 +1,45 @@
+{
+  "name": "branding-dark-avare-brand-tiles-nav-pill-states-and-stat-tiles",
+  "image": "images/branding-dark-avare-brand-tiles-nav-pill-states-and-stat-tiles.jpg",
+  "discipline": "branding",
+  "designType": "Brand identity board",
+  "title": "Dark Brand Tiles with Nav Pill States",
+  "tags": [
+    "brand-board",
+    "dark",
+    "blue",
+    "nav-pills",
+    "stat-tiles",
+    "logo",
+    "notification",
+    "bento"
+  ],
+  "whatItIs": "A dark slate bento cropped at the top: a blue gradient tile with a white wordmark and triangle mark, stat tiles (60+ Screens, 10+ Flow), a notification card with the app icon, five rows of pill navigation showing each tab active in white, and a phone on a rock ledge showing a profile screen.",
+  "whatItMeans": "Showing each nav state in a row demonstrates the system, and a single blue tile anchors the dark board.",
+  "techniques": [
+    "Nav bar shown five times with a moving white pill",
+    "Blue gradient logo tile as the colour anchor",
+    "Stat tiles with large numerals",
+    "Notification card as a brand touchpoint",
+    "Phone on a dark ledge for atmosphere"
+  ],
+  "bestFor": [
+    "Brand and UI identity boards",
+    "Navigation state showcases",
+    "Dark bento presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Active pill",
+      "definition": "A white rounded shape marking the selected tab."
+    },
+    {
+      "term": "Stat tile",
+      "definition": "A tile with a big number and a label."
+    },
+    {
+      "term": "Touchpoint card",
+      "definition": "A card imitating a real place the brand appears."
+    }
+  ]
+}

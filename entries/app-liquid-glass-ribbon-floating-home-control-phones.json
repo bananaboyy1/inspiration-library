@@ -1,0 +1,44 @@
+{
+  "name": "app-liquid-glass-ribbon-floating-home-control-phones",
+  "image": "images/app-liquid-glass-ribbon-floating-home-control-phones.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Liquid Ribbon Around Home-Control Phones",
+  "tags": [
+    "black",
+    "liquid",
+    "glass",
+    "smart-home",
+    "floating",
+    "headline",
+    "poster"
+  ],
+  "whatItIs": "A tall black poster with a large headline 'Home control that goes wherever you go' partly fading into a translucent black liquid ribbon looping around two floating phones (a dark camera feed and a cream device list).",
+  "whatItMeans": "The liquid ribbon suggests flow and connection, and the fading headline blends type with imagery for a dramatic effect.",
+  "techniques": [
+    "Headline that fades progressively along its second line",
+    "Glassy liquid 3D object encircling the devices",
+    "Two phones at opposing angles in a dark and a light UI",
+    "Pure black background so highlights glow",
+    "Simple sentence-case sans headline"
+  ],
+  "bestFor": [
+    "Smart-home and connected product launches",
+    "Vertical hero posters",
+    "Premium dark presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fading headline",
+      "definition": "Text whose lines lose opacity as they descend."
+    },
+    {
+      "term": "Liquid 3D form",
+      "definition": "A rendered flowing translucent shape."
+    },
+    {
+      "term": "Opposing tilt",
+      "definition": "Two objects rotated in different directions for dynamism."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "branding-black-logo-construction-spacing-clear-space-grid",
+  "image": "images/branding-black-logo-construction-spacing-clear-space-grid.jpg",
+  "discipline": "branding",
+  "designType": "Logo guidelines",
+  "title": "Logo Clear Space and Spacing Grid",
+  "tags": [
+    "logo",
+    "clear-space",
+    "grid",
+    "black",
+    "monogram",
+    "wordmark",
+    "guidelines"
+  ],
+  "whatItIs": "A light grey page with a dashed grid showing a black stepped monogram with a dot and a blocky wordmark, surrounded by clear-space measurements marked X, X/2 and X/4 and an X width arrow.",
+  "whatItMeans": "Showing the spacing rules makes the logo feel systematic and protects it in use.",
+  "techniques": [
+    "Dashed grid lines behind the logo",
+    "Clear space defined by fractions of the mark width",
+    "Shaded margin zones around the lockup",
+    "Simple black logo on light grey",
+    "Measurement arrow beneath the mark"
+  ],
+  "bestFor": [
+    "Logo usage guidelines",
+    "Brand manuals",
+    "Wordmark and symbol lockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Clear space",
+      "definition": "The empty margin required around a logo."
+    },
+    {
+      "term": "X-unit",
+      "definition": "A measurement derived from part of the logo used to define spacing."
+    },
+    {
+      "term": "Lockup",
+      "definition": "A fixed arrangement of symbol and wordmark."
+    }
+  ]
+}

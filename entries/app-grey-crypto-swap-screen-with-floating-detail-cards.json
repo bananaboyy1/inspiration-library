@@ -1,0 +1,44 @@
+{
+  "name": "app-grey-crypto-swap-screen-with-floating-detail-cards",
+  "image": "images/app-grey-crypto-swap-screen-with-floating-detail-cards.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Swap Screen with Floating Detail Cards",
+  "tags": [
+    "swap",
+    "grey",
+    "floating-cards",
+    "hand",
+    "crypto",
+    "connectors",
+    "light"
+  ],
+  "whatItIs": "A pale grey slide with headline 'Seamless money transfer for a better banking Experience.', a hand-held swap screen and enlarged You Pay and You Receive cards linked by thin lines, with small captions.",
+  "whatItMeans": "Pulling cards out at large scale explains the flow while the neutral palette stays calm.",
+  "techniques": [
+    "Enlarged cards connected by hairlines",
+    "Headline with the last words dimmed",
+    "Hand fading into the background at the bottom",
+    "Small icon and paragraph captions",
+    "Monochrome UI with coin colours as accents"
+  ],
+  "bestFor": [
+    "Fintech feature explainers",
+    "Crypto swap flows",
+    "Callout-based screen presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Callout card",
+      "definition": "An enlarged UI piece linked to its place on the screen."
+    },
+    {
+      "term": "Hairline connector",
+      "definition": "A thin line linking two related elements."
+    },
+    {
+      "term": "Fade-out hand",
+      "definition": "A hand that fades into the background."
+    }
+  ]
+}

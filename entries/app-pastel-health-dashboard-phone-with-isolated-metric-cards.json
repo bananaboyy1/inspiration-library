@@ -1,0 +1,44 @@
+{
+  "name": "app-pastel-health-dashboard-phone-with-isolated-metric-cards",
+  "image": "images/app-pastel-health-dashboard-phone-with-isolated-metric-cards.png",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Pastel Health Dashboard with Metric Cards",
+  "tags": [
+    "health",
+    "pastel",
+    "cards",
+    "steps",
+    "sleep",
+    "calories",
+    "blood-sugar"
+  ],
+  "whatItIs": "Three white rounded panels on light grey: a phone with a greeting, a blue blood sugar card, and pastel purple, green and peach cards for steps, sleep and calories; and two panels isolating those cards at large scale.",
+  "whatItMeans": "Each metric gets its own pastel, so the dashboard reads at a glance, and enlarged cards show the design details.",
+  "techniques": [
+    "One pastel per metric category",
+    "Isolated component crops beside the full screen",
+    "Bold numerals with small units",
+    "Red and dark bars for the blood-sugar spark chart",
+    "Dark pill navigation with a blue plus button"
+  ],
+  "bestFor": [
+    "Health-tracking apps",
+    "Component showcases within case studies",
+    "Data cards with soft colours"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metric card",
+      "definition": "A card showing one measure and its trend."
+    },
+    {
+      "term": "Unit suffix",
+      "definition": "A small unit label set next to a large number."
+    },
+    {
+      "term": "Component isolation",
+      "definition": "Showing one UI piece large on its own."
+    }
+  ]
+}

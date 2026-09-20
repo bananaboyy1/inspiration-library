@@ -1,0 +1,44 @@
+{
+  "name": "web-monochrome-crm-dashboard-with-hatched-bar-chart-and-black-actions",
+  "image": "images/web-monochrome-crm-dashboard-with-hatched-bar-chart-and-black-actions.jpg",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Monochrome CRM Dashboard with Hatched Bars",
+  "tags": [
+    "dashboard",
+    "crm",
+    "monochrome",
+    "hatched-bars",
+    "black-buttons",
+    "table",
+    "cream"
+  ],
+  "whatItIs": "A cream and white CRM dashboard on a grey backdrop with a sidebar, a lead preview table, notifications, a bar chart of rounded hatched bars with one solid black bar and a tooltip, a lesson sections list and a pro upsell card, with black buttons for actions.",
+  "whatItMeans": "Hatched bars and black buttons give a crisp, editorial look, and a single solid bar shows the selection.",
+  "techniques": [
+    "Rounded hatched bars as chart texture",
+    "One solid black bar as the selected value",
+    "Black pill buttons as the only strong contrast",
+    "Cursor and name tag showing collaboration",
+    "Warm cream panels on a light shell"
+  ],
+  "bestFor": [
+    "CRM and admin dashboards",
+    "Monochrome data UI",
+    "Upsell and notification panels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched bar",
+      "definition": "A bar filled with fine lines instead of solid colour."
+    },
+    {
+      "term": "Tooltip card",
+      "definition": "A floating card showing details of a hovered value."
+    },
+    {
+      "term": "Upsell card",
+      "definition": "A sidebar card promoting a paid plan."
+    }
+  ]
+}

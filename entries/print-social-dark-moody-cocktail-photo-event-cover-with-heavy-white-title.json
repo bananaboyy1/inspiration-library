@@ -1,0 +1,45 @@
+{
+  "name": "print-social-dark-moody-cocktail-photo-event-cover-with-heavy-white-title",
+  "image": "images/print-social-dark-moody-cocktail-photo-event-cover-with-heavy-white-title.png",
+  "discipline": "print-social",
+  "designType": "Social cover post",
+  "title": "Moody Cocktail Photo Event Cover",
+  "tags": [
+    "event",
+    "photography",
+    "dark",
+    "cocktail",
+    "white-type",
+    "location-pill",
+    "carousel",
+    "instagram"
+  ],
+  "whatItIs": "An Instagram carousel slide of a dark film-grain photo of hands holding a coupe glass over a whisky glass, with a small white logo top left, an outlined location pill, a heavy white sans headline 'XCHANGE FASHION SIP + SWAP: LUNAR NEW YEAR EDITION', a venue and date line and an arrow at the lower right.",
+  "whatItMeans": "Warm low light and hands in the frame feel intimate and social, and blunt heavy type reads instantly over the dark photo.",
+  "techniques": [
+    "Grainy low-light photography",
+    "Heavy white caps headline set low left",
+    "Smaller venue and date under the title",
+    "Outlined pill for the city",
+    "Arrow cue for the next slide"
+  ],
+  "bestFor": [
+    "Event roundup carousels",
+    "Nightlife and social event marketing",
+    "Photo-led text overlays"
+  ],
+  "vocabulary": [
+    {
+      "term": "Film grain",
+      "definition": "Visible noise giving photos an analog feel."
+    },
+    {
+      "term": "Location pill",
+      "definition": "An outlined capsule naming the city."
+    },
+    {
+      "term": "Text over photo",
+      "definition": "Type placed directly on a darkened image."
+    }
+  ]
+}

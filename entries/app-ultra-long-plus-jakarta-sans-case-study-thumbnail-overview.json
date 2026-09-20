@@ -1,0 +1,44 @@
+{
+  "name": "app-ultra-long-plus-jakarta-sans-case-study-thumbnail-overview",
+  "image": "images/app-ultra-long-plus-jakarta-sans-case-study-thumbnail-overview.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Ultra-Long Case Study Overview",
+  "tags": [
+    "ultra-long",
+    "case-study",
+    "typography",
+    "monochrome",
+    "orange",
+    "screens",
+    "overview"
+  ],
+  "whatItIs": "A very narrow tall thumbnail of an extremely long case-study page for an AI support product: a Plus Jakarta Sans specimen, colour swatches of black, grey and orange, and dozens of sections of phones, laptop and tablet shots, flows and hand-held photos on a white and grey base.",
+  "whatItMeans": "Even at thumbnail size the rhythm of alternating text and device sections shows a very complete story.",
+  "techniques": [
+    "Consistent rhythm of text block then device image",
+    "Monochrome palette with orange accent",
+    "Dark sections interleaved with white",
+    "Flow diagrams between screen sections",
+    "Specimen and palette at the top"
+  ],
+  "bestFor": [
+    "Case-study page structure reference",
+    "AI and enterprise product portfolios",
+    "Long-form scroll layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Page thumbnail",
+      "definition": "A miniature overview of an entire long page."
+    },
+    {
+      "term": "Section rhythm",
+      "definition": "A repeating pattern of text and image blocks down a page."
+    },
+    {
+      "term": "Dark interlude",
+      "definition": "A dark section placed between light ones."
+    }
+  ]
+}

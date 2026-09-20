@@ -1,0 +1,44 @@
+{
+  "name": "app-navy-user-flow-tree-with-phone-and-italic-serif-headline",
+  "image": "images/app-navy-user-flow-tree-with-phone-and-italic-serif-headline.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Navy User Flow Tree beside Phone",
+  "tags": [
+    "user-flow",
+    "tree",
+    "navy",
+    "pills",
+    "serif-italic",
+    "white",
+    "fintech"
+  ],
+  "whatItIs": "A white slide with a User Flow pill, a headline mixing light sans and bold italic serif, a fintech phone at left and a rounded-pill tree at right with navy nodes for Sign Up, Navigation, Discover and Event and pale nodes for sub-screens.",
+  "whatItMeans": "Navy filled nodes mark main screens while pale ones recede, so the structure reads at once.",
+  "techniques": [
+    "Filled navy nodes for primary screens",
+    "Pale outlined nodes for secondary screens",
+    "Soft shadowed pills with elbow connectors",
+    "Phone as a visual anchor at left",
+    "Italic serif in the headline"
+  ],
+  "bestFor": [
+    "User flow documentation",
+    "Fintech case studies",
+    "Explaining app navigation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Primary node",
+      "definition": "A filled pill representing a main screen."
+    },
+    {
+      "term": "Secondary node",
+      "definition": "A pale pill representing a sub-screen."
+    },
+    {
+      "term": "Anchor image",
+      "definition": "A picture placed beside a diagram to ground it."
+    }
+  ]
+}

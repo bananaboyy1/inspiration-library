@@ -1,0 +1,45 @@
+{
+  "name": "web-black-agency-page-with-four-colour-service-cards",
+  "image": "images/web-black-agency-page-with-four-colour-service-cards.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Black Agency Page with Four Colour Service Cards",
+  "tags": [
+    "agency",
+    "black",
+    "pink",
+    "lime",
+    "orange",
+    "cards",
+    "icons",
+    "marketing"
+  ],
+  "whatItIs": "A black rounded page with a nav, a big white headline 'Marketing is an art and we're artists', four short blurbs with underlined links and four tall service cards in pink, lime, orange and cream with black glyph icons and numbered titles, the lime one expanded with a description.",
+  "whatItMeans": "Bright cards on black feel bold and creative, and a single expanded card shows interaction.",
+  "techniques": [
+    "Four saturated cards on a black ground",
+    "Simple black glyph icons in each card",
+    "Numbered service titles",
+    "One card expanded to show hover state",
+    "Underlined text links under blurbs"
+  ],
+  "bestFor": [
+    "Agency and studio sites",
+    "Service overviews",
+    "Colourful cards on dark backgrounds"
+  ],
+  "vocabulary": [
+    {
+      "term": "Service card",
+      "definition": "A card describing one offered service."
+    },
+    {
+      "term": "Hover state",
+      "definition": "The look of an element when the pointer is over it."
+    },
+    {
+      "term": "Glyph icon",
+      "definition": "A simple abstract symbol used as an icon."
+    }
+  ]
+}

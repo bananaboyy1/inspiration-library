@@ -1,0 +1,44 @@
+{
+  "name": "branding-gradient-health-brand-profile-and-social-post-tiles",
+  "image": "images/branding-gradient-health-brand-profile-and-social-post-tiles.png",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Gradient Health Brand Profile and Post",
+  "tags": [
+    "profile",
+    "gradient",
+    "lavender",
+    "black",
+    "social",
+    "verified",
+    "wellness"
+  ],
+  "whatItIs": "Two rounded tiles: a black tile holding a social profile card with a lilac cover and a gradient petal-person avatar, and a white-to-lilac tile with a large statement headline and the gradient wordmark.",
+  "whatItMeans": "A soft gradient brand feels modern and caring, and showing both profile and post proves it works in the feed.",
+  "techniques": [
+    "Black tile to make a light card glow",
+    "Gradient avatar as a brand stamp",
+    "Large left-aligned statement with a wordmark sign-off",
+    "Blur blobs of blue and violet in the post",
+    "Consistent large corner radius"
+  ],
+  "bestFor": [
+    "Health-tech identities",
+    "Social profile presentations",
+    "Gradient brand systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Profile mockup",
+      "definition": "A social account page showing brand assets."
+    },
+    {
+      "term": "Gradient wordmark",
+      "definition": "Lettering filled with a colour gradient."
+    },
+    {
+      "term": "Contrast tile",
+      "definition": "A dark tile that makes a light element stand out."
+    }
+  ]
+}

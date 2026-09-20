@@ -1,0 +1,45 @@
+{
+  "name": "print-social-white-maze-pattern-faq-slide-with-3d-blue-question-mark-and-chat-bubbles",
+  "image": "images/print-social-white-maze-pattern-faq-slide-with-3d-blue-question-mark-and-chat-bubbles.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "FAQ Slide with 3D Question Mark and Chat Bubbles",
+  "tags": [
+    "carousel",
+    "faq",
+    "white",
+    "maze-pattern",
+    "3d",
+    "blue",
+    "chat-bubbles",
+    "swipe"
+  ],
+  "whatItIs": "A white slide covered in a faint maze-like line pattern with a ticket logo, a chunky glossy 3D blue question mark at the lower left, a tilted blue speech card with the question 'What if the seller sends me a fake ticket?', a blue answer card with escrow explanation and a hand-drawn swipe hint at the corner.",
+  "whatItMeans": "Question and answer as chat bubbles make an FAQ feel like a conversation, and the 3D question mark is a clear symbol.",
+  "techniques": [
+    "Question and answer as two speech cards",
+    "Glossy 3D question mark as a hero object",
+    "Faint maze pattern as a brand texture",
+    "Blue and white only",
+    "Hand-drawn swipe cue"
+  ],
+  "bestFor": [
+    "FAQ carousel slides",
+    "Trust and safety explanations",
+    "3D icon accents"
+  ],
+  "vocabulary": [
+    {
+      "term": "Speech card",
+      "definition": "A card shaped like a chat bubble."
+    },
+    {
+      "term": "Brand pattern",
+      "definition": "A repeated faint pattern unique to a brand."
+    },
+    {
+      "term": "Swipe hint",
+      "definition": "A small illustrated cue to move to the next slide."
+    }
+  ]
+}

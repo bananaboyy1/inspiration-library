@@ -1,0 +1,44 @@
+{
+  "name": "app-uiux-design-long-sheet-home-analytics-assistant-pages",
+  "image": "images/app-uiux-design-long-sheet-home-analytics-assistant-pages.png",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "UI/UX Design Sheet: Home, Analytics and Assistant",
+  "tags": [
+    "health",
+    "long-sheet",
+    "screens",
+    "zigzag",
+    "captions",
+    "connectors",
+    "pale"
+  ],
+  "whatItIs": "A tall pale sheet titled UI/UX Design with three large phones alternating right, left, right (home, analytics, assistant), each with a heading and description at the opposite side joined by a blue line and small component cards or chips beneath.",
+  "whatItMeans": "Alternating placement and blue connectors turn a list of screens into a readable story.",
+  "techniques": [
+    "Zigzag placement of phones",
+    "Blue leader lines with a dot to each caption",
+    "Small extracted component cards below captions",
+    "Large light headline with a bold key phrase",
+    "Extra whitespace between sections"
+  ],
+  "bestFor": [
+    "Screen-by-screen design documentation",
+    "Health app case studies",
+    "Long-scroll pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Zigzag layout",
+      "definition": "Elements alternating sides down a page."
+    },
+    {
+      "term": "Leader line",
+      "definition": "A thin line linking a caption to its screen."
+    },
+    {
+      "term": "Extracted component",
+      "definition": "A small copy of a UI piece shown beside its screen."
+    }
+  ]
+}

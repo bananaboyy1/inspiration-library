@@ -1,0 +1,44 @@
+{
+  "name": "print-social-red-modular-grid-lesson-with-cat-photo-and-japanese-text",
+  "image": "images/print-social-red-modular-grid-lesson-with-cat-photo-and-japanese-text.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Modular Grid Lesson with Cat Poster",
+  "tags": [
+    "modular-grid",
+    "red",
+    "yellow",
+    "cat",
+    "poster-sample",
+    "japanese",
+    "educational"
+  ],
+  "whatItIs": "A red post with yellow heading '01 Modular Grid', a definition and a framed poster sample with a cat photo cut by white grid lines, vertical yellow 'Style' type, Japanese katakana, a white text block about white space and number 04.",
+  "whatItMeans": "A poster sample built on a visible modular grid shows the principle, and yellow on red is loud.",
+  "techniques": [
+    "Visible white grid lines over a photo",
+    "Vertical rotated display word",
+    "Mixed scripts (Latin and Japanese) as a texture",
+    "Yellow on red contrast",
+    "Series header with account and follow buttons"
+  ],
+  "bestFor": [
+    "Layout theory lessons",
+    "Design account series",
+    "Poster-sample explanations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Modular grid",
+      "definition": "A grid of rows and columns making equal cells."
+    },
+    {
+      "term": "Rotated display type",
+      "definition": "Large text turned 90 degrees."
+    },
+    {
+      "term": "Grid overlay",
+      "definition": "Lines drawn over an image to reveal structure."
+    }
+  ]
+}

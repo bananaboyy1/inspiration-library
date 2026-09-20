@@ -1,0 +1,42 @@
+{
+  "name": "app-yellow-research-tag-card-tilted-on-white",
+  "image": "images/app-yellow-research-tag-card-tilted-on-white.gif",
+  "discipline": "app",
+  "designType": "Design process showcase",
+  "title": "Tilted Yellow Research Card",
+  "tags": [
+    "process",
+    "yellow",
+    "tilted-card",
+    "research",
+    "white",
+    "tags"
+  ],
+  "whatItIs": "A mostly white wide frame with a tilted rounded yellow card at the left listing Research activities such as data analysis, user interviews, problem statement, persona and journey in white text.",
+  "whatItMeans": "A single coloured card on white is an eye-catching label, and the tilt adds motion, as if mid-animation.",
+  "techniques": [
+    "Tilted coloured card as a title element",
+    "Small white text in scattered columns on the card",
+    "Large blank space to allow an animation or content to arrive",
+    "One warm yellow against white"
+  ],
+  "bestFor": [
+    "Process stage cards",
+    "Animated case-study intros",
+    "Minimal step labels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tilted card",
+      "definition": "A card rotated slightly for energy."
+    },
+    {
+      "term": "Stage card",
+      "definition": "A card naming one phase of a process."
+    },
+    {
+      "term": "Negative space",
+      "definition": "Empty area around content."
+    }
+  ]
+}

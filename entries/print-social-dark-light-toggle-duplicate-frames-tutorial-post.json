@@ -1,0 +1,44 @@
+{
+  "name": "print-social-dark-light-toggle-duplicate-frames-tutorial-post",
+  "image": "images/print-social-dark-light-toggle-duplicate-frames-tutorial-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Duplicate Frames Toggle Tutorial",
+  "tags": [
+    "tutorial",
+    "toggle",
+    "dark-light",
+    "step-05",
+    "frames",
+    "grey",
+    "glass"
+  ],
+  "whatItIs": "Step 05 of a toggle tutorial: a glowing number bubble, italic heading, instruction and two side-by-side frames showing the toggle in Dark and Light states, with the link bar below.",
+  "whatItMeans": "Showing both states side by side communicates the end result of the copy-and-edit step at a glance.",
+  "techniques": [
+    "Two frames displaying before and after states",
+    "Tonal grey palette so the toggle is the hero",
+    "Consistent step-bubble and footer system",
+    "Small caption text inside frames for realism",
+    "Light frame lifted slightly for contrast"
+  ],
+  "bestFor": [
+    "UI micro-interaction tutorials",
+    "Asset marketing",
+    "Consecutive step posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "State pair",
+      "definition": "Two frames showing a component in different states."
+    },
+    {
+      "term": "Toggle",
+      "definition": "A switch control moving between two options."
+    },
+    {
+      "term": "Step series",
+      "definition": "A sequence of numbered posts with identical layout."
+    }
+  ]
+}

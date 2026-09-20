@@ -1,0 +1,44 @@
+{
+  "name": "app-black-yellow-video-editor-phone-in-silhouette-hands",
+  "image": "images/app-black-yellow-video-editor-phone-in-silhouette-hands.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Yellow Video Editor in Silhouette Hands",
+  "tags": [
+    "video-editor",
+    "yellow",
+    "black",
+    "silhouette",
+    "timeline",
+    "floating-cards",
+    "cover"
+  ],
+  "whatItIs": "A cover with black silhouetted hands holding a phone with a dark video editing UI and a yellow timeline, plus floating volume and animation cards and a year pill.",
+  "whatItMeans": "Black hands and a warm yellow glow keep focus on the editing controls, and floating cards explain features at a glance.",
+  "techniques": [
+    "Silhouetted hands merging with the dark background",
+    "Yellow accent for playhead, buttons and glow",
+    "Floating feature cards outside the phone",
+    "Amber light leak from the left",
+    "Small logo chips top left and year top right"
+  ],
+  "bestFor": [
+    "Creative and video apps",
+    "Dark portfolio covers",
+    "Feature teaser images"
+  ],
+  "vocabulary": [
+    {
+      "term": "Light leak",
+      "definition": "A warm glow bleeding into the edge of an image."
+    },
+    {
+      "term": "Playhead",
+      "definition": "The marker showing the current position on a timeline."
+    },
+    {
+      "term": "Feature float",
+      "definition": "A UI card pulled outside the device to highlight a feature."
+    }
+  ]
+}

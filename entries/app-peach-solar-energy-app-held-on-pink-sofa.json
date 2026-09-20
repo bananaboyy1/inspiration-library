@@ -1,0 +1,44 @@
+{
+  "name": "app-peach-solar-energy-app-held-on-pink-sofa",
+  "image": "images/app-peach-solar-energy-app-held-on-pink-sofa.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Solar Energy App on a Pink Sofa",
+  "tags": [
+    "pink",
+    "peach",
+    "sofa",
+    "hand",
+    "solar",
+    "lifestyle",
+    "warm"
+  ],
+  "whatItIs": "A woman's hand holds a phone showing an orange sunburst gauge (76% solar) against a soft pink sofa and knit sleeve.",
+  "whatItMeans": "Warm pinks and a sunburst gauge feel cosy and optimistic, linking energy to home comfort.",
+  "techniques": [
+    "Lifestyle setting matched to the UI colours",
+    "Sunburst radial gauge as a signature graphic",
+    "Shallow depth of field on the sofa",
+    "Warm sweater texture in the foreground",
+    "Peach and orange UI accents"
+  ],
+  "bestFor": [
+    "Home energy apps",
+    "Lifestyle mockups",
+    "Warm-toned consumer brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sunburst gauge",
+      "definition": "A radial gauge with rays around a percentage."
+    },
+    {
+      "term": "Lifestyle mockup",
+      "definition": "A device shown in a real domestic setting."
+    },
+    {
+      "term": "Tonal match",
+      "definition": "Scene and UI sharing the same colour family."
+    }
+  ]
+}

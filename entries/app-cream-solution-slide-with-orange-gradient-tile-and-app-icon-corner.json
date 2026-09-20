@@ -1,0 +1,44 @@
+{
+  "name": "app-cream-solution-slide-with-orange-gradient-tile-and-app-icon-corner",
+  "image": "images/app-cream-solution-slide-with-orange-gradient-tile-and-app-icon-corner.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Cream Solution Slide with Gradient Tile and Icon",
+  "tags": [
+    "solution",
+    "cream",
+    "yellow",
+    "gradient",
+    "app-icon",
+    "phone-corner",
+    "bento"
+  ],
+  "whatItIs": "A cream board with a top tile of a large light headline about an assistant balancing home tasks, a tall tile of soft yellow to orange gradient, and a tile with a cropped black phone showing an orange gradient app icon beside Photos, Mail and Notes.",
+  "whatItMeans": "A blank gradient tile acts as a breathing pause between text and product, and the cropped phone shows the icon in the wild.",
+  "techniques": [
+    "Blank gradient tile as a colour rest",
+    "Large light headline with a small paragraph",
+    "Phone cropped tightly showing the icon among system icons",
+    "Cream base with rounded tiles",
+    "Warm yellow-orange gradient echoing the icon"
+  ],
+  "bestFor": [
+    "Solution statements in case studies",
+    "App icon reveals",
+    "Bento layouts with mixed content"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour rest tile",
+      "definition": "A tile with only a gradient, giving the eye a pause."
+    },
+    {
+      "term": "Icon in context",
+      "definition": "An icon shown next to real system app icons."
+    },
+    {
+      "term": "Solution slide",
+      "definition": "A slide summarising how the product solves the problem."
+    }
+  ]
+}

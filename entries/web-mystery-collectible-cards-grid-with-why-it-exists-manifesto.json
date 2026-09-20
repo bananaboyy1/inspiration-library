@@ -1,0 +1,44 @@
+{
+  "name": "web-mystery-collectible-cards-grid-with-why-it-exists-manifesto",
+  "image": "images/web-mystery-collectible-cards-grid-with-why-it-exists-manifesto.png",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Mystery Collectible Cards and Manifesto",
+  "tags": [
+    "collectibles",
+    "cards",
+    "question-mark",
+    "pink",
+    "manifesto",
+    "monospace",
+    "tilted"
+  ],
+  "whatItIs": "A mobile page section titled 'SERIES_01 COLLECTIBLES' with a unit tag and status text, three tilted white cards showing a circled question mark with circular text, a fourth pink limited card, then a giant 'WHY IT EXISTS.' heading beside a vertical rule and three numbered points with pink, lime and blue squares.",
+  "whatItMeans": "Sealed mystery cards create curiosity, and coloured square bullets tie the manifesto to the palette.",
+  "techniques": [
+    "Tilted cards with a circular text seal",
+    "One pink card as the rare item",
+    "Heavy heading beside a thick vertical rule",
+    "Coloured square markers for list items",
+    "Monospace metadata labels"
+  ],
+  "bestFor": [
+    "Collectible reveal sections",
+    "Manifesto and why-us blocks",
+    "Mystery-box visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Circular text seal",
+      "definition": "A ring of text around a central symbol."
+    },
+    {
+      "term": "Manifesto block",
+      "definition": "A short numbered statement of purpose."
+    },
+    {
+      "term": "Vertical rule",
+      "definition": "A thick line separating a heading from its content."
+    }
+  ]
+}

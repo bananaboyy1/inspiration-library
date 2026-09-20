@@ -1,0 +1,44 @@
+{
+  "name": "web-travel-admin-panel-dashboard-with-bookings-chart",
+  "image": "images/web-travel-admin-panel-dashboard-with-bookings-chart.jpg",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Travel Admin Dashboard with Bookings Chart",
+  "tags": [
+    "dashboard",
+    "admin",
+    "bar-chart",
+    "kpi",
+    "table",
+    "destinations",
+    "blue"
+  ],
+  "whatItIs": "A lavender board with a torn-paper 'Dashboard Page' title above a light admin UI with four KPI cards, a monthly bookings bar chart with a highlighted July tooltip, a popular destination photo card and a recent bookings table.",
+  "whatItMeans": "Soft blue charts with pastel KPIs and a photo card feel welcoming for an operations tool.",
+  "techniques": [
+    "Bar chart with faded track bars behind the values",
+    "Photo card for destination breaking up the data",
+    "Status pills for booking states",
+    "Coloured icon tiles on KPI cards",
+    "Sidebar with grouped sections and support card"
+  ],
+  "bestFor": [
+    "Admin dashboards",
+    "Travel platform back-offices",
+    "Chart and table layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Track bar",
+      "definition": "A faded bar behind a value bar showing the maximum."
+    },
+    {
+      "term": "Tooltip pin",
+      "definition": "A floating label marking a chart value."
+    },
+    {
+      "term": "Sidebar group",
+      "definition": "Navigation items grouped under small headings."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "web-solid-midnight-indigo-strip-background",
+  "image": "images/web-solid-midnight-indigo-strip-background.jpg",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Solid Midnight Indigo Strip",
+  "tags": [
+    "indigo",
+    "dark",
+    "solid",
+    "strip",
+    "background",
+    "flat"
+  ],
+  "whatItIs": "A very wide, very short flat strip in a single deep midnight indigo, with no visible content or gradient.",
+  "whatItMeans": "A dark saturated flat tone serves as a quiet base color: professional, night-like and versatile behind light text.",
+  "techniques": [
+    "Use one deep, slightly purple-tinted navy instead of pure black",
+    "Let a flat band act as a section divider or footer base",
+    "Keep it uncluttered so overlaid white or neon text pops",
+    "Treat colour alone as the design"
+  ],
+  "bestFor": [
+    "Footer or divider bands",
+    "Dark-mode section backgrounds",
+    "Colour reference for tech and finance palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flat colour",
+      "definition": "A uniform fill without gradient or texture."
+    },
+    {
+      "term": "Divider band",
+      "definition": "A thin coloured strip separating page sections."
+    },
+    {
+      "term": "Tinted black",
+      "definition": "A very dark colour with a hint of hue, warmer or cooler than pure black."
+    }
+  ]
+}

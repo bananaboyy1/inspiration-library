@@ -1,0 +1,44 @@
+{
+  "name": "app-mulish-typography-and-gradient-palette-sheet",
+  "image": "images/app-mulish-typography-and-gradient-palette-sheet.png",
+  "discipline": "app",
+  "designType": "Typography and colour guide",
+  "title": "Mulish Type and Gradient Palette Sheet",
+  "tags": [
+    "typography",
+    "palette",
+    "gradient",
+    "soft",
+    "blue",
+    "purple",
+    "design-system"
+  ],
+  "whatItIs": "A design-system page with a large 'Mulish' specimen on a lavender card, a weight comparison showing a single 'a' revealed across four weights, and five tall gradient swatches with hex labels.",
+  "whatItMeans": "Soft gradients and rounded cards keep the sheet gentle. The cropped weight reveal turns dry specs into a small visual moment.",
+  "techniques": [
+    "Slice one letter across weight columns to show progression",
+    "Tall fading swatches with pin-like hex chips",
+    "Soft lavender glow inside the specimen card",
+    "Neutral off-white page around rounded cards",
+    "Section numbering in parentheses"
+  ],
+  "bestFor": [
+    "Design system documentation",
+    "Brand guideline pages",
+    "Type-and-colour presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Weight ramp",
+      "definition": "A display of the same glyph in increasing weights."
+    },
+    {
+      "term": "Gradient swatch",
+      "definition": "A colour sample shown fading to transparent."
+    },
+    {
+      "term": "Hex chip",
+      "definition": "A small label giving a colour's hex code."
+    }
+  ]
+}

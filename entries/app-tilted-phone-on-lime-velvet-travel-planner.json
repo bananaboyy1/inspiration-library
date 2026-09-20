@@ -1,0 +1,44 @@
+{
+  "name": "app-tilted-phone-on-lime-velvet-travel-planner",
+  "image": "images/app-tilted-phone-on-lime-velvet-travel-planner.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Tilted Phone on Lime Velvet",
+  "tags": [
+    "lime",
+    "green",
+    "monochrome",
+    "3d",
+    "travel",
+    "ai",
+    "tilted-phone"
+  ],
+  "whatItIs": "A phone showing a travel planner form tilted diagonally across a curved lime-green velvet form, with a lime-and-forest-green interface that matches the surroundings.",
+  "whatItMeans": "Matching the UI palette to the physical backdrop makes the app feel like part of the material world. The rich tactile fabric adds warmth and desirability.",
+  "techniques": [
+    "Monochrome scene where the UI colors echo the environment",
+    "Steep diagonal placement of the device for energy",
+    "Soft directional light and shadow on textured fabric",
+    "Lime primary button against deep green selected chips",
+    "Pill-shaped floating tab bar"
+  ],
+  "bestFor": [
+    "App store and launch imagery",
+    "Travel, wellness and eco brands",
+    "Portfolio hero shots for mobile projects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal scene",
+      "definition": "A composition built from one hue family so subject and setting agree."
+    },
+    {
+      "term": "Diagonal device",
+      "definition": "A phone rotated off-axis to add movement."
+    },
+    {
+      "term": "Floating tab bar",
+      "definition": "A rounded navigation pill hovering above the content."
+    }
+  ]
+}

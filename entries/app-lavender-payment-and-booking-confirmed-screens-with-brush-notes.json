@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-payment-and-booking-confirmed-screens-with-brush-notes",
+  "image": "images/app-lavender-payment-and-booking-confirmed-screens-with-brush-notes.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Payment and Booking Confirmed with Brush Notes",
+  "tags": [
+    "payment",
+    "confirmation",
+    "lavender",
+    "brush-notes",
+    "connectors",
+    "plane",
+    "blue"
+  ],
+  "whatItIs": "A lavender page with a payment phone cropped at the top (pay-by-app icons, fee breakdown and a blue Pay button), a booking confirmed phone with a 3D plane and a summary card, and two brush-stroke white notes joined to the phones by elbow connector lines.",
+  "whatItMeans": "Connectors from torn notes to the screens explain each step, and a 3D plane makes confirmation a celebration.",
+  "techniques": [
+    "Torn paper notes linked by connector lines",
+    "3D plane icon as the confirmation reward",
+    "Payment app icons in rounded tiles",
+    "Cropped top phone implying scroll",
+    "Blue gradient primary and grey secondary buttons"
+  ],
+  "bestFor": [
+    "Payment and confirmation screens",
+    "Annotated screen presentations",
+    "Travel apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Brush note",
+      "definition": "A rough torn-paper shape holding an annotation."
+    },
+    {
+      "term": "Reward icon",
+      "definition": "A celebratory 3D illustration on a success screen."
+    },
+    {
+      "term": "Fee breakdown",
+      "definition": "A list showing room fee, discount, tax and total."
+    }
+  ]
+}

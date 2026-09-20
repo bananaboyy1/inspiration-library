@@ -1,0 +1,45 @@
+{
+  "name": "app-dark-villa-booking-flow-screen-sheet",
+  "image": "images/app-dark-villa-booking-flow-screen-sheet.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Villa Booking Flow Screen Sheet",
+  "tags": [
+    "dark",
+    "booking",
+    "hotel",
+    "calendar",
+    "payment",
+    "profile",
+    "blue",
+    "phones"
+  ],
+  "whatItIs": "Eight dark phone screens: villa detail, room choices, date picker, personal information, payment, booking confirmation, bookings list and profile, with periwinkle-blue gradient buttons and step trackers.",
+  "whatItMeans": "A consistent dark card system with one accent makes a long flow feel cohesive and premium.",
+  "techniques": [
+    "Three-step progress tracker at the top of the flow",
+    "Big photo header on the detail screen with an overlaid info card",
+    "Range selection highlighted in blue on a calendar",
+    "Payment method icons in rounded tiles",
+    "Confirmation screen with a 3D icon as a reward moment"
+  ],
+  "bestFor": [
+    "Booking and travel apps",
+    "Full-flow UI presentations",
+    "Dark-mode design systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Step tracker",
+      "definition": "A row of dots and labels showing progress through a flow."
+    },
+    {
+      "term": "Reward moment",
+      "definition": "A celebratory visual at the end of a task."
+    },
+    {
+      "term": "Range picker",
+      "definition": "A calendar selecting start and end dates."
+    }
+  ]
+}

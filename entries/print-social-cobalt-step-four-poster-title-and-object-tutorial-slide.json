@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cobalt-step-four-poster-title-and-object-tutorial-slide",
+  "image": "images/print-social-cobalt-step-four-poster-title-and-object-tutorial-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Step 4 Object, Gradient and Title Tutorial",
+  "tags": [
+    "tutorial",
+    "cobalt",
+    "step-4",
+    "poster",
+    "annotation",
+    "photo",
+    "swipe"
+  ],
+  "whatItIs": "A cobalt slide with glossy 'Step 4', instructions to add an object, gradient and title, a finished red poster of laughing children with a script title, and dotted arrows pointing to a small reference photo and notes about gradients.",
+  "whatItMeans": "Showing the near-finished poster with arrows to its ingredients makes the process feel reproducible, and casual notes add personality.",
+  "techniques": [
+    "Dotted arrows linking notes to poster parts",
+    "Reference cut-out shown beside the result",
+    "Friendly handwritten-style notes",
+    "Script title with white outline on the poster",
+    "Consistent tutorial chrome and swipe cue"
+  ],
+  "bestFor": [
+    "Poster design tutorials",
+    "Step-by-step carousels",
+    "Showing process ingredients"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ingredient callout",
+      "definition": "A note and arrow pointing to one element used in a design."
+    },
+    {
+      "term": "Script title",
+      "definition": "A display headline in a script typeface."
+    },
+    {
+      "term": "Outline stroke",
+      "definition": "A border around lettering to lift it from a background."
+    }
+  ]
+}

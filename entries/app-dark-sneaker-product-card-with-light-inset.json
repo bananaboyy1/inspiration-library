@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-sneaker-product-card-with-light-inset",
+  "image": "images/app-dark-sneaker-product-card-with-light-inset.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Dark Sneaker Product Card",
+  "tags": [
+    "product-card",
+    "dark",
+    "sneaker",
+    "minimal",
+    "favorite",
+    "cart",
+    "rounded"
+  ],
+  "whatItIs": "A charcoal card with a pale rounded image panel holding a white sneaker, a heart button, name and brand in white, a large price and a white rounded cart button.",
+  "whatItMeans": "A dark card holding a bright product panel makes the product the hero and keeps the interaction points obvious.",
+  "techniques": [
+    "Light inset image on a dark card for strong contrast",
+    "Circular favourite button on the image corner",
+    "Large price paired with a big square action button",
+    "Truncated title with ellipsis to keep a fixed height",
+    "Soft shadow lifting the card off pale grey"
+  ],
+  "bestFor": [
+    "Retail and sneaker apps",
+    "Product listing components",
+    "Minimal e-commerce UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inset image panel",
+      "definition": "A picture placed in a rounded box within a card."
+    },
+    {
+      "term": "Action tile",
+      "definition": "A square button holding a single icon."
+    },
+    {
+      "term": "Truncation",
+      "definition": "Cutting off long text with an ellipsis."
+    }
+  ]
+}

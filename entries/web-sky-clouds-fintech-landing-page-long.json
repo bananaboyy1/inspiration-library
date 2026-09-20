@@ -1,0 +1,44 @@
+{
+  "name": "web-sky-clouds-fintech-landing-page-long",
+  "image": "images/web-sky-clouds-fintech-landing-page-long.jpg",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Cloudy Sky Fintech Landing Page",
+  "tags": [
+    "clouds",
+    "sky",
+    "fintech",
+    "light",
+    "navy",
+    "long-page",
+    "pricing"
+  ],
+  "whatItIs": "A long, airy landing page for a fintech app set on a cloud-filled sky: hero with a hand-held phone and floating cards, feature statements, transfer UI, pricing plans, testimonials and a closing download section.",
+  "whatItMeans": "Sky and cloud imagery signal openness and calm, and light navy text on white cards stays trustworthy.",
+  "techniques": [
+    "Cloud photography as a section backdrop",
+    "Light-weight headline with navy emphasis",
+    "Floating stat cards around the phone",
+    "Two-tier pricing cards with a highlighted plan",
+    "Testimonial row cropped at the edges"
+  ],
+  "bestFor": [
+    "Fintech and banking marketing sites",
+    "Calm, trust-focused landing pages",
+    "Long scrolling product pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Atmospheric backdrop",
+      "definition": "A sky or cloud image used as a mood-setting background."
+    },
+    {
+      "term": "Highlighted plan",
+      "definition": "A pricing card elevated to steer choice."
+    },
+    {
+      "term": "Cropped carousel",
+      "definition": "Cards cut off at the edge to imply more."
+    }
+  ]
+}

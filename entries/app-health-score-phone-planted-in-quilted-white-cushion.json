@@ -1,0 +1,44 @@
+{
+  "name": "app-health-score-phone-planted-in-quilted-white-cushion",
+  "image": "images/app-health-score-phone-planted-in-quilted-white-cushion.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Health Score Phone in a Quilted Cushion",
+  "tags": [
+    "health",
+    "white",
+    "cushion",
+    "quilted",
+    "grey",
+    "cards",
+    "sunburst"
+  ],
+  "whatItIs": "A phone tilted and planted into a puffy white quilted cushion inside a rounded grey panel, showing an AI health score of 92% with a sunburst, calorie, water, sleep and heart-rate cards.",
+  "whatItMeans": "The soft padded prop suggests comfort and care, and the neutral scene keeps the pastel UI in focus.",
+  "techniques": [
+    "Soft quilted object as a stage",
+    "Monochrome grey and white scene",
+    "Small coloured icons per health metric",
+    "Sunburst line graphic beside the score",
+    "Rounded panel on pale page"
+  ],
+  "bestFor": [
+    "Wellness and health apps",
+    "Tactile mockup staging",
+    "Calm neutral covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Soft prop",
+      "definition": "A padded or quilted object used as a stage."
+    },
+    {
+      "term": "Health score",
+      "definition": "A single number summarising overall wellbeing."
+    },
+    {
+      "term": "Metric grid",
+      "definition": "A 2-by-2 layout of small stat cards."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "app-eleven-bottom-navigation-bar-styles-catalog-with-design-tips",
+  "image": "images/app-eleven-bottom-navigation-bar-styles-catalog-with-design-tips.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Eleven Bottom Navigation Bar Styles",
+  "tags": [
+    "navigation",
+    "tab-bar",
+    "styles",
+    "catalog",
+    "glassmorphism",
+    "floating",
+    "gradient",
+    "tips"
+  ],
+  "whatItIs": "A pale grid of eleven mobile bottom navigation bar styles, each in a card with a number and descriptor words: minimal, glassmorphism, floating, neumorphism, pill highlight, centre FAB, gradient bold, outline icons, tab with indicator, curved background and dock style, plus a design tips box.",
+  "whatItMeans": "A side-by-side catalogue lets designers compare styles quickly, and the descriptors name the mood of each.",
+  "techniques": [
+    "Same five tabs shown in eleven styles",
+    "Three descriptor words under each style name",
+    "Phone bottom edge as a consistent frame",
+    "Violet and pink as the only colours",
+    "Tips list in a highlighted box"
+  ],
+  "bestFor": [
+    "Navigation pattern catalogues",
+    "UI education posts",
+    "Comparing component styles"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating nav",
+      "definition": "A tab bar detached from the screen edges."
+    },
+    {
+      "term": "Centre FAB",
+      "definition": "A raised round action button in the middle of a tab bar."
+    },
+    {
+      "term": "Dock style",
+      "definition": "A rounded translucent bar like an operating-system dock."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-two-phones-calendar-and-passenger-form-on-black-rock",
+  "image": "images/app-two-phones-calendar-and-passenger-form-on-black-rock.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Calendar and Passenger Form Phones on Rock",
+  "tags": [
+    "calendar",
+    "form",
+    "booking",
+    "rock",
+    "lavender",
+    "blue",
+    "two-phones"
+  ],
+  "whatItIs": "A pale lavender scene with two phones standing at different heights, one showing a date range picker with guest counters and a Confirm button, the other a passenger details form with a blue Continue button, resting on black rock formations.",
+  "whatItMeans": "Dark rock gives the pale UI a strong base, and offset heights make the two-screen flow dynamic.",
+  "techniques": [
+    "Phones on different heights of rock",
+    "Range selection with a blue gradient pill",
+    "Step tracker above the calendar",
+    "Rounded input fields on a white card",
+    "Blue gradient primary buttons"
+  ],
+  "bestFor": [
+    "Booking flow screens",
+    "Two-phone hero compositions",
+    "Pale UI with dark props"
+  ],
+  "vocabulary": [
+    {
+      "term": "Range picker",
+      "definition": "A calendar for selecting start and end dates."
+    },
+    {
+      "term": "Guest counter",
+      "definition": "A stepper for the number of guests."
+    },
+    {
+      "term": "Offset pair",
+      "definition": "Two devices placed at different heights."
+    }
+  ]
+}

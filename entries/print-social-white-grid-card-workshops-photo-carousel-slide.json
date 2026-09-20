@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-grid-card-workshops-photo-carousel-slide",
+  "image": "images/print-social-white-grid-card-workshops-photo-carousel-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Workshops List Slide with Photo Stack",
+  "tags": [
+    "carousel",
+    "white",
+    "blue-pills",
+    "photos",
+    "dates",
+    "list",
+    "portrait"
+  ],
+  "whatItIs": "A portrait carousel slide listing four workshops with date pills and small avatars, plus a diagonal stack of rounded event photos at right, on the same grid-paper card series.",
+  "whatItMeans": "Date pills and avatars make a list scannable and personal, and real photos add credibility.",
+  "techniques": [
+    "Outlined blue pill for each date",
+    "Avatar next to every item to show who",
+    "Bold organisation names inside light copy",
+    "Rounded photos staggered along the right edge",
+    "Consistent header and footer chrome across the series"
+  ],
+  "bestFor": [
+    "Event roundups",
+    "Team activity recaps",
+    "Series-based LinkedIn content"
+  ],
+  "vocabulary": [
+    {
+      "term": "Date pill",
+      "definition": "A rounded outlined chip containing a date."
+    },
+    {
+      "term": "Photo stack",
+      "definition": "A cascade of overlapping rounded photos."
+    },
+    {
+      "term": "Series chrome",
+      "definition": "Repeated header and footer elements that unify slides."
+    }
+  ]
+}

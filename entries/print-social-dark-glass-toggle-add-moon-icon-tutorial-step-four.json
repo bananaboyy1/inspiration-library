@@ -1,0 +1,44 @@
+{
+  "name": "print-social-dark-glass-toggle-add-moon-icon-tutorial-step-four",
+  "image": "images/print-social-dark-glass-toggle-add-moon-icon-tutorial-step-four.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Add Moon Icon Glass Toggle Tutorial",
+  "tags": [
+    "tutorial",
+    "dark",
+    "glass",
+    "toggle",
+    "moon",
+    "step-04",
+    "neumorphic"
+  ],
+  "whatItIs": "A charcoal tutorial post, step 04, with a glowing number bubble, italic title 'Add icon', a line about adding the moon icon inside the glass frame, and a dark toggle labelled Dark with a translucent glass knob holding a glowing moon, plus the bundle footer.",
+  "whatItMeans": "A single glowing moon inside a glass knob is a clear, satisfying final touch.",
+  "techniques": [
+    "Glass knob refracting the dark toggle",
+    "Glowing white icon as the focal point",
+    "Muted grey label to keep focus on the icon",
+    "Number bubble with halo",
+    "Series footer bar"
+  ],
+  "bestFor": [
+    "UI effect tutorial series",
+    "Dark mode toggle design",
+    "Glassmorphism lessons"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass knob",
+      "definition": "A translucent handle on a toggle."
+    },
+    {
+      "term": "Glow icon",
+      "definition": "An icon with a soft luminous halo."
+    },
+    {
+      "term": "Step bubble",
+      "definition": "A numbered circle marking a step."
+    }
+  ]
+}

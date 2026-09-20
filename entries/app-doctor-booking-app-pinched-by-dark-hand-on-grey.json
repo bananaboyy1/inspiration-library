@@ -1,0 +1,44 @@
+{
+  "name": "app-doctor-booking-app-pinched-by-dark-hand-on-grey",
+  "image": "images/app-doctor-booking-app-pinched-by-dark-hand-on-grey.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Doctor Booking App Held Between Fingers",
+  "tags": [
+    "healthcare",
+    "doctor",
+    "grey",
+    "hand",
+    "pastel",
+    "booking",
+    "thumbnail"
+  ],
+  "whatItIs": "A minimal cover on flat grey with a dark hand holding a phone from below, showing a doctor-finder home with a booking card and pastel specialty cards.",
+  "whatItMeans": "A single hand on neutral grey makes the phone look like a simple, approachable tool.",
+  "techniques": [
+    "Flat grey backdrop with the hand entering from the bottom",
+    "Small phone centred with generous space",
+    "Pastel green and blue cards for categories",
+    "Blue accent on the title",
+    "Black primary button for the main action"
+  ],
+  "bestFor": [
+    "Healthcare and appointment apps",
+    "Minimal cover images",
+    "Neutral portfolio galleries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flat backdrop",
+      "definition": "A plain single-colour background."
+    },
+    {
+      "term": "Specialty card",
+      "definition": "A card for a category of doctor or service."
+    },
+    {
+      "term": "Hand from below",
+      "definition": "A hand entering the frame from the bottom edge."
+    }
+  ]
+}

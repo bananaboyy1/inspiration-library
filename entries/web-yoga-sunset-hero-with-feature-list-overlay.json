@@ -1,0 +1,44 @@
+{
+  "name": "web-yoga-sunset-hero-with-feature-list-overlay",
+  "image": "images/web-yoga-sunset-hero-with-feature-list-overlay.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Sunset Yoga Hero with Feature List",
+  "tags": [
+    "hero",
+    "sunset",
+    "photo",
+    "white-type",
+    "feature-list",
+    "rounded",
+    "wellness"
+  ],
+  "whatItIs": "A rounded hero panel with a dimmed sunset photo of a person in a lunge on a beach, a white headline 'Simplifying Your Everyday Health Journey' and a scattered list of features (Health Score, Analytics, AI Assistant, Wellness Tracking, Insights, Progress, Alerts) with plus signs.",
+  "whatItMeans": "A calm sunset and a scatter of light labels feel serene, and the person's pose echoes the promise of ease.",
+  "techniques": [
+    "Darkened photo to keep white type legible",
+    "Feature words scattered in a loose grid with plus icons",
+    "Headline left of the subject",
+    "Rounded panel on pale page",
+    "Silhouetted body forming part of the composition"
+  ],
+  "bestFor": [
+    "Wellness website heroes",
+    "Photo-led feature overviews",
+    "Calm emotional hero sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scattered list",
+      "definition": "Labels spread in an irregular layout rather than a column."
+    },
+    {
+      "term": "Dimmed photo",
+      "definition": "A photo darkened so text on top reads clearly."
+    },
+    {
+      "term": "Silhouette pose",
+      "definition": "A dark body shape used as a composition element."
+    }
+  ]
+}

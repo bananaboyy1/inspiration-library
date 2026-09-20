@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-hotel-app-with-brush-stroke-callouts",
+  "image": "images/app-lavender-hotel-app-with-brush-stroke-callouts.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Hotel App with Brush-Stroke Callouts",
+  "tags": [
+    "hotel",
+    "lavender",
+    "brush-stroke",
+    "callout",
+    "blue",
+    "phones",
+    "feature"
+  ],
+  "whatItIs": "Two phones (hotel search and villa detail) on a lavender panel, each accompanied by a rough blue paint-stroke banner with a feature headline and description.",
+  "whatItMeans": "The rough paint strokes contrast with the polished UI, adding a human, hand-made energy to a feature explanation.",
+  "techniques": [
+    "Painted blue swash as a text background",
+    "Two-tone gradient inside the brush stroke",
+    "Phones offset diagonally to create flow",
+    "Same blue as the UI buttons for cohesion",
+    "White rounded panel on a lavender field"
+  ],
+  "bestFor": [
+    "Feature highlights in case studies",
+    "Travel and hospitality apps",
+    "Softening a very clean interface"
+  ],
+  "vocabulary": [
+    {
+      "term": "Brush swash",
+      "definition": "A rough painted stroke used behind text."
+    },
+    {
+      "term": "Feature callout",
+      "definition": "A headline and short description attached to a screen."
+    },
+    {
+      "term": "Diagonal offset",
+      "definition": "Placing items along a diagonal to create movement."
+    }
+  ]
+}

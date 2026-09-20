@@ -1,0 +1,44 @@
+{
+  "name": "app-white-project-introduction-text-with-metadata-rows",
+  "image": "images/app-white-project-introduction-text-with-metadata-rows.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "White Project Introduction with Metadata Rows",
+  "tags": [
+    "introduction",
+    "white",
+    "text",
+    "metadata",
+    "rules",
+    "minimal",
+    "tone-shift"
+  ],
+  "whatItIs": "A white slide with a small 'Introduction' label at left and a large paragraph on the right whose middle phrases fade to grey, followed by ruled rows for Year, Industry and Scope of work, and a small app icon and name.",
+  "whatItMeans": "The grey phrases and hairline rows give a calm editorial rhythm, and the strong asymmetry keeps a text slide interesting.",
+  "techniques": [
+    "Asymmetric layout with the label far left and text on the right",
+    "Mid-paragraph shift from black to grey to emphasise",
+    "Hairline rows for key/value metadata",
+    "Slash-separated scope list",
+    "Tiny logo lockup as the sign-off"
+  ],
+  "bestFor": [
+    "Case-study introductions",
+    "Project summaries",
+    "Editorial-style portfolio slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tone shift",
+      "definition": "Changing text between dark and light greys to guide reading."
+    },
+    {
+      "term": "Ruled row",
+      "definition": "A row separated by hairlines showing one label and value."
+    },
+    {
+      "term": "Scope list",
+      "definition": "A slash-separated list of the services provided."
+    }
+  ]
+}

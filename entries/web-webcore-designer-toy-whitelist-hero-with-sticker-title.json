@@ -1,0 +1,45 @@
+{
+  "name": "web-webcore-designer-toy-whitelist-hero-with-sticker-title",
+  "image": "images/web-webcore-designer-toy-whitelist-hero-with-sticker-title.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Webcore Toy Collectible Whitelist Hero",
+  "tags": [
+    "webcore",
+    "y2k",
+    "sticker",
+    "lime",
+    "blue",
+    "ticker",
+    "monospace",
+    "whitelist"
+  ],
+  "whatItIs": "A mobile landing page on a dotted off-white ground with a black ticker strip of lime monospace slogans, a huge black bracketed '[MARK IT]' title with a pink offset outline and a blue round '555 QTY' sticker, a tilted black label 'Designer Toy Culture x Webcore Collection', a monospace paragraph and two glossy pill buttons in lime and sky blue.",
+  "whatItMeans": "Bracketed type, hard offsets and glossy candy buttons mix toy culture with terminal aesthetics for a knowing, playful web3 tone.",
+  "techniques": [
+    "Heavy title with a pink offset outline",
+    "Tilted black label as a strip of tape",
+    "Round sticker overlapping the title",
+    "Glossy candy pill buttons with a black underlay",
+    "Monospace ticker and body text"
+  ],
+  "bestFor": [
+    "Web3 collectible and whitelist pages",
+    "Y2K and webcore aesthetics",
+    "Playful mobile landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Webcore",
+      "definition": "A style borrowing early-web and terminal visuals."
+    },
+    {
+      "term": "Ticker strip",
+      "definition": "A band of scrolling slogans across the top."
+    },
+    {
+      "term": "Candy button",
+      "definition": "A glossy rounded button with a hard shadow."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-flight-tracker-search-screen-held-with-ghost-title",
+  "image": "images/app-blue-flight-tracker-search-screen-held-with-ghost-title.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blue Flight Tracker Search in Hand",
+  "tags": [
+    "flight",
+    "blue",
+    "hand",
+    "ghost-type",
+    "search",
+    "white-ui",
+    "cover"
+  ],
+  "whatItIs": "A pale blue gradient cover with giant faint 'FlightTrac' lettering and a hand holding a white phone showing a 'Where is My Flight' search form with route toggle, fields and a bright blue search button.",
+  "whatItMeans": "A pure blue-and-white UI feels clear and trustworthy, and the ghost title adds depth.",
+  "techniques": [
+    "Ghost name cropped behind the phone",
+    "Single bright blue for the primary button",
+    "White cards on pale blue background",
+    "Hand entering from the bottom",
+    "Segmented tab for route or flight code"
+  ],
+  "bestFor": [
+    "Flight tracking and travel apps",
+    "Clean blue covers",
+    "Utility app hero shots"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost title",
+      "definition": "Oversized faint lettering behind a subject."
+    },
+    {
+      "term": "Segmented tab",
+      "definition": "A two-option toggle at the top of a form."
+    },
+    {
+      "term": "Primary button",
+      "definition": "The main coloured action on a screen."
+    }
+  ]
+}

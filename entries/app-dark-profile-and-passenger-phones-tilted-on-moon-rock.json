@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-profile-and-passenger-phones-tilted-on-moon-rock",
+  "image": "images/app-dark-profile-and-passenger-phones-tilted-on-moon-rock.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Dark Profile and Passenger Phones on Moon Rock",
+  "tags": [
+    "dark",
+    "profile",
+    "form",
+    "rock",
+    "tilted",
+    "travel",
+    "perspective"
+  ],
+  "whatItIs": "A dark slate slide with a rounded photo of two phones lying tilted on cratered grey rock, showing a dark Profile screen with account rows and a white Log Out bar and a Passenger Details form, with a Booking Info pill at the top corner.",
+  "whatItMeans": "The lunar surface and steep tilt make a dark UI feel exploratory and cinematic.",
+  "techniques": [
+    "Phones lying at an angle on textured rock",
+    "Dark UI with one white bar for the key action",
+    "Rounded photo panel on dark slate",
+    "Perspective distortion of text along the tilt",
+    "Pill label at the corner"
+  ],
+  "bestFor": [
+    "Dark app case-study slides",
+    "Travel app profile screens",
+    "Textured rock mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Textured backdrop",
+      "definition": "A rough surface used as a staging ground."
+    },
+    {
+      "term": "Perspective text",
+      "definition": "Interface text skewed by a tilted device."
+    },
+    {
+      "term": "Key action bar",
+      "definition": "A white bar marking the main or final action."
+    }
+  ]
+}

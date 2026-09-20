@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-app-bar-variants-tilted-grid-with-neon-accents",
+  "image": "images/app-dark-app-bar-variants-tilted-grid-with-neon-accents.webp",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Dark App Bar Variants in a Tilted Grid",
+  "tags": [
+    "app-bar",
+    "dark",
+    "tilted",
+    "navigation",
+    "neon",
+    "components",
+    "catalog"
+  ],
+  "whatItIs": "A dark grey field filled with tilted black app bars: titles like Hamburger, Backable bar, Closeable bar, Searchable, 3 selected and Custom with icons on the right, avatars, tab rows with a lime highlighted Friends tab and a gradient Dialogs tab, and a small logo mark.",
+  "whatItMeans": "Rotating the whole catalogue creates a dynamic pattern, and small neon highlights show the selected states.",
+  "techniques": [
+    "Whole set rotated at an angle",
+    "Black bars on dark grey",
+    "Lime and gradient highlights for active tabs",
+    "Coloured leading icons for actions",
+    "Named variants as content"
+  ],
+  "bestFor": [
+    "App bar component catalogues",
+    "Dark UI kits",
+    "Angled component presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "App bar",
+      "definition": "A top bar with a title and actions."
+    },
+    {
+      "term": "Selection mode bar",
+      "definition": "A bar showing '3 selected' with contextual actions."
+    },
+    {
+      "term": "Component catalogue",
+      "definition": "A visual list of variants of one component."
+    }
+  ]
+}

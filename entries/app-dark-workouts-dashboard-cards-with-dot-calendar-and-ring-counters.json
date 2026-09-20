@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-workouts-dashboard-cards-with-dot-calendar-and-ring-counters",
+  "image": "images/app-dark-workouts-dashboard-cards-with-dot-calendar-and-ring-counters.jpg",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Dark Workouts Dashboard with Dot Calendar",
+  "tags": [
+    "workouts",
+    "dark",
+    "cards",
+    "dot-calendar",
+    "ring",
+    "minimal",
+    "monochrome"
+  ],
+  "whatItIs": "A full-frame dark phone screen titled Workouts with a filter and plus button, cards showing a ring counter for Chest + tricep, a large 190 lbs body weight, a dot-grid calendar over three months with white dots for sessions, a Back + bicep + legs plan, a Volume lifted stat and an empty add tile, above a four-icon tab bar.",
+  "whatItMeans": "Dot calendars and ring counters give a monochrome interface personality without colour, and large numerals carry the data.",
+  "techniques": [
+    "Dot-grid calendar with white dots for activity",
+    "Ring counters holding a number",
+    "Large numerals for key measures",
+    "Monochrome dark cards with subtle borders",
+    "Empty dashed add tile at the base"
+  ],
+  "bestFor": [
+    "Workout and fitness trackers",
+    "Monochrome dark UI",
+    "Dot-matrix calendar graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot calendar",
+      "definition": "A calendar drawn as a grid of small dots."
+    },
+    {
+      "term": "Ring counter",
+      "definition": "A number inside a partly filled ring."
+    },
+    {
+      "term": "Add tile",
+      "definition": "An empty card inviting the user to add content."
+    }
+  ]
+}

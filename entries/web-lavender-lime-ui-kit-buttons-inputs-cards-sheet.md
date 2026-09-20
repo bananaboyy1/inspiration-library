@@ -1,0 +1,29 @@
+# UI Kit Buttons, Inputs and Cards Sheet
+
+![](../images/web-lavender-lime-ui-kit-buttons-inputs-cards-sheet.jpg)
+
+**Discipline:** web · **Design type:** UI components
+**Tags:** ui-kit, buttons, inputs, states, lavender, lime, yellow
+
+## What it is
+A grey sheet titled UI-Kit with panels for button states, icons, decorative elements, input states and cards, using black, lavender, lime and yellow.
+
+## What it means
+Showing each state in rows proves completeness, and the playful colours give the system personality.
+
+## Techniques
+- State rows (default, hover, focus, disabled)
+- Arrow-in-circle buttons as a signature shape
+- Doodle decorations as brand elements
+- Coloured cards in lime, purple and yellow
+- Dashed outlines marking component groups
+
+## Best for
+- Design-system documentation
+- UI kit previews
+- Component state references
+
+## Vocabulary
+- **State matrix** — A grid showing a component in every state.
+- **Decorative element** — A brand doodle used as ornament.
+- **Input state** — The look of a field when default, focused, error or success.

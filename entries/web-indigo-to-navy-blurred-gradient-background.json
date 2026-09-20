@@ -1,0 +1,43 @@
+{
+  "name": "web-indigo-to-navy-blurred-gradient-background",
+  "image": "images/web-indigo-to-navy-blurred-gradient-background.jpg",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Periwinkle to Navy Blurred Gradient",
+  "tags": [
+    "gradient",
+    "indigo",
+    "navy",
+    "blur",
+    "background",
+    "dashed-line"
+  ],
+  "whatItIs": "A wide image of a soft blurred gradient from bright periwinkle at the top through deep indigo to near-black navy at the bottom, with a faint dashed arc at the right.",
+  "whatItMeans": "A smooth light-to-dark fall feels like dusk and gives depth for text or dividers.",
+  "techniques": [
+    "Blur two hues into a single smooth transition",
+    "Fade from light to very dark toward the bottom",
+    "Keep a faint dashed line as a subtle detail",
+    "Use it as a footer or section transition",
+    "No hard edges anywhere"
+  ],
+  "bestFor": [
+    "Section transitions",
+    "Hero backgrounds",
+    "Colour references for dark-mode tech brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blurred gradient",
+      "definition": "A smooth colour blend with no visible shapes."
+    },
+    {
+      "term": "Dusk gradient",
+      "definition": "A transition from light to dark like fading daylight."
+    },
+    {
+      "term": "Transition band",
+      "definition": "A gradient strip linking two sections."
+    }
+  ]
+}

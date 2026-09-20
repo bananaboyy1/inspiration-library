@@ -1,0 +1,44 @@
+{
+  "name": "app-monochrome-wallet-screen-held-in-dark-hand",
+  "image": "images/app-monochrome-wallet-screen-held-in-dark-hand.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Monochrome Wallet in a Dark Hand",
+  "tags": [
+    "monochrome",
+    "monospace",
+    "wallet",
+    "hand",
+    "black-white",
+    "minimal",
+    "thumbnail"
+  ],
+  "whatItIs": "A cover image of a hand emerging from black at the top holding a phone showing a black-and-white wallet screen with a big balance and a transaction list in mono type.",
+  "whatItMeans": "Stark black and white with monospace text feels precise, technical and trustworthy. The hand adds human scale.",
+  "techniques": [
+    "Dark silhouetted hand against a light backdrop",
+    "Monospace numerals and labels for a ledger feel",
+    "Hard outlines around list rows",
+    "Two-button segmented control as the only interaction",
+    "Black card as the visual focal point"
+  ],
+  "bestFor": [
+    "Fintech and crypto apps",
+    "Case-study cover thumbnails",
+    "Brands wanting an austere look"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ledger styling",
+      "definition": "Type and rules that resemble an accounting record."
+    },
+    {
+      "term": "Silhouette hand",
+      "definition": "A hand rendered in near-black to frame the device."
+    },
+    {
+      "term": "Segmented control",
+      "definition": "A joined pair of buttons where one is selected."
+    }
+  ]
+}

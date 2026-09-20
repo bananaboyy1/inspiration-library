@@ -1,0 +1,44 @@
+{
+  "name": "web-figma-screen-photo-of-orange-fitness-app-with-white-and-green-accents",
+  "image": "images/web-figma-screen-photo-of-orange-fitness-app-with-white-and-green-accents.jpg",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Fitness App in Figma on a Dark Screen",
+  "tags": [
+    "figma",
+    "photo",
+    "fitness",
+    "orange",
+    "periwinkle",
+    "dark",
+    "behind-the-scenes"
+  ],
+  "whatItIs": "A photograph at an angle of a monitor in a dark room showing Figma with a fitness app on a black background with an orange workout plan card, a periwinkle daily cardio card, a cream Leg Day card with a progress ring, a lime Now button and a timeline, plus a duplicate frame and layer panels.",
+  "whatItMeans": "A moody photo of the working file gives authenticity and shows the palette glowing on black.",
+  "techniques": [
+    "Photograph of a screen in a dark room",
+    "Bright colour blocks on a dark UI",
+    "Progress ring inside a cream card",
+    "Lime pill as an action",
+    "Layer panel shown as context"
+  ],
+  "bestFor": [
+    "Behind-the-scenes design posts",
+    "Fitness app UI showcases",
+    "Dark UI with multiple accent cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen photo",
+      "definition": "A photo of a design shown on a monitor."
+    },
+    {
+      "term": "Accent card",
+      "definition": "A card filled with a strong colour among neutrals."
+    },
+    {
+      "term": "Progress ring",
+      "definition": "A circular indicator of completion."
+    }
+  ]
+}

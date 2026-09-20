@@ -1,0 +1,44 @@
+{
+  "name": "app-outfit-ai-app-in-hand-on-blue-with-ghost-title",
+  "image": "images/app-outfit-ai-app-in-hand-on-blue-with-ghost-title.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Outfit App in Hand on Cobalt Blue",
+  "tags": [
+    "cobalt",
+    "blue",
+    "hand",
+    "ghost-type",
+    "fashion",
+    "cover",
+    "white-ui"
+  ],
+  "whatItIs": "A saturated blue cover with giant faint 'Outfy AI' letters, a hand holding a white phone showing a wardrobe app with outfit cards, and 'Mobile App' and 'UI/UX Design' labels in the corners.",
+  "whatItMeans": "A pure blue field makes a white UI pop, and the hand adds a human scale.",
+  "techniques": [
+    "Ghost title behind the phone",
+    "Solid cobalt background",
+    "Hand entering from the bottom",
+    "Corner labels for format and discipline",
+    "Simple white UI with photo cards"
+  ],
+  "bestFor": [
+    "Fashion and wardrobe apps",
+    "Bold single-colour covers",
+    "Simple hand-held mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cobalt field",
+      "definition": "A strong saturated blue used as a flat background."
+    },
+    {
+      "term": "Outfit card",
+      "definition": "A card showing a set of clothing items."
+    },
+    {
+      "term": "Corner labels",
+      "definition": "Small captions in the corners of a cover."
+    }
+  ]
+}

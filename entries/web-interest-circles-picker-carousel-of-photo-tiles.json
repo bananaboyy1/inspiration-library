@@ -1,0 +1,44 @@
+{
+  "name": "web-interest-circles-picker-carousel-of-photo-tiles",
+  "image": "images/web-interest-circles-picker-carousel-of-photo-tiles.jpg",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Interest Picker Carousel of Photo Tiles",
+  "tags": [
+    "picker",
+    "carousel",
+    "photo-tiles",
+    "onboarding",
+    "minimal",
+    "personalisation",
+    "desktop"
+  ],
+  "whatItIs": "A pale desktop screen with a centred prompt asking users to choose five interests, a horizontal row of rounded photo tiles fading at the edges with one highlighted red tile, and a tray below holding selected choices and a disabled Next button.",
+  "whatItMeans": "Big image tiles make choosing feel like browsing, and edge fades suggest a long list.",
+  "techniques": [
+    "Row of photo tiles fading at both edges",
+    "Enlarged highlighted tile under the cursor",
+    "Selection tray with empty slots and counter",
+    "Disabled button until enough choices",
+    "Pagination dots below"
+  ],
+  "bestFor": [
+    "Personalised onboarding",
+    "Interest and topic selection",
+    "Community and content platforms"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tile picker",
+      "definition": "A selection UI built from image tiles."
+    },
+    {
+      "term": "Edge fade",
+      "definition": "Items fading out at the edges of a scroll row."
+    },
+    {
+      "term": "Selection tray",
+      "definition": "A panel showing the items chosen so far."
+    }
+  ]
+}

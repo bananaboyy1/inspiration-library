@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-sky-floating-health-phone-above-hand",
+  "image": "images/app-blue-sky-floating-health-phone-above-hand.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Floating Health App Above an Open Hand",
+  "tags": [
+    "floating",
+    "hand",
+    "light-blue",
+    "ghost-type",
+    "health",
+    "tilted",
+    "minimal"
+  ],
+  "whatItIs": "A pale sky-blue cover with a phone tilted in mid-air above an open hand, showing a health dashboard with pastel cards, and giant ghost 'GlucCare' lettering behind, with a tagline and year.",
+  "whatItMeans": "Levitating the phone above a hand suggests care and support, and the pastel blue field feels clean and clinical yet soft.",
+  "techniques": [
+    "Device floating above a reaching hand",
+    "Ghost brand name split by the phone",
+    "Pastel card colours (blue, lilac, green, peach) for metrics",
+    "Radial pale blue glow behind the subject",
+    "Small tagline and date in the corners"
+  ],
+  "bestFor": [
+    "Health and wellness apps",
+    "Product hero images with a human gesture",
+    "Soft-tone medical brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Levitation",
+      "definition": "Showing an object floating in space."
+    },
+    {
+      "term": "Pastel metric card",
+      "definition": "A softly coloured card showing one health stat."
+    },
+    {
+      "term": "Corner captions",
+      "definition": "Small text placed at the corners of a cover."
+    }
+  ]
+}

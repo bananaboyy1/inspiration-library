@@ -1,0 +1,44 @@
+{
+  "name": "app-black-smart-home-notes-app-flow-with-side-captions",
+  "image": "images/app-black-smart-home-notes-app-flow-with-side-captions.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Black Smart-Home Notes App Flow",
+  "tags": [
+    "black",
+    "notes",
+    "smart-home",
+    "lavender",
+    "yellow",
+    "flow",
+    "captions"
+  ],
+  "whatItIs": "A black page of three phones stepping down the page (choose a room, write a note on a lilac card, set priority) with thin lines to tiny captions and round quote icons.",
+  "whatItMeans": "The staggered phones and hairline captions tell a story on black, and lilac and yellow notes feel playful.",
+  "techniques": [
+    "Phones zigzagging down the page",
+    "Hairline leader lines to captions",
+    "Room photo as a tappable canvas",
+    "Organic lilac note card with a tail",
+    "Round icon chips as decorative repeats"
+  ],
+  "bestFor": [
+    "App flow presentations",
+    "Dark storytelling boards",
+    "Note and task apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Zigzag layout",
+      "definition": "Items alternating left and right down the page."
+    },
+    {
+      "term": "Leader line",
+      "definition": "A thin line linking an image to its caption."
+    },
+    {
+      "term": "Note card",
+      "definition": "A coloured card representing a user note."
+    }
+  ]
+}

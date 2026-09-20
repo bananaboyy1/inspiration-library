@@ -1,0 +1,44 @@
+{
+  "name": "app-lime-design-goals-card-grid-slide",
+  "image": "images/app-lime-design-goals-card-grid-slide.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Lime Design Goals Card Grid",
+  "tags": [
+    "design-goals",
+    "lime",
+    "green",
+    "cards",
+    "grid",
+    "travel",
+    "white"
+  ],
+  "whatItIs": "A white slide, Design Goals, with a big title and six pale cards each showing a small UI fragment (tab bar, AI card, search form, place card, trip stack, flight ticket) with a title and description below.",
+  "whatItMeans": "Each principle is paired with a tiny real UI piece, so goals feel concrete, and lime and dark green keep it fresh.",
+  "techniques": [
+    "Six-card grid pairing UI fragments with captions",
+    "Numbered pill tag beside the title",
+    "Lime highlight as the only bright colour",
+    "Consistent card size and caption format",
+    "Dark green for strong UI elements"
+  ],
+  "bestFor": [
+    "Design rationale slides",
+    "Case-study goals sections",
+    "Explaining principles with visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "UI fragment",
+      "definition": "A cropped piece of interface used as illustration."
+    },
+    {
+      "term": "Goal card",
+      "definition": "A card stating one design objective with a visual."
+    },
+    {
+      "term": "Caption pair",
+      "definition": "A bold title and a grey description under an image."
+    }
+  ]
+}

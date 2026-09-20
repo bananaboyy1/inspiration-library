@@ -1,0 +1,44 @@
+{
+  "name": "app-tilted-phone-wall-scam-protection-thanks-slide",
+  "image": "images/app-tilted-phone-wall-scam-protection-thanks-slide.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Tilted Phone Wall with Thank You",
+  "tags": [
+    "thanks",
+    "tilted-phones",
+    "pastel",
+    "fade",
+    "contact",
+    "qr",
+    "closing"
+  ],
+  "whatItIs": "A tall pale-blue slide with a diagonal wall of tilted pastel phone screens fading toward the bottom, then huge 'THANK YOU FOR WATCHING' caps with a Follow chip, two QR codes, contact pills and a footer row of tags.",
+  "whatItMeans": "A dense tilted field of screens fades into a bold sign-off, giving a satisfying end to a long story.",
+  "techniques": [
+    "Grid of phones all rotated the same angle",
+    "Progressive fade of the screens into the background",
+    "Huge caps sign-off with a small Follow chip overlapping",
+    "QR codes with platform pills",
+    "Footer row of scope tags"
+  ],
+  "bestFor": [
+    "Case-study finales",
+    "Portfolio sign-offs",
+    "Showing many screens at once"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tilted wall",
+      "definition": "Many screens rotated identically and tiled."
+    },
+    {
+      "term": "Fade to background",
+      "definition": "Elements losing opacity toward an edge."
+    },
+    {
+      "term": "Contact pill",
+      "definition": "A rounded label holding an email or handle."
+    }
+  ]
+}

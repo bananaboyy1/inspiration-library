@@ -1,0 +1,44 @@
+{
+  "name": "app-warm-grey-smart-home-screens-with-side-descriptions",
+  "image": "images/app-warm-grey-smart-home-screens-with-side-descriptions.png",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Warm Grey Smart-Home Screens with Descriptions",
+  "tags": [
+    "smart-home",
+    "warm-grey",
+    "screens",
+    "descriptions",
+    "climate",
+    "time-picker",
+    "documentation"
+  ],
+  "whatItIs": "A tall warm-grey page inside a rounded frame with header labels, a home screen phone with a description at each side, and a climate control phone beside a time-picker sheet, each section captioned in small type.",
+  "whatItMeans": "Warm beige feels calm and domestic, and short captions beside each screen make documentation effortless.",
+  "techniques": [
+    "Small caption blocks left and right of each phone",
+    "Section title in caps",
+    "Warm grey and cream UI on a warm grey page",
+    "Orange as the only accent",
+    "Rounded frame containing the page"
+  ],
+  "bestFor": [
+    "Screen documentation",
+    "Smart-home UI presentations",
+    "Calm neutral case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen caption",
+      "definition": "A short paragraph explaining a nearby screen."
+    },
+    {
+      "term": "Time picker sheet",
+      "definition": "A bottom sheet with scroll columns to choose a time."
+    },
+    {
+      "term": "Warm neutral",
+      "definition": "A beige or greige used as a base colour."
+    }
+  ]
+}

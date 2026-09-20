@@ -1,0 +1,44 @@
+{
+  "name": "app-ai-health-assistant-phone-lying-across-chrome-pipe",
+  "image": "images/app-ai-health-assistant-phone-lying-across-chrome-pipe.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "AI Health Assistant on a Chrome Pipe",
+  "tags": [
+    "ai-assistant",
+    "orb",
+    "chrome",
+    "pipe",
+    "grey",
+    "rounded-panel",
+    "chips"
+  ],
+  "whatItIs": "A rounded grey panel with a phone lying diagonally across a thick chrome pipe, showing an AI health assistant with a gradient orb, greeting, suggestion chips and an ask field with a black voice button.",
+  "whatItMeans": "The glossy orb and chrome pipe share a shiny language, and the neutral scene keeps the orb the star.",
+  "techniques": [
+    "Phone resting across a curved metal pipe",
+    "Gradient orb as the assistant's face",
+    "Scattered suggestion chips in a diagonal band",
+    "Soft grey studio panel",
+    "Black voice button as the only dark element"
+  ],
+  "bestFor": [
+    "AI assistant apps",
+    "Product renders with metal props",
+    "Neutral premium mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Suggestion chip",
+      "definition": "A tappable pill offering a prompt idea."
+    },
+    {
+      "term": "Assistant orb",
+      "definition": "A glossy sphere representing an AI assistant."
+    },
+    {
+      "term": "Studio panel",
+      "definition": "A rounded frame holding a rendered scene."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-grey-user-flow-map-with-onboarding-phone",
+  "image": "images/app-grey-user-flow-map-with-onboarding-phone.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Grey User Flow Map with Onboarding Phone",
+  "tags": [
+    "user-flow",
+    "grey",
+    "nodes",
+    "onboarding",
+    "diagram",
+    "fintech",
+    "dark-pills"
+  ],
+  "whatItIs": "A neutral grey page titled 'User Flow' with a dark onboarding container holding a phone, joined by lines to dark and outlined pill nodes (Sign Up, Login, Dashboard) branching to features that fade off the right edge.",
+  "whatItMeans": "Solid vs. outlined pills separate main from secondary paths, and the fading branches imply a larger system without clutter.",
+  "techniques": [
+    "Filled pills for primary screens, outlined for secondary",
+    "Branches fading and cropped at the right edge",
+    "One dark container to hold the entry screen",
+    "Thin grey connectors with small joint dots",
+    "Section number and plain title top-left"
+  ],
+  "bestFor": [
+    "UX flow documentation",
+    "App architecture overviews",
+    "Case-study process pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Node",
+      "definition": "A box or pill representing a screen or step in a flow."
+    },
+    {
+      "term": "Fade-out branch",
+      "definition": "Lines and nodes that fade toward the edge to suggest more."
+    },
+    {
+      "term": "Primary/secondary node",
+      "definition": "Filled versus outlined styling to show priority."
+    }
+  ]
+}

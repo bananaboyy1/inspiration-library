@@ -1,0 +1,44 @@
+{
+  "name": "print-social-red-column-grid-lesson-with-website-sample-and-guides",
+  "image": "images/print-social-red-column-grid-lesson-with-website-sample-and-guides.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Column Grid Lesson Post",
+  "tags": [
+    "column-grid",
+    "red",
+    "yellow",
+    "website-sample",
+    "guides",
+    "educational",
+    "stats"
+  ],
+  "whatItIs": "A red post with white and yellow heading '03 Column Grid', a definition and a website sample with pink vertical guide lines over a yellow headline, two black and white images and stat figures, with Save and Follow buttons.",
+  "whatItMeans": "Vertical guide lines drawn over a real layout show what a column grid does, in a loud red frame.",
+  "techniques": [
+    "Vertical guide lines overlaid on a sample",
+    "Yellow headline and stats on a red field",
+    "Monochrome imagery to contrast the red",
+    "Series header with account and follow",
+    "Faint square grid across the whole post"
+  ],
+  "bestFor": [
+    "Grid and layout lessons",
+    "Design account series",
+    "Annotated sample posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column grid",
+      "definition": "A layout divided into vertical columns."
+    },
+    {
+      "term": "Guide overlay",
+      "definition": "Lines drawn over a design to reveal its structure."
+    },
+    {
+      "term": "Sample layout",
+      "definition": "A mini design shown to demonstrate a concept."
+    }
+  ]
+}

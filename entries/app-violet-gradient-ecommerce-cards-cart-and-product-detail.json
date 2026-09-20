@@ -1,0 +1,44 @@
+{
+  "name": "app-violet-gradient-ecommerce-cards-cart-and-product-detail",
+  "image": "images/app-violet-gradient-ecommerce-cards-cart-and-product-detail.png",
+  "discipline": "app",
+  "designType": "E-commerce app",
+  "title": "Violet Shopping Cards, Cart and Product Detail",
+  "tags": [
+    "e-commerce",
+    "violet",
+    "cards",
+    "cart",
+    "product-detail",
+    "chrome-ribbons",
+    "white"
+  ],
+  "whatItIs": "A violet gradient board of rounded panels: two product cards with heart and price buttons, a cart list with quantity dropdowns and delete buttons, and a phone showing a sneaker detail with colour and size chips and a price button, with chrome ribbons behind.",
+  "whatItMeans": "Pale product photos on white cards pop against the violet gradient, and one purple accent unifies actions.",
+  "techniques": [
+    "Outlined price buttons on product cards",
+    "Violet selected states for size and heart",
+    "Chrome ribbon loops behind the phone",
+    "Top-item yellow sticker as a highlight",
+    "Grey image tiles for product cutouts"
+  ],
+  "bestFor": [
+    "Shopping app UI showcases",
+    "E-commerce component sets",
+    "Gradient-backed product cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Price button",
+      "definition": "A button that shows the price and adds to cart."
+    },
+    {
+      "term": "Top item badge",
+      "definition": "A yellow tag marking a featured product."
+    },
+    {
+      "term": "Quantity dropdown",
+      "definition": "A compact selector to change item count."
+    }
+  ]
+}

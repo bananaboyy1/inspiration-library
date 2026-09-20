@@ -1,0 +1,44 @@
+{
+  "name": "web-cloud-sky-fintech-hero-on-tablet-with-navigation-tags",
+  "image": "images/web-cloud-sky-fintech-hero-on-tablet-with-navigation-tags.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Fintech Hero on Tablet in Clouds",
+  "tags": [
+    "tablet",
+    "clouds",
+    "sky",
+    "fintech",
+    "light",
+    "tags",
+    "hand-phone"
+  ],
+  "whatItIs": "A tablet floating among clouds on a light blue sky showing a fintech hero with a serif headline, a hand-held phone and floating stat cards, with pill tags across the top listing discipline and format.",
+  "whatItMeans": "Sky and cloud imagery inside and outside the device feel open and calm, and top tags label the project.",
+  "techniques": [
+    "Clouds inside the UI and around the device",
+    "Tablet mounted on a tall stand fading into clouds",
+    "Pill tags across the top as metadata",
+    "Hand-held phone inside the hero",
+    "Floating white stat cards"
+  ],
+  "bestFor": [
+    "Fintech website case studies",
+    "Cloud and sky themed brands",
+    "Project covers with metadata tags"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metadata tags",
+      "definition": "Pills at the top of a cover naming discipline and format."
+    },
+    {
+      "term": "Atmospheric UI",
+      "definition": "An interface using sky or cloud imagery as its background."
+    },
+    {
+      "term": "Floating stand",
+      "definition": "A device on a support that fades out of view."
+    }
+  ]
+}

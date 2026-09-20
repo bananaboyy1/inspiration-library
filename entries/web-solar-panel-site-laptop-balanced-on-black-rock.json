@@ -1,0 +1,44 @@
+{
+  "name": "web-solar-panel-site-laptop-balanced-on-black-rock",
+  "image": "images/web-solar-panel-site-laptop-balanced-on-black-rock.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Solar Site Laptop on Black Rock",
+  "tags": [
+    "laptop",
+    "rock",
+    "solar",
+    "grey",
+    "balance",
+    "energy",
+    "cover"
+  ],
+  "whatItIs": "A laptop showing a blue solar panel website with a yellow CTA, tilted and balanced on a black rock slab against a pale grey backdrop.",
+  "whatItMeans": "Dark natural stone against a light grey studio contrasts nicely, and the blue site connects to the energy theme.",
+  "techniques": [
+    "Laptop balancing on a rock edge",
+    "Light grey backdrop with dark stone base",
+    "Photo-hero site with a yellow button",
+    "Tilt for dynamism",
+    "Clean studio lighting"
+  ],
+  "bestFor": [
+    "Energy and sustainability sites",
+    "Web case-study covers",
+    "Product staging with natural props"
+  ],
+  "vocabulary": [
+    {
+      "term": "Balance pose",
+      "definition": "A device propped on an edge for a dynamic angle."
+    },
+    {
+      "term": "Stone base",
+      "definition": "A rock used as a display pedestal."
+    },
+    {
+      "term": "Yellow CTA",
+      "definition": "A bright yellow button on a blue page."
+    }
+  ]
+}

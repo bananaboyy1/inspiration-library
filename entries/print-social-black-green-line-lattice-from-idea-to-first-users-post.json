@@ -1,0 +1,44 @@
+{
+  "name": "print-social-black-green-line-lattice-from-idea-to-first-users-post",
+  "image": "images/print-social-black-green-line-lattice-from-idea-to-first-users-post.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Green Line Lattice From Idea to First Users",
+  "tags": [
+    "black",
+    "green",
+    "line-art",
+    "lattice",
+    "startup",
+    "tall-post",
+    "minimal"
+  ],
+  "whatItIs": "A black tall post with a white logo top left, thousands of thin green lines fanning from two edges into a curved lattice, a bold white headline 'From Idea To First Users.', a small paragraph and a footer of website, handle and an arrow.",
+  "whatItMeans": "String-art lines curving across the top give a technical elegance with a single colour and no imagery.",
+  "techniques": [
+    "String-art lattice made of fine lines",
+    "One green on pure black",
+    "Heavy headline low left",
+    "Small paragraph and footer as a quiet base",
+    "Diagonal arrow icon as the exit cue"
+  ],
+  "bestFor": [
+    "Startup and dev-agency posts",
+    "Line-art backgrounds",
+    "Minimal dark templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "String art",
+      "definition": "Straight lines arranged to create curved shapes."
+    },
+    {
+      "term": "Line lattice",
+      "definition": "A grid formed by crossing line bundles."
+    },
+    {
+      "term": "Footer row",
+      "definition": "A base row holding the site, handle and arrow."
+    }
+  ]
+}

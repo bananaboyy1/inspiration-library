@@ -1,0 +1,45 @@
+{
+  "name": "branding-navy-payments-brand-collage-with-photography",
+  "image": "images/branding-navy-payments-brand-collage-with-photography.jpg",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Navy Payments Brand Collage",
+  "tags": [
+    "navy",
+    "payments",
+    "photography",
+    "logo",
+    "card",
+    "phone",
+    "rounded-tiles",
+    "monoline"
+  ],
+  "whatItIs": "A rounded-tile brand board: a woman with a bank card over her eye, a card on navy cloth beside pasta, the flowing white 'payno' logo on navy, a browser tab, a smiling man using a phone with a balance card, and a phone banner 'Payno Goes Wherever You Go'.",
+  "whatItMeans": "Everyday moments (dinner, commuting) make finance human, while navy and white stay disciplined. Rounded tiles echo the friendly script logo.",
+  "techniques": [
+    "Mixed grid of photo, logo, UI and slogan tiles",
+    "Props and clothing dyed to the brand navy",
+    "Balance card overlaid on photography as a UI-in-photo device",
+    "Playful gesture photography (card over the eye)",
+    "Consistent corner radius across all tiles"
+  ],
+  "bestFor": [
+    "Fintech brand presentations",
+    "Payment and card brands",
+    "Identity systems that mix photography with UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "UI-in-photo",
+      "definition": "A UI card overlaid directly on a photograph."
+    },
+    {
+      "term": "Tile board",
+      "definition": "A grid of rounded panels each showing one brand asset."
+    },
+    {
+      "term": "Brand wardrobe",
+      "definition": "Styling photo subjects in brand colors."
+    }
+  ]
+}

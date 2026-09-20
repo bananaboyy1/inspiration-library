@@ -1,0 +1,44 @@
+{
+  "name": "print-social-grey-paper-mvp-settings-legal-screen-post",
+  "image": "images/print-social-grey-paper-mvp-settings-legal-screen-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "MVP Guide Settings and Legal Post",
+  "tags": [
+    "educational",
+    "mvp",
+    "grey",
+    "condensed",
+    "phone",
+    "orange",
+    "legal"
+  ],
+  "whatItIs": "A grainy grey post in the MVP series with a tall condensed 'SETTINGS / LEGAL' heading, orange subhead, a bullet list of launch basics and an orange-bezel phone showing a privacy policy page.",
+  "whatItMeans": "The repeated series layout makes advice easy to follow, and a real screen grounds the tip.",
+  "techniques": [
+    "Series template with fixed heading, subhead and phone position",
+    "Condensed heavy caps title",
+    "Orange bezel and subhead as accent",
+    "Bullet list in plain sans beside the device",
+    "Creator footer with save prompt"
+  ],
+  "bestFor": [
+    "Product design education series",
+    "Creator carousels",
+    "Checklist-style posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series template",
+      "definition": "A repeatable layout used across slides."
+    },
+    {
+      "term": "Checklist post",
+      "definition": "A post listing must-have items as bullets."
+    },
+    {
+      "term": "Save prompt",
+      "definition": "A footer element encouraging bookmarking."
+    }
+  ]
+}

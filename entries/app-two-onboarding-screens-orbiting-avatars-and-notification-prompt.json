@@ -1,0 +1,44 @@
+{
+  "name": "app-two-onboarding-screens-orbiting-avatars-and-notification-prompt",
+  "image": "images/app-two-onboarding-screens-orbiting-avatars-and-notification-prompt.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Orbiting Avatars and Notification Prompt",
+  "tags": [
+    "onboarding",
+    "avatars",
+    "orbit",
+    "notifications",
+    "memoji",
+    "pink",
+    "white"
+  ],
+  "whatItIs": "Two white phones on a pale blue swirl background: an 'Inspired people' screen with rounded portrait tiles orbiting a centre portrait and a black Cool! button, and a lock-screen screen with notification cards, floating memoji and a black 'Turn on notifications' button.",
+  "whatItMeans": "Orbiting avatars make a number feel social, and the floating memoji bring the notification prompt to life.",
+  "techniques": [
+    "Portraits arranged on a ring around a central one",
+    "Floating memoji circles above the prompt",
+    "Pink gradient lock screen inside the phone",
+    "Large black pill buttons as the single action",
+    "Notification cards overlapping the mock lock screen"
+  ],
+  "bestFor": [
+    "Onboarding and permission screens",
+    "Social apps",
+    "Playful prompt design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Orbit layout",
+      "definition": "Items arranged in a ring around a centre."
+    },
+    {
+      "term": "Permission prompt",
+      "definition": "A screen asking the user to allow a feature like notifications."
+    },
+    {
+      "term": "Memoji",
+      "definition": "A personalised cartoon avatar."
+    }
+  ]
+}

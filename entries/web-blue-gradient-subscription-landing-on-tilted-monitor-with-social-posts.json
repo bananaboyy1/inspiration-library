@@ -1,0 +1,44 @@
+{
+  "name": "web-blue-gradient-subscription-landing-on-tilted-monitor-with-social-posts",
+  "image": "images/web-blue-gradient-subscription-landing-on-tilted-monitor-with-social-posts.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Blue Subscription Landing on Tilted Monitor with Social Posts",
+  "tags": [
+    "monitor",
+    "tilted",
+    "blue-gradient",
+    "serif-italic",
+    "social-posts",
+    "white",
+    "subscriptions"
+  ],
+  "whatItIs": "A white board with a large tilted monitor on black pedestals showing a sky-blue gradient landing page with a serif headline, floating white UI cards and a Download Now pill, above two Instagram post mockups: a white one 'Send or receive money instantly' with a woman making an OK sign and a blue quote card.",
+  "whatItMeans": "A steep tilt and blue gradient make the site feel airy and dynamic, and the posts prove the system on social.",
+  "techniques": [
+    "Steeply tilted monitor on angular black bases",
+    "Italic serif line in a sans headline",
+    "Floating white cards on a gradient hero",
+    "Instagram post frames as a second row",
+    "Blue gradient used in both web and social"
+  ],
+  "bestFor": [
+    "Web plus social presentation boards",
+    "Fintech subscription products",
+    "Tilted device showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tilted monitor",
+      "definition": "A desktop screen rotated in perspective."
+    },
+    {
+      "term": "Post mockup",
+      "definition": "A social post shown inside platform chrome."
+    },
+    {
+      "term": "Floating card",
+      "definition": "A UI card set over a gradient at an angle."
+    }
+  ]
+}

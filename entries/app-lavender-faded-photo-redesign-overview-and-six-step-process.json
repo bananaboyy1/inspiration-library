@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-faded-photo-redesign-overview-and-six-step-process",
+  "image": "images/app-lavender-faded-photo-redesign-overview-and-six-step-process.jpg",
+  "discipline": "app",
+  "designType": "Design process showcase",
+  "title": "Faded Photo Overview and Six-Step Process",
+  "tags": [
+    "overview",
+    "app-icon",
+    "lavender",
+    "faded-photo",
+    "process",
+    "numbers",
+    "tone-shift"
+  ],
+  "whatItIs": "A pale lavender slide with a heavily faded portrait behind a centred indigo app icon with a red badge, a paragraph with phrases in dark navy and light grey, a Design Process pill and six numbered stages in a row.",
+  "whatItMeans": "A ghosted human photo keeps the focus on the icon while adding warmth, and the six-step row summarises the process at a glance.",
+  "techniques": [
+    "Faded photo as an atmospheric backdrop",
+    "App icon with notification badge as the centrepiece",
+    "Bold key phrases inside a grey paragraph",
+    "Numbered steps in a single row",
+    "Dashed line dropping toward the next section"
+  ],
+  "bestFor": [
+    "Project overview slides",
+    "Care and wellness case studies",
+    "Process summaries with numbered steps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost photo",
+      "definition": "A photo lightened until it becomes a texture."
+    },
+    {
+      "term": "Notification badge",
+      "definition": "A small red circle with a count on an icon."
+    },
+    {
+      "term": "Process row",
+      "definition": "Numbered stage labels laid out horizontally."
+    }
+  ]
+}

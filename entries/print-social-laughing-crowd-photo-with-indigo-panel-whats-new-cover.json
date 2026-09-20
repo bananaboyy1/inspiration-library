@@ -1,0 +1,44 @@
+{
+  "name": "print-social-laughing-crowd-photo-with-indigo-panel-whats-new-cover",
+  "image": "images/print-social-laughing-crowd-photo-with-indigo-panel-whats-new-cover.png",
+  "discipline": "print-social",
+  "designType": "Social cover post",
+  "title": "Laughing Photo with Indigo What's New Panel",
+  "tags": [
+    "product-update",
+    "indigo",
+    "photo",
+    "panel",
+    "swipe",
+    "carousel",
+    "events-app"
+  ],
+  "whatItIs": "An Instagram carousel cover that splits a close-up of a laughing man in cream sunglasses at an outdoor event above a solid indigo panel with a faint arc pattern, the heading 'What's New on Tix?', a short line, the site name and an outlined SWIPE pill.",
+  "whatItMeans": "A joyful face on top and a clear panel below make an update feel human, and the notch in the panel corner adds a designed detail.",
+  "techniques": [
+    "Photo on top and colour panel below",
+    "Large light headline in white on indigo",
+    "Cut corner where photo meets panel",
+    "Outlined swipe pill as the cue",
+    "Faint concentric arc pattern on the panel"
+  ],
+  "bestFor": [
+    "App update announcements",
+    "Event platform carousels",
+    "Photo plus colour block covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split cover",
+      "definition": "A cover divided into a photo area and a text panel."
+    },
+    {
+      "term": "Swipe pill",
+      "definition": "An outlined capsule prompting the next slide."
+    },
+    {
+      "term": "Arc pattern",
+      "definition": "Concentric curves used as a subtle texture."
+    }
+  ]
+}

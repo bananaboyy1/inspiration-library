@@ -1,0 +1,44 @@
+{
+  "name": "app-green-fintech-wallet-phone-on-ghost-lettering",
+  "image": "images/app-green-fintech-wallet-phone-on-ghost-lettering.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green Fintech Wallet on Ghost Lettering",
+  "tags": [
+    "green",
+    "lime",
+    "fintech",
+    "ghost-type",
+    "dark-ui",
+    "card",
+    "thumbnail"
+  ],
+  "whatItIs": "A tilted phone with a dark wallet UI, green VISA card, big balance and a lime Send Money button, against a green gradient grid with giant translucent lettering.",
+  "whatItMeans": "Lime on dark and green gradient signals fresh, growth-oriented money. Ghost letters add depth.",
+  "techniques": [
+    "Giant faint brand letters behind the device",
+    "Lime CTA as the only bright element on dark UI",
+    "Card visual matching the backdrop gradient",
+    "Fine grid lines in the background",
+    "Tilted device for energy"
+  ],
+  "bestFor": [
+    "Fintech apps",
+    "Cover images for project galleries",
+    "Brands with a bold green identity"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost lettering",
+      "definition": "Oversized low-contrast text behind a subject."
+    },
+    {
+      "term": "Tilt",
+      "definition": "A device rotated in space for dynamism."
+    },
+    {
+      "term": "Lime accent",
+      "definition": "A neon yellow-green used sparingly for actions."
+    }
+  ]
+}

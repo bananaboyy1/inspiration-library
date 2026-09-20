@@ -1,0 +1,44 @@
+{
+  "name": "branding-grid-system-columns-and-margins-spec-slide",
+  "image": "images/branding-grid-system-columns-and-margins-spec-slide.jpg",
+  "discipline": "branding",
+  "designType": "Logo guidelines",
+  "title": "Grid System Columns and Margins Slide",
+  "tags": [
+    "grid",
+    "columns",
+    "spec",
+    "desktop",
+    "mobile",
+    "pink-glow",
+    "pills"
+  ],
+  "whatItIs": "A grey slide titled Grid System with a numbered heading and two frames, desktop (12 columns) and mobile (6 columns), drawn as white columns with soft pink glow, labelled by pills for margins, gutters, columns and widths.",
+  "whatItMeans": "Turning a grid into pretty glass columns makes a dry spec clear and inviting.",
+  "techniques": [
+    "Columns drawn as soft white bars",
+    "Floating pills labelling each measurement",
+    "Double-arrow icons showing spacing",
+    "Black pills for total widths",
+    "Pink glow behind the columns"
+  ],
+  "bestFor": [
+    "Design-system grid documentation",
+    "Responsive layout specs",
+    "Brand guideline pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gutter",
+      "definition": "The space between columns."
+    },
+    {
+      "term": "Margin",
+      "definition": "The outer space between the grid and the edge."
+    },
+    {
+      "term": "Column grid",
+      "definition": "A layout divided into equal vertical columns."
+    }
+  ]
+}

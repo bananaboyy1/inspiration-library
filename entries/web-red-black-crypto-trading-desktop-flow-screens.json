@@ -1,0 +1,45 @@
+{
+  "name": "web-red-black-crypto-trading-desktop-flow-screens",
+  "image": "images/web-red-black-crypto-trading-desktop-flow-screens.png",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Red and Black Crypto Desktop Flow",
+  "tags": [
+    "crypto",
+    "desktop",
+    "red",
+    "black",
+    "sign-up",
+    "swap",
+    "chart",
+    "dashboard"
+  ],
+  "whatItIs": "A dark red presentation of three desktop screens with captions: a split sign-up page with a red chart panel, a swap or bridge screen next to a portfolio risk list, and a wallet chart page with a black side panel of transactions.",
+  "whatItMeans": "A striped red data texture and black panels unify every screen, and the big captions narrate the flow.",
+  "techniques": [
+    "Red striped chart as the identity texture",
+    "Split screens half red and half black",
+    "Captions beside each screen in bright and dimmed words",
+    "Reused transaction cards across screens",
+    "Bold red button on black forms"
+  ],
+  "bestFor": [
+    "Crypto and trading web apps",
+    "Desktop flow presentations",
+    "Data-heavy dark UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split layout",
+      "definition": "A page divided into two contrasting halves."
+    },
+    {
+      "term": "Flow caption",
+      "definition": "A large sentence describing what a screen shows."
+    },
+    {
+      "term": "Data texture",
+      "definition": "A chart pattern used as a decorative graphic."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "branding-navy-pitch-deck-and-brand-guide-slide-collage-with-italic-serif",
+  "image": "images/branding-navy-pitch-deck-and-brand-guide-slide-collage-with-italic-serif.jpg",
+  "discipline": "branding",
+  "designType": "Brand guidelines deck",
+  "title": "Navy Pitch Deck and Guide Slide Collage",
+  "tags": [
+    "pitch-deck",
+    "brand-guide",
+    "navy",
+    "italic-serif",
+    "slides",
+    "palette",
+    "typography",
+    "browser"
+  ],
+  "whatItIs": "A pale grey collage of many slides for a finance brand: welcome, contents, why, the opportunity with a silk image, palette (navy and grey swatches), logo, principles, a navy statement slide, brand strategy, an opportunity chart, an Aa specimen with weights and a browser tab mockup, alternating white and navy with italic serif emphasis words.",
+  "whatItMeans": "Italic serif accents on light sans headlines add elegance to a plain layout, and alternating navy slides give rhythm.",
+  "techniques": [
+    "Italic serif accent word in each headline",
+    "Alternating white and navy slides",
+    "Consistent header and footer chrome",
+    "Big Aa specimen with a weight list",
+    "Line chart with a dotted projection"
+  ],
+  "bestFor": [
+    "Pitch and brand guideline decks",
+    "Fintech identity presentations",
+    "Slide overview boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Accent word",
+      "definition": "A word in a contrasting style within a headline."
+    },
+    {
+      "term": "Slide chrome",
+      "definition": "Repeated header and footer details across slides."
+    },
+    {
+      "term": "Deck overview",
+      "definition": "A collage of slides shown together."
+    }
+  ]
+}

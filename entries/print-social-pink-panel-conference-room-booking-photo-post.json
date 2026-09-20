@@ -1,0 +1,44 @@
+{
+  "name": "print-social-pink-panel-conference-room-booking-photo-post",
+  "image": "images/print-social-pink-panel-conference-room-booking-photo-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "title": "Pink Panel Conference Room Post",
+  "tags": [
+    "pink",
+    "panel",
+    "photo",
+    "meeting",
+    "outline-frame",
+    "tags",
+    "square"
+  ],
+  "whatItIs": "A square post with a large soft pink rounded panel carrying a light headline 'Move Things Forward', a subline, a white room-name box and outlined tag pills, beside an overhead meeting photo with a thin pink outlined frame.",
+  "whatItMeans": "A pastel panel over a real photo feels friendly and modern for workplace communication, and the outline frame adds a designed accent.",
+  "techniques": [
+    "Solid pink panel covering half the photo",
+    "Thin outline frame over the photo",
+    "Light large headline with a small subline",
+    "Outlined tag pills with icons",
+    "White info box for the key detail"
+  ],
+  "bestFor": [
+    "Workplace and office communications",
+    "Room and event announcements",
+    "Social posts with a photo and panel split"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour panel",
+      "definition": "A solid rounded block laid over an image to hold text."
+    },
+    {
+      "term": "Outline frame",
+      "definition": "A thin line rectangle drawn over a photo."
+    },
+    {
+      "term": "Tag pill",
+      "definition": "An outlined rounded label with an icon."
+    }
+  ]
+}

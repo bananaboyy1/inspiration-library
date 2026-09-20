@@ -1,0 +1,44 @@
+{
+  "name": "app-orange-medical-app-health-score-phone-with-ghost-title",
+  "image": "images/app-orange-medical-app-health-score-phone-with-ghost-title.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Orange Medical App Health Score with Ghost Title",
+  "tags": [
+    "medical",
+    "orange",
+    "ghost-type",
+    "health-score",
+    "peach",
+    "cover",
+    "cards"
+  ],
+  "whatItIs": "A white and peach cover with a giant faint 'MediCare' behind a tilted phone with an orange health score screen (82/100), a segmented progress bar and black and grey action cards, and studio, discipline and platform labels at the top.",
+  "whatItMeans": "Orange gives a medical app energy and warmth, and the score screen tells the story at a glance.",
+  "techniques": [
+    "Solid orange screen as the hero colour",
+    "Segmented bar as score progress",
+    "Black and grey action tiles for contrast",
+    "Ghost name and peach glow behind",
+    "Tiny top labels naming studio and format"
+  ],
+  "bestFor": [
+    "Medical and health-score apps",
+    "Bold single-colour UI covers",
+    "Peach gradient covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Health score",
+      "definition": "A single number summarising overall health status."
+    },
+    {
+      "term": "Segmented progress",
+      "definition": "A bar made of small blocks that fill in."
+    },
+    {
+      "term": "Top labels",
+      "definition": "Small captions across the top of a cover."
+    }
+  ]
+}

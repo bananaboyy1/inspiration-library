@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-persona-with-metrics-cards-slide",
+  "image": "images/app-blue-persona-with-metrics-cards-slide.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Blue Persona with Metric Cards",
+  "tags": [
+    "persona",
+    "blue",
+    "cards",
+    "dashed-lines",
+    "gauge",
+    "quote",
+    "health"
+  ],
+  "whatItIs": "A pale slide titled User Personas with a stacked-card portrait on blue, dashed-ruled Goals, Pain Points and Behavior blocks, a quote and three white metric cards with a half-disc, a ring and a gradient bar.",
+  "whatItMeans": "Dotted rules and stacked photo cards feel neat and human, and the bright blue links everything.",
+  "techniques": [
+    "Stacked offset card behind the portrait",
+    "Dotted lines dividing text blocks",
+    "Centred headings with small grey descriptions",
+    "Bold key phrase within a light sentence",
+    "Varied mini charts in white cards"
+  ],
+  "bestFor": [
+    "UX persona slides",
+    "Health-tech case studies",
+    "Research summaries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stacked card",
+      "definition": "Offset layers peeking from behind a card."
+    },
+    {
+      "term": "Dotted divider",
+      "definition": "A dotted rule separating content blocks."
+    },
+    {
+      "term": "Numbered tag",
+      "definition": "A circle with a number beside a section name."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "web-nft-creator-dashboard-with-lime-active-states-and-ai-art-engine",
+  "image": "images/web-nft-creator-dashboard-with-lime-active-states-and-ai-art-engine.png",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "NFT Creator Dashboard with Lime Accents",
+  "tags": [
+    "dashboard",
+    "nft",
+    "lime",
+    "black",
+    "beige",
+    "gallery",
+    "charts",
+    "ai"
+  ],
+  "whatItIs": "A beige rounded dashboard with a black icon rail with a lime active item, a minting profile, earnings donut with coin icons and a payouts table, a gallery of NFT cards with a black active card and lime button, a performance line chart and a dark AI Art Engine card with a lime Generate pill.",
+  "whatItMeans": "Lime marks what is active on black and beige, and the mix of card types keeps a dense dashboard readable.",
+  "techniques": [
+    "Lime as the active-state colour on a black rail",
+    "One black card among white gallery cards",
+    "Donut chart with coin icons",
+    "Dark AI card as a feature block",
+    "Warm beige shell with white panels"
+  ],
+  "bestFor": [
+    "Creator and NFT dashboards",
+    "Dashboards with a lime accent",
+    "Gallery plus analytics layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon rail",
+      "definition": "A narrow vertical bar of navigation icons."
+    },
+    {
+      "term": "Active card",
+      "definition": "The card styled differently to show selection."
+    },
+    {
+      "term": "Feature block",
+      "definition": "A dark tile promoting a special tool."
+    }
+  ]
+}

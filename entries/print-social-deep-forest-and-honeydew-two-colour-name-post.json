@@ -1,0 +1,44 @@
+{
+  "name": "print-social-deep-forest-and-honeydew-two-colour-name-post",
+  "image": "images/print-social-deep-forest-and-honeydew-two-colour-name-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Deep Forest and Honeydew Colour Post",
+  "tags": [
+    "colour",
+    "green",
+    "mint",
+    "split",
+    "hex",
+    "minimal",
+    "palette"
+  ],
+  "whatItIs": "A portrait post split into a deep forest green upper half with pale text 'Deep Forest #004225' and a honeydew mint lower half with green text 'Honeydew #F0FFF0', each hex code in an outlined pill and a social handle strip at the top.",
+  "whatItMeans": "Each colour is the other's text colour, and the natural names evoke calm and freshness.",
+  "techniques": [
+    "Swap foreground and background between halves",
+    "Evocative colour names",
+    "Outlined hex pill",
+    "Handle header line with icons",
+    "Only two colours"
+  ],
+  "bestFor": [
+    "Colour palette posts",
+    "Minimal two-colour layouts",
+    "Green brand inspiration"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour pair",
+      "definition": "Two colours chosen to work together."
+    },
+    {
+      "term": "Inverted halves",
+      "definition": "Two areas where foreground and background swap."
+    },
+    {
+      "term": "Hex pill",
+      "definition": "An outlined label with a colour code."
+    }
+  ]
+}

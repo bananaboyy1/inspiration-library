@@ -1,0 +1,44 @@
+{
+  "name": "app-blurred-silhouette-with-frosted-glucose-metric-tiles",
+  "image": "images/app-blurred-silhouette-with-frosted-glucose-metric-tiles.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Glucose Metric Tiles over a Blurred Silhouette",
+  "tags": [
+    "health",
+    "tiles",
+    "frosted",
+    "blur",
+    "glucose",
+    "gradients",
+    "widgets"
+  ],
+  "whatItIs": "A blurred duotone silhouette of a person looking at a phone with five soft gradient widgets floating in front: Average Glucose in a rose gradient, Time in Range with a slider, Variability with a magenta glow, Vitamin D in blue and Spikes in orange with a blue blob.",
+  "whatItMeans": "Soft radial gradients inside each tile make health numbers feel calm and organic, and the blurred person gives human context.",
+  "techniques": [
+    "Radial gradient glow inside each tile",
+    "Bento of one wide and four small tiles",
+    "Blurred photographic background",
+    "Dot-matrix number in a ring",
+    "Simple white labels and big numerals"
+  ],
+  "bestFor": [
+    "Health widget design",
+    "Glassmorphism dashboards",
+    "Marketing images for health data"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient widget",
+      "definition": "A small tile whose colour is a soft radial blend."
+    },
+    {
+      "term": "Dot-matrix numerals",
+      "definition": "Numbers drawn from small dots."
+    },
+    {
+      "term": "Blurred silhouette",
+      "definition": "A defocused figure used as a background."
+    }
+  ]
+}

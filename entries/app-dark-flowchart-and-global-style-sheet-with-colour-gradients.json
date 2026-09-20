@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-flowchart-and-global-style-sheet-with-colour-gradients",
+  "image": "images/app-dark-flowchart-and-global-style-sheet-with-colour-gradients.jpg",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "title": "Dark Flowchart and Global Style Sheets",
+  "tags": [
+    "flowchart",
+    "global-style",
+    "dark",
+    "gradients",
+    "typography",
+    "projects",
+    "3d-layers"
+  ],
+  "whatItIs": "A tall dark board with a tilted user flow chart of coloured nodes, a projects app phone floating over it, an app icon card, and a Global Style section with tilted sheets showing typography specs and a palette of gradient swatches.",
+  "whatItMeans": "Layered tilted sheets make documentation feel like objects on a desk, and coloured nodes and gradients bring life to a dark system.",
+  "techniques": [
+    "Tilted paper-like sheets in 3D space",
+    "Coloured pill nodes in a flowchart",
+    "Phone floating above the flow diagram",
+    "Gradient swatches as a palette",
+    "Coloured slabs peeking from behind panels"
+  ],
+  "bestFor": [
+    "Design-system and flow overviews",
+    "Dark project boards",
+    "Case studies showing structure and style"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flowchart node",
+      "definition": "A coloured pill representing a screen or step."
+    },
+    {
+      "term": "Global style",
+      "definition": "The shared colours, type and gradients of a product."
+    },
+    {
+      "term": "Floating sheet",
+      "definition": "A document rendered in 3D floating over a surface."
+    }
+  ]
+}

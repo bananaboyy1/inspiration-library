@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-grid-card-company-news-carousel-slide",
+  "image": "images/print-social-white-grid-card-company-news-carousel-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Company News Grid-Card Slide",
+  "tags": [
+    "carousel",
+    "white",
+    "blue",
+    "grid-paper",
+    "news",
+    "portrait",
+    "icons"
+  ],
+  "whatItIs": "A portrait carousel slide with a stacked white card on faint grid paper: a bold sans 'Company news', three icon-led news lines, and a book cover, badge and flag sticker cluster.",
+  "whatItMeans": "A clear structure with airy white makes updates friendly and skimmable. The sticker cluster adds personality.",
+  "techniques": [
+    "Stacked paper cards under the main card for depth",
+    "Blue rounded icon tiles as bullet markers",
+    "Bold key phrases in otherwise light text",
+    "Pill footers with page count and navigation arrow",
+    "Overlapping stickers and mockups at the card edge"
+  ],
+  "bestFor": [
+    "Company updates and newsletters on LinkedIn",
+    "Monthly highlight carousels",
+    "B2B content marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stacked card",
+      "definition": "Layers of offset sheets peeking from under the main card."
+    },
+    {
+      "term": "Icon bullet",
+      "definition": "An icon in a small tile that replaces a bullet dot."
+    },
+    {
+      "term": "Slide counter",
+      "definition": "A '02/06' style pill showing position in the carousel."
+    }
+  ]
+}

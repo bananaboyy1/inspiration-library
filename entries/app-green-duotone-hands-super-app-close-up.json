@@ -1,0 +1,44 @@
+{
+  "name": "app-green-duotone-hands-super-app-close-up",
+  "image": "images/app-green-duotone-hands-super-app-close-up.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green Duotone Hands with Super-App Home",
+  "tags": [
+    "green",
+    "duotone",
+    "hands",
+    "super-app",
+    "illustration",
+    "dark",
+    "touch"
+  ],
+  "whatItIs": "A phone held in two hands, a finger about to tap, all rendered in a green duotone glow on a dark green gradient, showing a super-app home screen with a city illustration, wallet balance and service icons.",
+  "whatItMeans": "Tinting the hands and backdrop in one green makes the colorful UI the only full-color element, so the screen glows. The touching finger adds anticipation.",
+  "techniques": [
+    "Duotone treatment for photographic hands so the UI is the sole colour source",
+    "Finger approaching a target for narrative tension",
+    "Dark radial gradient with subtle dot texture",
+    "Illustrated header art inside the app for character",
+    "Grid of glossy 3D service icons"
+  ],
+  "bestFor": [
+    "Super-app and mobility products",
+    "Hero shots that focus attention on the interface",
+    "Green or fintech brand launches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Duotone",
+      "definition": "An image rendered in two tones or one hue range."
+    },
+    {
+      "term": "Touch moment",
+      "definition": "A frame capturing a finger about to interact."
+    },
+    {
+      "term": "Service grid",
+      "definition": "A grid of icons each opening a different service."
+    }
+  ]
+}

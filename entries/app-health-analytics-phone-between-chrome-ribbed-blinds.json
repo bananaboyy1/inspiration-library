@@ -1,0 +1,44 @@
+{
+  "name": "app-health-analytics-phone-between-chrome-ribbed-blinds",
+  "image": "images/app-health-analytics-phone-between-chrome-ribbed-blinds.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Health Analytics Phone in Chrome Blinds",
+  "tags": [
+    "health",
+    "chrome",
+    "blinds",
+    "white",
+    "grey",
+    "tilted",
+    "analytics"
+  ],
+  "whatItIs": "A rounded panel where a phone showing a Health Analytics heart rate chart is tilted in the centre of a white space framed by converging grey chrome slats above and below.",
+  "whatItMeans": "The slats converge toward the phone like a lens, adding motion and drawing the eye to the screen.",
+  "techniques": [
+    "Converging chrome slats as a frame",
+    "White centre space around the device",
+    "Tilted phone in the middle",
+    "Monochrome scene with pastel UI",
+    "Rounded panel on pale page"
+  ],
+  "bestFor": [
+    "Health analytics mockups",
+    "Abstract chrome scenes",
+    "Centre-focus device shots"
+  ],
+  "vocabulary": [
+    {
+      "term": "Converging lines",
+      "definition": "Lines meeting toward a focal point."
+    },
+    {
+      "term": "Chrome slats",
+      "definition": "Reflective metal strips used as scene elements."
+    },
+    {
+      "term": "Centre focus",
+      "definition": "A composition drawing all lines to the middle."
+    }
+  ]
+}

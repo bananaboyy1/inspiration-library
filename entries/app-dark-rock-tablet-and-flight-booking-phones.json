@@ -1,0 +1,43 @@
+{
+  "name": "app-dark-rock-tablet-and-flight-booking-phones",
+  "image": "images/app-dark-rock-tablet-and-flight-booking-phones.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Dark Flight Booking Phones and Rock Tablet",
+  "tags": [
+    "dark",
+    "flights",
+    "rock",
+    "tablet",
+    "brush-title",
+    "three-phones"
+  ],
+  "whatItIs": "A slate page with a tablet resting on rock, a torn-paper 'Flight Booking Flow' banner, and three tilted dark phones showing search, flight details and bookings.",
+  "whatItMeans": "Rock adds a rugged natural texture to a dark UI, and the fanned phones show the sequence.",
+  "techniques": [
+    "Real rock as a device stand",
+    "Torn brush banner as a section title",
+    "Fanned overlapping phones at different tilts",
+    "Dark UI with blue gradient buttons",
+    "Photo cards for offers"
+  ],
+  "bestFor": [
+    "Dark app flow presentations",
+    "Travel apps",
+    "Case-study feature sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fanned phones",
+      "definition": "Devices overlapped and rotated like a hand of cards."
+    },
+    {
+      "term": "Brush banner",
+      "definition": "A rough paint-stroke shape behind a title."
+    },
+    {
+      "term": "Natural prop",
+      "definition": "A rock or plant used to stage a device."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-black-smart-lock-phone-in-hand-security-headline",
+  "image": "images/app-black-smart-lock-phone-in-hand-security-headline.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Smart Lock Screen in a Lit Hand",
+  "tags": [
+    "black",
+    "smart-lock",
+    "hand",
+    "headline",
+    "cream",
+    "security",
+    "minimal"
+  ],
+  "whatItIs": "A black slide with a hand holding a phone showing a cream smart-lock screen with 'Locked' and a swipe control, beside a logo lockup and the headline 'Security that stays in your hands.'",
+  "whatItMeans": "The lit hand and headline echo each other, and a pale UI on black makes the screen the hero.",
+  "techniques": [
+    "Hand lit from one side against pure black",
+    "Headline that puns on the image",
+    "Small nav labels across the top",
+    "Swipe-to-unlock as the focal interaction",
+    "Logo lockup above the headline"
+  ],
+  "bestFor": [
+    "Smart-home security concepts",
+    "Dark presentation slides",
+    "Text-and-device layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Concept headline",
+      "definition": "A line whose meaning matches the picture."
+    },
+    {
+      "term": "Swipe control",
+      "definition": "A slider that completes an action when dragged."
+    },
+    {
+      "term": "Header labels",
+      "definition": "Small caps labels at the top of a slide."
+    }
+  ]
+}

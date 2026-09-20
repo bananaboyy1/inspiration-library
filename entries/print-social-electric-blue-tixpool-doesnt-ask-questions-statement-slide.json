@@ -1,0 +1,44 @@
+{
+  "name": "print-social-electric-blue-tixpool-doesnt-ask-questions-statement-slide",
+  "image": "images/print-social-electric-blue-tixpool-doesnt-ask-questions-statement-slide.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Doesn't Ask Questions Blue Statement Slide",
+  "tags": [
+    "carousel",
+    "electric-blue",
+    "white-type",
+    "statement",
+    "divider-line",
+    "italic",
+    "ticket-logo"
+  ],
+  "whatItIs": "An electric blue slide with a ticket logo, a giant white heavy centred headline 'TIXPOOL DOESN'T ASK QUESTIONS.', a short rule and a light body line with an italic phrase and a bold ending.",
+  "whatItMeans": "A brand name inside a bold claim gives a slide its own voice, and a hairline rule separates the claim from the reason.",
+  "techniques": [
+    "Giant centred caps headline",
+    "Short hairline rule as a divider",
+    "Light body with italic and bold mixed",
+    "Solid blue backdrop",
+    "Counter in the lower right"
+  ],
+  "bestFor": [
+    "Brand statement slides",
+    "Blue carousel systems",
+    "Conversational copy"
+  ],
+  "vocabulary": [
+    {
+      "term": "Divider rule",
+      "definition": "A short line separating a headline from its supporting text."
+    },
+    {
+      "term": "Mixed emphasis",
+      "definition": "Using italic and bold within a sentence."
+    },
+    {
+      "term": "Brand claim",
+      "definition": "A bold sentence describing what the brand does or does not do."
+    }
+  ]
+}

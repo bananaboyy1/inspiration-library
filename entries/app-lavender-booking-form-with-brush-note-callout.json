@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-booking-form-with-brush-note-callout",
+  "image": "images/app-lavender-booking-form-with-brush-note-callout.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Booking Form with Brush-Note Callout",
+  "tags": [
+    "booking",
+    "form",
+    "lavender",
+    "brush-stroke",
+    "callout",
+    "stepper",
+    "travel"
+  ],
+  "whatItIs": "A lavender slide, Booking Experience, with a large phone showing a personal-information form under a three-step tracker, a torn white brush note 'Review Before You Book' linked by a thin line, and another phone peeking below.",
+  "whatItMeans": "Connector lines and a hand-torn note explain a form's purpose without cluttering the UI.",
+  "techniques": [
+    "Elbow connector line from the phone to a callout",
+    "Torn-paper note as annotation",
+    "Progress tracker dots at the top of the flow",
+    "Rounded white inputs on soft lilac",
+    "Second device cropped at the bottom to imply a sequence"
+  ],
+  "bestFor": [
+    "Form and checkout flow documentation",
+    "Case-study feature explanations",
+    "Travel and booking apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Connector callout",
+      "definition": "A line linking a UI area to an explanatory note."
+    },
+    {
+      "term": "Torn note",
+      "definition": "A rough-edged paper shape used as an annotation."
+    },
+    {
+      "term": "Stepper",
+      "definition": "A visual showing the current step in a multi-step flow."
+    }
+  ]
+}

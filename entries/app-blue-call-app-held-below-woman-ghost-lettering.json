@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-call-app-held-below-woman-ghost-lettering",
+  "image": "images/app-blue-call-app-held-below-woman-ghost-lettering.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blue Calls App with Low-Angle Portrait",
+  "tags": [
+    "blue",
+    "low-angle",
+    "portrait",
+    "ghost-type",
+    "gauge",
+    "calls",
+    "cover"
+  ],
+  "whatItIs": "A cover with a phone in a hand extended toward the camera showing a blue call-statistics gauge, a woman in a dark blazer behind, and giant translucent 'SOFTPHONE' lettering above.",
+  "whatItMeans": "The low angle and outstretched hand make the phone feel immediate, and the blue gradient keeps it corporate yet energetic.",
+  "techniques": [
+    "Phone pushed toward the viewer for depth",
+    "Portrait cropped behind the device",
+    "Ghost brand name across the top",
+    "Blue semicircle gauge as key graphic",
+    "Small pill labels in the corners"
+  ],
+  "bestFor": [
+    "Communication and telephony apps",
+    "Case-study covers",
+    "Business tools wanting energy"
+  ],
+  "vocabulary": [
+    {
+      "term": "Forced perspective",
+      "definition": "Making a near object look large by proximity to the camera."
+    },
+    {
+      "term": "Ghost lettering",
+      "definition": "Oversized faint brand text behind a subject."
+    },
+    {
+      "term": "Semicircle gauge",
+      "definition": "A half-ring showing a value."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "app-red-black-crypto-app-screens-on-dark-red-vignette",
+  "image": "images/app-red-black-crypto-app-screens-on-dark-red-vignette.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Red and Black Crypto Screens on Dark Vignette",
+  "tags": [
+    "crypto",
+    "red",
+    "black",
+    "screens",
+    "wallet",
+    "swap",
+    "risk",
+    "vignette"
+  ],
+  "whatItIs": "A dark red vignette board with a headline 'All your crypto tools in one app' and seven phones in a scattered grid: transaction history, deposit QR, swap, wallet chart, portfolio risk score and a send keypad, alternating black and red screens.",
+  "whatItMeans": "Alternating red and black screens create rhythm, and the vignette keeps the board dramatic.",
+  "techniques": [
+    "Alternating red and black screens",
+    "Staggered columns of phones",
+    "Red striped chart as a signature texture",
+    "Headline with tone shifts",
+    "Consistent pill tab bar across screens"
+  ],
+  "bestFor": [
+    "Crypto wallet flow boards",
+    "Dark fintech presentations",
+    "Multi-screen showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen constellation",
+      "definition": "Phones scattered in staggered columns on one board."
+    },
+    {
+      "term": "Pill tab bar",
+      "definition": "A rounded bottom navigation bar."
+    },
+    {
+      "term": "Vignette board",
+      "definition": "A presentation with a darkened edge gradient."
+    }
+  ]
+}

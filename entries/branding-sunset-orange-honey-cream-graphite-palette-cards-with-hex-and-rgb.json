@@ -1,0 +1,45 @@
+{
+  "name": "branding-sunset-orange-honey-cream-graphite-palette-cards-with-hex-and-rgb",
+  "image": "images/branding-sunset-orange-honey-cream-graphite-palette-cards-with-hex-and-rgb.png",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Sunset Orange and Honey Cream Palette Cards",
+  "tags": [
+    "palette",
+    "orange",
+    "cream",
+    "white",
+    "ash",
+    "graphite",
+    "rounded-cards",
+    "hex-rgb"
+  ],
+  "whatItIs": "A white palette panel titled Colors with six tall rounded cards: Sunset Orange, Burnt Orange, Honey Cream, Pure White, Light Ash and Graphite Black, each with a bold name at the top and hex and RGB values at the bottom, over a dimmed case-study page with a logo tile and Aa type specimens.",
+  "whatItMeans": "Named swatches with both hex and RGB values are practical and warm, and orange with cream feels friendly.",
+  "techniques": [
+    "Tall rounded swatch cards with names top-left",
+    "Hex and RGB values at the card base",
+    "Warm orange ramp from bright to burnt",
+    "Neutrals (white, ash, graphite) completing the set",
+    "Palette shown between logo and type sections"
+  ],
+  "bestFor": [
+    "Brand colour documentation",
+    "Friendly retail identities",
+    "Palette slides with usable values"
+  ],
+  "vocabulary": [
+    {
+      "term": "Named swatch",
+      "definition": "A colour sample with a descriptive name."
+    },
+    {
+      "term": "RGB value",
+      "definition": "A colour written as red, green and blue numbers."
+    },
+    {
+      "term": "Neutral set",
+      "definition": "White, grey and near-black colours supporting an accent."
+    }
+  ]
+}

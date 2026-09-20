@@ -1,0 +1,45 @@
+{
+  "name": "print-social-dark-neon-ui-kit-anatomy-poster-with-side-labels",
+  "image": "images/print-social-dark-neon-ui-kit-anatomy-poster-with-side-labels.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "title": "Dark Neon UI Kit Anatomy Poster",
+  "tags": [
+    "ui-kit",
+    "dark",
+    "cyan",
+    "violet",
+    "poster",
+    "labels",
+    "cyrillic",
+    "infographic"
+  ],
+  "whatItIs": "A tall dark poster with a large gradient headline, a subheading and a single framed UI-kit panel showing colour, typography, buttons, inputs, cards, icons and states, with five pill labels on the left connected by dotted lines to each section.",
+  "whatItMeans": "Connecting pill labels to sections turns a component sheet into a clear map, and glowing cyan and violet feel modern and technical.",
+  "techniques": [
+    "Pill labels at the left linked by dotted lines to sections",
+    "Gradient headline in cyan to white",
+    "One framed sheet containing every component group",
+    "Dark navy with neon accents",
+    "Footer line summarising the system's promise"
+  ],
+  "bestFor": [
+    "UI kit and course promotion",
+    "Explaining design-system anatomy",
+    "Dark tech educational posters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Anatomy poster",
+      "definition": "A poster labelling the parts of a system or object."
+    },
+    {
+      "term": "Leader pill",
+      "definition": "A label connected by a line to a part of an image."
+    },
+    {
+      "term": "Component sheet",
+      "definition": "A board showing all elements of a UI kit together."
+    }
+  ]
+}

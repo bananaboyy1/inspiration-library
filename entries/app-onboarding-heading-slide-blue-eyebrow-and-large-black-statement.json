@@ -1,0 +1,44 @@
+{
+  "name": "app-onboarding-heading-slide-blue-eyebrow-and-large-black-statement",
+  "image": "images/app-onboarding-heading-slide-blue-eyebrow-and-large-black-statement.png",
+  "discipline": "app",
+  "designType": "Case study divider",
+  "title": "Onboarding Divider with Blue Eyebrow",
+  "tags": [
+    "divider",
+    "white",
+    "black",
+    "blue-eyebrow",
+    "minimal",
+    "typography",
+    "section-title"
+  ],
+  "whatItIs": "A nearly empty white slide with a small blue uppercase eyebrow 'ONBOARDING', a large black two-line statement 'Personalization begins with a conversation.' and a one-line description.",
+  "whatItMeans": "Only type and space make a calm section opener, and the blue label marks the section quietly.",
+  "techniques": [
+    "Small blue eyebrow above a large statement",
+    "Left-aligned block placed low on the page",
+    "Only three text sizes",
+    "Huge white margins",
+    "No imagery"
+  ],
+  "bestFor": [
+    "Case-study section dividers",
+    "Type-only slides",
+    "Minimal presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Eyebrow",
+      "definition": "A small label above a heading naming the section."
+    },
+    {
+      "term": "Section divider",
+      "definition": "A slide that introduces a new part of a document."
+    },
+    {
+      "term": "Type-only slide",
+      "definition": "A slide made only of text."
+    }
+  ]
+}

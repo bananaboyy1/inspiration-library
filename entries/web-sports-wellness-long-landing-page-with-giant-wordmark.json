@@ -1,0 +1,45 @@
+{
+  "name": "web-sports-wellness-long-landing-page-with-giant-wordmark",
+  "image": "images/web-sports-wellness-long-landing-page-with-giant-wordmark.jpg",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Sports Wellness Landing with Giant Wordmark",
+  "tags": [
+    "sports",
+    "long-page",
+    "orange",
+    "black",
+    "white",
+    "giant-type",
+    "cards",
+    "photography"
+  ],
+  "whatItIs": "A tall landing page for a sports wellness brand: a hero photo of a basketball with a giant white wordmark, inline icon chips in headlines, tennis and basketball photo cards, a black events list with an orange highlighted row, testimonials and a footer with a cropped giant wordmark.",
+  "whatItMeans": "Photography with bright orange accents feels athletic and lively, and giant wordmarks bookend the page.",
+  "techniques": [
+    "Giant wordmark overlapped by the hero photo",
+    "Inline photo chips inside headlines",
+    "Black list section with an orange highlighted row",
+    "Rounded photo cards with overlay data cards",
+    "Cropped wordmark as a footer graphic"
+  ],
+  "bestFor": [
+    "Sports and fitness brands",
+    "Long editorial landing pages",
+    "Activity and event listings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Giant wordmark",
+      "definition": "A brand name set at enormous scale."
+    },
+    {
+      "term": "Inline chip",
+      "definition": "A small image or icon placed inside a headline."
+    },
+    {
+      "term": "Highlighted row",
+      "definition": "One list row filled with the accent colour."
+    }
+  ]
+}

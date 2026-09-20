@@ -1,0 +1,44 @@
+{
+  "name": "app-monospace-crypto-wallet-and-swap-screens-with-black-pill-buttons",
+  "image": "images/app-monospace-crypto-wallet-and-swap-screens-with-black-pill-buttons.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Monospace Crypto Wallet and Swap Screens",
+  "tags": [
+    "crypto",
+    "monospace",
+    "white",
+    "black",
+    "swap",
+    "keypad",
+    "minimal"
+  ],
+  "whatItIs": "Two white phones set entirely in monospace type: a wallet home with a big balance in pixel-like numerals, currency pills, black Request and pale Withdraw buttons and an asset list with coin icons, and a swap screen with sell and buy fields, percentage chips, a numeric keypad and a black Swap pill.",
+  "whatItMeans": "Monospace type gives a code-like, technical honesty to money, and black pills stay decisive against white.",
+  "techniques": [
+    "Monospace throughout for a terminal feel",
+    "Large monospace balance as the hero",
+    "Percentage chips above the keypad",
+    "Black pill for the primary action",
+    "Soft rounded keys on a light grey keypad"
+  ],
+  "bestFor": [
+    "Developer-leaning crypto apps",
+    "Monospace UI experiments",
+    "Minimal swap flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monospace UI",
+      "definition": "An interface where every character has equal width."
+    },
+    {
+      "term": "Percentage chips",
+      "definition": "Quick buttons for choosing 25%, 50% or max of a balance."
+    },
+    {
+      "term": "Swap toggle",
+      "definition": "A round button reversing the sell and buy assets."
+    }
+  ]
+}

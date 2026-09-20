@@ -1,0 +1,44 @@
+{
+  "name": "web-black-orange-analytics-dashboard-on-monitor-with-glow",
+  "image": "images/web-black-orange-analytics-dashboard-on-monitor-with-glow.jpg",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Black and Orange Analytics Dashboard on Monitor",
+  "tags": [
+    "dashboard",
+    "black",
+    "orange",
+    "monitor",
+    "charts",
+    "bento",
+    "glow"
+  ],
+  "whatItIs": "A dark monitor showing a black analytics dashboard with orange highlight cards, stacked bar charts, donut charts and product lists, against a black background with an orange glow at the base.",
+  "whatItMeans": "Orange on black feels energetic and technical, and the varied chart types keep a dense screen scannable.",
+  "techniques": [
+    "Orange accent cards among dark tiles",
+    "Mixed chart types (bars, donuts, dotted bars)",
+    "Bento of different-size widgets",
+    "Orange glow beneath the monitor",
+    "Minimal sidebar with small labels"
+  ],
+  "bestFor": [
+    "Analytics dashboards",
+    "Dark data products",
+    "Bold accent dashboard presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento widget",
+      "definition": "A dashboard tile of one size holding one visual."
+    },
+    {
+      "term": "Accent card",
+      "definition": "A card filled with the accent colour to lead the eye."
+    },
+    {
+      "term": "Base glow",
+      "definition": "A coloured light rising from the bottom edge."
+    }
+  ]
+}

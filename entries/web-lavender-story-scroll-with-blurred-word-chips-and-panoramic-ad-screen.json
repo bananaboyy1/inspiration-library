@@ -1,0 +1,44 @@
+{
+  "name": "web-lavender-story-scroll-with-blurred-word-chips-and-panoramic-ad-screen",
+  "image": "images/web-lavender-story-scroll-with-blurred-word-chips-and-panoramic-ad-screen.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Lavender Story Scroll with Blurred Word Chips",
+  "tags": [
+    "storytelling",
+    "lavender",
+    "italic-sans",
+    "dashed-path",
+    "blurred-chips",
+    "photos",
+    "billboard"
+  ],
+  "whatItIs": "A tall pale lavender page with a winding dashed path connecting italic headline statements ('Helping Seniors Living Independently', 'With or Without Memory Challenges'), blurred word chips at the sides (Overwhelming, Anxious), tilted photo cards, a panoramic display showing a joyful grandparent and child beside a phone ad, and a Location Tracker node at the base.",
+  "whatItMeans": "A dotted path and blurred chips create a soft narrative journey, and warm photography brings human emotion to a pale page.",
+  "techniques": [
+    "Dashed path threading statements together",
+    "Blurred out-of-focus word chips for depth",
+    "Tilted photo cards floating in white space",
+    "Italic light headline statements",
+    "Panoramic screen as a mid-page feature"
+  ],
+  "bestFor": [
+    "Storytelling scroll pages",
+    "Care and wellness brands",
+    "Emotional narrative landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blurred chip",
+      "definition": "A defocused pill of text used as background texture."
+    },
+    {
+      "term": "Narrative path",
+      "definition": "A line that leads the eye through a story."
+    },
+    {
+      "term": "Panoramic screen",
+      "definition": "A wide display showing multiple pieces of content."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "web-figma-ui-kit-with-lime-lilac-cards-on-laptop-photo",
+  "image": "images/web-figma-ui-kit-with-lime-lilac-cards-on-laptop-photo.jpg",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Lime and Lilac Cards in Figma on a Laptop",
+  "tags": [
+    "figma",
+    "laptop",
+    "photo",
+    "lime",
+    "lilac",
+    "cards",
+    "exchange",
+    "space-grotesk"
+  ],
+  "whatItIs": "A candid photo of a laptop showing Figma with a dark UI board of interlocking cards in lilac, lime and cream: revenue chart, transactions, currency exchange, credit card info, a family saving dot chart and a Space Grotesk specimen, with toys on a shelf behind.",
+  "whatItMeans": "A real-life shot of a work-in-progress adds authenticity, and the bright cards read clearly even at an angle.",
+  "techniques": [
+    "Photograph of a live design file for a behind-the-scenes feel",
+    "Cards with angled cut corners",
+    "Lime, lilac and cream on dark",
+    "Big numeric hero in the exchange card",
+    "Specimen card naming the typeface"
+  ],
+  "bestFor": [
+    "Behind-the-scenes design posts",
+    "Fintech UI kit previews",
+    "Real-world design process shots"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cut-corner card",
+      "definition": "A card with one corner sliced diagonally."
+    },
+    {
+      "term": "Behind-the-scenes shot",
+      "definition": "A photo of the actual working file or workspace."
+    },
+    {
+      "term": "Specimen card",
+      "definition": "A card naming and showing the typeface used."
+    }
+  ]
+}

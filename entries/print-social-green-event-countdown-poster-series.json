@@ -1,0 +1,44 @@
+{
+  "name": "print-social-green-event-countdown-poster-series",
+  "image": "images/print-social-green-event-countdown-poster-series.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad set",
+  "title": "Green Event Countdown Poster Series",
+  "tags": [
+    "countdown",
+    "event",
+    "green",
+    "white",
+    "poster",
+    "qr",
+    "series"
+  ],
+  "whatItIs": "A deep green board with white event posters: '03 days left' with a giant numeral and red and green ribbon, 'ONE day to go', and cropped QR and phone posters, with a vertical 'Countdown' label.",
+  "whatItMeans": "Big numerals make the countdown instantly readable, and the shared header pattern ties the series together.",
+  "techniques": [
+    "Giant numerals as the focal graphic",
+    "Coloured header strip of shapes on every poster",
+    "Vertical label naming the series",
+    "Details row with date, place and time chips",
+    "Angled crops of neighbouring posters"
+  ],
+  "bestFor": [
+    "Event countdown campaigns",
+    "Launch series",
+    "Social poster sets"
+  ],
+  "vocabulary": [
+    {
+      "term": "Countdown numeral",
+      "definition": "An oversized number showing days remaining."
+    },
+    {
+      "term": "Header strip",
+      "definition": "A repeated band of shapes along the top of posters."
+    },
+    {
+      "term": "Details chips",
+      "definition": "Small labels for date, place and time."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-teal-gloved-hand-holding-pilgrimage-app",
+  "image": "images/app-teal-gloved-hand-holding-pilgrimage-app.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Silver Gloved Hand with Pilgrimage App",
+  "tags": [
+    "teal",
+    "glove",
+    "silver",
+    "gradient",
+    "religion",
+    "cover",
+    "hand"
+  ],
+  "whatItIs": "A cover on a dark teal gradient with a metallic silver gloved hand holding a phone showing an app with cream and brown cards and prayer times, and an Arabic-and-English logo at top right.",
+  "whatItMeans": "The chrome glove is a striking surreal touch that makes a devotional app feel premium.",
+  "techniques": [
+    "Metallic glove as a surreal prop",
+    "Deep teal gradient background",
+    "Warm brown card as accent on light UI",
+    "Logo placed in the top corner",
+    "Finger poised to tap"
+  ],
+  "bestFor": [
+    "Faith and cultural apps",
+    "Surreal hero covers",
+    "Premium mobile branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Surreal prop",
+      "definition": "An unexpected object added for visual impact."
+    },
+    {
+      "term": "Chrome render",
+      "definition": "A reflective metallic 3D look."
+    },
+    {
+      "term": "Tap moment",
+      "definition": "A finger about to touch the screen."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-harbor-ai-support-app-extra-long-case-study",
+  "image": "images/app-harbor-ai-support-app-extra-long-case-study.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "AI Support App Extra-Long Case Study",
+  "tags": [
+    "long-scroll",
+    "case-study",
+    "white",
+    "ghost-type",
+    "wireframes",
+    "flowchart",
+    "app-icon"
+  ],
+  "whatItIs": "An extremely tall white case-study page for a support-agent app: ghost 'Harbor' lettering above a phone lock screen, project overview, app-icon closeups, a challenge section with red problem cards, wireframes, solution phones, a happy-path flow, a strategy plan and categorised work queues.",
+  "whatItMeans": "A long, calm sequence of alternating text and device images tells a full design story at an editorial pace.",
+  "techniques": [
+    "Giant ghost brand name behind the hero device",
+    "Section labels in tiny caps with large statements beside",
+    "Red-outlined problem cards connected by dotted lines",
+    "Wireframes shown before final UI to show process",
+    "Dark gloved hand holding the phone for contrast"
+  ],
+  "bestFor": [
+    "Full-process app case studies",
+    "AI and enterprise tools",
+    "Behance-style long pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Problem card",
+      "definition": "A card stating a specific issue the design solves."
+    },
+    {
+      "term": "Happy path",
+      "definition": "The ideal sequence a user follows to complete a task."
+    },
+    {
+      "term": "Section label",
+      "definition": "A tiny caption naming the stage of a case study."
+    }
+  ]
+}

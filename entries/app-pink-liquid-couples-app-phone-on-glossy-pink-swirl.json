@@ -1,0 +1,44 @@
+{
+  "name": "app-pink-liquid-couples-app-phone-on-glossy-pink-swirl",
+  "image": "images/app-pink-liquid-couples-app-phone-on-glossy-pink-swirl.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Couples App on a Glossy Pink Swirl",
+  "tags": [
+    "pink",
+    "liquid",
+    "glossy",
+    "couples",
+    "phone",
+    "tags",
+    "cover"
+  ],
+  "whatItIs": "A pink cover with a phone lying on a glossy liquid pink swirl showing a Today screen with a couple's photo ring and pink cards, discipline pills at top left and a heart-tree logo at top right.",
+  "whatItMeans": "The glossy liquid matches the pink UI and gives a sensual, soft mood for a relationship app.",
+  "techniques": [
+    "Liquid glossy 3D swirl as the stage",
+    "Monochrome pink scene and UI",
+    "Pill tags for disciplines",
+    "Circular photo with a progress ring",
+    "Logo in the corner"
+  ],
+  "bestFor": [
+    "Relationship and wellness apps",
+    "Monochrome pastel covers",
+    "Liquid 3D scene staging"
+  ],
+  "vocabulary": [
+    {
+      "term": "Liquid render",
+      "definition": "A glossy flowing 3D surface resembling paint or gel."
+    },
+    {
+      "term": "Photo ring",
+      "definition": "A circular photo with a progress outline."
+    },
+    {
+      "term": "Monochrome scene",
+      "definition": "A scene in one colour family."
+    }
+  ]
+}

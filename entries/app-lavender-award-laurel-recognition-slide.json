@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-award-laurel-recognition-slide",
+  "image": "images/app-lavender-award-laurel-recognition-slide.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Lavender Award Laurel Slide",
+  "tags": [
+    "award",
+    "laurel",
+    "lavender",
+    "serif",
+    "recognition",
+    "faded-photo",
+    "centered"
+  ],
+  "whatItIs": "A lavender slide with a faint portrait in the background and centred navy laurel branches framing a serif award title 'Future of Ageing Awards, Winner 2024' with short body text below.",
+  "whatItMeans": "Laurels and a refined serif convey prestige gently, and the washed-out photo keeps it warm and human.",
+  "techniques": [
+    "Laurel wreath as the frame for a title",
+    "Serif type in navy and white for hierarchy",
+    "Heavily tinted photo as a background texture",
+    "Centred symmetrical layout",
+    "Small body text fading into the tint"
+  ],
+  "bestFor": [
+    "Award and recognition slides",
+    "Care and health-tech brands",
+    "Trust-building moments in case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Laurel wreath",
+      "definition": "A pair of leaf branches signalling achievement."
+    },
+    {
+      "term": "Tinted photo",
+      "definition": "A photo overlaid with a single colour wash."
+    },
+    {
+      "term": "Centred composition",
+      "definition": "Elements arranged symmetrically on a central axis."
+    }
+  ]
+}

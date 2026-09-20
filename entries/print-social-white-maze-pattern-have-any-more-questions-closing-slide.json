@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-maze-pattern-have-any-more-questions-closing-slide",
+  "image": "images/print-social-white-maze-pattern-have-any-more-questions-closing-slide.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Have Any More Questions Closing Slide",
+  "tags": [
+    "carousel",
+    "closing",
+    "faq",
+    "maze-pattern",
+    "blue-card",
+    "highlight",
+    "dm-cta"
+  ],
+  "whatItIs": "A white slide with a faint maze pattern, a ticket logo, a tilted blue speech card with 'Have any more questions?' and below it black type 'Visit Tixpool.com' with the URL on a blue highlight block and 'or slide into our DMs. We don't bite.'",
+  "whatItMeans": "A playful, human ending with a blue highlight on the URL makes the call to action easy to spot.",
+  "techniques": [
+    "Speech card as the question",
+    "URL on a solid blue highlight block",
+    "Friendly closing line",
+    "Faint pattern background",
+    "Centred layout with generous space"
+  ],
+  "bestFor": [
+    "Closing slides for FAQ carousels",
+    "Friendly CTAs",
+    "Blue highlight emphasis"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlight block",
+      "definition": "A solid rectangle behind key words."
+    },
+    {
+      "term": "DM call to action",
+      "definition": "An invitation to send a direct message."
+    },
+    {
+      "term": "Friendly closer",
+      "definition": "A last line with an informal tone."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-spending-overview-card-over-photo-beside-hand-held-cards-screen",
+  "image": "images/app-dark-spending-overview-card-over-photo-beside-hand-held-cards-screen.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Spending Overview Card and Card Fan Screen",
+  "tags": [
+    "fintech",
+    "glass-card",
+    "photo",
+    "ring-chart",
+    "card-fan",
+    "pearl",
+    "split"
+  ],
+  "whatItIs": "A split image: at left a man on a sofa with a dark frosted card overlay showing monthly spend and a ring chart of transactions; at right a hand-held phone showing 'Manage Your Cards' with a fan of pearlescent cards and action icons.",
+  "whatItMeans": "Pairing a human moment with UI cards ties numbers to life, and the pearl card fan feels premium.",
+  "techniques": [
+    "Dark frosted card overlaid on a lifestyle photo",
+    "Ring chart with a pearl gradient stroke",
+    "Fan of cards as the hero of the screen",
+    "Serif heading in the UI",
+    "Two equal panels side by side"
+  ],
+  "bestFor": [
+    "Fintech feature marketing",
+    "Card management app screens",
+    "Photo plus UI diptychs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Diptych",
+      "definition": "Two related images shown side by side."
+    },
+    {
+      "term": "Ring chart",
+      "definition": "A circular chart showing a value in a ring."
+    },
+    {
+      "term": "Card fan",
+      "definition": "Cards overlapped in an arc."
+    }
+  ]
+}

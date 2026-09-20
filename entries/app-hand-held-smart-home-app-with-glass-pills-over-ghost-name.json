@@ -1,0 +1,44 @@
+{
+  "name": "app-hand-held-smart-home-app-with-glass-pills-over-ghost-name",
+  "image": "images/app-hand-held-smart-home-app-with-glass-pills-over-ghost-name.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Smart Home App with Glass Pills over Ghost Name",
+  "tags": [
+    "smart-home",
+    "grey",
+    "hand",
+    "glass-pills",
+    "ghost-type",
+    "lime",
+    "metadata"
+  ],
+  "whatItIs": "A grey gradient cover with a hand holding a cream smart-home UI (house render, lime door card, toggles), giant fading 'Homely' behind, frosted pill tags around and metadata across the top.",
+  "whatItMeans": "Frosted pills describe the brand feelings around the phone, and the dark fade at the base grounds the scene.",
+  "techniques": [
+    "Ghost name fading from dark to light",
+    "Frosted pill tags orbiting the phone",
+    "Lime card as the only bright accent",
+    "Dark gradient at the base",
+    "Small metadata row and logo across the top"
+  ],
+  "bestFor": [
+    "Smart-home brand covers",
+    "Hero images with keyword tags",
+    "Neutral premium mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted pill",
+      "definition": "A blurred translucent rounded label."
+    },
+    {
+      "term": "Keyword tag",
+      "definition": "A short word or phrase floated near a product."
+    },
+    {
+      "term": "Base fade",
+      "definition": "A dark gradient at the bottom edge of an image."
+    }
+  ]
+}

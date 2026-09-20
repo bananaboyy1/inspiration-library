@@ -1,0 +1,44 @@
+{
+  "name": "web-architecture-site-on-tablet-held-against-mountain-house-photo",
+  "image": "images/web-architecture-site-on-tablet-held-against-mountain-house-photo.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Architecture Site Tablet Held against Blue Sky",
+  "tags": [
+    "tablet",
+    "architecture",
+    "hands",
+    "blue",
+    "black-white-logos",
+    "hero",
+    "cover"
+  ],
+  "whatItIs": "A cover with two hands holding a tablet whose screen shows a mountain house site with a large white headline 'The Infinite Precision of Living' and a black plan card, against a deep blue gradient, with two square logos and a 2026 tag.",
+  "whatItMeans": "The tablet's dramatic rock photo becomes the cover's colour, and the deep blue frames it calmly.",
+  "techniques": [
+    "Held tablet filling most of the frame",
+    "Photo hero with overlaid heading inside the UI",
+    "Deep blue backdrop matched to the sky",
+    "Logo squares and year tag in the corners",
+    "Black spec card with plan drawing"
+  ],
+  "bestFor": [
+    "Architecture and real estate sites",
+    "Tablet covers",
+    "Photo-led site presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spec card",
+      "definition": "A dark card listing area and type of a property."
+    },
+    {
+      "term": "Held tablet",
+      "definition": "A tablet shown in hands at a slight angle."
+    },
+    {
+      "term": "Year tag",
+      "definition": "A small outlined box giving the project year."
+    }
+  ]
+}

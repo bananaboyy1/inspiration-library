@@ -1,0 +1,44 @@
+{
+  "name": "app-black-nav-bar-lime-home-circle-and-icon-pill-loop",
+  "image": "images/app-black-nav-bar-lime-home-circle-and-icon-pill-loop.gif",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Lime Home Circle Nav Bar Loop",
+  "tags": [
+    "nav-bar",
+    "black",
+    "lime",
+    "pill",
+    "icons",
+    "minimal",
+    "animation"
+  ],
+  "whatItIs": "A black field with a floating navigation made of a lime circular home button beside a dark grey pill of white star, card, bag and search icons, a frame from an animated interaction.",
+  "whatItMeans": "The active item as a bright detached circle makes the state obvious and lends itself to a sliding animation.",
+  "techniques": [
+    "Active item in a separate lime circle",
+    "Inactive items in one dark pill",
+    "Solid white glyphs",
+    "Pure black background",
+    "Animation-ready structure"
+  ],
+  "bestFor": [
+    "Navigation interaction studies",
+    "Dark mode tab bars",
+    "Single-accent UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Detached active item",
+      "definition": "A selected tab drawn as a separate shape from the bar."
+    },
+    {
+      "term": "Icon pill",
+      "definition": "A capsule holding a row of icons."
+    },
+    {
+      "term": "Interaction study",
+      "definition": "A small animated exploration of one component."
+    }
+  ]
+}

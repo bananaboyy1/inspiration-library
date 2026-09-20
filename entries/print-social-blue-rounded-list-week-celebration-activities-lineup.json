@@ -1,0 +1,44 @@
+{
+  "name": "print-social-blue-rounded-list-week-celebration-activities-lineup",
+  "image": "images/print-social-blue-rounded-list-week-celebration-activities-lineup.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Week Celebration Activities Lineup Flyer",
+  "tags": [
+    "lineup",
+    "schedule",
+    "blue",
+    "rounded-bars",
+    "event",
+    "student",
+    "gold-highlight"
+  ],
+  "whatItIs": "A pale portrait flyer with a logo presenter line, a heavy blue title 'SCC Week Celebration', 'Activities Lineup' and six rounded bars listing dates and events in white type, one bar in gold for the main conference, with social handles at the base and a blue arc at the bottom.",
+  "whatItMeans": "Uniform bars make a schedule easy to scan, and the single gold bar marks the highlight.",
+  "techniques": [
+    "Date block with a vertical divider in each bar",
+    "Uniform rounded blue bars stacked evenly",
+    "One gold bar as the highlight",
+    "Heavy italic-feel title in blue",
+    "Light streak overlays on the blue for sheen"
+  ],
+  "bestFor": [
+    "Event schedules and lineups",
+    "Student and church events",
+    "List-style flyers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lineup bar",
+      "definition": "A rounded strip showing a date and an event."
+    },
+    {
+      "term": "Highlight bar",
+      "definition": "One bar in a different colour to mark the main event."
+    },
+    {
+      "term": "Date block",
+      "definition": "A large number and month set apart by a rule."
+    }
+  ]
+}

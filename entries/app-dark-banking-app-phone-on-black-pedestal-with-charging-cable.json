@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-banking-app-phone-on-black-pedestal-with-charging-cable",
+  "image": "images/app-dark-banking-app-phone-on-black-pedestal-with-charging-cable.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Dark Banking App on Black Pedestal",
+  "tags": [
+    "banking",
+    "dark",
+    "blue",
+    "pedestal",
+    "cable",
+    "dramatic",
+    "cover"
+  ],
+  "whatItIs": "A dark cover with a phone tilted on angular black pedestals showing a navy banking home with a card and quick actions, a white charging cable trailing away, a logo at top left and metadata pills at top right.",
+  "whatItMeans": "Angular black shapes and a single white cable give a moody, techy stage, and the blue UI glows.",
+  "techniques": [
+    "Black geometric pedestals as a stage",
+    "White cable as a lone bright line",
+    "Blue glow from the UI on a dark scene",
+    "Metadata pills along the top",
+    "Phone angled steeply for depth"
+  ],
+  "bestFor": [
+    "Dark banking app covers",
+    "Product renders with hard-edge props",
+    "Tech-focused portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pedestal",
+      "definition": "A block used to elevate a product in a scene."
+    },
+    {
+      "term": "Accent cable",
+      "definition": "A cable used as a bright graphic line."
+    },
+    {
+      "term": "Metadata pill",
+      "definition": "A small label giving category or year."
+    }
+  ]
+}

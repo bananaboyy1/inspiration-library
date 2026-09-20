@@ -1,0 +1,44 @@
+{
+  "name": "app-red-problem-solution-columns-with-stripe-and-block-visuals",
+  "image": "images/app-red-problem-solution-columns-with-stripe-and-block-visuals.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Red Problem and Solution Columns",
+  "tags": [
+    "problem-solution",
+    "red",
+    "columns",
+    "stripes",
+    "blocks",
+    "dark",
+    "vignette"
+  ],
+  "whatItIs": "A dark red vignette slide with a headline about turning pain points into solutions and four columns split by hairlines: Problem 1, Solution 1, Problem 2, Solution 2, where problems sit above striped textures and solutions above solid red blocks.",
+  "whatItMeans": "Striped versus solid fills visualise messy versus resolved, and column rules keep the comparison tidy.",
+  "techniques": [
+    "Striped texture for problems, solid block for solutions",
+    "Four columns divided by thin vertical lines",
+    "Headline with a dimmed phrase",
+    "Small label above each statement",
+    "Red radial vignette background"
+  ],
+  "bestFor": [
+    "Problem and solution slides",
+    "Fintech and crypto case studies",
+    "Two-pair comparisons"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stripe texture",
+      "definition": "Fine vertical lines used as a graphic fill."
+    },
+    {
+      "term": "Solid block",
+      "definition": "A flat colour rectangle used as a contrast to texture."
+    },
+    {
+      "term": "Column rule",
+      "definition": "A thin line separating columns."
+    }
+  ]
+}

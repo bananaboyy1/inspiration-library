@@ -1,0 +1,44 @@
+{
+  "name": "app-design-process-gantt-with-inline-icon-headline-and-hashtag-strip",
+  "image": "images/app-design-process-gantt-with-inline-icon-headline-and-hashtag-strip.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Design Process Gantt with Inline Icon Headline",
+  "tags": [
+    "gantt",
+    "process",
+    "white",
+    "inline-icons",
+    "circles",
+    "stats",
+    "hashtags"
+  ],
+  "whatItIs": "A tall white page with a headline whose words alternate grey and black with small app icons inline, a Design Process pill, a Gantt chart of six capsules stepping down across eight weeks, a strip of hashtag pills, a statement with an app icon and four overlapping outlined circles with tinted fills holding stats (50K+ users, $42 savings, 74/100, $184.40).",
+  "whatItMeans": "Overlapping tinted circles make numbers feel like bubbles, and the inline icons make a headline part illustration.",
+  "techniques": [
+    "Inline app icons inside a headline",
+    "Capsule Gantt with week labels",
+    "Overlapping outlined circles filled with soft gradients",
+    "Hashtag strip as a marquee",
+    "Huge faint logo shape behind the chart"
+  ],
+  "bestFor": [
+    "Design process and stats slides",
+    "Subscription and fintech case studies",
+    "Long-scroll case study pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overlap bubbles",
+      "definition": "Circles overlapping with transparent tints."
+    },
+    {
+      "term": "Hashtag strip",
+      "definition": "A row of pills listing tags."
+    },
+    {
+      "term": "Inline icon",
+      "definition": "An icon set within a line of text."
+    }
+  ]
+}

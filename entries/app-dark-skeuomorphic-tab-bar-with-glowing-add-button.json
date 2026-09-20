@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-skeuomorphic-tab-bar-with-glowing-add-button",
+  "image": "images/app-dark-skeuomorphic-tab-bar-with-glowing-add-button.webp",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Dark Skeuomorphic Tab Bar",
+  "tags": [
+    "tab-bar",
+    "dark",
+    "skeuomorphic",
+    "icons",
+    "navigation",
+    "red-indicator",
+    "tactile"
+  ],
+  "whatItIs": "A dark grey segmented navigation bar of five keys (home, chart, plus, chat, profile) with embossed icons, the centre plus lit white with a red indicator dash.",
+  "whatItMeans": "Physical-looking keys make navigation feel tactile, and one lit key shows the active state clearly.",
+  "techniques": [
+    "Segmented keys with inner shadows",
+    "Embossed grey icons on dark keys",
+    "Active key lit white with a red dash",
+    "Small dashes under each icon",
+    "Dark on dark for a hardware feel"
+  ],
+  "bestFor": [
+    "Tactile nav bars",
+    "Dark UI component showcases",
+    "Hardware-inspired interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Skeuomorphic",
+      "definition": "Design imitating real-world physical materials."
+    },
+    {
+      "term": "Active key",
+      "definition": "The highlighted item in a segmented control."
+    },
+    {
+      "term": "Emboss",
+      "definition": "A raised look given to icons or shapes."
+    }
+  ]
+}

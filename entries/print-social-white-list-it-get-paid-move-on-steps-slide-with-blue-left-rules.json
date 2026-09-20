@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-list-it-get-paid-move-on-steps-slide-with-blue-left-rules",
+  "image": "images/print-social-white-list-it-get-paid-move-on-steps-slide-with-blue-left-rules.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "List It, Get Paid, Move On Steps Slide",
+  "tags": [
+    "carousel",
+    "how-it-works",
+    "white",
+    "blue-rules",
+    "steps",
+    "bold-caps",
+    "ticket-logo"
+  ],
+  "whatItIs": "A white slide with a blue tag 'HERE'S HOW IT WORKS', a huge black heavy 'LIST IT. GET PAID. MOVE ON.' and seven pale rounded rows each with a blue left rule, holding one short step in regular text with bold key words and a final italic grey 'Nobody loses.'",
+  "whatItMeans": "Three verbs as a headline and a stack of one-line steps turn a process into something you can read in seconds.",
+  "techniques": [
+    "Three-verb headline as a summary",
+    "Rows with a blue left border for steps",
+    "Bold key words in each step",
+    "Italic grey last line as a soft close",
+    "Blue tag above the headline"
+  ],
+  "bestFor": [
+    "How-it-works slides",
+    "Process explanations in carousels",
+    "Step lists"
+  ],
+  "vocabulary": [
+    {
+      "term": "Left-rule row",
+      "definition": "A row marked by a coloured line on its left edge."
+    },
+    {
+      "term": "Verb headline",
+      "definition": "A headline made of short action phrases."
+    },
+    {
+      "term": "Soft close",
+      "definition": "A quiet final line that wraps up a list."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-thanks-for-watching-fading-caps-slide",
+  "image": "images/app-dark-thanks-for-watching-fading-caps-slide.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Thanks for Watching in Fading Caps",
+  "tags": [
+    "closing",
+    "dark",
+    "caps",
+    "fade",
+    "follow",
+    "contact",
+    "columns"
+  ],
+  "whatItIs": "A near-black slide with giant caps 'THANKS FOR WATCHING!' fading from bright silver to nearly invisible, a blue tilted Follow pill, four category labels, a short paragraph and two contact fields boxed in blue.",
+  "whatItMeans": "The fading letters create drama and depth, and the blue pill and contact boxes give clear next steps.",
+  "techniques": [
+    "Gradient fade across giant uppercase letters",
+    "Tilted blue Follow pill overlapping the type",
+    "Vertical hairline column guides",
+    "Contact info in blue-boxed fields with corner marks",
+    "Slash-prefixed service labels across the top"
+  ],
+  "bestFor": [
+    "Portfolio sign-offs",
+    "Designer and studio closing slides",
+    "Contact calls to action"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fade-out type",
+      "definition": "Lettering that loses opacity across its width."
+    },
+    {
+      "term": "Corner brackets",
+      "definition": "Small marks at the corners of a boxed field."
+    },
+    {
+      "term": "Service label",
+      "definition": "A short tag naming an offered service."
+    }
+  ]
+}

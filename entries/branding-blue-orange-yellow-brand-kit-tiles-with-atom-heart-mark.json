@@ -1,0 +1,45 @@
+{
+  "name": "branding-blue-orange-yellow-brand-kit-tiles-with-atom-heart-mark",
+  "image": "images/branding-blue-orange-yellow-brand-kit-tiles-with-atom-heart-mark.png",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Blue, Orange and Yellow Brand Kit Tiles",
+  "tags": [
+    "brand-kit",
+    "blue",
+    "orange",
+    "yellow",
+    "palette",
+    "typeface",
+    "logo",
+    "bento"
+  ],
+  "whatItIs": "A bento board of tiles: blue stripe ramp, warm gradient, a button, a typeface card 'Roobert', a navy tile with big AaBbCc glyphs, a warm-gradient tile with a white orbit-heart symbol and six vertical swatches with rotated hex codes.",
+  "whatItMeans": "Blue against orange and yellow feels human and optimistic, and the bento shows the whole system at a glance.",
+  "techniques": [
+    "Bento tiles of different sizes",
+    "Vertical swatch strip with rotated hex labels",
+    "Blue stripe ramp as a tonal scale",
+    "Warm mesh gradient behind the mark",
+    "One large glyph tile to show the type"
+  ],
+  "bestFor": [
+    "Brand kit overviews",
+    "Friendly tech identities",
+    "Colour, type and logo in one board"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal ramp",
+      "definition": "Stripes of one hue from dark to light."
+    },
+    {
+      "term": "Glyph tile",
+      "definition": "A tile showing letters, numerals and symbols."
+    },
+    {
+      "term": "Rotated label",
+      "definition": "Text set vertically along a swatch."
+    }
+  ]
+}

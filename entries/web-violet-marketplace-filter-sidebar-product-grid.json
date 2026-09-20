@@ -1,0 +1,44 @@
+{
+  "name": "web-violet-marketplace-filter-sidebar-product-grid",
+  "image": "images/web-violet-marketplace-filter-sidebar-product-grid.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Violet Marketplace with Filter Sidebar",
+  "tags": [
+    "marketplace",
+    "violet",
+    "filters",
+    "product-grid",
+    "rounded",
+    "cards",
+    "sport"
+  ],
+  "whatItIs": "A rounded desktop window on a violet gradient with a search header, pill category tabs, a left filter sidebar (price histogram, stars, brands, delivery) and a grid of product cards, one highlighted as a purple photo card.",
+  "whatItMeans": "A single violet accent on soft grey cards feels modern and friendly, and the histogram slider shows detail without heaviness.",
+  "techniques": [
+    "Price slider over a mini histogram",
+    "Pill tabs for categories with one filled",
+    "One product card inverted with a full-bleed photo and rating chips",
+    "Checkbox list with brand logos",
+    "Cutout product photos on pale gray tiles"
+  ],
+  "bestFor": [
+    "Marketplaces and retail",
+    "Filter-heavy browsing UIs",
+    "Dashboard-style storefront concepts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Histogram slider",
+      "definition": "A range slider drawn over a bar chart of the value distribution."
+    },
+    {
+      "term": "Featured card",
+      "definition": "A product card styled differently to stand out."
+    },
+    {
+      "term": "Pill tabs",
+      "definition": "Rounded tab buttons for switching category."
+    }
+  ]
+}

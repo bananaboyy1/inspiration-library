@@ -1,0 +1,45 @@
+{
+  "name": "print-social-ai-social-media-automation-multi-colour-post-grid",
+  "image": "images/print-social-ai-social-media-automation-multi-colour-post-grid.jpg",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "title": "Social Media Automation Post Grid",
+  "tags": [
+    "templates",
+    "grid",
+    "white",
+    "black",
+    "green",
+    "purple",
+    "yellow",
+    "automation"
+  ],
+  "whatItIs": "A pale grey board of nine portrait posts about social media automation in white, black, green, purple and yellow cards with bold sans headlines, icon rows, buttons, photos and play buttons.",
+  "whatItMeans": "Alternating flat colour cards with the same type system make a feed feel varied yet consistent.",
+  "techniques": [
+    "Flat colour backgrounds rotated across cards",
+    "Bold left-aligned headlines",
+    "Black pill buttons and round play icons",
+    "Cut photos in rounded corners",
+    "Small brand row at each card top"
+  ],
+  "bestFor": [
+    "Tech and SaaS social feeds",
+    "Template pack previews",
+    "Colour-rotation grid concepts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour rotation",
+      "definition": "Cycling background colours across a set of posts."
+    },
+    {
+      "term": "Feed grid",
+      "definition": "A 3-by-3 arrangement of posts."
+    },
+    {
+      "term": "Play button",
+      "definition": "A round icon signalling video."
+    }
+  ]
+}

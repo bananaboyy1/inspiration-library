@@ -1,0 +1,45 @@
+{
+  "name": "web-anime-character-generator-hero-on-tablet-with-notched-cards-and-circular-badge",
+  "image": "images/web-anime-character-generator-hero-on-tablet-with-notched-cards-and-circular-badge.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Anime Generator Hero on a Tablet",
+  "tags": [
+    "tablet",
+    "anime",
+    "ai",
+    "notched-cards",
+    "circular-text",
+    "display-caps",
+    "lilac",
+    "gradient-backdrop"
+  ],
+  "whatItIs": "A tablet on a grainy blue-to-lilac gradient showing a lilac-grey site with a black notched header, a huge condensed caps headline 'Creation of Anime Characters', an anime illustration in a clipped-corner frame, a portrait card, a rotating circular text badge with a sparkle, an info card with a tab and social icons and a Start Free Trial pill.",
+  "whatItMeans": "Clipped corners and a circular badge give a techy, graphic layout, and vivid anime art contrasts with the neutral lilac.",
+  "techniques": [
+    "Clipped-corner frames and a tabbed card",
+    "Condensed caps headline",
+    "Circular text badge as a decorative call to action",
+    "Vivid artwork against a muted ground",
+    "Grain over the gradient backdrop"
+  ],
+  "bestFor": [
+    "AI art and generator sites",
+    "Bento-like hero layouts",
+    "Tablet presentation mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Clipped corner",
+      "definition": "A frame corner cut diagonally."
+    },
+    {
+      "term": "Circular text",
+      "definition": "Text set around a circle as a badge."
+    },
+    {
+      "term": "Grain overlay",
+      "definition": "Fine noise added over a gradient."
+    }
+  ]
+}

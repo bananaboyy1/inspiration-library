@@ -1,0 +1,44 @@
+{
+  "name": "print-social-slate-real-problem-highlighted-text-slide",
+  "image": "images/print-social-slate-real-problem-highlighted-text-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "The Real Problem Highlighted Text Slide",
+  "tags": [
+    "educational",
+    "problem",
+    "slate",
+    "highlight",
+    "corner-marks",
+    "justified",
+    "text-only"
+  ],
+  "whatItIs": "A slate-blue slide with corner crop marks, a condensed caps title 'THE REAL PROBLEM' and a justified paragraph in which key phrases sit on translucent grey highlight bars.",
+  "whatItMeans": "Highlight bars act like a marker pen, pointing out the key phrases, and corner marks give a designed frame.",
+  "techniques": [
+    "Translucent highlight bars behind words",
+    "Corner crop marks framing the slide",
+    "Justified paragraph for an editorial look",
+    "Condensed caps title",
+    "Only two colours"
+  ],
+  "bestFor": [
+    "Problem statement slides",
+    "Text-led carousels",
+    "Highlighting key phrases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlight bar",
+      "definition": "A translucent rectangle behind selected words."
+    },
+    {
+      "term": "Crop marks",
+      "definition": "Corner marks that frame a slide like a print sheet."
+    },
+    {
+      "term": "Justified text",
+      "definition": "Text aligned to both left and right edges."
+    }
+  ]
+}

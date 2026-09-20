@@ -1,0 +1,44 @@
+{
+  "name": "web-lime-green-finance-dashboard-on-laptop-with-ai-assistant",
+  "image": "images/web-lime-green-finance-dashboard-on-laptop-with-ai-assistant.png",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Lime Finance Dashboard with AI Assistant",
+  "tags": [
+    "dashboard",
+    "lime",
+    "white",
+    "laptop",
+    "finance",
+    "ai-assistant",
+    "dot-chart"
+  ],
+  "whatItIs": "A laptop on a dark plinth showing a light finance dashboard with lime KPI cards, a dotted income and expense chart, a green AI assistant panel and a recent ledger table.",
+  "whatItMeans": "Lime accents on white and grey feel fresh and modern for finance, and the dot chart adds texture.",
+  "techniques": [
+    "Lime highlight card for the main balance",
+    "Dot-matrix area chart in lime and black",
+    "Green assistant panel with a friendly prompt",
+    "Grouped sidebar with small labels",
+    "Laptop on a dark plinth for contrast"
+  ],
+  "bestFor": [
+    "Finance and accounting dashboards",
+    "AI assistant panels in web apps",
+    "Light dashboards with one accent"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-matrix chart",
+      "definition": "A chart made of small dots or squares."
+    },
+    {
+      "term": "Assistant panel",
+      "definition": "A panel where an AI helper takes prompts."
+    },
+    {
+      "term": "Plinth",
+      "definition": "A block used as a display base."
+    }
+  ]
+}

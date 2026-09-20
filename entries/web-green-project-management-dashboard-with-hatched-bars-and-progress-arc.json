@@ -1,0 +1,44 @@
+{
+  "name": "web-green-project-management-dashboard-with-hatched-bars-and-progress-arc",
+  "image": "images/web-green-project-management-dashboard-with-hatched-bars-and-progress-arc.png",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Green Project Management Dashboard",
+  "tags": [
+    "dashboard",
+    "green",
+    "white",
+    "hatched-bars",
+    "progress-arc",
+    "kpi",
+    "time-tracker"
+  ],
+  "whatItIs": "A rounded white dashboard with a sidebar (menu, general, download app card), a search bar and profile, four KPI cards (a dark green Total Projects card and three white), a pill bar chart with hatched bars, a reminders card with a Start Meeting button, a project list, team collaboration with status pills, a hatched progress arc chart and a dark green time tracker.",
+  "whatItMeans": "Hatched bars and arcs give charts texture, and deep green with white feels calm and productive.",
+  "techniques": [
+    "Pill-shaped hatched bars",
+    "Half-ring progress arc with hatched pending segment",
+    "One dark green KPI card among white",
+    "Dark time tracker card with a wave texture",
+    "Status pills in soft semantic colours"
+  ],
+  "bestFor": [
+    "Project management dashboards",
+    "Green and white data UI",
+    "Hatched chart textures"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched fill",
+      "definition": "A diagonal-line pattern used to mark unfinished or secondary data."
+    },
+    {
+      "term": "Progress arc",
+      "definition": "A half-ring chart showing completion."
+    },
+    {
+      "term": "KPI card",
+      "definition": "A card showing a key metric and change."
+    }
+  ]
+}

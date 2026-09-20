@@ -1,0 +1,45 @@
+{
+  "name": "app-sage-and-olive-nav-bar-variants-in-light-and-dark",
+  "image": "images/app-sage-and-olive-nav-bar-variants-in-light-and-dark.webp",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Sage and Olive Navigation Bar Variants",
+  "tags": [
+    "navigation",
+    "sage",
+    "olive",
+    "green",
+    "light-dark",
+    "tabs",
+    "logo",
+    "icons"
+  ],
+  "whatItIs": "Eight rounded navigation cards on a pale sage field: light cream and dark olive versions of a top bar with a logo, search and text tabs (Routes highlighted as a pill or underlined) and an icon tab bar (Profile, Social, Notifications, Settings) with the active item in a pill or bolder tone.",
+  "whatItMeans": "A single earthy green family across light and dark variants feels natural and cohesive, and pill versus underline shows two ways to mark active.",
+  "techniques": [
+    "Light and dark versions in one family of greens",
+    "Active tab as a pill or as an underline",
+    "Text tabs and icon tabs as separate variants",
+    "Soft shadows on rounded cards",
+    "Logo and search in the top bar"
+  ],
+  "bestFor": [
+    "Navigation component documentation",
+    "Outdoor and nature brand systems",
+    "Monochrome-green UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pill active state",
+      "definition": "A filled rounded shape behind the selected tab."
+    },
+    {
+      "term": "Underline active state",
+      "definition": "A line under the selected tab."
+    },
+    {
+      "term": "Tonal palette",
+      "definition": "A palette built from shades of one hue."
+    }
+  ]
+}

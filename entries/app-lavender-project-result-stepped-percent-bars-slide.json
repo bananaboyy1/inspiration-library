@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-project-result-stepped-percent-bars-slide",
+  "image": "images/app-lavender-project-result-stepped-percent-bars-slide.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Project Result with Stepped Percent Bars",
+  "tags": [
+    "results",
+    "stats",
+    "stepped-bars",
+    "lavender",
+    "quote-mark",
+    "blue",
+    "travel"
+  ],
+  "whatItIs": "A lavender slide with 'Project Result', a headline about a seamless travel booking experience, a giant faint quote mark, a founder avatar and three blue gradient bars with angled shoulders and percentages 52, 61 and 45 with captions.",
+  "whatItMeans": "The stepped bars turn results into a bold graphic skyline, and captions sit beside each for clarity.",
+  "techniques": [
+    "Bars with an angled shoulder as a stylised bar chart",
+    "Percentages placed at the top of each bar",
+    "Captions placed beside the bars at alternating heights",
+    "Giant faint quote mark as decoration",
+    "Blue gradient fading light to dark"
+  ],
+  "bestFor": [
+    "Results slides",
+    "Testimonial-led metrics",
+    "Simple three-stat visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stylised bar",
+      "definition": "A bar chart element given a custom, graphic shape."
+    },
+    {
+      "term": "Stat caption",
+      "definition": "A short heading and sentence explaining a number."
+    },
+    {
+      "term": "Quote watermark",
+      "definition": "A huge faint quotation mark used as decoration."
+    }
+  ]
+}

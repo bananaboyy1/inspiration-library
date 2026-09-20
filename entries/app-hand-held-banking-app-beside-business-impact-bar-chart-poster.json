@@ -1,0 +1,44 @@
+{
+  "name": "app-hand-held-banking-app-beside-business-impact-bar-chart-poster",
+  "image": "images/app-hand-held-banking-app-beside-business-impact-bar-chart-poster.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Banking App in Hand beside Impact Chart Poster",
+  "tags": [
+    "banking",
+    "hand",
+    "shadow",
+    "poster",
+    "bar-chart",
+    "truss",
+    "monochrome"
+  ],
+  "whatItIs": "A split image: at left a hand holds a pearl-grey banking app phone against a wall with a hard shadow; at right a white poster on a steel truss frame shows a business impact headline and a stepped bar chart of quarterly figures.",
+  "whatItMeans": "Pairing a product shot with a physical poster of results links the app to its business value, in one calm monochrome.",
+  "techniques": [
+    "Hard directional shadow on the wall",
+    "Stepped bar chart drawn with hatch fills",
+    "Steel truss as a physical stand",
+    "Two equal panels side by side",
+    "Red eyebrow label as the only colour"
+  ],
+  "bestFor": [
+    "Business impact slides",
+    "Fintech presentations",
+    "Monochrome mockup pairs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hard shadow",
+      "definition": "A crisp-edged shadow from strong light."
+    },
+    {
+      "term": "Hatch fill",
+      "definition": "A pattern of fine diagonal lines used to fill shapes."
+    },
+    {
+      "term": "Eyebrow label",
+      "definition": "A small coloured label above a heading."
+    }
+  ]
+}

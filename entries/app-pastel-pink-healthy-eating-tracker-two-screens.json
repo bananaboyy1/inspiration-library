@@ -1,0 +1,44 @@
+{
+  "name": "app-pastel-pink-healthy-eating-tracker-two-screens",
+  "image": "images/app-pastel-pink-healthy-eating-tracker-two-screens.jpg",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Pastel Pink Healthy-Eating Tracker",
+  "tags": [
+    "nutrition",
+    "pastel",
+    "pink",
+    "cards",
+    "tracker",
+    "icons",
+    "two-phones"
+  ],
+  "whatItIs": "Two phones on a grey field: a home screen with a greeting, macro cards with colored icon dots (calories, protein, carbs) and meal tiles, and a second screen with pill-shaped daily bars and a grid of macro cards.",
+  "whatItMeans": "Pastel pink with white cards and small saturated icons feels gentle and encouraging rather than clinical.",
+  "techniques": [
+    "Icon dots in yellow, blue, green as category codes",
+    "Tall pill bars as a calendar-style chart with a smiley on the best day",
+    "Two-tone greeting where the question is in black",
+    "Segmented Daily/Weekly control",
+    "Floating pill navigation bar"
+  ],
+  "bestFor": [
+    "Nutrition and wellness apps",
+    "Consumer health trackers",
+    "Friendly onboarding-free dashboards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Macro card",
+      "definition": "A small card showing one nutrient's progress."
+    },
+    {
+      "term": "Pill bar chart",
+      "definition": "Vertical rounded bars representing days."
+    },
+    {
+      "term": "Two-tone greeting",
+      "definition": "A header with muted name line and bold question."
+    }
+  ]
+}

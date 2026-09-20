@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-pixel-capybara-collectible-card-reveal-screen",
+  "image": "images/app-blue-pixel-capybara-collectible-card-reveal-screen.png",
+  "discipline": "app",
+  "designType": "Gamified app screens",
+  "title": "Blue Pixel Capybara Collectible Reveal",
+  "tags": [
+    "pixel-art",
+    "gamification",
+    "blue",
+    "collectible",
+    "card",
+    "reveal",
+    "retro"
+  ],
+  "whatItIs": "A phone screenshot of a year-in-review reveal in navy and periwinkle: a heavy 'DECO' title, a periwinkle collectible card with a level bar and a pixel-art capybara in a swim ring, a black REVEAL button with an offset outline and dashed page progress.",
+  "whatItMeans": "A single hue in pixel art and hard offset outlines makes a summary feel like unlocking a trading card, playful and rewarding.",
+  "techniques": [
+    "Collectible card with level bar, number and badges",
+    "Pixel-art mascot on a dithered gradient",
+    "Offset outline on the main button",
+    "Dashed page-progress bar",
+    "One hue on a near-black halftone ground"
+  ],
+  "bestFor": [
+    "Gamified rewards and year-in-review screens",
+    "Retro pixel-art UI",
+    "Collectible card reveals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reveal button",
+      "definition": "A call to action that unveils a hidden reward."
+    },
+    {
+      "term": "Dither",
+      "definition": "A pixel pattern that fakes gradients with dots."
+    },
+    {
+      "term": "Offset outline",
+      "definition": "An outline shifted behind a shape as a hard shadow."
+    }
+  ]
+}

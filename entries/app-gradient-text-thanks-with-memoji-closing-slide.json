@@ -1,0 +1,44 @@
+{
+  "name": "app-gradient-text-thanks-with-memoji-closing-slide",
+  "image": "images/app-gradient-text-thanks-with-memoji-closing-slide.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Gradient Thanks with Memoji",
+  "tags": [
+    "thanks",
+    "gradient-text",
+    "memoji",
+    "grid",
+    "closing",
+    "blue-purple",
+    "friendly"
+  ],
+  "whatItIs": "A pale grey slide with a faint grid, a cartoon avatar giving a thumbs-up, big rounded 'Thanks for taking the time!' in a blue-to-violet gradient and a small line 'Waiting for your feedback'.",
+  "whatItMeans": "The gradient headline and friendly avatar make the sign-off warm and personal, and the feedback line invites conversation.",
+  "techniques": [
+    "Gradient fill running across the headline",
+    "Personal avatar as a mascot",
+    "Faint grid backdrop for subtle structure",
+    "Centred stack of image, headline, small line",
+    "Rounded friendly typeface"
+  ],
+  "bestFor": [
+    "Case-study endings",
+    "Portfolio thank-you slides",
+    "Requests for feedback"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient type",
+      "definition": "Lettering filled with a colour gradient."
+    },
+    {
+      "term": "Personal avatar",
+      "definition": "A cartoon or memoji version of the author."
+    },
+    {
+      "term": "Feedback prompt",
+      "definition": "A closing line asking for responses."
+    }
+  ]
+}

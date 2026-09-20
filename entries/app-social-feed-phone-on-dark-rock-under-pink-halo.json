@@ -1,0 +1,44 @@
+{
+  "name": "app-social-feed-phone-on-dark-rock-under-pink-halo",
+  "image": "images/app-social-feed-phone-on-dark-rock-under-pink-halo.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Social Feed Phone on Dark Rock",
+  "tags": [
+    "social",
+    "rock",
+    "halo",
+    "pastel",
+    "serif",
+    "stories",
+    "cover"
+  ],
+  "whatItIs": "A cover with a phone showing a light social feed with story tiles and a serif article post, standing on a dark rocky peak against a pale pink and lilac ring gradient.",
+  "whatItMeans": "A dark rock base grounds the airy pastel scene, and concentric rings add a calm halo.",
+  "techniques": [
+    "Dark rock base against pastel sky",
+    "Concentric ring halo behind the phone",
+    "Serif type in the UI for an editorial feel",
+    "Story tiles with architectural images",
+    "Phone rising from the base"
+  ],
+  "bestFor": [
+    "Editorial and community apps",
+    "Pastel gradient covers",
+    "Product on natural base"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ring halo",
+      "definition": "Concentric rings radiating behind a subject."
+    },
+    {
+      "term": "Story tile",
+      "definition": "A small rounded image at the top of a feed."
+    },
+    {
+      "term": "Editorial UI",
+      "definition": "An interface using serif type and article layouts."
+    }
+  ]
+}

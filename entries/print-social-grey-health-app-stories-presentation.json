@@ -1,0 +1,44 @@
+{
+  "name": "print-social-grey-health-app-stories-presentation",
+  "image": "images/print-social-grey-health-app-stories-presentation.png",
+  "discipline": "print-social",
+  "designType": "Story set",
+  "title": "Health App Stories Presentation",
+  "tags": [
+    "stories",
+    "health",
+    "grey",
+    "hands",
+    "phone",
+    "orb",
+    "presentation"
+  ],
+  "whatItIs": "A grey board titled Stories Presentation with a rounded white panel holding three story frames: bold headline with a hand-held phone, a phone showing analytics, and a headline with an AI orb phone.",
+  "whatItMeans": "Stories with big hands and screens make the product feel tangible, and consistent chrome links the trio.",
+  "techniques": [
+    "Three frames with identical header and reply bar",
+    "Hands holding phones at different angles",
+    "Bold headline on first, quiet ones on others",
+    "Blue-to-violet orb as the AI symbol",
+    "Dashed grid lines behind the frames"
+  ],
+  "bestFor": [
+    "Story ad concepts",
+    "App promotion sets",
+    "Presentations of social work"
+  ],
+  "vocabulary": [
+    {
+      "term": "Story frame",
+      "definition": "A vertical panel with story-style header and reply bar."
+    },
+    {
+      "term": "AI orb",
+      "definition": "A glossy gradient sphere used as an AI symbol."
+    },
+    {
+      "term": "Presentation panel",
+      "definition": "A rounded container holding a set of designs."
+    }
+  ]
+}

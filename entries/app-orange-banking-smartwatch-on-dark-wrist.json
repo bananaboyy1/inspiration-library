@@ -1,0 +1,44 @@
+{
+  "name": "app-orange-banking-smartwatch-on-dark-wrist",
+  "image": "images/app-orange-banking-smartwatch-on-dark-wrist.jpg",
+  "discipline": "app",
+  "designType": "Wearable UI",
+  "title": "Orange Banking Watch on a Dark Wrist",
+  "tags": [
+    "smartwatch",
+    "banking",
+    "wrist",
+    "orange",
+    "grey",
+    "silhouette",
+    "balance"
+  ],
+  "whatItIs": "A pale grey backdrop with a dark forearm in silhouette crossing the frame and a smartwatch on the wrist showing a bank card balance with orange Send and Receive buttons.",
+  "whatItMeans": "The dark arm against a light field makes the small bright screen the only focal point, showing how little UI a watch needs.",
+  "techniques": [
+    "Silhouetted arm across the frame for drama",
+    "Small screen lit and highly legible",
+    "Orange as the sole action colour",
+    "Simple card-and-two-buttons layout",
+    "Minimal light-grey backdrop"
+  ],
+  "bestFor": [
+    "Wearable banking and payment concepts",
+    "Product hero shots on a body",
+    "Minimal glanceable UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Silhouette",
+      "definition": "A subject rendered as a dark shape against light."
+    },
+    {
+      "term": "Glance layout",
+      "definition": "A UI with one key number and few actions."
+    },
+    {
+      "term": "Wrist shot",
+      "definition": "A photo of a wearable in use."
+    }
+  ]
+}

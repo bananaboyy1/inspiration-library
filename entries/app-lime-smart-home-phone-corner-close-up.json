@@ -1,0 +1,44 @@
+{
+  "name": "app-lime-smart-home-phone-corner-close-up",
+  "image": "images/app-lime-smart-home-phone-corner-close-up.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lime Smart-Home Phone Close-Up",
+  "tags": [
+    "lime",
+    "smart-home",
+    "close-up",
+    "dark",
+    "organic-shapes",
+    "humidity",
+    "olive"
+  ],
+  "whatItIs": "A macro crop of a lime-framed phone corner showing a wavy lime card (70% Humidity, Total 5 Device) over a photo of an office, with round control buttons.",
+  "whatItMeans": "Extreme cropping and a neon lime bezel feel bold and energetic. The organic card shape softens a technical topic.",
+  "techniques": [
+    "Extreme close-up crop of the device corner",
+    "Lime bezel matched to lime UI card",
+    "Wavy blob-shaped card contour",
+    "Photo cards behind translucent controls",
+    "Circular glass buttons in different tones"
+  ],
+  "bestFor": [
+    "Smart-home and IoT apps",
+    "Bold dark presentations",
+    "Macro app teasers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Macro crop",
+      "definition": "A tight crop that fills the frame with a small part of the subject."
+    },
+    {
+      "term": "Blob card",
+      "definition": "A card with soft irregular edges."
+    },
+    {
+      "term": "Glass button",
+      "definition": "A translucent round control."
+    }
+  ]
+}

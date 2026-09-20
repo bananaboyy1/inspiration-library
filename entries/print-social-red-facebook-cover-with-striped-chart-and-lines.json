@@ -1,0 +1,44 @@
+{
+  "name": "print-social-red-facebook-cover-with-striped-chart-and-lines",
+  "image": "images/print-social-red-facebook-cover-with-striped-chart-and-lines.png",
+  "discipline": "print-social",
+  "designType": "Feed mockup",
+  "title": "Red Striped Chart Facebook Cover",
+  "tags": [
+    "facebook",
+    "cover",
+    "red",
+    "chart",
+    "stripes",
+    "crypto",
+    "profile"
+  ],
+  "whatItIs": "A Facebook profile mockup on a dark red vignette with a cover of red vertical stripes and two crossing white and orange lines, the headline 'Your crypto, made simpler', and the brand avatar and buttons below.",
+  "whatItMeans": "Turning the product's chart texture into a banner makes the brand instantly recognisable in the feed.",
+  "techniques": [
+    "Striped bars and line graphs as the banner art",
+    "Large light headline with a small eyebrow",
+    "Real platform chrome for context",
+    "Circular dark avatar with the white and red mark",
+    "One colour world across cover and surroundings"
+  ],
+  "bestFor": [
+    "Social profile cover design",
+    "Crypto and data brands",
+    "Showing branding within platform UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cover art",
+      "definition": "The wide banner image at the top of a profile."
+    },
+    {
+      "term": "Brand texture",
+      "definition": "A pattern derived from the product that becomes a signature graphic."
+    },
+    {
+      "term": "Platform chrome",
+      "definition": "The interface of the social site around the design."
+    }
+  ]
+}

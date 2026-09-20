@@ -1,0 +1,44 @@
+{
+  "name": "app-problem-slide-four-soft-cards-with-glowing-pink-node",
+  "image": "images/app-problem-slide-four-soft-cards-with-glowing-pink-node.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Four Problem Cards with a Central Pink Node",
+  "tags": [
+    "problem",
+    "cards",
+    "white",
+    "lime",
+    "pink-node",
+    "numbered",
+    "minimal"
+  ],
+  "whatItIs": "A white slide with a lime Problem pill, a large headline 'Travel Planning Is Painfully Fragmented', a side paragraph and a 2-by-2 grid of soft cards with faint numerals 01 to 04 and problem titles and descriptions, joined by a glowing pink node with cross rays at the centre.",
+  "whatItMeans": "Very faint cards and one pink node make four problems feel like parts of one issue, and the lime pill is the only bright colour.",
+  "techniques": [
+    "2-by-2 grid of faint cards",
+    "Ghost numerals at the top of each card",
+    "Pink glowing node with rays at the grid centre",
+    "Lime pill for the section label",
+    "Text anchored to the card base"
+  ],
+  "bestFor": [
+    "Problem statement slides",
+    "Four-part comparisons",
+    "Travel and AI case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost numeral",
+      "definition": "A very faint number marking an item."
+    },
+    {
+      "term": "Centre node",
+      "definition": "A glowing dot linking a grid of items."
+    },
+    {
+      "term": "Problem slide",
+      "definition": "A slide listing the issues a project addresses."
+    }
+  ]
+}

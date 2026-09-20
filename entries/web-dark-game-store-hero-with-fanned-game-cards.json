@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-game-store-hero-with-fanned-game-cards",
+  "image": "images/web-dark-game-store-hero-with-fanned-game-cards.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Dark Game Store with Fanned Cards",
+  "tags": [
+    "games",
+    "dark",
+    "fan-cards",
+    "colourful",
+    "hero",
+    "store",
+    "3d-grid"
+  ],
+  "whatItIs": "A dark game-store hero in a rounded frame with a centred headline, floating 3D icons on a perspective grid, and a fan of tall coloured game cards (purple, red, blue, green, yellow) with character art and ratings at the base.",
+  "whatItMeans": "Saturated cards against black feel exciting, and the fan shape pulls the eye toward the centre card.",
+  "techniques": [
+    "Fan of tall cards in different hues",
+    "Perspective grid lines on black",
+    "Floating 3D icons around the headline",
+    "Central card enlarged and lifted",
+    "Compact nav with currency and avatar"
+  ],
+  "bestFor": [
+    "Game stores and libraries",
+    "Dark entertainment sites",
+    "Hero sections with card carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Card fan",
+      "definition": "Cards arranged in an arc, overlapping at the base."
+    },
+    {
+      "term": "Perspective grid",
+      "definition": "Receding grid lines giving depth to a background."
+    },
+    {
+      "term": "Rating chip",
+      "definition": "A small pill showing a score on a card."
+    }
+  ]
+}

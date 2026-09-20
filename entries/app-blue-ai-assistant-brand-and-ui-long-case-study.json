@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-ai-assistant-brand-and-ui-long-case-study",
+  "image": "images/app-blue-ai-assistant-brand-and-ui-long-case-study.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Blue AI Assistant Brand and UI Case Study",
+  "tags": [
+    "long-scroll",
+    "blue",
+    "ai",
+    "logomark",
+    "typography",
+    "dark",
+    "photo"
+  ],
+  "whatItIs": "A very tall dark-blue case-study page: dandelion hero, client request, about box, logomark, app icon on flowers, billboard scene, UI components, branding on a hoodie and a Neue Montreal type specimen.",
+  "whatItMeans": "One cool blue and glassy UI run through photo, product and identity, giving a complete brand world.",
+  "techniques": [
+    "Single blue palette through all sections",
+    "Nature photography behind glassy UI",
+    "Logo shown as icon, hoodie print and billboard",
+    "Dark text tiles alternating with image tiles",
+    "Type specimen with size and spacing specs"
+  ],
+  "bestFor": [
+    "AI product identity plus UI case studies",
+    "Long-scroll portfolio pages",
+    "Cohesive brand storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Logomark",
+      "definition": "The symbol part of a logo."
+    },
+    {
+      "term": "Spec table",
+      "definition": "A list of sizes, weights and spacing values for type."
+    },
+    {
+      "term": "Touchpoint scene",
+      "definition": "A realistic setting showing the brand in use."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "app-six-fintech-screens-with-financial-control-headline-and-tag-pills",
+  "image": "images/app-six-fintech-screens-with-financial-control-headline-and-tag-pills.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Six Fintech Screens with Control Headline",
+  "tags": [
+    "fintech",
+    "screens",
+    "serif-italic",
+    "blue-grey",
+    "wallet",
+    "cards",
+    "qr",
+    "payment"
+  ],
+  "whatItIs": "A pale page with a Financial Control pill, a headline mixing light sans and bold italic serif 'Every Detail.', a paragraph, four tag pills and six phones in two rows: wallet, cards, card details sheet, profile, QR scan and payment successful, all in blue-grey gradients.",
+  "whatItMeans": "A consistent gradient rising in each screen and shared bezels give six functions one calm voice.",
+  "techniques": [
+    "Blue-grey gradient rising from each screen base",
+    "Bottom sheets rising over blurred screens",
+    "Hatched progress bar for limits",
+    "Staggered layout of phones in two rows",
+    "Pill tags summarising the section"
+  ],
+  "bestFor": [
+    "Fintech flow presentations",
+    "Card and wallet app screens",
+    "Serif-accent headline pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bottom sheet",
+      "definition": "A panel rising from the bottom over a dimmed screen."
+    },
+    {
+      "term": "Hatched bar",
+      "definition": "A bar filled with fine diagonal lines."
+    },
+    {
+      "term": "Tag pills",
+      "definition": "Small rounded labels naming topics."
+    }
+  ]
+}

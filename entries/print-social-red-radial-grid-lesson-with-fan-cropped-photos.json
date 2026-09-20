@@ -1,0 +1,44 @@
+{
+  "name": "print-social-red-radial-grid-lesson-with-fan-cropped-photos",
+  "image": "images/print-social-red-radial-grid-lesson-with-fan-cropped-photos.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Radial Grid Lesson Post",
+  "tags": [
+    "radial-grid",
+    "red",
+    "yellow",
+    "photo-fan",
+    "educational",
+    "layout",
+    "grid"
+  ],
+  "whatItIs": "A red post over a light grid with yellow heading '02 Radial Grid', a definition, a sample where two photos are cut into wedges fanning from a central point with guide lines, a yellow angled headline and Save and Follow buttons.",
+  "whatItMeans": "The sample demonstrates the technique and the red and yellow are loud enough to stop a scroll.",
+  "techniques": [
+    "Photos cropped into wedges that radiate from one point",
+    "Thin guide lines extending from the centre",
+    "Angled yellow headline echoing the radial idea",
+    "Red field with faint grid",
+    "Series header with account and follow buttons"
+  ],
+  "bestFor": [
+    "Layout theory education",
+    "Design account series",
+    "Radial and fan compositions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radial grid",
+      "definition": "A layout arranged in a circular pattern around a centre."
+    },
+    {
+      "term": "Wedge crop",
+      "definition": "An image cut into a triangular slice."
+    },
+    {
+      "term": "Focal point",
+      "definition": "The centre from which elements radiate."
+    }
+  ]
+}

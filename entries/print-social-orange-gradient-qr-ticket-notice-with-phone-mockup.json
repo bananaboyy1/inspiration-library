@@ -1,0 +1,44 @@
+{
+  "name": "print-social-orange-gradient-qr-ticket-notice-with-phone-mockup",
+  "image": "images/print-social-orange-gradient-qr-ticket-notice-with-phone-mockup.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Orange QR Ticket Notice with Phone",
+  "tags": [
+    "notice",
+    "orange",
+    "qr-code",
+    "ticket",
+    "phone-mockup",
+    "announcement",
+    "instagram"
+  ],
+  "whatItIs": "A vivid orange gradient post with a large white centred message 'Heads up! QR codes won't be emailed anymore.' and a lighter line 'Your tickets live in Orbit now.', above a phone in a darker red-orange frame showing a ticket with a large QR code and a green VALID tag.",
+  "whatItMeans": "A full-bleed orange gives the notice urgency, and showing the ticket screen tells users where to look.",
+  "techniques": [
+    "Full-bleed single-colour ground",
+    "Two-tier white headline with different weights",
+    "Phone cropped by the bottom edge",
+    "Tonal frame around the phone in a darker orange",
+    "Small green status tag inside the UI"
+  ],
+  "bestFor": [
+    "Service change announcements",
+    "Ticketing and event apps",
+    "Urgent notices with a product visual"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal frame",
+      "definition": "A frame in a darker shade of the background colour."
+    },
+    {
+      "term": "Status tag",
+      "definition": "A small label such as VALID showing a state."
+    },
+    {
+      "term": "Notice post",
+      "definition": "A post announcing a change users need to know."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-indigo-carousel-slide-with-yellow-phone-frame-and-round-avatar",
+  "image": "images/print-social-indigo-carousel-slide-with-yellow-phone-frame-and-round-avatar.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Organizer Profiles Slide with Yellow Phone Frame",
+  "tags": [
+    "carousel",
+    "indigo",
+    "yellow",
+    "phone-mockup",
+    "avatar-circle",
+    "search",
+    "product-feature"
+  ],
+  "whatItIs": "An indigo carousel slide with a large white headline 'Organizer Profiles: Search your favourites by their @.', a phone inside a rounded yellow frame showing a search screen with a floating search card, and a round photo of a smiling woman with a green ring overlapping the phone.",
+  "whatItMeans": "Yellow on indigo is a strong pairing, and the overlapping avatar bubble puts a person next to the feature.",
+  "techniques": [
+    "Phone set inside a rounded coloured frame",
+    "Floating search card lifted out of the screen",
+    "Round photo with a coloured ring overlapping the device",
+    "Big white headline top left",
+    "Site name anchored at the bottom left"
+  ],
+  "bestFor": [
+    "Feature explainer carousels",
+    "App marketing on social",
+    "Bold two-colour slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Device frame",
+      "definition": "A coloured shape framing a phone mockup."
+    },
+    {
+      "term": "Floating UI",
+      "definition": "An interface element lifted off the screen."
+    },
+    {
+      "term": "Avatar bubble",
+      "definition": "A round photo with a ring placed over the layout."
+    }
+  ]
+}

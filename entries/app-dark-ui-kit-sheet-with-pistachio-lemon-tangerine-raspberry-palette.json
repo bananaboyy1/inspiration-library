@@ -1,0 +1,45 @@
+{
+  "name": "app-dark-ui-kit-sheet-with-pistachio-lemon-tangerine-raspberry-palette",
+  "image": "images/app-dark-ui-kit-sheet-with-pistachio-lemon-tangerine-raspberry-palette.jpg",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "title": "Dark Watch UI Kit with Fruit Palette",
+  "tags": [
+    "ui-kit",
+    "dark",
+    "yellow",
+    "palette",
+    "gauge",
+    "watch",
+    "fruit-names",
+    "tokens"
+  ],
+  "whatItIs": "A black UI-kit poster with pill labels at the top, a giant 'UI-KIT' title, bento tiles of a yellow petal icon on a grid, font specimens in yellow, chart widgets (a gradient bar chart, an AQI gauge, a line chart, map pins) and a 4-by-3 grid of named colour swatches (Pistachio, Lemon, Tangerine, Raspberry and their pale Air versions, Ivory, Almond, Chestnut, Espresso).",
+  "whatItMeans": "Food-themed colour names and a warm palette on black make a technical kit feel appetising, and gradient gauges show the palette in use.",
+  "techniques": [
+    "Named swatches with hex codes in a tidy grid",
+    "Pale and saturated pairs of each hue",
+    "Yellow accent tiles on dark neutrals",
+    "Gradient gauges using the palette",
+    "Icon shown on a construction grid"
+  ],
+  "bestFor": [
+    "UI-kit and design-system posters",
+    "Wearable and data widget systems",
+    "Named colour palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Named swatch",
+      "definition": "A colour sample labelled with a memorable name and hex code."
+    },
+    {
+      "term": "Tint pair",
+      "definition": "A saturated colour paired with a paler version."
+    },
+    {
+      "term": "Widget tile",
+      "definition": "A small dark card holding one data visual."
+    }
+  ]
+}

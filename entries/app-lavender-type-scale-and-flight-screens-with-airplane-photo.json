@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-type-scale-and-flight-screens-with-airplane-photo",
+  "image": "images/app-lavender-type-scale-and-flight-screens-with-airplane-photo.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Type Scale, Flight Screens and Airplane Photo",
+  "tags": [
+    "typography",
+    "flight",
+    "airplane",
+    "lavender",
+    "blue",
+    "screens",
+    "seat-map"
+  ],
+  "whatItIs": "A lavender page with a four-column type scale (Heading, Title, Body, Description) above three phones (flight search, flight details, seat selection) and a large airplane photo behind the lower phones.",
+  "whatItMeans": "Pairing spec text with real screens and a dramatic photo keeps documentation lively and on theme.",
+  "techniques": [
+    "Type spec rows above the visuals",
+    "Large photo tile behind overlapping phones",
+    "Blue gradient buttons across screens",
+    "Seat map drawn in an aircraft outline",
+    "Uniform bezel style"
+  ],
+  "bestFor": [
+    "Travel app documentation",
+    "Case-study system sections",
+    "Flight booking flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type spec row",
+      "definition": "Sizes and line heights listed per text role."
+    },
+    {
+      "term": "Seat map",
+      "definition": "A diagram of selectable seats in a vehicle."
+    },
+    {
+      "term": "Overlap collage",
+      "definition": "Devices overlapping a large image."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-green-travel-app-phone-on-green-velvet-sofa",
+  "image": "images/app-green-travel-app-phone-on-green-velvet-sofa.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green Travel App on Velvet Sofa",
+  "tags": [
+    "travel",
+    "green",
+    "velvet",
+    "lime",
+    "tonal",
+    "phone",
+    "dubai"
+  ],
+  "whatItIs": "A phone with a lime edge lying on a moss-green velvet sofa, showing a Dubai trip screen with an aerial photo header, a dark green details bar, essentials icons and a flight card, in matching greens.",
+  "whatItMeans": "The UI matches the velvet, making the app feel part of a cosy material world.",
+  "techniques": [
+    "Tonal match between the UI and the sofa",
+    "Textured velvet as a stage",
+    "Dark green info bar with icons",
+    "Lime accent on the nav home button",
+    "Soft shadow from the window"
+  ],
+  "bestFor": [
+    "Travel app hero shots",
+    "Tonal scene mockups",
+    "Green brand launches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal scene",
+      "definition": "A scene whose colours match the UI."
+    },
+    {
+      "term": "Velvet stage",
+      "definition": "A soft fabric surface used as a backdrop."
+    },
+    {
+      "term": "Trip summary bar",
+      "definition": "A strip showing dates, duration and guests."
+    }
+  ]
+}

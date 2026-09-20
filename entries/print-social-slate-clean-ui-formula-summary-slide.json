@@ -1,0 +1,44 @@
+{
+  "name": "print-social-slate-clean-ui-formula-summary-slide",
+  "image": "images/print-social-slate-clean-ui-formula-summary-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Clean UI Formula Summary Slide",
+  "tags": [
+    "educational",
+    "summary",
+    "slate",
+    "cream",
+    "text-only",
+    "formula",
+    "condensed"
+  ],
+  "whatItIs": "A slate-blue text-only slide with a condensed 'CLEAN UI FORMULA' label, a light sum 'Spacing + Alignment + Typography + Hierarchy + Reduction.' and a bold line saying five rules make a UI premium.",
+  "whatItMeans": "A formula as a sentence sums up the series memorably, with only type and colour.",
+  "techniques": [
+    "Plus signs turning a list into a formula",
+    "Condensed caps label above a light statement",
+    "Bold closing promise",
+    "Small page number top right",
+    "Two-colour palette"
+  ],
+  "bestFor": [
+    "Series summary slides",
+    "Design principle recaps",
+    "Type-only carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Formula line",
+      "definition": "A sentence built with plus signs to summarise a method."
+    },
+    {
+      "term": "Recap slide",
+      "definition": "A slide restating the series in one line."
+    },
+    {
+      "term": "Type-only slide",
+      "definition": "A slide made only of text."
+    }
+  ]
+}

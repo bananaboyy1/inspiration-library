@@ -1,0 +1,45 @@
+{
+  "name": "app-structured-grid-and-component-library-long-sheet-for-scam-app",
+  "image": "images/app-structured-grid-and-component-library-long-sheet-for-scam-app.png",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "title": "Structured Grid and Component Library Sheet",
+  "tags": [
+    "grid",
+    "components",
+    "library",
+    "peach",
+    "pastel",
+    "screens",
+    "fade",
+    "long-sheet"
+  ],
+  "whatItIs": "A tall pale sheet with a Structured Grid Layout section showing a phone width with 6px and 16px margins and gutters over peach columns, a Component Library section of pastel cards, chips and buttons, and rows of phone screens fading out to the sides.",
+  "whatItMeans": "Showing the grid dimensions and components with fading screens conveys a system that scales, in a friendly pastel palette.",
+  "techniques": [
+    "Grid columns drawn over a phone silhouette with measurements",
+    "Components floating on white",
+    "Screens fading toward the edges",
+    "Soft pastel status colours",
+    "Two-column headings with descriptions"
+  ],
+  "bestFor": [
+    "Design-system documentation",
+    "Grid and component overviews",
+    "Pastel UI systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gutter",
+      "definition": "The space between columns."
+    },
+    {
+      "term": "Component library",
+      "definition": "A set of reusable interface elements."
+    },
+    {
+      "term": "Edge fade",
+      "definition": "Items fading out at the edges of a layout."
+    }
+  ]
+}

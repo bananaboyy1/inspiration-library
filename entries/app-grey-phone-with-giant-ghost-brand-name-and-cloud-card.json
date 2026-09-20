@@ -1,0 +1,44 @@
+{
+  "name": "app-grey-phone-with-giant-ghost-brand-name-and-cloud-card",
+  "image": "images/app-grey-phone-with-giant-ghost-brand-name-and-cloud-card.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Phone over Giant Ghost Brand Name",
+  "tags": [
+    "ghost-type",
+    "grey",
+    "clouds",
+    "subscription",
+    "stars",
+    "blue",
+    "minimal"
+  ],
+  "whatItIs": "A pale grey slide with huge faint 'Subly' letters behind a phone showing a cloudy blue savings card with gummy stars, a savings chart and a subscription check, with short captions left and right.",
+  "whatItMeans": "The huge faint name brands the page without noise, and the sky card adds a playful surprise.",
+  "techniques": [
+    "Giant faint brand name behind the phone",
+    "Photographic cloud with 3D star objects inside a UI card",
+    "Short captions floating at the edges",
+    "Floating black nav pill",
+    "Soft shadow under the device"
+  ],
+  "bestFor": [
+    "App hero slides",
+    "Fintech with playful imagery",
+    "Minimal presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost brand name",
+      "definition": "Oversized low-contrast text behind a subject."
+    },
+    {
+      "term": "3D sticker",
+      "definition": "A rendered object placed in a UI as a playful accent."
+    },
+    {
+      "term": "Edge captions",
+      "definition": "Small text set at opposite sides of a hero."
+    }
+  ]
+}

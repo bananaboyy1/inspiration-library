@@ -1,0 +1,43 @@
+{
+  "name": "print-social-dark-glass-effect-settings-tutorial-post",
+  "image": "images/print-social-dark-glass-effect-settings-tutorial-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Apply Glass Effect Tutorial Post",
+  "tags": [
+    "tutorial",
+    "glass",
+    "dark",
+    "settings-panel",
+    "toggle",
+    "step-03"
+  ],
+  "whatItIs": "Step 03 of a dark-mode toggle tutorial: a glowing number bubble, italic title, short instruction, a dark toggle with a clear glass bubble and a floating glass settings panel with sliders.",
+  "whatItMeans": "Showing the actual settings panel turns a tip into reproducible steps, and the dark neutral scene keeps focus on the glass.",
+  "techniques": [
+    "Number bubble with halo glow as a step marker",
+    "Clear glass shape refracting a dark pill",
+    "Floating property panel beside the demo",
+    "Italic headline for movement",
+    "Pill link bar as a recurring footer"
+  ],
+  "bestFor": [
+    "UI effect tutorials",
+    "Design asset promotion",
+    "Step-by-step carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Refraction",
+      "definition": "Bending of light through glass, imitated in UI glass effects."
+    },
+    {
+      "term": "Property panel",
+      "definition": "A design tool's settings box shown as a teaching aid."
+    },
+    {
+      "term": "Series footer",
+      "definition": "A repeated bottom bar across slides."
+    }
+  ]
+}

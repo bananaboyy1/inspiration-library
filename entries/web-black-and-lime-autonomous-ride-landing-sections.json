@@ -1,0 +1,45 @@
+{
+  "name": "web-black-and-lime-autonomous-ride-landing-sections",
+  "image": "images/web-black-and-lime-autonomous-ride-landing-sections.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Black and Lime Autonomous Ride Landing",
+  "tags": [
+    "black",
+    "lime",
+    "rounded",
+    "bento",
+    "cards",
+    "ride",
+    "pill-highlight",
+    "tall-page"
+  ],
+  "whatItIs": "A tall landing page collage on lime: a black rounded panel with numbered feature cards staggered in lime, white, grey, then a centered slogan 'No driver. No wait. Just ride.' surrounded by avatar bubbles and stats, and a photo hero below.",
+  "whatItMeans": "Black and neon lime feel bold, futuristic and fast. Staggered cards and floating stat pills add rhythm.",
+  "techniques": [
+    "Lime highlight block behind the key words of a slogan",
+    "Staggered numbered cards forming a stair pattern",
+    "Floating avatar circles and stat pills around a headline",
+    "Full lime outer frame around a black rounded page",
+    "Rounded, slightly quirky display type"
+  ],
+  "bestFor": [
+    "Mobility and AI products",
+    "Startups with an energetic voice",
+    "Tall scrolling page presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlight block",
+      "definition": "A solid coloured shape behind selected text."
+    },
+    {
+      "term": "Stair stagger",
+      "definition": "Cards placed at alternating heights forming steps."
+    },
+    {
+      "term": "Stat pill",
+      "definition": "A small rounded badge holding a number and label."
+    }
+  ]
+}

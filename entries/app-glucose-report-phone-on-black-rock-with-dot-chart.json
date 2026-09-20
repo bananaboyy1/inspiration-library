@@ -1,0 +1,44 @@
+{
+  "name": "app-glucose-report-phone-on-black-rock-with-dot-chart",
+  "image": "images/app-glucose-report-phone-on-black-rock-with-dot-chart.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Glucose Report Phone on Black Rock",
+  "tags": [
+    "health",
+    "chart",
+    "dot-pattern",
+    "rock",
+    "light-blue",
+    "gauge",
+    "black"
+  ],
+  "whatItIs": "A light grey board with a card showing a dot-patterned bar chart with one solid black bar tagged Normal, and below it a tilted phone balanced on black rock showing a multi-colour gauge and the same chart.",
+  "whatItMeans": "Polka-dot bars and a single black bar turn data into a friendly graphic, and the rock adds a grounded contrast to the airy blue.",
+  "techniques": [
+    "Dot texture fills on bars with one solid highlight",
+    "Component crop shown alongside the full mockup",
+    "Black rock against a pale blue radial glow",
+    "Arc gauge in blue, yellow and red for ranges",
+    "Pill tab switch (Daily, Weekly, Monthly)"
+  ],
+  "bestFor": [
+    "Health data and monitoring apps",
+    "Chart component showcase",
+    "Calm data presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-fill bar",
+      "definition": "A bar filled with a polka-dot pattern."
+    },
+    {
+      "term": "Range gauge",
+      "definition": "An arc coloured by value bands."
+    },
+    {
+      "term": "Component crop",
+      "definition": "An isolated piece of the UI shown next to the full view."
+    }
+  ]
+}

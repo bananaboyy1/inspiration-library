@@ -1,0 +1,44 @@
+{
+  "name": "app-green-gradient-profile-card-light-and-dark-variants",
+  "image": "images/app-green-gradient-profile-card-light-and-dark-variants.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Green Gradient Profile Cards",
+  "tags": [
+    "profile-card",
+    "gradient",
+    "green",
+    "avatar",
+    "stats",
+    "cta",
+    "variants"
+  ],
+  "whatItIs": "Two profile card variants: a white card with a green gradient banner, avatar, follow button, three stats and a black-to-grey Get in Touch bar, and a full-bleed green gradient card with outlined buttons and a white CTA.",
+  "whatItMeans": "The mesh green gradient adds lush, organic colour to a simple card, and the pair proves the component's range.",
+  "techniques": [
+    "Mesh gradient as the card's colour source",
+    "Inverted CTA (dark on white card, white on gradient card)",
+    "Avatar overlapping the banner edge",
+    "Icon-and-number stat trio",
+    "Arrow-in-circle inside a wide pill button"
+  ],
+  "bestFor": [
+    "Social and freelancer profile cards",
+    "Component libraries",
+    "Marketplace provider listings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mesh gradient",
+      "definition": "A multi-point blend of colours creating organic transitions."
+    },
+    {
+      "term": "Inverted variant",
+      "definition": "A version of a component with swapped foreground and background."
+    },
+    {
+      "term": "Stat trio",
+      "definition": "Three key numbers with icons and labels in a row."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-black-and-cadmium-yellow-colour-name-post",
+  "image": "images/print-social-black-and-cadmium-yellow-colour-name-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Sable and Cadmium Yellow Colour Post",
+  "tags": [
+    "colour",
+    "black",
+    "yellow",
+    "split",
+    "hex",
+    "minimal",
+    "palette"
+  ],
+  "whatItIs": "A portrait post split horizontally: a black upper half with yellow 'Sable #060606' and a yellow lower half with black 'Cadmium Yellow #FDDA0D', each hex code in an outlined pill, with a social handle bar at the top.",
+  "whatItMeans": "Each colour becomes its own background and its partner becomes the text, so the pairing is demonstrated as it is named.",
+  "techniques": [
+    "Swap colours between halves to show contrast pairs",
+    "Hex code in an outlined pill",
+    "Large centred colour name in simple sans",
+    "Thin line and icons in the header as a subtle brand",
+    "Only two colours in the entire design"
+  ],
+  "bestFor": [
+    "Colour palette and naming posts",
+    "Minimal two-colour brand layouts",
+    "Design inspiration accounts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour pairing",
+      "definition": "Two colours chosen to work together."
+    },
+    {
+      "term": "Inverted halves",
+      "definition": "Two areas where foreground and background swap."
+    },
+    {
+      "term": "Hex code",
+      "definition": "A six-digit code specifying a screen colour."
+    }
+  ]
+}

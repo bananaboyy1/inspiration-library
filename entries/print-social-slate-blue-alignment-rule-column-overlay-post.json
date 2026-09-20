@@ -1,0 +1,44 @@
+{
+  "name": "print-social-slate-blue-alignment-rule-column-overlay-post",
+  "image": "images/print-social-slate-blue-alignment-rule-column-overlay-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Alignment Rule with Column Overlay",
+  "tags": [
+    "educational",
+    "alignment",
+    "slate",
+    "columns",
+    "grid",
+    "rules",
+    "typography"
+  ],
+  "whatItIs": "A slate-blue slide, 'Rule 3: Alignment', with condensed heading, large statement, two bullets and a demo of two text blocks over translucent maroon column bars.",
+  "whatItMeans": "The demo shows the lesson visually. Muted slate and cream feel serious and scholarly.",
+  "techniques": [
+    "Semi-transparent column overlay to reveal the grid",
+    "Condensed uppercase label above a light large sentence",
+    "Sample text blocks aligned to the columns",
+    "Muted two-colour palette",
+    "Small page number top right"
+  ],
+  "bestFor": [
+    "Design-principle carousels",
+    "Layout and grid education",
+    "Slide-style social posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column overlay",
+      "definition": "Translucent bars showing layout columns."
+    },
+    {
+      "term": "Alignment",
+      "definition": "Positioning elements along shared edges or axes."
+    },
+    {
+      "term": "Rule slide",
+      "definition": "A slide presenting one numbered design principle."
+    }
+  ]
+}

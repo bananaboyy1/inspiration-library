@@ -1,0 +1,45 @@
+{
+  "name": "web-giant-thank-you-slide-with-services-list-and-contact-arrows",
+  "image": "images/web-giant-thank-you-slide-with-services-list-and-contact-arrows.jpg",
+  "discipline": "web",
+  "designType": "Closing banner",
+  "title": "Giant Thank You with Services List",
+  "tags": [
+    "thank-you",
+    "giant-type",
+    "black",
+    "white",
+    "services",
+    "contact",
+    "arrows",
+    "minimal"
+  ],
+  "whatItIs": "An off-white slide with a full-width black 'Thank You!' in heavy grotesque type sitting on a hairline, a Services heading at left with a right-side list of six services preceded by return arrows, and a footer with a studio line, avatars, email and Telegram contacts and a copyright year.",
+  "whatItMeans": "Enormous type makes a confident sign-off, and arrows and hairlines make the details feel structured.",
+  "techniques": [
+    "Full-width giant heavy title",
+    "Return-arrow bullets for lists",
+    "Hairlines dividing sections",
+    "Overlapping avatar circles",
+    "Two-column footer of contact details"
+  ],
+  "bestFor": [
+    "Studio and portfolio closing slides",
+    "Contact and services summaries",
+    "Typographic sign-offs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Giant title",
+      "definition": "A headline set at the full width of the canvas."
+    },
+    {
+      "term": "Arrow bullet",
+      "definition": "An arrow used in place of a list dot."
+    },
+    {
+      "term": "Avatar row",
+      "definition": "Overlapping circular portraits of a team."
+    }
+  ]
+}

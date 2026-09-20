@@ -1,0 +1,45 @@
+{
+  "name": "app-store-screenshot-set-with-frosted-glass-headlines-and-cropped-phones",
+  "image": "images/app-store-screenshot-set-with-frosted-glass-headlines-and-cropped-phones.jpg",
+  "discipline": "app",
+  "designType": "App store presentation",
+  "title": "Frosted App Store Screenshots for a Fintech App",
+  "tags": [
+    "app-store",
+    "screenshots",
+    "frosted",
+    "blue-grey",
+    "hands",
+    "headlines",
+    "carousel",
+    "rating"
+  ],
+  "whatItIs": "A row of six tall rounded store screenshots on white, each in blue-grey frost with a light headline (Everything At Your Fingertips, Every Transfer Made Easy, Stay Financially Ahead, Utility Payments Simplified), cropped phones and hands, a rating laurel and a card being held.",
+  "whatItMeans": "Cropped devices bleeding across neighbouring cards make the row read as one continuous scene, and the frosted palette is calm.",
+  "techniques": [
+    "Phones cropped across card boundaries",
+    "Frosted gradient cards with light headlines",
+    "Hands holding devices and a card",
+    "Floating stat cards over screens",
+    "Laurel rating on the first card"
+  ],
+  "bestFor": [
+    "App Store and Play Store screenshot sets",
+    "Fintech app marketing",
+    "Continuous carousel panels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Store screenshot",
+      "definition": "A marketing image shown on an app listing."
+    },
+    {
+      "term": "Continuous panel",
+      "definition": "An image that continues across adjacent cards."
+    },
+    {
+      "term": "Rating laurel",
+      "definition": "A wreath around a ranking and score."
+    }
+  ]
+}

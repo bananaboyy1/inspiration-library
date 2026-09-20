@@ -1,0 +1,44 @@
+{
+  "name": "app-crypto-wallet-red-phone-on-black-gravel",
+  "image": "images/app-crypto-wallet-red-phone-on-black-gravel.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Red Crypto Wallet on Black Gravel",
+  "tags": [
+    "red",
+    "black",
+    "crypto",
+    "3d",
+    "texture",
+    "dramatic",
+    "phone"
+  ],
+  "whatItIs": "A tilted phone with a full red wallet screen (large balance, bar-and-line chart) planted in a slope of black gravel, red gradient sky, and a tagline at lower left.",
+  "whatItMeans": "Red-on-black feels bold and high-stakes, suiting money and risk. Physical grit adds realism and tension.",
+  "techniques": [
+    "One accent hue used for the whole UI and backdrop",
+    "Rough natural texture against smooth UI",
+    "Particles dissolving from the phone's base",
+    "Striped bar-chart background behind a line",
+    "Type with mixed weights and tones in the tagline"
+  ],
+  "bestFor": [
+    "Crypto and trading apps",
+    "Dramatic app preview shots",
+    "Brands wanting an edgy identity"
+  ],
+  "vocabulary": [
+    {
+      "term": "Particle dissolve",
+      "definition": "Small fragments breaking away from an object's edge."
+    },
+    {
+      "term": "Textural contrast",
+      "definition": "Setting smooth digital forms on rough material."
+    },
+    {
+      "term": "Accent immersion",
+      "definition": "Using the brand color across both subject and backdrop."
+    }
+  ]
+}

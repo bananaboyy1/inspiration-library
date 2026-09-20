@@ -1,0 +1,44 @@
+{
+  "name": "app-black-design-process-cards-with-tag-pills",
+  "image": "images/app-black-design-process-cards-with-tag-pills.png",
+  "discipline": "app",
+  "designType": "Design process showcase",
+  "title": "Black Design Process Cards with Tag Pills",
+  "tags": [
+    "process",
+    "black",
+    "cards",
+    "pills",
+    "discovery",
+    "ux",
+    "lime-highlight"
+  ],
+  "whatItIs": "A black slide with a small label and paragraph, and three tall rounded cards (Discovery, UX Design, UI Design & Branding) each with outlined activity pills at the bottom, the last card cream with a tilted lime pill.",
+  "whatItMeans": "Stage cards with tag lists summarise a process compactly, and the pale card marks the final stage.",
+  "techniques": [
+    "Cards with content anchored to the bottom, leaving headroom",
+    "Outlined pills for activities",
+    "One tilted lime pill as a playful highlight",
+    "Inverse (light) card for the finale",
+    "Small caps label and two-line paragraph at top"
+  ],
+  "bestFor": [
+    "Design process overviews",
+    "Agency and freelancer case studies",
+    "Any three-stage workflow"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tag pill",
+      "definition": "A rounded label naming an activity."
+    },
+    {
+      "term": "Inverse card",
+      "definition": "A card with opposite colours to its neighbours."
+    },
+    {
+      "term": "Bottom-anchored content",
+      "definition": "Content pinned to the base of a card."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-and-mint-zigzag-modular-design-developers-slide",
+  "image": "images/print-social-white-and-mint-zigzag-modular-design-developers-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Modular Design for Developers Zigzag Slide",
+  "tags": [
+    "carousel",
+    "white",
+    "mint",
+    "zigzag",
+    "heavy-sans",
+    "developers",
+    "arrow-tile"
+  ],
+  "whatItIs": "A white portrait slide with a bright mint zigzag band at the top and a pale one at the base, a big black tightly set heading 'Modular Design and Flexibility for Developers' with 'Developers' in mint, a paragraph and an arrow tile with an extra note.",
+  "whatItMeans": "The same zigzag system in a lighter arrangement keeps the series consistent while changing the mood.",
+  "techniques": [
+    "Zigzag band cropped at the top edge",
+    "Tight heavy headline with a mint accent word",
+    "Paragraph and arrow-tile note under it",
+    "Pale ghost zigzag at the base",
+    "Series consistency across four slides"
+  ],
+  "bestFor": [
+    "Developer-facing carousels",
+    "Series with a repeated graphic motif",
+    "White and mint minimal type slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series motif",
+      "definition": "A graphic repeated across slides to unify them."
+    },
+    {
+      "term": "Ghost band",
+      "definition": "A very pale version of a graphic used as a background."
+    },
+    {
+      "term": "Tight leading",
+      "definition": "Very small spacing between lines of a headline."
+    }
+  ]
+}

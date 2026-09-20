@@ -1,0 +1,45 @@
+{
+  "name": "branding-navy-finance-pitch-and-brand-guide-slide-collage",
+  "image": "images/branding-navy-finance-pitch-and-brand-guide-slide-collage.jpg",
+  "discipline": "branding",
+  "designType": "Brand guidelines deck",
+  "title": "Navy Finance Brand Guide Slide Collage",
+  "tags": [
+    "brand-guide",
+    "navy",
+    "slides",
+    "italic-serif",
+    "logo",
+    "palette",
+    "typography",
+    "pitch-deck"
+  ],
+  "whatItIs": "A pale board of many slides for a finance app: a welcome slide with a script wordmark, contents, problem and principle pages, a growth chart, colour and type slides (Navy, Gray, Helvetica Neue), logo and browser-tab mockups, alternating white and navy backgrounds.",
+  "whatItMeans": "Alternating pale and deep navy slides create rhythm, and italic serif emphasis words add elegance to a plain sans system.",
+  "techniques": [
+    "Italic serif accent word in each headline",
+    "Alternating light and navy slides",
+    "Consistent small header and footer chrome",
+    "Ruled footer line on every slide",
+    "Palette and type slides as compact swatch and specimen cards"
+  ],
+  "bestFor": [
+    "Brand guideline and pitch decks",
+    "Fintech identity documentation",
+    "Presenting a whole deck at a glance"
+  ],
+  "vocabulary": [
+    {
+      "term": "Slide collage",
+      "definition": "Many slides arranged together as an overview."
+    },
+    {
+      "term": "Accent word",
+      "definition": "A word set in a contrasting style within a headline."
+    },
+    {
+      "term": "Slide chrome",
+      "definition": "Repeated header and footer details across slides."
+    }
+  ]
+}

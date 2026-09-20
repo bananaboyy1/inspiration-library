@@ -1,0 +1,44 @@
+{
+  "name": "app-green-duotone-hands-super-app-thumbnail",
+  "image": "images/app-green-duotone-hands-super-app-thumbnail.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green Duotone Super-App Thumbnail",
+  "tags": [
+    "green",
+    "duotone",
+    "hands",
+    "thumbnail",
+    "super-app",
+    "dark",
+    "cover"
+  ],
+  "whatItIs": "A small square cover version of the green duotone scene: two glowing green hands holding a phone with a colorful service-grid home screen against a dark green gradient.",
+  "whatItMeans": "Kept simple at thumbnail size, the single colour and the bright screen still read instantly in a gallery grid.",
+  "techniques": [
+    "Strong single-hue scene that survives shrinking",
+    "Screen as the brightest, most colorful zone",
+    "Centred device with symmetrical hands",
+    "Dark vignette edges",
+    "No text, image alone carries the pitch"
+  ],
+  "bestFor": [
+    "Portfolio grid thumbnails",
+    "Project covers",
+    "Quick-glance product teasers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thumbnail cover",
+      "definition": "A small image representing a project in a gallery."
+    },
+    {
+      "term": "Glow screen",
+      "definition": "A bright display that lights the surrounding scene."
+    },
+    {
+      "term": "Vignette",
+      "definition": "Darkened edges focusing on the centre."
+    }
+  ]
+}

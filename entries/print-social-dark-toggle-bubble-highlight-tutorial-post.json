@@ -1,0 +1,44 @@
+{
+  "name": "print-social-dark-toggle-bubble-highlight-tutorial-post",
+  "image": "images/print-social-dark-toggle-bubble-highlight-tutorial-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Dark Toggle Bubble Highlight Tutorial",
+  "tags": [
+    "tutorial",
+    "dark",
+    "toggle",
+    "step",
+    "neumorphic",
+    "grey",
+    "how-to"
+  ],
+  "whatItIs": "A charcoal tutorial post, step 02 of a UI recipe: a glowing number bubble, italic headline, instruction text and a dark pill toggle with a large white oval highlight, and a link bar at the foot.",
+  "whatItMeans": "A tactile dark UI with one white shape shows the exact technique being taught. Muted greys make the white highlight the star.",
+  "techniques": [
+    "Numbered glowing bubble as step marker",
+    "Italic sans headline for a dynamic feel",
+    "Oversized enlarged component as the demonstration",
+    "Soft inner shadows for a tactile surface",
+    "Rounded link bar with contact and offer text"
+  ],
+  "bestFor": [
+    "UI design tutorials",
+    "Asset-bundle promotion",
+    "Step-by-step carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bubble highlight",
+      "definition": "A rounded shape marking the selected item in a switch."
+    },
+    {
+      "term": "Step bubble",
+      "definition": "A numbered circle indicating a step."
+    },
+    {
+      "term": "Soft UI",
+      "definition": "Interface with subtle raised and inset shadows."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-webcore-page-footer-with-receipt-card-barcode-and-bracket-wordmark",
+  "image": "images/web-webcore-page-footer-with-receipt-card-barcode-and-bracket-wordmark.png",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Webcore Footer with Barcode and Bracket Wordmark",
+  "tags": [
+    "footer",
+    "barcode",
+    "wordmark",
+    "monospace",
+    "webcore",
+    "social-icons",
+    "pink"
+  ],
+  "whatItIs": "The lower part of the same mobile page: the manifesto points, the pink receipt card and a footer with a bracketed lowercase '[mark it]' wordmark, tiny monospace legal and build lines, a barcode graphic and round outlined social icons.",
+  "whatItMeans": "A barcode and build number in the footer finish the toy-package joke and give the page a product-label feel.",
+  "techniques": [
+    "Barcode as a decorative footer element",
+    "Bracketed wordmark as a sign-off",
+    "Build and node status lines in monospace",
+    "Round outlined social icons",
+    "Hairline rules between sections"
+  ],
+  "bestFor": [
+    "Footer design with personality",
+    "Product-label aesthetics",
+    "Webcore and toy-culture sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Barcode graphic",
+      "definition": "Parallel bars used as decoration or label."
+    },
+    {
+      "term": "Sign-off wordmark",
+      "definition": "A logo placed at the very end of a page."
+    },
+    {
+      "term": "Build line",
+      "definition": "A small line listing version or date, as in software."
+    }
+  ]
+}

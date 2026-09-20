@@ -1,0 +1,44 @@
+{
+  "name": "print-social-orange-glass-icon-four-step-figma-tutorial",
+  "image": "images/print-social-orange-glass-icon-four-step-figma-tutorial.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Orange Glass Icon Four-Step Tutorial",
+  "tags": [
+    "tutorial",
+    "glass",
+    "orange",
+    "script-font",
+    "steps",
+    "figma",
+    "icon"
+  ],
+  "whatItIs": "A 2x2 grid tutorial in handwritten script: two grey frames, a gradient fill, a glass effect with shadows and property panels, and the finished orange glass 'i' icon.",
+  "whatItMeans": "Small panel screenshots and hand-written notes feel like a designer's sketchbook. The build-up to the glowing final tile is satisfying.",
+  "techniques": [
+    "Four equal cells that build progressively",
+    "Handwritten bullet notes over a clean grey field",
+    "Callout arrows pointing to real UI property panels",
+    "Final cell shown fully rendered as a reward",
+    "One warm colour throughout"
+  ],
+  "bestFor": [
+    "UI tutorial posts",
+    "Design tool tips",
+    "Icon and effect walkthroughs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass effect",
+      "definition": "A translucent, refractive treatment applied to a shape."
+    },
+    {
+      "term": "Callout arrow",
+      "definition": "A curved arrow linking a note to a specific control."
+    },
+    {
+      "term": "Progressive grid",
+      "definition": "A grid where each cell adds to the previous one."
+    }
+  ]
+}

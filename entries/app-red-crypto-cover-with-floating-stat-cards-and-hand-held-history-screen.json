@@ -1,0 +1,44 @@
+{
+  "name": "app-red-crypto-cover-with-floating-stat-cards-and-hand-held-history-screen",
+  "image": "images/app-red-crypto-cover-with-floating-stat-cards-and-hand-held-history-screen.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Red Crypto Cover with Floating Stat Cards",
+  "tags": [
+    "crypto",
+    "red",
+    "black",
+    "hand",
+    "stat-cards",
+    "striped",
+    "cover"
+  ],
+  "whatItIs": "A red-to-black vignette cover with vertical stripe chart shapes, a hand holding a tilted phone with a transactions history screen, two floating stat cards (Realized PL in white, Projected Growth in red), a two-logo lockup, a project pill and a large headline 'A Smarter Way to Trade & Swap Digital Assets'.",
+  "whatItMeans": "Floating stat cards break the screen's boundary to highlight key numbers, and red on black is intense and confident.",
+  "techniques": [
+    "Floating stat cards outside the phone",
+    "Striped chart shapes as background",
+    "Headline with alternating bright and dim words",
+    "Two-logo lockup in white tiles",
+    "Hand silhouetted in red light"
+  ],
+  "bestFor": [
+    "Crypto and trading app covers",
+    "Feature-highlight hero images",
+    "Dark red brand systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating stat card",
+      "definition": "A metric card placed outside the device to emphasise a number."
+    },
+    {
+      "term": "Stripe chart",
+      "definition": "A chart made of vertical thin lines."
+    },
+    {
+      "term": "Lockup tile",
+      "definition": "Logos placed in rounded white squares."
+    }
+  ]
+}

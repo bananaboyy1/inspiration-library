@@ -1,0 +1,44 @@
+{
+  "name": "app-food-ordering-curved-category-arc-held-in-dark-hands",
+  "image": "images/app-food-ordering-curved-category-arc-held-in-dark-hands.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Food Ordering App in Dark Hands",
+  "tags": [
+    "food",
+    "hands",
+    "close-up",
+    "arc",
+    "peach",
+    "black",
+    "touch"
+  ],
+  "whatItIs": "A close-up of two dark-skinned hands holding a phone with a food ordering screen: 'Hungry? Order & Eat.', a search bar, circular category thumbnails along an arc and product cards for noodles, pizza and burgers, with a dark floating nav bar.",
+  "whatItMeans": "Big close-ups and a finger about to tap make the app feel immediate and appetising, while cutout food photos give it energy.",
+  "techniques": [
+    "Arc of round category thumbnails",
+    "Cut-out food images with a soft shadow",
+    "Two-tone headline (bold question, light command)",
+    "Dark floating nav with an orange home button",
+    "Peach gradient background"
+  ],
+  "bestFor": [
+    "Food delivery apps",
+    "Close-up app hero shots",
+    "Playful e-commerce UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Category arc",
+      "definition": "Round category icons arranged along a curve."
+    },
+    {
+      "term": "Cut-out product",
+      "definition": "A product photo isolated from its background."
+    },
+    {
+      "term": "Touch close-up",
+      "definition": "A tight crop of hands interacting with a screen."
+    }
+  ]
+}

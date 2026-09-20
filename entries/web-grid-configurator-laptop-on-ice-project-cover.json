@@ -1,0 +1,43 @@
+{
+  "name": "web-grid-configurator-laptop-on-ice-project-cover",
+  "image": "images/web-grid-configurator-laptop-on-ice-project-cover.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Grid Configurator Laptop on Ice",
+  "tags": [
+    "laptop",
+    "ice",
+    "grid",
+    "monochrome",
+    "logo",
+    "cover"
+  ],
+  "whatItIs": "A project cover with a laptop showing a bordered-grid site with tile textures, resting on ice, and a black blocky monogram at right.",
+  "whatItMeans": "Cool white ice and a stark grid feel clean and technical, while the tile textures hint at material variety.",
+  "techniques": [
+    "Location photography matched to the concept (ice for a clean product)",
+    "Site's gridlines echoed in the scene's calm structure",
+    "Black stencil-like logo as a counterweight",
+    "Cropped laptop to focus on the interface",
+    "Monochrome scheme with tiny blue accent"
+  ],
+  "bestFor": [
+    "Portfolio project covers",
+    "Product configurators",
+    "Sustainable or material brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Project cover",
+      "definition": "The thumbnail that represents a case study."
+    },
+    {
+      "term": "Concept backdrop",
+      "definition": "A setting chosen to express the product's idea."
+    },
+    {
+      "term": "Grid interface",
+      "definition": "A UI built on visible cell borders."
+    }
+  ]
+}

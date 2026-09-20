@@ -1,0 +1,44 @@
+{
+  "name": "branding-blue-lime-brand-guideline-template-overview",
+  "image": "images/branding-blue-lime-brand-guideline-template-overview.jpg",
+  "discipline": "branding",
+  "designType": "Brand guidelines deck",
+  "title": "Blue and Lime Brand Guideline Template",
+  "tags": [
+    "brand-guidelines",
+    "template",
+    "lime",
+    "cperiwinkle",
+    "slides",
+    "overview",
+    "modern"
+  ],
+  "whatItIs": "A periwinkle sheet with a big 'Brand Guideline / Visual Identity' title and a 3-by-7 grid of slide thumbnails: navy section dividers with ghost numerals, and white pages for logo, colour, typography, imagery and stationery.",
+  "whatItMeans": "Showing every slide type in one overview sells a template's completeness, while lime and blue keep it energetic.",
+  "techniques": [
+    "Dark divider slides with big ghost numerals between content sections",
+    "Lime tag label for the 'Customizable Template' claim",
+    "Grid of uniform slide thumbnails",
+    "3D chrome-blob imagery as a modern accent",
+    "Consistent lime and cobalt colour pairing"
+  ],
+  "bestFor": [
+    "Brand guideline templates",
+    "Identity documentation",
+    "Marketplace template listings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Section divider",
+      "definition": "A slide that introduces a new part of a document."
+    },
+    {
+      "term": "Template overview",
+      "definition": "A sheet showing all pages of a template at small scale."
+    },
+    {
+      "term": "Ghost numeral",
+      "definition": "An oversized faint number used as a decorative marker."
+    }
+  ]
+}

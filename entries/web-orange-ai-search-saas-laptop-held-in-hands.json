@@ -1,0 +1,44 @@
+{
+  "name": "web-orange-ai-search-saas-laptop-held-in-hands",
+  "image": "images/web-orange-ai-search-saas-laptop-held-in-hands.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "AI Search SaaS on a Held Laptop",
+  "tags": [
+    "laptop",
+    "hands",
+    "orange",
+    "dots",
+    "ai-search",
+    "saas",
+    "cover"
+  ],
+  "whatItIs": "A cover with two hands lifting a laptop that shows a pale SaaS hero, 'Get Found Faster Through AI Search', with orange accents and a dashboard below, on a soft dotted background with a peach glow.",
+  "whatItMeans": "Hands holding the laptop make it feel tangible and easy to grasp, and the dot grid adds a light technical note.",
+  "techniques": [
+    "Hands gripping the laptop from below",
+    "Dot-grid backdrop with a peach corner glow",
+    "Italic serif word inside a sans headline",
+    "Orange as the single accent",
+    "Dashboard cropped under the hero"
+  ],
+  "bestFor": [
+    "SaaS website case studies",
+    "Marketing and SEO tools",
+    "Light, friendly product covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot grid",
+      "definition": "A regular field of small dots used as a subtle background."
+    },
+    {
+      "term": "Held device",
+      "definition": "A device shown in someone's hands."
+    },
+    {
+      "term": "Serif accent",
+      "definition": "An italic serif word in an otherwise sans headline."
+    }
+  ]
+}

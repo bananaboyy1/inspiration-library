@@ -1,0 +1,44 @@
+{
+  "name": "app-ai-scam-protection-long-feature-and-persona-sheet",
+  "image": "images/app-ai-scam-protection-long-feature-and-persona-sheet.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Scam Protection Features and Persona Sheet",
+  "tags": [
+    "security",
+    "long-scroll",
+    "pastel",
+    "persona",
+    "features",
+    "phones",
+    "chrome"
+  ],
+  "whatItIs": "A tall pale sheet with an AI Security heading, a hero tile of a phone between chrome brackets over blue ribbons, two feature tiles for call and message protection, a persona block with goals, pain points and priorities, and a closing section of call screens with captions.",
+  "whatItMeans": "Alternating hero renders, feature tiles and a persona block build a complete story in a calm pastel system.",
+  "techniques": [
+    "Hero tile with chrome props and blue ribbons",
+    "Feature tiles with device and short caption",
+    "Persona portrait beside coloured goal and pain cards",
+    "Zoomed component beside the full screen",
+    "Consistent pastel colour-coded call and message rows"
+  ],
+  "bestFor": [
+    "AI and security app case studies",
+    "Long-scroll feature explanations",
+    "Pastel UI systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feature tile",
+      "definition": "A tile explaining one feature with a device and caption."
+    },
+    {
+      "term": "Persona block",
+      "definition": "A section showing a user's goals and pain points."
+    },
+    {
+      "term": "Colour-coded status",
+      "definition": "Pills using green, red and yellow to show safe, scam and risky."
+    }
+  ]
+}

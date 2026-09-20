@@ -1,0 +1,44 @@
+{
+  "name": "app-burnt-orange-ai-reel-app-held-in-dark-hands",
+  "image": "images/app-burnt-orange-ai-reel-app-held-in-dark-hands.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Burnt Orange AI Reel App in Dark Hands",
+  "tags": [
+    "orange",
+    "brown",
+    "ai",
+    "video",
+    "hands",
+    "ghost-type",
+    "dark"
+  ],
+  "whatItIs": "A cover with a phone in a burnt-orange UI (AI planning with portrait thumbnails and a prompt box) held by dark-skinned hands, with faint giant lettering behind and a logo top left.",
+  "whatItMeans": "Monochrome orange-brown feels warm and creative. Skin tones and UI color harmonise into one glowing scene.",
+  "techniques": [
+    "Single hue for UI, background and lighting",
+    "Faint oversized title behind the device",
+    "Hands cropped in from the bottom for scale",
+    "Grid overlay in the background",
+    "Glowing screen as the light source"
+  ],
+  "bestFor": [
+    "Creative and AI tools",
+    "Portfolio covers",
+    "Warm monochrome branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monochrome scene",
+      "definition": "An image dominated by one hue."
+    },
+    {
+      "term": "Light source screen",
+      "definition": "A device display appearing to illuminate its surroundings."
+    },
+    {
+      "term": "Grid overlay",
+      "definition": "Subtle lines over the backdrop suggesting structure."
+    }
+  ]
+}

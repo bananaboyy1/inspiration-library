@@ -1,0 +1,44 @@
+{
+  "name": "app-white-onboarding-phone-keyring-and-lock-screen-notification-board",
+  "image": "images/app-white-onboarding-phone-keyring-and-lock-screen-notification-board.png",
+  "discipline": "app",
+  "designType": "Brand application mockups",
+  "title": "Subscription App Onboarding, Keyring and Lock-Screen Alert",
+  "tags": [
+    "onboarding",
+    "keyring",
+    "lock-screen",
+    "notification",
+    "white",
+    "black",
+    "merch"
+  ],
+  "whatItIs": "A white board with a phone-in-phone onboarding screen, a black rubber keyring with the app logo and URL, a heading about user insights and a dark lock screen with a warm glow and a renewal notification flanked by floating subscription cards.",
+  "whatItMeans": "Showing a physical keyring and a real lock-screen notification proves the brand and product work outside the app.",
+  "techniques": [
+    "Phone inside a phone as a nested preview",
+    "Black keyring merch shown on pale grey",
+    "Lock-screen glow with a frosted notification",
+    "Floating cards angled beside the phone",
+    "Simple centred headline and caption"
+  ],
+  "bestFor": [
+    "Subscription app brand and product boards",
+    "Notification design showcases",
+    "Merch and app touchpoints"
+  ],
+  "vocabulary": [
+    {
+      "term": "Nested mockup",
+      "definition": "A device shown inside another device's screen."
+    },
+    {
+      "term": "Lock-screen alert",
+      "definition": "A notification displayed on a phone's lock screen."
+    },
+    {
+      "term": "Merch touchpoint",
+      "definition": "A promotional object carrying the brand."
+    }
+  ]
+}

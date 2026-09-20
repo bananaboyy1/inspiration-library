@@ -1,0 +1,44 @@
+{
+  "name": "app-tilted-projects-and-schedule-phone-with-pastel-cards",
+  "image": "images/app-tilted-projects-and-schedule-phone-with-pastel-cards.jpg",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Tilted Projects and Schedule Phone",
+  "tags": [
+    "projects",
+    "schedule",
+    "pastel",
+    "tilted",
+    "cutout",
+    "serif-free",
+    "cards"
+  ],
+  "whatItIs": "A cut-out tilted phone on a transparent background showing 'Your Projects (4)' with cream and blue project cards, a date strip and timeline with a green meeting card and a lilac action pill.",
+  "whatItMeans": "Big light type and pastel cards feel calm and friendly, and the tilt adds a touch of motion.",
+  "techniques": [
+    "Large light headline with a count",
+    "Pastel colour per project card",
+    "Overlapping avatars and hours captions",
+    "Timeline with a Today marker",
+    "Lilac floating pill for an action"
+  ],
+  "bestFor": [
+    "Project and schedule apps",
+    "Isolated device assets for presentations",
+    "Pastel productivity UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cut-out device",
+      "definition": "A mockup isolated from any background for reuse."
+    },
+    {
+      "term": "Today marker",
+      "definition": "A pill marking the current day on a timeline."
+    },
+    {
+      "term": "Action pill",
+      "definition": "A small floating button offering a quick action."
+    }
+  ]
+}

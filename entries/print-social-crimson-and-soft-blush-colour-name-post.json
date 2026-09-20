@@ -1,0 +1,44 @@
+{
+  "name": "print-social-crimson-and-soft-blush-colour-name-post",
+  "image": "images/print-social-crimson-and-soft-blush-colour-name-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Crimson Red and Soft Blush Colour Post",
+  "tags": [
+    "colour",
+    "red",
+    "blush",
+    "split",
+    "hex",
+    "minimal",
+    "palette"
+  ],
+  "whatItIs": "A portrait post split into a crimson upper half with blush text 'Crimson Red #990000' and a blush lower half with crimson text 'Soft Blush #EBE2E0', hex codes in outlined pills, and a social handle strip at the top.",
+  "whatItMeans": "Each colour is shown on its own field and its partner used as text, demonstrating the pair.",
+  "techniques": [
+    "Swap colours between the halves",
+    "Colour name large and centred",
+    "Hex code in an outlined pill",
+    "Header line with handle and icons",
+    "Only two colours used"
+  ],
+  "bestFor": [
+    "Colour palette posts",
+    "Minimal two-colour layouts",
+    "Design inspiration accounts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour pair",
+      "definition": "Two colours chosen to work together."
+    },
+    {
+      "term": "Split layout",
+      "definition": "A canvas divided into two contrasting halves."
+    },
+    {
+      "term": "Hex pill",
+      "definition": "A rounded outline holding a colour code."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-solution-roadmap-floating-cards-on-s-curve",
+  "image": "images/app-lavender-solution-roadmap-floating-cards-on-s-curve.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Solution Roadmap on an S-Curve Path",
+  "tags": [
+    "roadmap",
+    "s-curve",
+    "indigo",
+    "lavender",
+    "floating-cards",
+    "calendar",
+    "icons"
+  ],
+  "whatItIs": "A tall lavender sheet titled The Solution Roadmap with a dashed S-curve connecting four indigo icon nodes with ghost numerals and goals, each paired with floating UI cards (calendar, meal reminders, medication and mood charts, safe-zone map).",
+  "whatItMeans": "The winding path makes a list of goals feel like a journey, and each goal shows its UI as proof.",
+  "techniques": [
+    "Dashed S-curve linking round icon nodes",
+    "Ghost numerals beside each goal",
+    "Floating UI cards beside every node",
+    "Alternating left and right placement",
+    "Single indigo hue with pastel accents"
+  ],
+  "bestFor": [
+    "Solution roadmap slides",
+    "Feature-to-goal mapping",
+    "Long-scroll case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Roadmap path",
+      "definition": "A curved line joining goals in sequence."
+    },
+    {
+      "term": "Icon node",
+      "definition": "A circular icon marking a stop on a path."
+    },
+    {
+      "term": "Ghost numeral",
+      "definition": "A large faint number beside a heading."
+    }
+  ]
+}

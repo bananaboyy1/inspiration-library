@@ -1,0 +1,45 @@
+{
+  "name": "app-forest-lime-travel-feature-tiles-map-payments-trips",
+  "image": "images/app-forest-lime-travel-feature-tiles-map-payments-trips.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Forest and Lime Travel Feature Tiles",
+  "tags": [
+    "travel",
+    "forest-green",
+    "lime",
+    "features",
+    "cards",
+    "map",
+    "payment",
+    "bento"
+  ],
+  "whatItIs": "A bento of forest green and lime tiles: a map discovery phone, a trips list with a lime stat strip, a lime tile with a tilted card and confetti for payments, and a wide dark tile with a flight card, home phone and trip checklist, each with a centred caption.",
+  "whatItMeans": "Alternating dark and lime tiles feel fresh, and confetti around the card celebrates a payment.",
+  "techniques": [
+    "Alternating dark green and lime tiles",
+    "Lime stat strip overlapping a list",
+    "Confetti pieces around a card as a success moment",
+    "Captions centred within each tile",
+    "Three devices and cards in one wide tile"
+  ],
+  "bestFor": [
+    "Feature summaries for travel apps",
+    "Bento feature slides",
+    "Green and lime brand systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feature tile",
+      "definition": "A tile dedicated to one feature with a caption."
+    },
+    {
+      "term": "Success confetti",
+      "definition": "Small coloured pieces scattered around a confirmation."
+    },
+    {
+      "term": "Stat strip",
+      "definition": "A row of key numbers in a coloured band."
+    }
+  ]
+}

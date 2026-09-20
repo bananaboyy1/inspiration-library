@@ -1,0 +1,44 @@
+{
+  "name": "print-social-blue-tinted-concert-photo-closing-slide-with-website-headline",
+  "image": "images/print-social-blue-tinted-concert-photo-closing-slide-with-website-headline.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Blue-Tinted Concert Photo Closing Slide",
+  "tags": [
+    "carousel",
+    "closing",
+    "blue-tint",
+    "concert",
+    "photo",
+    "website",
+    "call-to-action"
+  ],
+  "whatItIs": "A closing slide over a blue-tinted photograph of a concert crowd with stage lights, a ticket logo at the top, a large white 'TIXPOOL.COM' headline, a short rule and three lines: a bold offer 'List your ticket. Get your money.', an italic aside and a smaller quiet line.",
+  "whatItMeans": "Tinting the crowd photo in the brand blue makes the closing feel atmospheric while keeping the site name front and centre.",
+  "techniques": [
+    "Blue tint over a concert photograph",
+    "Website address as the headline",
+    "Three text tiers under a short rule",
+    "Ticket logo at the top",
+    "Slide counter at the corner"
+  ],
+  "bestFor": [
+    "Carousel closing slides",
+    "Events and ticketing brands",
+    "Photo backdrop CTAs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour tint overlay",
+      "definition": "A translucent colour laid over a photo."
+    },
+    {
+      "term": "URL headline",
+      "definition": "A website address used as the main call to action."
+    },
+    {
+      "term": "Closing slide",
+      "definition": "The last slide of a carousel with the final ask."
+    }
+  ]
+}

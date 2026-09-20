@@ -1,0 +1,44 @@
+{
+  "name": "app-black-lime-information-architecture-tree",
+  "image": "images/app-black-lime-information-architecture-tree.png",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Black and Lime Information Architecture Tree",
+  "tags": [
+    "information-architecture",
+    "black",
+    "lime",
+    "tree",
+    "nodes",
+    "smart-home",
+    "ux"
+  ],
+  "whatItIs": "A black page with a short intro paragraph and a left-to-right tree: a glowing lime Splash Screen node branching into five dark pill sections (Home, Rooms, Security, Statistics, Profile) and their sub-screens that fade out to the right.",
+  "whatItMeans": "The single glowing lime node marks the entry point, and dark grey pills stay quiet. Fading depth communicates 'more inside' without listing everything.",
+  "techniques": [
+    "One lit node with a soft glow as the starting point",
+    "Thin lime connector with a small light dot at the fork",
+    "Progressive fading of deeper levels",
+    "Faint grid lines on black",
+    "App icon at far left as the root"
+  ],
+  "bestFor": [
+    "UX architecture and sitemap slides",
+    "Dark-mode case studies",
+    "Explaining navigation depth"
+  ],
+  "vocabulary": [
+    {
+      "term": "Information architecture",
+      "definition": "How an app's content and screens are organised."
+    },
+    {
+      "term": "Root node",
+      "definition": "The starting item from which a tree branches."
+    },
+    {
+      "term": "Depth fade",
+      "definition": "Reducing opacity for deeper levels of a hierarchy."
+    }
+  ]
+}

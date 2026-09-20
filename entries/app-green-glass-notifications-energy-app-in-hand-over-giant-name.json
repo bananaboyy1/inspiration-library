@@ -1,0 +1,44 @@
+{
+  "name": "app-green-glass-notifications-energy-app-in-hand-over-giant-name",
+  "image": "images/app-green-glass-notifications-energy-app-in-hand-over-giant-name.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green Energy App with Glass Notifications",
+  "tags": [
+    "green",
+    "energy",
+    "glass",
+    "notifications",
+    "hand",
+    "giant-type",
+    "cover"
+  ],
+  "whatItIs": "A green gradient cover with a giant white 'cubee' wordmark behind a hand holding a dark green phone showing a savings figure and an app cube, with two frosted glass notification pills floating outside the phone.",
+  "whatItMeans": "Glass notifications escaping the device show the product talking to the user, and green signals energy savings.",
+  "techniques": [
+    "Giant wordmark cropped behind the phone",
+    "Frosted glass notification cards floating outside the screen",
+    "Dark green UI with mint highlights",
+    "Hand holding the phone from the side",
+    "Green radial gradient background"
+  ],
+  "bestFor": [
+    "Energy and eco apps",
+    "Notification-led feature covers",
+    "Hero covers with giant type"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass notification",
+      "definition": "A frosted translucent pill imitating a push notification."
+    },
+    {
+      "term": "Giant wordmark",
+      "definition": "A brand name set at enormous scale behind a subject."
+    },
+    {
+      "term": "Radial green",
+      "definition": "A green gradient glowing outward from the centre."
+    }
+  ]
+}

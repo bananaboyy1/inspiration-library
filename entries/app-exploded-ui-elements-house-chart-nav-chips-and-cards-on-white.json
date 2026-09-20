@@ -1,0 +1,45 @@
+{
+  "name": "app-exploded-ui-elements-house-chart-nav-chips-and-cards-on-white",
+  "image": "images/app-exploded-ui-elements-house-chart-nav-chips-and-cards-on-white.png",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Exploded Assistant UI on White",
+  "tags": [
+    "exploded-ui",
+    "assistant",
+    "house-chart",
+    "chips",
+    "nav",
+    "cards",
+    "white",
+    "gradient"
+  ],
+  "whatItIs": "A white board with a central assistant card ('How can I help you today?' with chips and a gradient arc) surrounded by floating parts: a house-shaped chart of coloured blocks with percentages, a pill nav bar with a blue Home tab, category cards with letter tiles, toggle pills, insight rows with round coloured icons and letter circles.",
+  "whatItMeans": "Pulling components apart and floating them shows the design system's pieces and its playful colour palette.",
+  "techniques": [
+    "House-shaped block chart as a signature graphic",
+    "Components floated around a central card",
+    "Letter circles as avatars",
+    "Round coloured icons in insight rows",
+    "Warm palette of coral, yellow, blue and navy"
+  ],
+  "bestFor": [
+    "Design-system component showcases",
+    "Family and home apps",
+    "Exploded UI presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Exploded UI",
+      "definition": "Interface parts separated and arranged around a hero."
+    },
+    {
+      "term": "Block chart",
+      "definition": "A chart made of blocks whose areas show shares."
+    },
+    {
+      "term": "Toggle pill",
+      "definition": "A coloured pill with a close or switch control."
+    }
+  ]
+}

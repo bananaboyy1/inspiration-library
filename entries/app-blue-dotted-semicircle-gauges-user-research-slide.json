@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-dotted-semicircle-gauges-user-research-slide",
+  "image": "images/app-blue-dotted-semicircle-gauges-user-research-slide.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Dotted Semicircle Gauges for User Research",
+  "tags": [
+    "research",
+    "gauges",
+    "dotted",
+    "blue",
+    "progress-bar",
+    "plane",
+    "lavender"
+  ],
+  "whatItIs": "A lavender slide titled User Research with a plane on a progress bar, a paragraph, and three semicircle gauges made of a blue arc and radial dot fans with dark percentage discs (50%, 75%, 85%) labelled Flight Booking, Trip Management and Hotel Booking, with a chart tile and sky phone below.",
+  "whatItMeans": "Radial dot fans make percentages feel like rays of a sun, and each gauge is labelled simply.",
+  "techniques": [
+    "Blue arc with an airplane marker at the end",
+    "Radial fan of dots shrinking toward the centre",
+    "Dark percentage disc at the gauge centre",
+    "Three gauges arranged as a triangle",
+    "Title with the second word in blue gradient"
+  ],
+  "bestFor": [
+    "Research and metrics slides",
+    "Travel product case studies",
+    "Decorative percentage gauges"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot fan",
+      "definition": "Dots radiating from a centre in decreasing size."
+    },
+    {
+      "term": "Semicircle gauge",
+      "definition": "A half-ring showing progress."
+    },
+    {
+      "term": "Value disc",
+      "definition": "A small dark circle holding a number."
+    }
+  ]
+}

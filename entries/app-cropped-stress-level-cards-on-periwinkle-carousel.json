@@ -1,0 +1,44 @@
+{
+  "name": "app-cropped-stress-level-cards-on-periwinkle-carousel",
+  "image": "images/app-cropped-stress-level-cards-on-periwinkle-carousel.gif",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Stress Level Cards on Periwinkle",
+  "tags": [
+    "cards",
+    "periwinkle",
+    "navy",
+    "carousel",
+    "cropped",
+    "insight",
+    "orange"
+  ],
+  "whatItIs": "A periwinkle rounded panel showing three tall cards, a cropped grey left card, a navy centre card 'STRESS LEVELS' with a large 'High', and a cropped right card with an orange line chart.",
+  "whatItMeans": "Cropped side cards imply a swipe carousel, and the navy card with one word makes the key message unmistakable.",
+  "techniques": [
+    "Cropped neighbours suggesting scrolling",
+    "Single dark card among light ones as focal point",
+    "Huge one-word result at the base",
+    "Small caps card title with a short paragraph",
+    "Orange line chart as the accent"
+  ],
+  "bestFor": [
+    "Insight cards",
+    "Wellness and household apps",
+    "Swipeable summary cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cropped carousel",
+      "definition": "Cards cut off at the sides to imply more."
+    },
+    {
+      "term": "Result word",
+      "definition": "A single large word summarising an insight."
+    },
+    {
+      "term": "Focal card",
+      "definition": "The one card styled differently to lead the eye."
+    }
+  ]
+}

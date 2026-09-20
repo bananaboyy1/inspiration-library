@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-thanks-for-watching-huge-caps-with-follow-pill-and-cursor-tags",
+  "image": "images/app-dark-thanks-for-watching-huge-caps-with-follow-pill-and-cursor-tags.jpg",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Huge Thanks Caps with Follow Pill and Live Cursors",
+  "tags": [
+    "thanks",
+    "dark",
+    "huge-type",
+    "gradient",
+    "follow",
+    "cursors",
+    "contact"
+  ],
+  "whatItIs": "A near-black slide with column guides, service labels across the top, giant silver-to-dark caps 'THANKS FOR WATCHING!' crossed by a tilted indigo Follow us pill, a caption in caps and contact lines shown as selected text with collaborator cursors.",
+  "whatItMeans": "Live cursors and selection boxes make the closing feel like a working Figma file, and the fading caps add depth.",
+  "techniques": [
+    "Giant gradient caps fading to dark",
+    "Tilted indigo pill overlapping the type",
+    "Contact text shown selected with cursor tags",
+    "Slash-prefixed service labels",
+    "Thin column guides across the frame"
+  ],
+  "bestFor": [
+    "Portfolio sign-offs",
+    "Design studio closing slides",
+    "Contact calls to action"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cursor tag",
+      "definition": "A small labelled pointer imitating a collaborator in a design tool."
+    },
+    {
+      "term": "Selection box",
+      "definition": "A blue outline around text as if selected."
+    },
+    {
+      "term": "Gradient caps",
+      "definition": "Uppercase type fading in tone across its width."
+    }
+  ]
+}

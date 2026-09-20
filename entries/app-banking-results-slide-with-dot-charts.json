@@ -1,0 +1,44 @@
+{
+  "name": "app-banking-results-slide-with-dot-charts",
+  "image": "images/app-banking-results-slide-with-dot-charts.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Banking Results Slide with Dot Charts",
+  "tags": [
+    "results",
+    "metrics",
+    "grey",
+    "dot-chart",
+    "gauge",
+    "testimonials",
+    "minimal"
+  ],
+  "whatItIs": "A light grey results slide with a large title, three pill-shaped feedback statements with avatars, and three small cards: a dotted bar chart, a semicircle gauge (86%) and a line-bar chart (98%).",
+  "whatItMeans": "Tiny dot and line chart textures make numbers feel crafted, and pill quotes keep human voices present.",
+  "techniques": [
+    "Dotted-matrix bars for a tactile data texture",
+    "Pill-shaped feedback lines with avatar",
+    "Dark pill labels floating above chart peaks",
+    "Cards placed at staggered heights bottom right",
+    "Large empty space around a small cluster of content"
+  ],
+  "bestFor": [
+    "Case study results slides",
+    "Usability metric summaries",
+    "Fintech and product portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-matrix chart",
+      "definition": "A chart built from small dots instead of solid bars."
+    },
+    {
+      "term": "Feedback pill",
+      "definition": "A rounded strip holding a user statement and avatar."
+    },
+    {
+      "term": "Value tag",
+      "definition": "A small label pinned to the peak of a chart."
+    }
+  ]
+}

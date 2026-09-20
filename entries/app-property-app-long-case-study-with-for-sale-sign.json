@@ -1,0 +1,44 @@
+{
+  "name": "app-property-app-long-case-study-with-for-sale-sign",
+  "image": "images/app-property-app-long-case-study-with-for-sale-sign.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Property App Long Case Study with For-Sale Sign",
+  "tags": [
+    "real-estate",
+    "long-scroll",
+    "white",
+    "sign",
+    "monitor",
+    "teal",
+    "process"
+  ],
+  "whatItIs": "A very tall white case-study page: a phone between chrome pipes, a For Sale yard sign mockup with agent photo, a type specimen 'Urbanist', a website on a monitor, a phone on teal glass forms and a design process of four ring nodes.",
+  "whatItMeans": "Real-world signage next to app screens shows a brand across print, web and app, and a calm white page keeps focus.",
+  "techniques": [
+    "Yard sign mockup as a print touchpoint",
+    "Type specimen with small palette tiles",
+    "Teal glowing 3D scene for the app hero",
+    "Ring nodes for process steps",
+    "Alternating text bands and image bands"
+  ],
+  "bestFor": [
+    "Real estate brand and app case studies",
+    "Long-form portfolio pages",
+    "Cross-medium identity showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Touchpoint mockup",
+      "definition": "A realistic mockup of the brand on a physical item."
+    },
+    {
+      "term": "Ring node",
+      "definition": "A circular progress-style marker for a process step."
+    },
+    {
+      "term": "Long case study",
+      "definition": "A tall page telling a project story in sections."
+    }
+  ]
+}

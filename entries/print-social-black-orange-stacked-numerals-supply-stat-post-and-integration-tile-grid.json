@@ -1,0 +1,45 @@
+{
+  "name": "print-social-black-orange-stacked-numerals-supply-stat-post-and-integration-tile-grid",
+  "image": "images/print-social-black-orange-stacked-numerals-supply-stat-post-and-integration-tile-grid.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Stacked Numerals Supply Stat and Integration Grid",
+  "tags": [
+    "stat",
+    "numerals",
+    "black",
+    "orange",
+    "gradient-type",
+    "integrations",
+    "tiles",
+    "vector"
+  ],
+  "whatItIs": "A black square post with a right-aligned line 'A fixed maximum supply. Built for long-term stability.', a Discover integrations pill and a huge stack of numerals 27, 30 and 42 fading from white to grey into a solid orange 42 followed by 'billions.'; below it a teal-and-amber gradient post with a logo and a 4-by-3 grid of dark tiles holding partner icons.",
+  "whatItMeans": "Fading digits climbing into an orange one turn a number into a rising graphic, and a tile grid presents partners tidily.",
+  "techniques": [
+    "Numerals fading from white to orange",
+    "Small right-aligned caption above a huge figure",
+    "Outlined pill as the call to action",
+    "Dark tiles with a few coloured logo tiles",
+    "Amber and teal blurred gradient background"
+  ],
+  "bestFor": [
+    "Big-number stat posts",
+    "Integration and partner showcases",
+    "Crypto and tech marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient numerals",
+      "definition": "Digits whose fill fades from one tone to another."
+    },
+    {
+      "term": "Integration grid",
+      "definition": "A grid of tiles showing partner logos."
+    },
+    {
+      "term": "Stat stack",
+      "definition": "Several numbers stacked to form a shape."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-white-sidebar-navigation-collapsed-expanded-and-profile-menu",
+  "image": "images/web-white-sidebar-navigation-collapsed-expanded-and-profile-menu.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White Sidebar Navigation with Profile Menu",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "white",
+    "collapsed",
+    "submenu",
+    "profile-menu",
+    "cursor"
+  ],
+  "whatItIs": "Three white app panels with window dots on grey: a collapsed icon rail with a Files tooltip and submenu (Images, Audio, Videos), an expanded sidebar with logo, search, grouped links and an expanded Files section, and a profile menu with view profile, support, wish list, shortcuts and logout.",
+  "whatItMeans": "Showing the collapsed, expanded and profile states side by side explains a whole navigation system on one board, and monochrome line icons keep it calm.",
+  "techniques": [
+    "Collapsed and expanded states shown together",
+    "Tooltip and flyout submenu on the icon rail",
+    "Indented submenu with a tree line",
+    "Profile menu as a separate dropdown",
+    "Cursor icons implying interaction"
+  ],
+  "bestFor": [
+    "Sidebar navigation documentation",
+    "SaaS and admin app UI",
+    "Monochrome component showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon rail",
+      "definition": "A narrow bar of icons that expands into a full sidebar."
+    },
+    {
+      "term": "Tooltip",
+      "definition": "A small label shown on hover."
+    },
+    {
+      "term": "Tree line",
+      "definition": "A thin vertical line joining nested menu items."
+    }
+  ]
+}

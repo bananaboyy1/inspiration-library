@@ -1,0 +1,44 @@
+{
+  "name": "app-violet-terrazzo-podium-crowdfunding-app-phone",
+  "image": "images/app-violet-terrazzo-podium-crowdfunding-app-phone.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Crowdfunding App on Violet Terrazzo",
+  "tags": [
+    "violet",
+    "terrazzo",
+    "podium",
+    "3d",
+    "dark-ui",
+    "lime",
+    "crowdfunding"
+  ],
+  "whatItIs": "A glassy-framed phone with a dark Explore screen, watch product card and lime plus button, standing among lilac terrazzo cylinders in a violet room.",
+  "whatItMeans": "Speckled terrazzo and lilac give a playful, gallery-like stage, while lime adds a fun jolt.",
+  "techniques": [
+    "Terrazzo-textured podiums as scene props",
+    "Translucent glass phone frame",
+    "Purple range from dark UI to pale plinths",
+    "Lime accent for the central action",
+    "Soft window light shadows on the floor"
+  ],
+  "bestFor": [
+    "Marketplace and crowdfunding apps",
+    "Product renders with a set",
+    "Playful premium branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Terrazzo",
+      "definition": "A speckled surface of chips in a flat matrix, used as a texture."
+    },
+    {
+      "term": "Plinth",
+      "definition": "A block or cylinder used as a display stand."
+    },
+    {
+      "term": "Stage set",
+      "definition": "A staged 3D environment for a product shot."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-hand-held-journey-day-planner-close-up",
+  "image": "images/app-hand-held-journey-day-planner-close-up.jpg",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Journey Day Planner in Hand",
+  "tags": [
+    "planner",
+    "close-up",
+    "white",
+    "black",
+    "lilac",
+    "medication",
+    "date-picker"
+  ],
+  "whatItIs": "A close-up of a hand holding a phone showing a Journey screen: a week date strip with a black selected date, a dashed lilac insight card and a medication task list, on a light grey background.",
+  "whatItMeans": "Big date bubbles and clear cards make the day feel manageable, and the dashed lilac card gives friendly guidance.",
+  "techniques": [
+    "Selected date as a black glossy pill",
+    "Dashed outlined card for AI insight",
+    "Green pill icon for medication",
+    "Tight crop on the top of the screen",
+    "Neutral grey backdrop"
+  ],
+  "bestFor": [
+    "Care and habit planners",
+    "Close-up hero crops",
+    "Health reminder apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Date strip",
+      "definition": "A row of days with the current one highlighted."
+    },
+    {
+      "term": "Insight card",
+      "definition": "A card giving personalised feedback."
+    },
+    {
+      "term": "Tight crop",
+      "definition": "A close framing that enlarges part of a device."
+    }
+  ]
+}

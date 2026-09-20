@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-smart-home-screens-collage-with-lit-hero-phone",
+  "image": "images/app-dark-smart-home-screens-collage-with-lit-hero-phone.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Dark Smart-Home Screens with a Lit Hero",
+  "tags": [
+    "smart-home",
+    "dark",
+    "collage",
+    "cream",
+    "orange",
+    "gauge",
+    "climate"
+  ],
+  "whatItIs": "A black field filled with dim phone screens of many app states (climate, lock, schedule, main light, rooms) with one bright cream phone at the centre showing a climate control with an orange segmented gauge.",
+  "whatItMeans": "Dimming the rest lets the hero screen glow, while the ghosted screens prove the depth of the app.",
+  "techniques": [
+    "Many screens dimmed to near black as texture",
+    "One fully lit hero phone in the centre",
+    "Orange segmented arc as the signature graphic",
+    "Screens cropped at the edges",
+    "Cream UI against black"
+  ],
+  "bestFor": [
+    "App overview presentations",
+    "Dark showcase boards",
+    "Showing breadth with one focus"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dimmed backdrop",
+      "definition": "Secondary content faded to let a hero stand out."
+    },
+    {
+      "term": "Segmented gauge",
+      "definition": "An arc made of radial dashes."
+    },
+    {
+      "term": "Hero screen",
+      "definition": "The one screen shown in full brightness."
+    }
+  ]
+}

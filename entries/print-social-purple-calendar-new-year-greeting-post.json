@@ -1,0 +1,43 @@
+{
+  "name": "print-social-purple-calendar-new-year-greeting-post",
+  "image": "images/print-social-purple-calendar-new-year-greeting-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "title": "Purple Calendar New Year Greeting",
+  "tags": [
+    "new-year",
+    "purple",
+    "calendar",
+    "illustration",
+    "tilted-card",
+    "greeting"
+  ],
+  "whatItIs": "A portrait greeting post: a tilted grid-paper card with 'Happy New Year' (New Year in purple) and an illustration of a person at a monitor, laid over a deep purple calendar grid highlighting January 1.",
+  "whatItMeans": "The calendar backdrop instantly says 'date' and adds a sense of a fresh start. Purple keeps it festive yet modern.",
+  "techniques": [
+    "Highlight a single calendar cell as the theme",
+    "Tilted card layered on a large-scale grid",
+    "Purple word in black headline",
+    "Flat vector illustration in the brand palette",
+    "Cropped grid at oversized scale"
+  ],
+  "bestFor": [
+    "Holiday greetings for brands",
+    "Studio or freelancer posts",
+    "Calendar-themed announcements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlighted cell",
+      "definition": "One grid or calendar cell emphasised in colour."
+    },
+    {
+      "term": "Oversized backdrop",
+      "definition": "A pattern scaled so it is cropped and abstract."
+    },
+    {
+      "term": "Layered card",
+      "definition": "A card tilted and placed over a separate background."
+    }
+  ]
+}

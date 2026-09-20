@@ -1,0 +1,44 @@
+{
+  "name": "app-hotel-booking-experience-photo-and-phone-quad-slide",
+  "image": "images/app-hotel-booking-experience-photo-and-phone-quad-slide.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Booking Experience Photo and Phone Quad",
+  "tags": [
+    "hotel",
+    "booking",
+    "quad-grid",
+    "photography",
+    "lavender",
+    "progress-bar",
+    "blue"
+  ],
+  "whatItIs": "A lavender slide titled Booking Experience with a plane progress bar, a paragraph and a 2-by-2 grid of rounded tiles: a hotel lobby photo with the app icon tile, a phone with a Recommend card and Hotel tab, a phone with a hotel search form and a blue bedroom photo.",
+  "whatItMeans": "Alternating real photography and product tiles link the hotel world to the app in a calm blue palette.",
+  "techniques": [
+    "2-by-2 grid alternating photo and phone tiles",
+    "App icon tile overlaid on a photo",
+    "Blue gradient search and torn discount sticker",
+    "Photography colour-matched to the UI blue",
+    "Progress bar with a plane marker"
+  ],
+  "bestFor": [
+    "Booking experience slides",
+    "Photo plus UI grids",
+    "Hospitality app case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Quad grid",
+      "definition": "A 2-by-2 layout of equal tiles."
+    },
+    {
+      "term": "Icon overlay",
+      "definition": "An app icon placed on a photo as a brand stamp."
+    },
+    {
+      "term": "Palette-matched photo",
+      "definition": "Photography chosen to share the UI's colour."
+    }
+  ]
+}

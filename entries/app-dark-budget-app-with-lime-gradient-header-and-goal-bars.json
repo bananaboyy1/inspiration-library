@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-budget-app-with-lime-gradient-header-and-goal-bars",
+  "image": "images/app-dark-budget-app-with-lime-gradient-header-and-goal-bars.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Dark Budget App with Pastel Gradient Header",
+  "tags": [
+    "budget",
+    "dark",
+    "pastel-gradient",
+    "goals",
+    "bars",
+    "spanish",
+    "two-phones"
+  ],
+  "whatItIs": "Two dark phones on a grey gradient: a home with a pastel yellow-lilac gradient header, a black balance card, add expense, income and view transaction tiles and a bar chart of categories; and a savings goals screen with gradient progress bars.",
+  "whatItMeans": "A soft pastel gradient header lifts an otherwise dark app, and the same gradient fills the progress bars for unity.",
+  "techniques": [
+    "Pastel gradient as the header and progress fill",
+    "Black cards for key figures",
+    "Rounded action tiles with icons",
+    "Category bars in pastel colours",
+    "Two phones side by side at different heights"
+  ],
+  "bestFor": [
+    "Budgeting and savings apps",
+    "Dark UI with a gradient accent",
+    "Localised fintech mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient header",
+      "definition": "A top area filled with a colour blend."
+    },
+    {
+      "term": "Goal bar",
+      "definition": "A progress bar for a savings target."
+    },
+    {
+      "term": "Action tile",
+      "definition": "A tile with an icon and label for a quick action."
+    }
+  ]
+}

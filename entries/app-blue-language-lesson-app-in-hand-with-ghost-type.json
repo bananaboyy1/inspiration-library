@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-language-lesson-app-in-hand-with-ghost-type",
+  "image": "images/app-blue-language-lesson-app-in-hand-with-ghost-type.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blue Language Lesson App in Hand",
+  "tags": [
+    "language",
+    "blue",
+    "hand",
+    "ghost-type",
+    "lessons",
+    "pink",
+    "cover"
+  ],
+  "whatItIs": "A cover with a hand holding a phone showing a blue trial lesson card ('Buying Coffee') and red and pink lesson tiles, on a white to periwinkle gradient with faint 'TalkMe' lettering and a logo chip.",
+  "whatItMeans": "Bold blue lesson cards look approachable and game-like, and the hand keeps it human.",
+  "techniques": [
+    "Large saturated blue card as the hero",
+    "Line illustration of a coffee cup inside the card",
+    "Red and pink tiles peeking from below",
+    "Ghost brand name behind",
+    "Pill segment control (Home, Plan)"
+  ],
+  "bestFor": [
+    "Education and language apps",
+    "Case-study covers",
+    "Friendly consumer apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lesson card",
+      "definition": "A card representing one course or unit."
+    },
+    {
+      "term": "Peek tile",
+      "definition": "A card partly visible below the fold to invite scrolling."
+    },
+    {
+      "term": "Segment control",
+      "definition": "A switch between two views."
+    }
+  ]
+}

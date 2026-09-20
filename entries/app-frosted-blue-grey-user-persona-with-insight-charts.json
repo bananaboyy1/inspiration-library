@@ -1,0 +1,44 @@
+{
+  "name": "app-frosted-blue-grey-user-persona-with-insight-charts",
+  "image": "images/app-frosted-blue-grey-user-persona-with-insight-charts.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Frosted Blue-Grey Persona with Insight Charts",
+  "tags": [
+    "persona",
+    "frosted",
+    "blue-grey",
+    "charts",
+    "green",
+    "glass-cards",
+    "portrait"
+  ],
+  "whatItIs": "A misty blue-grey slide titled User Persona with a large portrait card of a marketing manager, a quote, three frosted cards for goals, pain points and needs, and three insight cards with striped green bar charts and percentage bubbles.",
+  "whatItMeans": "Frosted layers over a soft photo feel calm and premium, and green striped bars add a small live accent.",
+  "techniques": [
+    "Frosted glass cards over a blurred background",
+    "Portrait card with name overlay and blurred base",
+    "Green striped bars as the only saturated colour",
+    "Percentage bubbles above each chart",
+    "Bullet lists in light small type"
+  ],
+  "bestFor": [
+    "Persona slides",
+    "Fintech case studies",
+    "Glassmorphism documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted card",
+      "definition": "A translucent blurred card."
+    },
+    {
+      "term": "Insight card",
+      "definition": "A card with a chart and a short finding."
+    },
+    {
+      "term": "Percentage bubble",
+      "definition": "A small pill showing a value above a chart."
+    }
+  ]
+}

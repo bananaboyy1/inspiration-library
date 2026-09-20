@@ -1,0 +1,44 @@
+{
+  "name": "app-blue-palette-wheel-and-bricolage-type-slide",
+  "image": "images/app-blue-palette-wheel-and-bricolage-type-slide.jpg",
+  "discipline": "app",
+  "designType": "Typography and colour guide",
+  "title": "Blue Palette Wheel and Bricolage Grotesque",
+  "tags": [
+    "palette",
+    "wheel",
+    "blue",
+    "typography",
+    "progress-bar",
+    "airy",
+    "travel"
+  ],
+  "whatItIs": "A pale periwinkle slide with a title, a paragraph, a circular palette of four rounded quarter segments (white, ice, blue, charcoal) around a blue logo disc, and a huge black 'Bricolage Grotesque' specimen below.",
+  "whatItMeans": "The ring turns a colour list into a single graphic object, and the huge typeface name makes the type choice unmistakable.",
+  "techniques": [
+    "Palette shown as a segmented ring with hex chips",
+    "Logo sitting in the centre of the palette",
+    "Plane icon riding a progress bar as page indicator",
+    "Giant one-line specimen as the bottom anchor",
+    "Soft radial blue glows in the background"
+  ],
+  "bestFor": [
+    "Design-system colour and type slides",
+    "Travel and trust-focused brands",
+    "Portfolio case-study documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Palette ring",
+      "definition": "Colours arranged as segments of a circle."
+    },
+    {
+      "term": "Progress indicator",
+      "definition": "A bar that shows position through a document, here with a plane icon."
+    },
+    {
+      "term": "Specimen line",
+      "definition": "A single line of text set large to display a typeface."
+    }
+  ]
+}

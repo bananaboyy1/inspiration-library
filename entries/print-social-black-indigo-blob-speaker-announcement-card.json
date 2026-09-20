@@ -1,0 +1,44 @@
+{
+  "name": "print-social-black-indigo-blob-speaker-announcement-card",
+  "image": "images/print-social-black-indigo-blob-speaker-announcement-card.jpg",
+  "discipline": "print-social",
+  "designType": "Event speaker card",
+  "title": "Speaker Announcement on Indigo Blob",
+  "tags": [
+    "speaker",
+    "indigo",
+    "black",
+    "blob",
+    "portrait",
+    "event",
+    "details-bar"
+  ],
+  "whatItIs": "A dark event poster with 'Meet the Speaker' in light and italic type, a rounded portrait card over a big indigo splat shape with a mic icon, the speaker's name and role, an info bar with date, socials and ticket link, and sponsor logos.",
+  "whatItMeans": "The indigo blob gives the portrait a lively backdrop, and the tidy info bar keeps the details clear.",
+  "techniques": [
+    "Organic blob shape behind a rounded portrait",
+    "Two-weight headline with italic emphasis",
+    "Three-cell info bar for date, socials and tickets",
+    "Faint grid and square outlines in the background",
+    "Sponsor logos in a row at the base"
+  ],
+  "bestFor": [
+    "Event speaker announcements",
+    "Conference social series",
+    "Dark posters with a splash of colour"
+  ],
+  "vocabulary": [
+    {
+      "term": "Speaker card",
+      "definition": "A portrait and details announcing one speaker."
+    },
+    {
+      "term": "Info bar",
+      "definition": "A strip with practical details divided into cells."
+    },
+    {
+      "term": "Splat shape",
+      "definition": "A bold organic shape used as a backdrop."
+    }
+  ]
+}

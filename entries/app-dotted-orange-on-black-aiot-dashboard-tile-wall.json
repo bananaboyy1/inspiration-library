@@ -1,0 +1,45 @@
+{
+  "name": "app-dotted-orange-on-black-aiot-dashboard-tile-wall",
+  "image": "images/app-dotted-orange-on-black-aiot-dashboard-tile-wall.jpg",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Dot-Matrix AIoT Dashboard Tile Wall",
+  "tags": [
+    "dashboard",
+    "dot-matrix",
+    "orange",
+    "black",
+    "monospace",
+    "tiles",
+    "widgets",
+    "aiot"
+  ],
+  "whatItIs": "A warm gradient poster with a dot-matrix title and a 3-by-4 grid of tilted black tiles, each a numbered widget drawn from dots and lines: agent status, tokens chart, device ring, car status, pill progress, medical monitor, bio sensor, word game, retail analytics, music, space game and vision AI.",
+  "whatItMeans": "Everything drawn in dots with only orange-red accents feels like a retro display and makes twelve different widgets one family.",
+  "techniques": [
+    "Dot-matrix drawing for icons, charts and rings",
+    "One orange-red accent on black tiles",
+    "Numbered monospace tile labels",
+    "Tiles slightly tilted like a wall of screens",
+    "Warm peach-to-dark gradient backdrop"
+  ],
+  "bestFor": [
+    "Dashboard widget concepts",
+    "Retro display and LED aesthetics",
+    "Data visualisation in a single style"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-matrix style",
+      "definition": "Graphics built from a grid of small dots."
+    },
+    {
+      "term": "Widget wall",
+      "definition": "Many small dashboard tiles arranged in a grid."
+    },
+    {
+      "term": "Monospace label",
+      "definition": "Small technical text set in a fixed-width font."
+    }
+  ]
+}

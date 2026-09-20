@@ -1,0 +1,44 @@
+{
+  "name": "app-mango-product-card-light-and-photo-variants",
+  "image": "images/app-mango-product-card-light-and-photo-variants.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Mango Product Card Variants",
+  "tags": [
+    "product-card",
+    "photo-card",
+    "yellow",
+    "brown",
+    "e-commerce",
+    "variants",
+    "rounded"
+  ],
+  "whatItIs": "Two versions of a product card for Alphonso mangoes: a white card with a photo, price tag and brown Add to cart button, and a full-bleed photo card with a glassy overlay and white button.",
+  "whatItMeans": "Strong product photography drives the mood, and the two variants show a system with range. Brown and gold keep the fruit warm.",
+  "techniques": [
+    "Full-bleed photo card with text over a color-graded gradient",
+    "Brown accent chosen from the product itself",
+    "Small pill badges (Best Seller, 9 left) for scarcity",
+    "Discount tag on the image corner",
+    "Same content in two layouts to compare"
+  ],
+  "bestFor": [
+    "Grocery and food delivery apps",
+    "Product card component design",
+    "Photo-forward e-commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo card",
+      "definition": "A card whose background is the image itself."
+    },
+    {
+      "term": "Scarcity badge",
+      "definition": "A label like '9 left' encouraging action."
+    },
+    {
+      "term": "Colour picking",
+      "definition": "Taking UI colors from the product photo."
+    }
+  ]
+}

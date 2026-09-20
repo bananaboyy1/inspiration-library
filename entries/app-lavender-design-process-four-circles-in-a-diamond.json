@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-design-process-four-circles-in-a-diamond",
+  "image": "images/app-lavender-design-process-four-circles-in-a-diamond.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Design Process in Four Circles",
+  "tags": [
+    "process",
+    "circles",
+    "diamond",
+    "lavender",
+    "logo",
+    "progress-bar",
+    "neumorphic"
+  ],
+  "whatItIs": "A lavender slide titled Design Process with a plane progress bar and four large soft circles arranged in a diamond around a centre logo: Visual Design, Wireframing, User Flow and Research, each with a title on a white cap and a short description, joined by faint double lines.",
+  "whatItMeans": "A diamond of soft circles makes a process feel cyclical and complete, and the logo at the centre ties it to the brand.",
+  "techniques": [
+    "Four circles at the corners of a diamond",
+    "Logo in a small circle at the centre",
+    "Titles on white segments at the top of each circle",
+    "Faint connecting lines",
+    "Soft neumorphic shadows"
+  ],
+  "bestFor": [
+    "Process and methodology slides",
+    "Cyclical workflows",
+    "Soft-toned case-study documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Diamond layout",
+      "definition": "Four items placed at the points of a diamond."
+    },
+    {
+      "term": "Neumorphic circle",
+      "definition": "A soft-shadowed circle that looks gently raised."
+    },
+    {
+      "term": "Centre badge",
+      "definition": "A logo at the middle of a diagram."
+    }
+  ]
+}

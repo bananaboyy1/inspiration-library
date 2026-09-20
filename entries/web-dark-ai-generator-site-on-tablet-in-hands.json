@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-ai-generator-site-on-tablet-in-hands",
+  "image": "images/web-dark-ai-generator-site-on-tablet-in-hands.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark AI Site on a Tablet",
+  "tags": [
+    "tablet",
+    "dark",
+    "purple",
+    "ai",
+    "hands",
+    "bokeh",
+    "cover"
+  ],
+  "whatItIs": "A tablet held in a dim room showing a dark AI generator website with a purple button, prompt box and partner logos, with hands reaching in and blurred lights behind.",
+  "whatItMeans": "The dark room and glowing screen feel like late-night creative work.",
+  "techniques": [
+    "Dark UI in a dark room so the screen glows",
+    "Bokeh city lights in the background",
+    "Hands touching the screen for interaction",
+    "Purple accent on the CTA",
+    "Large centred headline"
+  ],
+  "bestFor": [
+    "AI and creative tool sites",
+    "Dark landing page mockups",
+    "Lifestyle-context device shots"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bokeh",
+      "definition": "Soft out-of-focus lights in a photo background."
+    },
+    {
+      "term": "Prompt box",
+      "definition": "A large input for typing an AI request."
+    },
+    {
+      "term": "Glow screen",
+      "definition": "A display lighting its surroundings."
+    }
+  ]
+}

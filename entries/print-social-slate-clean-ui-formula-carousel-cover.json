@@ -1,0 +1,44 @@
+{
+  "name": "print-social-slate-clean-ui-formula-carousel-cover",
+  "image": "images/print-social-slate-clean-ui-formula-carousel-cover.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel cover",
+  "title": "The Clean UI Formula Cover",
+  "tags": [
+    "carousel",
+    "cover",
+    "slate",
+    "cream",
+    "column-lines",
+    "weight-mix",
+    "swipe"
+  ],
+  "whatItIs": "A slate-blue cover with vertical hairline column guides, a headline mixing light and bold weights ('The CLEAN UI Formula'), a right-aligned condensed subhead, page marks and a swipe cue with two dots.",
+  "whatItMeans": "Weight contrast inside one headline gives rhythm, and the visible columns show the theme of structure.",
+  "techniques": [
+    "Alternate light and bold words in a headline",
+    "Visible column lines as decoration",
+    "Right-aligned condensed caps subhead",
+    "Filled and hollow dots as pagination",
+    "Part numbers in the corners"
+  ],
+  "bestFor": [
+    "Carousel covers",
+    "Design education",
+    "Type-led posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Weight mix",
+      "definition": "Combining light and bold weights in one line."
+    },
+    {
+      "term": "Column guides",
+      "definition": "Visible vertical lines showing a grid."
+    },
+    {
+      "term": "Pagination dots",
+      "definition": "Filled and hollow circles showing slide position."
+    }
+  ]
+}

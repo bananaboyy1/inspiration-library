@@ -1,0 +1,45 @@
+{
+  "name": "print-social-pixel-retro-product-ui-styleguide-poster",
+  "image": "images/print-social-pixel-retro-product-ui-styleguide-poster.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "title": "Pixel Retro Product UI Styleguide Poster",
+  "tags": [
+    "pixel",
+    "retro",
+    "styleguide",
+    "green",
+    "cream",
+    "monospace",
+    "tokens",
+    "infographic"
+  ],
+  "whatItIs": "A cream poster in pixel type titled 'PRODUCT UI STYLEGUIDE' with dotted-rule sections for colour tokens, typography scale, spacing, radius, elevation layers, buttons, inputs, chips, tabs, alerts and cards, in black, greys and neon green.",
+  "whatItMeans": "Retro pixel styling makes a dry spec feel like a game manual, while neon green marks the primary actions.",
+  "techniques": [
+    "Pixel typeface for headings",
+    "Dotted leader lines after section titles",
+    "Isometric stacked planes for elevation",
+    "Chunky black outlines on every component",
+    "Neon green as the only saturated colour"
+  ],
+  "bestFor": [
+    "Design-system posters with personality",
+    "Retro-styled documentation",
+    "Educational infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Design tokens",
+      "definition": "Named values for colour, spacing and type used across a system."
+    },
+    {
+      "term": "Elevation levels",
+      "definition": "Steps of visual height shown by stacked planes."
+    },
+    {
+      "term": "Pixel type",
+      "definition": "Lettering built from visible square pixels."
+    }
+  ]
+}

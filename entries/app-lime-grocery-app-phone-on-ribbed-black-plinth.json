@@ -1,0 +1,44 @@
+{
+  "name": "app-lime-grocery-app-phone-on-ribbed-black-plinth",
+  "image": "images/app-lime-grocery-app-phone-on-ribbed-black-plinth.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lime Grocery App on Ribbed Plinth",
+  "tags": [
+    "grocery",
+    "lime",
+    "ghost-type",
+    "plinth",
+    "black",
+    "gradient",
+    "cover"
+  ],
+  "whatItIs": "A cover with a phone showing a lime grocery home with offer cards and produce tiles, standing on a black ribbed plinth, with giant grey 'Grocery App' lettering behind on a lime-to-white gradient.",
+  "whatItMeans": "Lime says fresh, and the black ribbed base gives a strong anchor.",
+  "techniques": [
+    "Ribbed black plinth as a base",
+    "Ghost title cropped by the device",
+    "Lime gradient background",
+    "Discount cards in pastel colours",
+    "Dark phone bezel for contrast"
+  ],
+  "bestFor": [
+    "Grocery and food apps",
+    "Fresh-toned brand covers",
+    "Product-on-plinth staging"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ribbed plinth",
+      "definition": "A fluted block used as a display base."
+    },
+    {
+      "term": "Ghost title",
+      "definition": "Large faint text behind a subject."
+    },
+    {
+      "term": "Offer card",
+      "definition": "A card showing a discount or deal."
+    }
+  ]
+}

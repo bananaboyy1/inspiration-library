@@ -1,0 +1,45 @@
+{
+  "name": "web-cream-education-platform-landing-page-yellow-accents",
+  "image": "images/web-cream-education-platform-landing-page-yellow-accents.jpg",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Cream Education Landing Page with Yellow Cards",
+  "tags": [
+    "education",
+    "cream",
+    "yellow",
+    "cards",
+    "outlined",
+    "courses",
+    "testimonials",
+    "long-page"
+  ],
+  "whatItIs": "A long cream landing page with a black-outlined nav, hero with a portrait in an arch shape and yellow rating cards, stats, outlined course cards, pastel category tiles, mentor cards, yellow testimonials, blog cards and a footer.",
+  "whatItMeans": "Black outlines with pastel and yellow fills give a playful neo-brutalist feel that is friendly for learning.",
+  "techniques": [
+    "Thick black outlines on all cards",
+    "Portrait in an arch with a yellow outline",
+    "Sparkle doodles beside cards",
+    "Pastel tiles per category with icon badges",
+    "Yellow highlight cards for testimonials"
+  ],
+  "bestFor": [
+    "Education and course marketplaces",
+    "Friendly consumer platforms",
+    "Playful outlined UI systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outlined card",
+      "definition": "A card defined by a bold border rather than a shadow."
+    },
+    {
+      "term": "Arch crop",
+      "definition": "A photo masked into a rounded-top arch."
+    },
+    {
+      "term": "Category tile",
+      "definition": "A coloured card representing a course category."
+    }
+  ]
+}

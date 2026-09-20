@@ -1,0 +1,45 @@
+{
+  "name": "app-dark-navy-travel-booking-screen-sheet",
+  "image": "images/app-dark-navy-travel-booking-screen-sheet.jpg",
+  "discipline": "app",
+  "designType": "Travel app screens",
+  "title": "Dark Travel Booking Screen Sheet",
+  "tags": [
+    "dark",
+    "travel",
+    "booking",
+    "blue",
+    "flights",
+    "hotels",
+    "forms",
+    "phones"
+  ],
+  "whatItIs": "Eight phone screens on a charcoal board covering a booking flow: splash, sign-in, home, flight search, flight details, seat map, passenger form and hotel search, in dark grey UI with periwinkle-blue primary buttons.",
+  "whatItMeans": "Dark cards and one soft blue create calm, premium travel. Showing the whole flow proves consistency.",
+  "techniques": [
+    "Circled word in headlines as a hand-drawn accent",
+    "Gradient blue pill buttons on charcoal",
+    "Photographic sky and plane imagery for hero cards",
+    "Pill tab switcher (Hotels, Flight, Ship)",
+    "Uniform grid of screens with identical bezels"
+  ],
+  "bestFor": [
+    "Travel and booking apps",
+    "End-to-end flow presentations",
+    "Dark-mode UI portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen sheet",
+      "definition": "Many app screens laid out on a single board."
+    },
+    {
+      "term": "Segmented tabs",
+      "definition": "Pill buttons that switch a section's content."
+    },
+    {
+      "term": "Seat map",
+      "definition": "A diagram of selectable seats in a vehicle."
+    }
+  ]
+}

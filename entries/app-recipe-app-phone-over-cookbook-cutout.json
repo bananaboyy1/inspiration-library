@@ -1,0 +1,44 @@
+{
+  "name": "app-recipe-app-phone-over-cookbook-cutout",
+  "image": "images/app-recipe-app-phone-over-cookbook-cutout.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Recipe App over Cookbook Cutout",
+  "tags": [
+    "recipe",
+    "cookbook",
+    "hand",
+    "mint",
+    "cutout",
+    "food",
+    "thumbnail"
+  ],
+  "whatItIs": "A cover with a hand holding a phone running a green recipe app, cut out with a white outline over a mint-toned open cookbook with oversized lettering.",
+  "whatItMeans": "The printed cookbook backdrop connects the digital app to its analog roots. The white cutout outline gives a sticker-like pop.",
+  "techniques": [
+    "Sticker-style white outline around the hand and phone",
+    "Color-tinted photo background matching the UI green",
+    "Big editorial title text partially hidden behind the device",
+    "Food photography inside the app screen",
+    "Playful yellow accent card in the UI"
+  ],
+  "bestFor": [
+    "Food and recipe apps",
+    "Cover thumbnails",
+    "Concepts bridging print and digital"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cutout outline",
+      "definition": "A white border around a masked subject."
+    },
+    {
+      "term": "Tinted backdrop",
+      "definition": "A photo colour-graded toward the brand hue."
+    },
+    {
+      "term": "Analog metaphor",
+      "definition": "Using a physical object to explain a digital product."
+    }
+  ]
+}

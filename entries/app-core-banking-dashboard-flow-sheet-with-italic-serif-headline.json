@@ -1,0 +1,44 @@
+{
+  "name": "app-core-banking-dashboard-flow-sheet-with-italic-serif-headline",
+  "image": "images/app-core-banking-dashboard-flow-sheet-with-italic-serif-headline.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Core Banking Flow Sheet with Italic Serif Headline",
+  "tags": [
+    "core-banking",
+    "flow",
+    "screens",
+    "serif-italic",
+    "blue-grey",
+    "keypad",
+    "payment"
+  ],
+  "whatItIs": "A tall pale sheet with a Core Banking pill, a headline 'One Dashboard, Every Financial Move.' with italic serif, four tag pills and phones laid out in a flow: home, transactions, send money, confirm transfer, add money, add money keypad, pay bills, provider list, payment confirmation and bill paid.",
+  "whatItMeans": "Laying out related screens in a staggered flow shows the whole journey, and a shared blue-grey gradient unifies them.",
+  "techniques": [
+    "Staggered rows of phones showing a flow",
+    "Bottom sheets rising over blurred screens",
+    "Keypad with translucent keys",
+    "Serif italic accent in the headline",
+    "Tag pills for the four main actions"
+  ],
+  "bestFor": [
+    "Fintech flow documentation",
+    "Banking app screen sheets",
+    "Payment journey presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flow sheet",
+      "definition": "A page of screens arranged to show a journey."
+    },
+    {
+      "term": "Bottom sheet",
+      "definition": "A panel rising from the bottom over a dimmed screen."
+    },
+    {
+      "term": "Translucent keypad",
+      "definition": "A numeric pad with semi-transparent keys."
+    }
+  ]
+}

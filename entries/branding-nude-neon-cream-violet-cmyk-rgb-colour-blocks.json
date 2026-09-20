@@ -1,0 +1,45 @@
+{
+  "name": "branding-nude-neon-cream-violet-cmyk-rgb-colour-blocks",
+  "image": "images/branding-nude-neon-cream-violet-cmyk-rgb-colour-blocks.jpg",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Nude, Neon, Cream and Violet Colour Blocks",
+  "tags": [
+    "palette",
+    "neon",
+    "nude",
+    "cream",
+    "violet",
+    "cmyk",
+    "rotated-type",
+    "swiss"
+  ],
+  "whatItIs": "A light grey page titled Colours Palette with a story paragraph and four large colour blocks in a Swiss-style layout: tall nude, neon lime, cream over violet, with the colour name rotated 90 degrees in each block and CMYK and RGB values in small type below.",
+  "whatItMeans": "Big flat blocks with rotated names feel confident and editorial, and listing print and screen values shows professional rigour.",
+  "techniques": [
+    "Colour blocks of unequal size as a composition",
+    "Colour names rotated 90 degrees inside each block",
+    "CMYK and RGB values in tiny monospace-like lists",
+    "Main, secondary and tertiary labels above blocks",
+    "Neon lime as the loud anchor against neutral blocks"
+  ],
+  "bestFor": [
+    "Brand colour documentation",
+    "Editorial brand presentations",
+    "Print and screen colour specs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour hierarchy",
+      "definition": "Ranking palette colours as main, secondary and tertiary."
+    },
+    {
+      "term": "CMYK",
+      "definition": "The four-ink colour model used in print."
+    },
+    {
+      "term": "Rotated label",
+      "definition": "Text turned 90 degrees inside a block."
+    }
+  ]
+}

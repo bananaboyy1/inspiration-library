@@ -1,0 +1,44 @@
+{
+  "name": "app-black-insight-cards-with-gradient-blobs",
+  "image": "images/app-black-insight-cards-with-gradient-blobs.gif",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Insight Cards with Gradient Blobs",
+  "tags": [
+    "insights",
+    "black",
+    "cards",
+    "gradient",
+    "blue",
+    "orange",
+    "ring-chart"
+  ],
+  "whatItIs": "A black slide with three rounded cards in a row: a blue-gradient card partly cut off, a white card 'The distribution of tasks is inequitable' with a pale donut, and an orange-yellow gradient card, captioned 'A collection of insights gathered from user interviews'.",
+  "whatItMeans": "Colour-coded cards with soft gradient blobs make interview findings feel distinct and memorable. The cropped edges suggest a carousel.",
+  "techniques": [
+    "Cropped side cards implying horizontal scroll",
+    "One blue highlighted phrase in each headline",
+    "Soft gradient blob rising from the card base",
+    "Donut chart as a simple statistic visual",
+    "Muted caption below the row"
+  ],
+  "bestFor": [
+    "User interview insight summaries",
+    "Case-study research slides",
+    "Carousel-style presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Insight card",
+      "definition": "A card summarising one research finding."
+    },
+    {
+      "term": "Cropped carousel",
+      "definition": "Cards cut off at the sides to imply scrolling."
+    },
+    {
+      "term": "Gradient blob",
+      "definition": "A soft colour cloud used as background."
+    }
+  ]
+}

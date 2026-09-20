@@ -1,0 +1,44 @@
+{
+  "name": "web-lavender-travel-landing-on-desktop-monitor-mockup",
+  "image": "images/web-lavender-travel-landing-on-desktop-monitor-mockup.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Travel Landing Page on Desktop Monitor",
+  "tags": [
+    "monitor",
+    "travel",
+    "lavender",
+    "circled-word",
+    "dark-backdrop",
+    "hero",
+    "white-desk"
+  ],
+  "whatItIs": "A silver monitor on a white desk against a dark slate backdrop showing a lavender travel landing page with a circled word in the headline, store buttons, a stats card, a phone preview and a flight card.",
+  "whatItMeans": "The dark backdrop makes the pale interface glow, and the studio desk gives a clean, premium presentation.",
+  "techniques": [
+    "Dark to light split between backdrop and desk",
+    "Pale gradient page that contrasts with the dark scene",
+    "Hand-drawn ellipse around a headline word",
+    "Small floating cards around a centre phone",
+    "Dual store-download buttons under the headline"
+  ],
+  "bestFor": [
+    "Website case-study presentations",
+    "Travel and consumer app landing pages",
+    "Clean desktop mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Studio mockup",
+      "definition": "A device on a clean desk with controlled lighting."
+    },
+    {
+      "term": "Circled word",
+      "definition": "A word ringed with a hand-drawn ellipse."
+    },
+    {
+      "term": "Preview cluster",
+      "definition": "Small cards and phone previews grouped around a hero."
+    }
+  ]
+}

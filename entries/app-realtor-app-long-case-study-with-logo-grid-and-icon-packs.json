@@ -1,0 +1,44 @@
+{
+  "name": "app-realtor-app-long-case-study-with-logo-grid-and-icon-packs",
+  "image": "images/app-realtor-app-long-case-study-with-logo-grid-and-icon-packs.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Realtor App Long Case Study with Logo Grid",
+  "tags": [
+    "real-estate",
+    "long-scroll",
+    "logo",
+    "grid",
+    "icon-packs",
+    "chrome",
+    "white"
+  ],
+  "whatItIs": "A very tall white case study with a phone on chrome steps, an About section, a dark concrete room with an overlay message, a logo and icons section with a construction grid for a teal and orange flame mark, bold and light icon packs and app icon mockups.",
+  "whatItMeans": "Showing the mark on its construction grid and as an icon makes the identity feel rigorous, and dark chrome scenes add drama to a light page.",
+  "techniques": [
+    "Logo shown on a construction grid",
+    "Bold and light icon packs side by side",
+    "Dark concrete room image as a full-width break",
+    "Chrome step props for the hero phone",
+    "App icon shown beside system icons"
+  ],
+  "bestFor": [
+    "App case studies including identity",
+    "Real estate branding",
+    "Long-scroll portfolio pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon pack",
+      "definition": "A set of icons in one style, such as bold or light."
+    },
+    {
+      "term": "Construction grid",
+      "definition": "Guides showing the geometry of a logo."
+    },
+    {
+      "term": "Full-width break",
+      "definition": "A wide image separating text sections."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-green-glass-cards-cyrillic-marathon-cover",
+  "image": "images/print-social-green-glass-cards-cyrillic-marathon-cover.jpg",
+  "discipline": "print-social",
+  "designType": "Event key visual",
+  "title": "Green Glass Cards Marathon Cover",
+  "tags": [
+    "glass",
+    "green",
+    "cyrillic",
+    "cards",
+    "dark",
+    "marathon",
+    "cover"
+  ],
+  "whatItIs": "A black cover with a giant white Cyrillic headline behind five tilted frosted glass cards on a glowing green blur, each card holding an icon, a keyword and a small note, plus small corner labels.",
+  "whatItMeans": "Frosted cards over green light feel like a modern, mindful workshop, and the huge headline gives the cover authority.",
+  "techniques": [
+    "Frosted glass cards at different tilts",
+    "Green glow blur beneath the glass",
+    "Giant headline partly hidden by cards",
+    "Icon plus keyword plus note on each card",
+    "Corner labels for series and format"
+  ],
+  "bestFor": [
+    "Workshop and marathon covers",
+    "Course announcements",
+    "Glassmorphism posters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass card",
+      "definition": "A blurred translucent card over a colourful backdrop."
+    },
+    {
+      "term": "Glow blur",
+      "definition": "A coloured light blur behind translucent objects."
+    },
+    {
+      "term": "Corner labels",
+      "definition": "Small captions in the frame corners."
+    }
+  ]
+}

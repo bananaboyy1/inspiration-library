@@ -1,0 +1,44 @@
+{
+  "name": "print-social-dark-green-smart-home-story-set",
+  "image": "images/print-social-dark-green-smart-home-story-set.png",
+  "discipline": "print-social",
+  "designType": "Story set",
+  "title": "Dark Smart-Home App Story Set",
+  "tags": [
+    "stories",
+    "dark",
+    "green",
+    "lifestyle",
+    "app",
+    "phone",
+    "portrait"
+  ],
+  "whatItIs": "Three vertical Instagram stories on black: a green-gradient logo tile, a lifestyle photo with headline, and a tilted phone showing climate controls.",
+  "whatItMeans": "Near-black with a green glow feels calm, modern and eco-smart. Mixing photos, type and UI keeps the set varied.",
+  "techniques": [
+    "Consistent story chrome with progress bars and handle",
+    "Green gradient glow rising from the bottom edge",
+    "Big friendly sentence-case headlines",
+    "White pill CTA at the story foot",
+    "Alternating type, photo and product frames"
+  ],
+  "bestFor": [
+    "Smart-home and lifestyle apps",
+    "Instagram story campaigns",
+    "Dark-mode brand systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Story chrome",
+      "definition": "The platform's progress bars and header drawn around the artwork."
+    },
+    {
+      "term": "Glow gradient",
+      "definition": "A soft colored light rising from an edge."
+    },
+    {
+      "term": "Product story",
+      "definition": "A story that shows the product in use."
+    }
+  ]
+}

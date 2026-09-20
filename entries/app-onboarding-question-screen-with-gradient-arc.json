@@ -1,0 +1,44 @@
+{
+  "name": "app-onboarding-question-screen-with-gradient-arc",
+  "image": "images/app-onboarding-question-screen-with-gradient-arc.gif",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Onboarding Question with Warm Gradient Arc",
+  "tags": [
+    "onboarding",
+    "question",
+    "periwinkle",
+    "gradient",
+    "orange",
+    "write",
+    "voice"
+  ],
+  "whatItIs": "A phone with a periwinkle onboarding screen asking about the user's closest family, a step indicator, a large blurred blue-to-orange arc at the bottom and two pill buttons, Write and a blue voice button.",
+  "whatItMeans": "The soft colour arc gives a warm human feel to a personal question, and two clear input choices reduce friction.",
+  "techniques": [
+    "Blurred blue-to-orange arc as a visual anchor",
+    "Step dots with a long active bar",
+    "Conversational text in two sizes",
+    "White and blue pill pair for input modes",
+    "Skip link under the buttons"
+  ],
+  "bestFor": [
+    "Conversational onboarding",
+    "Care and wellness apps",
+    "Question-based flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Step indicator",
+      "definition": "Dots or bars showing progress through a flow."
+    },
+    {
+      "term": "Input mode pair",
+      "definition": "Two buttons offering typing or speaking."
+    },
+    {
+      "term": "Colour arc",
+      "definition": "A blurred curved band of colours used as decoration."
+    }
+  ]
+}

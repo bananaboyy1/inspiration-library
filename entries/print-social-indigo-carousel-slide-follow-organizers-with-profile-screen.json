@@ -1,0 +1,44 @@
+{
+  "name": "print-social-indigo-carousel-slide-follow-organizers-with-profile-screen",
+  "image": "images/print-social-indigo-carousel-slide-follow-organizers-with-profile-screen.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Follow Organizers Slide with Profile Screen",
+  "tags": [
+    "carousel",
+    "indigo",
+    "yellow",
+    "phone-mockup",
+    "profile",
+    "follow",
+    "product-feature"
+  ],
+  "whatItIs": "The next indigo slide with the headline 'Follow Organizers: Get notified first. Be first, always!', a phone in a yellow frame showing an organizer profile with a Following pill, social icons and upcoming event, and a large smiling portrait in a yellow-ringed circle cropped at the top right.",
+  "whatItMeans": "A repeated layout with a new screen and a new face makes a series feel consistent and human.",
+  "techniques": [
+    "Same frame and headline system as the previous slide",
+    "Portrait circle cropped by the canvas edge",
+    "Profile screen shown in a phone",
+    "White headline with punchy sentences",
+    "Repeated site name at the base"
+  ],
+  "bestFor": [
+    "Multi-slide feature announcements",
+    "Product marketing carousels",
+    "Consistent slide systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Slide system",
+      "definition": "A repeated layout across the slides of a carousel."
+    },
+    {
+      "term": "Cropped portrait",
+      "definition": "A portrait cut by the edge of the frame."
+    },
+    {
+      "term": "Following state",
+      "definition": "A button state showing that the user follows an account."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-lavender-travel-app-steps-and-calm-clarity-feature-sections",
+  "image": "images/web-lavender-travel-app-steps-and-calm-clarity-feature-sections.jpg",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Travel App Steps and Calm Clarity Sections",
+  "tags": [
+    "travel",
+    "lavender",
+    "cards",
+    "steps",
+    "circled-word",
+    "phones",
+    "sky"
+  ],
+  "whatItIs": "A cropped travel landing page: a lavender section with four numbered step cards beside a phone over swirling clouds, then a white section with the headline 'An app Designed for calmness and clarity' with a circled word, an Explore all Features button and three phone tiles.",
+  "whatItMeans": "Icon steps beside a cloud-backed phone explain the flow, and the circled word adds a human touch.",
+  "techniques": [
+    "Step cards with icon tiles",
+    "Phone in front of stylised clouds",
+    "Hand-drawn double ellipse around a word",
+    "Phone tiles on lilac panels",
+    "Blue pill call to action"
+  ],
+  "bestFor": [
+    "Travel and booking landing pages",
+    "How-it-works sections",
+    "Feature section pairs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Step card",
+      "definition": "A card with an icon, title and short description of one step."
+    },
+    {
+      "term": "Cloud backdrop",
+      "definition": "Stylised clouds used behind a phone."
+    },
+    {
+      "term": "Feature tiles",
+      "definition": "Panels each holding a phone screen."
+    }
+  ]
+}

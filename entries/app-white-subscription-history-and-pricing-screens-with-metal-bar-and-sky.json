@@ -1,0 +1,44 @@
+{
+  "name": "app-white-subscription-history-and-pricing-screens-with-metal-bar-and-sky",
+  "image": "images/app-white-subscription-history-and-pricing-screens-with-metal-bar-and-sky.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Subscription History, Insights and Pro Plan Board",
+  "tags": [
+    "subscriptions",
+    "white",
+    "chrome",
+    "sky",
+    "pricing",
+    "hand",
+    "stars"
+  ],
+  "whatItIs": "A white board with a tilted history screen resting on a chrome bar, a hand-held insights screen with an orange gauge, and a sky photo tile with a Pro Plan pricing sheet and a gummy star.",
+  "whatItMeans": "A chrome prop and a sky photo add surprise to clean white screens, and pricing is presented as a friendly card.",
+  "techniques": [
+    "Chrome bar as a prop for the phone",
+    "Sky and cloud photo behind the pricing card",
+    "Segmented orange gauge as signature graphic",
+    "3D gummy stars as playful accents",
+    "Black header on the pricing card"
+  ],
+  "bestFor": [
+    "Subscription app showcases",
+    "Pricing screen presentation",
+    "Clean tilted device compositions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chrome prop",
+      "definition": "A shiny metal object used as a scene element."
+    },
+    {
+      "term": "Pricing sheet",
+      "definition": "A card listing a plan's price and features."
+    },
+    {
+      "term": "Tilted device",
+      "definition": "A device rotated to add dynamism."
+    }
+  ]
+}

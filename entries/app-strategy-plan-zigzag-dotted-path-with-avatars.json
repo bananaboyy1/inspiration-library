@@ -1,0 +1,44 @@
+{
+  "name": "app-strategy-plan-zigzag-dotted-path-with-avatars",
+  "image": "images/app-strategy-plan-zigzag-dotted-path-with-avatars.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Strategy Plan on a Zigzag Dotted Path",
+  "tags": [
+    "strategy",
+    "zigzag",
+    "avatars",
+    "dotted-line",
+    "grey",
+    "quotes",
+    "tone-shift"
+  ],
+  "whatItIs": "A grey slide titled Strategy Plan where a dotted line snakes down the page connecting three circular portraits, each above a paragraph with dark and grey phrases, a name and a role.",
+  "whatItMeans": "A winding line turns a list of contributors into a story, and the grey phrases emphasise key decisions.",
+  "techniques": [
+    "Dotted path zigzagging between portraits",
+    "Alternating left and right text blocks",
+    "Dark and grey phrase shifts",
+    "Name and role captions beneath",
+    "Large empty space between stops"
+  ],
+  "bestFor": [
+    "Strategy and process slides",
+    "Stakeholder input summaries",
+    "Storytelling with people"
+  ],
+  "vocabulary": [
+    {
+      "term": "Zigzag path",
+      "definition": "A line that alternates direction to link items."
+    },
+    {
+      "term": "Stakeholder quote",
+      "definition": "A statement attributed to a team member."
+    },
+    {
+      "term": "Portrait node",
+      "definition": "A circular photo used as a stop on a path."
+    }
+  ]
+}

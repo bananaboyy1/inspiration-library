@@ -1,0 +1,45 @@
+{
+  "name": "app-orange-black-cream-widget-tile-set-on-grey-carousel-cover",
+  "image": "images/app-orange-black-cream-widget-tile-set-on-grey-carousel-cover.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Orange, Black and Cream Widget Tile Set",
+  "tags": [
+    "widgets",
+    "tiles",
+    "orange",
+    "black",
+    "cream",
+    "lime",
+    "carousel",
+    "rounded-squares"
+  ],
+  "whatItIs": "A pale grey board with a 3-by-3 grid of rounded widget tiles: a cappuccino product card, a charging gauge, a book page, a calorie burn gauge, a wide orange Bank wallet card with a headline, a lime 65% performance tile, a map route tile and a line chart tile, with a handle and swipe cue.",
+  "whatItMeans": "A mixed set of squares in orange, black and cream with a lime pop shows a versatile widget system in one language.",
+  "techniques": [
+    "Rounded-square tiles of varied content",
+    "Orange as the leading accent",
+    "Lime used once for a performance tile",
+    "One wide tile spanning two columns",
+    "3D and embossed touches on icons and lettering"
+  ],
+  "bestFor": [
+    "Widget and card component showcases",
+    "Carousel-format design posts",
+    "Multi-purpose tile systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Widget tile",
+      "definition": "A small rounded square showing one piece of information."
+    },
+    {
+      "term": "Embossed lettering",
+      "definition": "Text that looks pressed into or raised from a surface."
+    },
+    {
+      "term": "Swipe cue",
+      "definition": "A small prompt for the next carousel slide."
+    }
+  ]
+}

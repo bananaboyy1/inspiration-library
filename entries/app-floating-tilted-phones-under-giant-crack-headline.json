@@ -1,0 +1,44 @@
+{
+  "name": "app-floating-tilted-phones-under-giant-crack-headline",
+  "image": "images/app-floating-tilted-phones-under-giant-crack-headline.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Two Floating Phones under a Giant Headline",
+  "tags": [
+    "floating",
+    "phones",
+    "headline",
+    "cream",
+    "purple",
+    "black",
+    "planning"
+  ],
+  "whatItIs": "A cream slide with a giant black word 'Crack' cropped behind two floating tilted phones, one dark with a purple plan form and one light with a stacked block schedule, a thin vertical line and a small caption.",
+  "whatItMeans": "Oversized type and floating devices feel bold and playful, and the block visual makes planning tangible.",
+  "techniques": [
+    "Giant headline overlapped by devices",
+    "Two phones in dark and light versions",
+    "Block-stack visualisation as a signature graphic",
+    "Soft floor shadow beneath floating devices",
+    "One thin vertical line for structure"
+  ],
+  "bestFor": [
+    "Planning and productivity apps",
+    "Concept hero slides",
+    "Bold typographic mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating device",
+      "definition": "A device shown in mid-air with a soft shadow below."
+    },
+    {
+      "term": "Overlap headline",
+      "definition": "Large type partially covered by objects."
+    },
+    {
+      "term": "Dark and light pair",
+      "definition": "Two themes of the same UI shown together."
+    }
+  ]
+}

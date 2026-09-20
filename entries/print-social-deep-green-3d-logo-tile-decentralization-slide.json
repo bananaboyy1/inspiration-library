@@ -1,0 +1,44 @@
+{
+  "name": "print-social-deep-green-3d-logo-tile-decentralization-slide",
+  "image": "images/print-social-deep-green-3d-logo-tile-decentralization-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Deep Green 3D Logo Tile Slide",
+  "tags": [
+    "carousel",
+    "deep-green",
+    "3d",
+    "logo-tile",
+    "zigzag",
+    "white-type",
+    "blockchain"
+  ],
+  "whatItIs": "A deep green portrait slide with mint zigzag bands, a glossy 3D rounded-square tile holding the brand mark in the centre, a large white heading 'Decentralization of Control & Fairness' with 'Fairness' in mint, a centred paragraph and a small arrow tile at the top right.",
+  "whatItMeans": "A single rendered logo tile gives a solid focal point in a flat graphic system, and white on deep green feels serious.",
+  "techniques": [
+    "3D extruded logo tile as the hero",
+    "Mint zigzag stripes behind",
+    "White heading with one mint word",
+    "Centred paragraph below",
+    "Small arrow tile as a slide cue"
+  ],
+  "bestFor": [
+    "Blockchain and fintech carousels",
+    "Dark green brand systems",
+    "3D logo highlights"
+  ],
+  "vocabulary": [
+    {
+      "term": "Extruded tile",
+      "definition": "A rounded square given 3D thickness."
+    },
+    {
+      "term": "Accent word",
+      "definition": "A word in a second colour within a heading."
+    },
+    {
+      "term": "Slide cue",
+      "definition": "A small icon hinting at the next slide."
+    }
+  ]
+}

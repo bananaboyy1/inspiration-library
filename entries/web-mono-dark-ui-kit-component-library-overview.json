@@ -1,0 +1,44 @@
+{
+  "name": "web-mono-dark-ui-kit-component-library-overview",
+  "image": "images/web-mono-dark-ui-kit-component-library-overview.jpg",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Mono Dark UI Kit Component Library",
+  "tags": [
+    "ui-kit",
+    "components",
+    "dark",
+    "monochrome",
+    "shadcn",
+    "figma",
+    "library"
+  ],
+  "whatItIs": "A dark overview poster titled 'Figma UI Kit & Component library' above a dense grid of monochrome components: notification, pricing card, accordions, buttons, steppers, calendar, tabs, dropdowns, popovers, form fields.",
+  "whatItMeans": "Showing dozens of components at once demonstrates completeness, and the greyscale keeps the emphasis on structure and consistency.",
+  "techniques": [
+    "Multi-column collage of components in one dark palette",
+    "Single soft accent (pink button) among neutrals",
+    "Large two-tone title with a faint ampersand",
+    "Subtle aurora glow behind the title",
+    "States shown side by side (selected, hover, disabled)"
+  ],
+  "bestFor": [
+    "UI kit marketplace previews",
+    "Design-system marketing",
+    "Developer-friendly component libraries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Component library",
+      "definition": "A set of reusable interface elements."
+    },
+    {
+      "term": "Mono-styled",
+      "definition": "Using only neutral greys and black/white."
+    },
+    {
+      "term": "Component collage",
+      "definition": "Many components arranged together as an overview."
+    }
+  ]
+}

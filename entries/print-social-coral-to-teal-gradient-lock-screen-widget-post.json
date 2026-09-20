@@ -1,0 +1,45 @@
+{
+  "name": "print-social-coral-to-teal-gradient-lock-screen-widget-post",
+  "image": "images/print-social-coral-to-teal-gradient-lock-screen-widget-post.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Coral-to-Teal Lock Screen Widget Post",
+  "tags": [
+    "lock-screen",
+    "widgets",
+    "gradient",
+    "coral",
+    "teal",
+    "notifications",
+    "church",
+    "vector"
+  ],
+  "whatItIs": "A square post styled as a phone lock screen on a coral-to-teal gradient with a huge white 9:00 clock, a date, three frosted widgets (Up next Devotional, Zion Online live services with social icons, and a weather-style Tempo card with a flame and 500°) and small captions at the top corners.",
+  "whatItMeans": "Imitating a lock screen makes an announcement feel native to the phone, and the warm gradient feels welcoming.",
+  "techniques": [
+    "Lock-screen layout used as a post",
+    "Frosted widgets with translucent fill",
+    "Huge light clock numerals",
+    "Warm coral to teal gradient",
+    "Emoji-like flame icon for character"
+  ],
+  "bestFor": [
+    "Schedule and service announcements",
+    "Faith and community content",
+    "UI-mimicking social posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lock-screen mockup",
+      "definition": "A layout imitating a phone's locked display."
+    },
+    {
+      "term": "Frosted widget",
+      "definition": "A translucent card imitating an operating-system widget."
+    },
+    {
+      "term": "UI mimicry",
+      "definition": "Designing a post to look like a familiar interface."
+    }
+  ]
+}

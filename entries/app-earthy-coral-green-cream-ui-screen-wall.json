@@ -1,0 +1,44 @@
+{
+  "name": "app-earthy-coral-green-cream-ui-screen-wall",
+  "image": "images/app-earthy-coral-green-cream-ui-screen-wall.jpg",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Coral, Forest and Cream UI Screen Wall",
+  "tags": [
+    "screen-wall",
+    "coral",
+    "forest-green",
+    "cream",
+    "cards",
+    "calendar",
+    "charts"
+  ],
+  "whatItIs": "A pale grey wall of tiled phone screens in coral, forest green and cream: a rotated 'HAHO' title card, a business card stack with a line chart, a month calendar, weather cards, a cart summary and product and profile screens.",
+  "whatItMeans": "A tight three-colour palette makes many different screens feel like one family, and rotated type adds a graphic jolt.",
+  "techniques": [
+    "Three-colour palette across all screens",
+    "Rotated big type inside a card",
+    "Stacked cards for a wallet",
+    "Rounded pill navigation bars",
+    "Tiling many phones into a dense grid"
+  ],
+  "bestFor": [
+    "UI system showcases",
+    "Palette-driven app design",
+    "Dribbble-style screen collections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen wall",
+      "definition": "Many app screens tiled together as a poster."
+    },
+    {
+      "term": "Rotated type",
+      "definition": "Text turned 90 degrees inside a layout."
+    },
+    {
+      "term": "Three-colour system",
+      "definition": "A design limited to three main hues."
+    }
+  ]
+}

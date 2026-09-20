@@ -1,0 +1,44 @@
+{
+  "name": "web-illustrated-farm-landing-hero-on-monitor-with-phone",
+  "image": "images/web-illustrated-farm-landing-hero-on-monitor-with-phone.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Illustrated Farm Landing on Monitor with Phone",
+  "tags": [
+    "illustration",
+    "farm",
+    "landing",
+    "blue",
+    "monitor",
+    "phone",
+    "drone"
+  ],
+  "whatItIs": "A cover with a flat illustrated landscape of hills, clouds, wind turbines and a drone continuing seamlessly from a monitor showing a blue farming landing page with a centred headline, and a phone in front showing a matching app home.",
+  "whatItMeans": "The illustration spilling out of the screen makes the product world feel real and cheerful, and the sky blue is friendly for agtech.",
+  "techniques": [
+    "Illustration bleeding out of the monitor frame",
+    "Same illustration style in web hero and app screen",
+    "Sky-blue hero with a floating pill nav",
+    "Phone overlapping the monitor's base",
+    "Flat vector landscape with layered hills"
+  ],
+  "bestFor": [
+    "Agtech and sustainability sites",
+    "Illustrated hero mockups",
+    "Web and app pairings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bleed-out illustration",
+      "definition": "Artwork that continues beyond the device frame."
+    },
+    {
+      "term": "Layered hills",
+      "definition": "Overlapping flat landscape bands giving depth."
+    },
+    {
+      "term": "Pill nav",
+      "definition": "A rounded floating navigation bar."
+    }
+  ]
+}

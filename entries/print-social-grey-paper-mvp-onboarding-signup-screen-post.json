@@ -1,0 +1,44 @@
+{
+  "name": "print-social-grey-paper-mvp-onboarding-signup-screen-post",
+  "image": "images/print-social-grey-paper-mvp-onboarding-signup-screen-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "MVP Guide Onboarding Signup Post",
+  "tags": [
+    "educational",
+    "mvp",
+    "grey",
+    "condensed",
+    "phone",
+    "orange",
+    "onboarding"
+  ],
+  "whatItIs": "A grainy grey post in the MVP series with a tall condensed 'ONBOARDING / SIGNUP' heading, an orange subhead 'Get users in fast', advice text and an orange-bezel phone showing a minimal sign-up screen with an illustration and continue buttons.",
+  "whatItMeans": "The repeated layout is easy to follow and the real screen makes the advice concrete.",
+  "techniques": [
+    "Series template with a fixed heading and phone",
+    "Condensed heavy caps title",
+    "Orange bezel and subhead as accent",
+    "Two short advice paragraphs",
+    "Creator footer with a save prompt"
+  ],
+  "bestFor": [
+    "Product design carousels",
+    "Onboarding advice",
+    "Creator content series"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series template",
+      "definition": "A repeatable layout across slides."
+    },
+    {
+      "term": "Subhead accent",
+      "definition": "A coloured line summarising the slide."
+    },
+    {
+      "term": "Accent bezel",
+      "definition": "A phone frame coloured to match the accent."
+    }
+  ]
+}

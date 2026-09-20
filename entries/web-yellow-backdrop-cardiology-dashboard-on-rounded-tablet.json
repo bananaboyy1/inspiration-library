@@ -1,0 +1,44 @@
+{
+  "name": "web-yellow-backdrop-cardiology-dashboard-on-rounded-tablet",
+  "image": "images/web-yellow-backdrop-cardiology-dashboard-on-rounded-tablet.jpg",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Cardiology Timeline Dashboard on Yellow",
+  "tags": [
+    "dashboard",
+    "medical",
+    "yellow",
+    "grey",
+    "timeline",
+    "tablet",
+    "tabs"
+  ],
+  "whatItIs": "A rounded dark-framed tablet on a neon yellow backdrop showing a beige Cardiology dashboard with a curved tab header, a patient card and vitals, a horizontal timeline with medication pills, blood pressure cards with yellow charts, and a dark timeline scrubber at the bottom.",
+  "whatItMeans": "A neutral beige UI with tiny yellow accents feels calm and clinical, and the neon backdrop makes the tablet pop.",
+  "techniques": [
+    "Curved tab header merging into the frame",
+    "Yellow used only inside chart fills and node markers",
+    "Timeline nodes connected by thin lines",
+    "Pill toggles and rounded cards throughout",
+    "Dark bottom scrubber with icon groups"
+  ],
+  "bestFor": [
+    "Medical dashboards",
+    "Timeline-based data views",
+    "Neutral UI with a neon presentation backdrop"
+  ],
+  "vocabulary": [
+    {
+      "term": "Timeline scrubber",
+      "definition": "A bar for moving through periods of time."
+    },
+    {
+      "term": "Curved tab header",
+      "definition": "A header with an organic curve joining its tabs."
+    },
+    {
+      "term": "Vitals strip",
+      "definition": "A row of key health measurements."
+    }
+  ]
+}

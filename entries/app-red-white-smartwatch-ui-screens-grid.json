@@ -1,0 +1,44 @@
+{
+  "name": "app-red-white-smartwatch-ui-screens-grid",
+  "image": "images/app-red-white-smartwatch-ui-screens-grid.jpg",
+  "discipline": "app",
+  "designType": "Wearable UI",
+  "title": "Red Smartwatch Screens Grid",
+  "tags": [
+    "smartwatch",
+    "grid",
+    "red",
+    "pink",
+    "clock",
+    "health",
+    "widgets"
+  ],
+  "whatItIs": "A peach sheet with a 4-by-6 grid of white watch faces: clocks, steps, BPM, weather, alarm, payment, music, calculator, contacts, chat and calls, in red, orange and dark navy.",
+  "whatItMeans": "One rounded card shape and red accents make many functions read as a single family.",
+  "techniques": [
+    "Uniform grid of watch screens",
+    "Red as the primary action colour",
+    "Big numerals for glanceable data",
+    "Tiny sparkline bars for health",
+    "Consistent icon and button shapes"
+  ],
+  "bestFor": [
+    "Wearable UI kits",
+    "Design-system overviews",
+    "Glanceable interface studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Watch face",
+      "definition": "The main screen of a smartwatch."
+    },
+    {
+      "term": "Glanceable",
+      "definition": "Readable in a moment."
+    },
+    {
+      "term": "UI kit grid",
+      "definition": "A grid showing many screens or components."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "print-social-indigo-and-golden-pollen-two-colour-name-post",
+  "image": "images/print-social-indigo-and-golden-pollen-two-colour-name-post.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Space Indigo and Golden Pollen Colour Post",
+  "tags": [
+    "colour",
+    "indigo",
+    "yellow",
+    "split",
+    "hex",
+    "minimal",
+    "palette"
+  ],
+  "whatItIs": "A portrait post split into a deep indigo upper half with yellow 'Space Indigo #1F2041' and a golden yellow lower half with indigo 'Golden Pollen #F5D35C', hex codes in outlined pills and a handle strip at the top.",
+  "whatItMeans": "Each colour is the other's text colour, so the pairing proves itself, and the names add poetry.",
+  "techniques": [
+    "Swap colours between halves",
+    "Evocative colour names",
+    "Outlined hex pill",
+    "Handle header with icons",
+    "Only two colours"
+  ],
+  "bestFor": [
+    "Colour palette posts",
+    "Minimal two-colour layouts",
+    "Design inspiration accounts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour name",
+      "definition": "A descriptive name given to a colour."
+    },
+    {
+      "term": "Hex pill",
+      "definition": "An outlined label holding a colour code."
+    },
+    {
+      "term": "Inverted pair",
+      "definition": "Two colours used as each other's foreground and background."
+    }
+  ]
+}

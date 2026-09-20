@@ -1,0 +1,44 @@
+{
+  "name": "app-banking-user-research-charts-slide",
+  "image": "images/app-banking-user-research-charts-slide.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Banking User Research Charts",
+  "tags": [
+    "research",
+    "charts",
+    "survey",
+    "grey",
+    "gauge",
+    "bars",
+    "red-green"
+  ],
+  "whatItIs": "A tall grey slide with three survey questions each above a white card chart: a set of pink bars with percentages, a semicircular gauge in green, red and grey, and a rising staircase distribution, closed by a quote.",
+  "whatItMeans": "Rounded white cards with muted red and green keep research light and readable. Each question is paired with the chart form that suits it.",
+  "techniques": [
+    "Vary chart type per question (bars, gauge, stair steps)",
+    "Pale gradient bars instead of harsh fills",
+    "Question sits above its chart in lighter type",
+    "Cards staggered left and right for rhythm",
+    "Pull-quote at the end humanising the data"
+  ],
+  "bestFor": [
+    "UX research summary slides",
+    "Survey results in case studies",
+    "Fintech product storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gauge chart",
+      "definition": "A semicircular chart showing a value in a range."
+    },
+    {
+      "term": "Stair chart",
+      "definition": "Bars arranged as a descending or ascending staircase."
+    },
+    {
+      "term": "Pull-quote",
+      "definition": "A highlighted user statement."
+    }
+  ]
+}

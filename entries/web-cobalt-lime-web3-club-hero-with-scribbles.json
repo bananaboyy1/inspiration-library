@@ -1,0 +1,44 @@
+{
+  "name": "web-cobalt-lime-web3-club-hero-with-scribbles",
+  "image": "images/web-cobalt-lime-web3-club-hero-with-scribbles.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Cobalt and Lime Web3 Club Hero",
+  "tags": [
+    "cobalt",
+    "lime",
+    "web3",
+    "giant-type",
+    "scribbles",
+    "glass-cards",
+    "stickers"
+  ],
+  "whatItIs": "A cobalt-blue landing hero with gigantic white caps '#CLUB SOCIALFI PEOPLE', lime hand-drawn arrows and squiggles, two frosted glass profile cards, a rotating circular sticker, and three white step cards below.",
+  "whatItMeans": "Extra-large type with hand-drawn lime marks feels loud, youthful and crypto-native. Glass profile cards add polish.",
+  "techniques": [
+    "Huge stacked uppercase heading that fills the width",
+    "Hand-drawn lime scribbles and arrows over the type",
+    "Circular text badge as a call-to-action sticker",
+    "Frosted avatar cards overlapping the heading",
+    "White rounded panel with three numbered steps"
+  ],
+  "bestFor": [
+    "Web3, social and community products",
+    "Bold youth brands",
+    "Landing pages with playful energy"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scribble accent",
+      "definition": "Hand-drawn lines and arrows layered over a layout."
+    },
+    {
+      "term": "Circular text badge",
+      "definition": "A round sticker with text set around its edge."
+    },
+    {
+      "term": "Overlap headline",
+      "definition": "Cards or shapes placed partly over large type."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-lavender-care-app-site-on-tilted-monitor-with-dashed-loop",
+  "image": "images/web-lavender-care-app-site-on-tilted-monitor-with-dashed-loop.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Care App Site on a Tilted Monitor",
+  "tags": [
+    "monitor",
+    "tilted",
+    "lavender",
+    "dark-ui",
+    "yellow",
+    "portrait",
+    "dashed-line"
+  ],
+  "whatItIs": "A lavender scene with a monitor tilted in perspective showing a dark indigo landing page with a serif italic headline 'Care, from anywhere.' with a yellow second line, a portrait of a smiling older woman, yellow and lilac store buttons and an award laurel, with a dashed loop around the monitor and captions at the bottom corners.",
+  "whatItMeans": "A dark site glowing in a pale lavender scene stands out, and the yellow accent adds warmth.",
+  "techniques": [
+    "Steep perspective tilt with a fading base",
+    "Dark UI against a pale scene",
+    "Yellow accent for key words and buttons",
+    "Dashed loop drawn around the device",
+    "Project name and description in the corners"
+  ],
+  "bestFor": [
+    "Care and health website presentations",
+    "Warm dark-on-light contrast covers",
+    "Tilted monitor mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Perspective tilt",
+      "definition": "A device rotated in 3D to add dynamism."
+    },
+    {
+      "term": "Award laurel",
+      "definition": "A wreath around an award name."
+    },
+    {
+      "term": "Corner captions",
+      "definition": "Small labels at the bottom corners of a cover."
+    }
+  ]
+}

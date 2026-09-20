@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-trading-chart-crop-with-lime-home-pill-nav-on-stone",
+  "image": "images/app-dark-trading-chart-crop-with-lime-home-pill-nav-on-stone.webp",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Dark Trading Chart with Lime Home Pill",
+  "tags": [
+    "trading",
+    "dark",
+    "green",
+    "chart",
+    "crop",
+    "stone",
+    "pill-nav"
+  ],
+  "whatItIs": "A tight crop of a dark phone leaning on pale stone showing a green area chart with a dashed crosshair and price tooltip, time range labels (1W to All), an Options card and a nav where the active Home item is a lime circle with a label beside dark circular icons.",
+  "whatItMeans": "The tight crop and green glow line make the chart the star, and the expanded lime pill shows the active tab clearly.",
+  "techniques": [
+    "Tight crop on the lower half of the device",
+    "Green glowing line with a dashed crosshair",
+    "Time range tabs with the selected bold",
+    "Nav items as circles with one expanded pill",
+    "Pale stone beneath the dark phone"
+  ],
+  "bestFor": [
+    "Trading and investment app hero crops",
+    "Dark UI with a green accent",
+    "Chart-focused mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Crosshair",
+      "definition": "Dashed lines marking a selected point on a chart."
+    },
+    {
+      "term": "Range tabs",
+      "definition": "Labels for choosing a time span such as 1W or 1Y."
+    },
+    {
+      "term": "Expanded pill",
+      "definition": "An active nav item that widens to show its label."
+    }
+  ]
+}

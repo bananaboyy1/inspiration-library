@@ -1,0 +1,44 @@
+{
+  "name": "web-frosted-glass-banking-dashboard-on-monitor-with-layered-cards",
+  "image": "images/web-frosted-glass-banking-dashboard-on-monitor-with-layered-cards.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Frosted Glass Banking Dashboard on Monitor",
+  "tags": [
+    "monitor",
+    "dashboard",
+    "glass",
+    "grey",
+    "cards",
+    "banking",
+    "pearl"
+  ],
+  "whatItIs": "A tall monitor on a grey studio ground showing a frosted banking dashboard where pearlescent credit cards fan out above KPI strips, income bar chart, spending arc, monthly wave chart and a transactions list, with a tile sidebar.",
+  "whatItMeans": "Pearl and frost tones feel luxurious and calm, and fanned cards make the cards the visual centre.",
+  "techniques": [
+    "Pearlescent cards fanned at the top of the dashboard",
+    "Glass panels with blurred overlaps",
+    "Vertical bar chart with one dark and one red bar",
+    "Tile sidebar with icons",
+    "Monitor on a dark tabletop against grey"
+  ],
+  "bestFor": [
+    "Premium banking dashboards",
+    "Glassmorphism desktop UI",
+    "Monitor mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pearlescent",
+      "definition": "A soft iridescent sheen like a pearl."
+    },
+    {
+      "term": "Card fan",
+      "definition": "Cards overlapped in an arc."
+    },
+    {
+      "term": "Tile sidebar",
+      "definition": "A navigation sidebar built of square tiles."
+    }
+  ]
+}

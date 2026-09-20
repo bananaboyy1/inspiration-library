@@ -1,0 +1,44 @@
+{
+  "name": "app-user-testing-results-table-with-heatmap-screens",
+  "image": "images/app-user-testing-results-table-with-heatmap-screens.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "User Testing Results with Tap Heatmaps",
+  "tags": [
+    "user-testing",
+    "table",
+    "heatmap",
+    "pills",
+    "grey",
+    "metrics",
+    "banking"
+  ],
+  "whatItIs": "A pale grey slide titled User testing Result with a paragraph, a mission table with tasks, average time, success rate and completion in white capsule cells, and a row of pale banking screens overlaid with red-and-green tap heatmaps.",
+  "whatItMeans": "Capsule cells make numbers stand out on a hairline table, and heatmaps make usability findings visual.",
+  "techniques": [
+    "Values in white capsules on hairlines",
+    "Tap heatmaps drawn as red centres with green halos",
+    "Screens shown desaturated so the heat stands out",
+    "Large light title with a short paragraph",
+    "Row of screens cropped at the right edge"
+  ],
+  "bestFor": [
+    "Usability testing results",
+    "Data table slides",
+    "Heatmap presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Heatmap",
+      "definition": "A colour overlay showing where users tap or look most."
+    },
+    {
+      "term": "Capsule value",
+      "definition": "A number displayed inside a rounded white pill."
+    },
+    {
+      "term": "Task table",
+      "definition": "A list of test tasks with time and success metrics."
+    }
+  ]
+}

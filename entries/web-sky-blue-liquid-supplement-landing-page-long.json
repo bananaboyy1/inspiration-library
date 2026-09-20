@@ -1,0 +1,45 @@
+{
+  "name": "web-sky-blue-liquid-supplement-landing-page-long",
+  "image": "images/web-sky-blue-liquid-supplement-landing-page-long.png",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Sky-Blue Liquid Supplement Landing Page",
+  "tags": [
+    "ecommerce",
+    "supplements",
+    "sky",
+    "clouds",
+    "serif",
+    "script",
+    "lifestyle",
+    "long-page"
+  ],
+  "whatItIs": "A tall e-commerce landing page with a cloudy sky hero, a serif headline with inline pill icons, a carousel of tilted lifestyle photo cards, ticker bar, benefit sections with script annotations, product cards in pastel tints, a social gallery and a navy footer with giant brand name.",
+  "whatItMeans": "Sky, clouds and juicy fruit photography convey freshness and lightness, and the handwritten orange notes add personality.",
+  "techniques": [
+    "Inline product and pill icons inside serif headlines",
+    "Hand-written script annotations in orange",
+    "Tilted photo card carousel under the hero",
+    "Pastel-tinted product cards per flavour",
+    "Announcement ticker at the top and giant footer wordmark"
+  ],
+  "bestFor": [
+    "Supplement, drink and wellness brands",
+    "Playful e-commerce landing pages",
+    "Lifestyle-driven product marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inline icon",
+      "definition": "An icon or image placed within a line of headline text."
+    },
+    {
+      "term": "Script annotation",
+      "definition": "A handwritten-style note added next to a heading."
+    },
+    {
+      "term": "Announcement ticker",
+      "definition": "A scrolling strip of offers at the top of a site."
+    }
+  ]
+}

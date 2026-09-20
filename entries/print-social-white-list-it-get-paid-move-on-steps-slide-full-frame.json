@@ -1,0 +1,44 @@
+{
+  "name": "print-social-white-list-it-get-paid-move-on-steps-slide-full-frame",
+  "image": "images/print-social-white-list-it-get-paid-move-on-steps-slide-full-frame.png",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "List It, Get Paid, Move On (Full Frame)",
+  "tags": [
+    "carousel",
+    "how-it-works",
+    "white",
+    "blue-rules",
+    "steps",
+    "full-frame",
+    "ticket-logo"
+  ],
+  "whatItIs": "The full-frame version of the steps slide: a ticket logo, a 6/7 counter, a blue tag, a three-line black headline and seven pale rounded rows with blue left rules, and a faint 05/07 page mark.",
+  "whatItMeans": "The clean grid of same-height rows makes each step equally weighted, and there is nothing else on the slide to distract.",
+  "techniques": [
+    "Equal-height rows for steps",
+    "Blue left borders as bullets",
+    "Centred stack with wide margins",
+    "Bold emphasis on outcomes",
+    "Faint page counter in the corner"
+  ],
+  "bestFor": [
+    "Step-by-step carousel slides",
+    "Marketplace explainers",
+    "Minimal white slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Equal-weight list",
+      "definition": "A list where every item has the same visual size."
+    },
+    {
+      "term": "Page mark",
+      "definition": "A faint numbering in the corner of a slide."
+    },
+    {
+      "term": "Full-frame capture",
+      "definition": "An image showing the whole slide without device chrome."
+    }
+  ]
+}

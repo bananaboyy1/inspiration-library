@@ -1,0 +1,44 @@
+{
+  "name": "app-banking-research-insight-cards-slide",
+  "image": "images/app-banking-research-insight-cards-slide.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Banking Research Insight Cards",
+  "tags": [
+    "research",
+    "data",
+    "navy",
+    "serif-italic",
+    "cards",
+    "stats",
+    "minimal"
+  ],
+  "whatItIs": "A pale case-study slide with a light sans and navy italic serif headline, and three staggered white cards each posing a question with a giant percentage and a hatched progress bar or day chart.",
+  "whatItMeans": "Big light numerals and hatched bars make data feel elegant and calm. The stagger keeps a simple slide from feeling like a table.",
+  "techniques": [
+    "Mixing a light sans with an italic serif in one headline",
+    "Oversized thin numerals paired with tiny captions",
+    "Hatched bar fills with a floating percentage bubble",
+    "Cards staggered at different heights and offsets",
+    "Single navy hue for all data"
+  ],
+  "bestFor": [
+    "UX research summaries",
+    "Case study insight slides",
+    "Fintech and banking presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched fill",
+      "definition": "A bar filled with fine diagonal or vertical lines instead of solid color."
+    },
+    {
+      "term": "Type mix",
+      "definition": "Combining different typeface styles within one headline."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card built around one big number and its caption."
+    }
+  ]
+}

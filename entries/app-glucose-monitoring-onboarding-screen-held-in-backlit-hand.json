@@ -1,0 +1,44 @@
+{
+  "name": "app-glucose-monitoring-onboarding-screen-held-in-backlit-hand",
+  "image": "images/app-glucose-monitoring-onboarding-screen-held-in-backlit-hand.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Glucose Onboarding Screen in a Backlit Hand",
+  "tags": [
+    "onboarding",
+    "health",
+    "glucose",
+    "hand",
+    "blue",
+    "glow",
+    "photo"
+  ],
+  "whatItIs": "A pale card with a soft blue glow behind a hand holding a phone whose onboarding screen shows 'Glucose Monitoring & Health Insights' and a photo of a glucose meter and finger prick, with a blue Get Started button.",
+  "whatItMeans": "The blue glow and clear photo tell the health story at a glance, and the silhouette hand keeps focus on the screen.",
+  "techniques": [
+    "Radial blue glow behind the device",
+    "Realistic photo as the onboarding illustration",
+    "Bold title with light description",
+    "Progress dashes for carousel position",
+    "Full-width blue pill CTA"
+  ],
+  "bestFor": [
+    "Health app onboarding presentations",
+    "Medical device companion apps",
+    "Clean hero mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Onboarding hero",
+      "definition": "The main image on an app's welcome screen."
+    },
+    {
+      "term": "Radial glow",
+      "definition": "Light spreading outward from a centre point."
+    },
+    {
+      "term": "Carousel dashes",
+      "definition": "Small bars showing which onboarding page is active."
+    }
+  ]
+}

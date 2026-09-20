@@ -1,0 +1,44 @@
+{
+  "name": "app-lime-flight-results-phone-tilted-on-fabric",
+  "image": "images/app-lime-flight-results-phone-tilted-on-fabric.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lime Flight Results Phone on Fabric",
+  "tags": [
+    "lime",
+    "green",
+    "flights",
+    "tilted",
+    "fabric",
+    "pastel-cards",
+    "travel"
+  ],
+  "whatItIs": "A lime-bezel phone balanced on a diagonal ledge of lime fabric, showing a flight results screen with a dark green summary card, price date chips, a flight card and a lime premium promo.",
+  "whatItMeans": "A monochrome lime world with dark green anchors feels fresh and energetic. The balancing pose adds tension.",
+  "techniques": [
+    "Phone balancing on a corner for drama",
+    "Tonal scene from bezel to background",
+    "Selected date chip in lime, others neutral",
+    "Dark green header card for contrast",
+    "Toggle and premium banner as secondary accents"
+  ],
+  "bestFor": [
+    "Travel and booking apps",
+    "Vertical social and Pinterest presentations",
+    "Colour-driven brand launches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Balance pose",
+      "definition": "A device propped on an edge for a dynamic angle."
+    },
+    {
+      "term": "Selected chip",
+      "definition": "A highlighted option among a row of choices."
+    },
+    {
+      "term": "Tonal bezel",
+      "definition": "A device frame coloured to match the scene."
+    }
+  ]
+}

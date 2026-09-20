@@ -1,0 +1,44 @@
+{
+  "name": "app-black-orange-home-management-phone-on-ribbed-ledge",
+  "image": "images/app-black-orange-home-management-phone-on-ribbed-ledge.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Black and Orange Home Management Phone",
+  "tags": [
+    "home-management",
+    "black",
+    "orange",
+    "glass-cards",
+    "ribbed",
+    "grey-gradient",
+    "toggles"
+  ],
+  "whatItIs": "A tilted black phone on a pale ribbed ledge against a grey gradient, showing 'AI Home Management' with dark device cards and an orange metallic air cooler card, room tabs and a pill nav with an orange home button.",
+  "whatItMeans": "Orange on black feels warm and premium, and one lit card shows which device is active.",
+  "techniques": [
+    "One orange card among dark cards",
+    "Metallic orange gradient on buttons",
+    "Pill nav with an orange active circle",
+    "Ribbed ledge as a base",
+    "Grey gradient studio backdrop"
+  ],
+  "bestFor": [
+    "Smart-home and energy apps",
+    "Dark UI product shots",
+    "Single-accent dark interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Active card",
+      "definition": "The one card styled in the accent colour to show it is on."
+    },
+    {
+      "term": "Metallic gradient",
+      "definition": "A gradient that imitates shiny metal."
+    },
+    {
+      "term": "Room tabs",
+      "definition": "Pills for switching between rooms."
+    }
+  ]
+}

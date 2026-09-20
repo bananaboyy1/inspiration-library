@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-navy-nft-marketplace-two-tilted-phones-with-lavender-accents",
+  "image": "images/app-dark-navy-nft-marketplace-two-tilted-phones-with-lavender-accents.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Navy NFT Marketplace Tilted Phones",
+  "tags": [
+    "nft",
+    "navy",
+    "tilted",
+    "lavender",
+    "3d",
+    "onboarding",
+    "cards"
+  ],
+  "whatItIs": "Two tilted navy phones on white: an onboarding with a pink sculptural portrait in an oval and the headline 'Discover, Collect And Sell NFTS' over a lavender wave, and an Explore the Rare NFTs screen with tabs and a stacked card holding a monkey avatar with a bid price.",
+  "whatItMeans": "Dark screens with a pink 3D figure and lavender highlights feel premium and artful, and tilting adds motion.",
+  "techniques": [
+    "Phones rotated in opposite directions",
+    "Pink sculpture in an oval as the onboarding hero",
+    "Stacked offset cards behind the featured NFT",
+    "Lavender used for highlighted words and the wave",
+    "Frosted price chip over the artwork"
+  ],
+  "bestFor": [
+    "NFT and collectibles app presentations",
+    "Dark UI with a single soft accent",
+    "Tilted two-phone compositions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stacked card",
+      "definition": "Offset layers peeking behind the main card."
+    },
+    {
+      "term": "Oval mask",
+      "definition": "A photo cropped into an ellipse."
+    },
+    {
+      "term": "Bid chip",
+      "definition": "A small label showing the current price."
+    }
+  ]
+}

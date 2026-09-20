@@ -1,0 +1,45 @@
+{
+  "name": "app-pearl-grey-mobile-app-long-sheet-with-hand-held-screens",
+  "image": "images/app-pearl-grey-mobile-app-long-sheet-with-hand-held-screens.jpg",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Pearl Grey Mobile App Long Sheet",
+  "tags": [
+    "banking",
+    "pearl",
+    "long-scroll",
+    "hand",
+    "screens",
+    "serif",
+    "captions",
+    "grey"
+  ],
+  "whatItIs": "A tall pale grey sheet titled Mobile App with a large hand-held onboarding screen, then rows of phones with captions for Home Dashboard, Analytics, Money Transfer, Manage Card, a hand-held Transaction Details, Choose a Card and Asset Swap in pearl and grey glass.",
+  "whatItMeans": "A uniform pearl palette and short captions make a full banking app read as one calm product.",
+  "techniques": [
+    "Hand-held hero screen opening the sheet",
+    "Alternating caption sides per screen",
+    "Pearl and grey glass UI throughout",
+    "Serif numerals for balances",
+    "Two hand-held shots as rhythm breaks"
+  ],
+  "bestFor": [
+    "Banking app case-study pages",
+    "Long screen showcases",
+    "Pearl-toned fintech UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pearl palette",
+      "definition": "Soft iridescent whites and greys."
+    },
+    {
+      "term": "Caption pair",
+      "definition": "A short heading and description beside a screen."
+    },
+    {
+      "term": "Rhythm break",
+      "definition": "A different image type placed among repeated ones."
+    }
+  ]
+}

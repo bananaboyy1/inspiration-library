@@ -1,0 +1,44 @@
+{
+  "name": "app-clothing-store-three-screens-cart-home-and-product-with-lime-accents",
+  "image": "images/app-clothing-store-three-screens-cart-home-and-product-with-lime-accents.webp",
+  "discipline": "app",
+  "designType": "E-commerce app",
+  "title": "Clothing Store Screens with Lime Accents",
+  "tags": [
+    "fashion",
+    "e-commerce",
+    "lime",
+    "white",
+    "three-phones",
+    "cart",
+    "product-detail"
+  ],
+  "whatItIs": "Three white phones on a pale grey rounded panel: a cart with product rows, quantity steppers, shipping and payment cards; a home with a lime New Collection banner holding a model cut-out, circular category chips and a photo grid above a dark floating tab pill; and a product detail with a big photo, colour dots, size chips and a lime Try-on banner.",
+  "whatItMeans": "Lime against clean white and neutral clothing photos feels fresh and confident, and a dark floating tab pill grounds the home screen.",
+  "techniques": [
+    "Lime banner with a cut-out model breaking its edge",
+    "Circular category chips with one outlined selected",
+    "Dark floating tab pill overlapping the content",
+    "Colour dots and size chips as compact selectors",
+    "Lime try-on strip at the base of the detail"
+  ],
+  "bestFor": [
+    "Fashion and shopping app screens",
+    "Light UI with one bright accent",
+    "Cart, home and product flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Try-on banner",
+      "definition": "A strip inviting users to try an item virtually."
+    },
+    {
+      "term": "Category chip",
+      "definition": "A round image button for browsing a category."
+    },
+    {
+      "term": "Stepper",
+      "definition": "A minus and plus control for changing quantity."
+    }
+  ]
+}

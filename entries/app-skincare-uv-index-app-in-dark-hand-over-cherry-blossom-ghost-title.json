@@ -1,0 +1,44 @@
+{
+  "name": "app-skincare-uv-index-app-in-dark-hand-over-cherry-blossom-ghost-title",
+  "image": "images/app-skincare-uv-index-app-in-dark-hand-over-cherry-blossom-ghost-title.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Skincare UV App in Hand with Blossoms",
+  "tags": [
+    "skincare",
+    "cream",
+    "blossom",
+    "hand",
+    "ghost-type",
+    "uv-index",
+    "cover"
+  ],
+  "whatItIs": "A soft cream cover with cherry blossom branches in the corners, giant faint 'Skincare App' lettering and a dark hand holding a phone showing a UV index, an AI skin insight card and product cards with pink buttons.",
+  "whatItMeans": "Blossoms and cream evoke gentle skincare, and the dark hand gives strong contrast to the pale UI.",
+  "techniques": [
+    "Blossom branches framing the top corners",
+    "Ghost lettering behind the phone",
+    "Dark hand against pale scene",
+    "Warm cream and blush UI colours",
+    "Rainbow UV bar as a small data graphic"
+  ],
+  "bestFor": [
+    "Skincare and beauty apps",
+    "Soft cream covers",
+    "Nature-themed app hero shots"
+  ],
+  "vocabulary": [
+    {
+      "term": "Botanical frame",
+      "definition": "Plants or blossoms placed at the corners of a scene."
+    },
+    {
+      "term": "UV index bar",
+      "definition": "A gradient bar showing sun exposure level."
+    },
+    {
+      "term": "Insight chip",
+      "definition": "A small pill delivering an AI tip."
+    }
+  ]
+}

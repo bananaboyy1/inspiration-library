@@ -1,0 +1,44 @@
+{
+  "name": "app-teal-bottom-navigation-with-centre-plus-button-in-light-and-dark",
+  "image": "images/app-teal-bottom-navigation-with-centre-plus-button-in-light-and-dark.webp",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Teal Bottom Navigation with Centre Plus",
+  "tags": [
+    "bottom-nav",
+    "teal",
+    "light-dark",
+    "fab",
+    "ai-assistant",
+    "gradient-backdrop",
+    "icons"
+  ],
+  "whatItIs": "Two versions of a five-item bottom navigation (Home, AI Assistant, centre plus, Resources, Profile) with teal active and centre button, the top on white over a mint gradient and the bottom on dark navy over a deep teal gradient, each with a home indicator bar.",
+  "whatItMeans": "The same teal accent works in light and dark, and the centre plus button gives a clear primary action.",
+  "techniques": [
+    "Light and dark versions stacked",
+    "Teal active tab and centre button",
+    "Centre plus button as the main action",
+    "Icons with labels beneath",
+    "Gradient backdrop matched to the theme"
+  ],
+  "bestFor": [
+    "Mobile navigation components",
+    "Light and dark theme demonstrations",
+    "Apps with a primary create action"
+  ],
+  "vocabulary": [
+    {
+      "term": "Centre action button",
+      "definition": "A prominent button in the middle of a tab bar."
+    },
+    {
+      "term": "Home indicator",
+      "definition": "The thin bar at the bottom of an iPhone screen."
+    },
+    {
+      "term": "Theme stack",
+      "definition": "Light and dark versions shown one above the other."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-result-impact-slide-with-blue-spray-arc-and-stat-cards",
+  "image": "images/app-result-impact-slide-with-blue-spray-arc-and-stat-cards.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Result and Impact with Blue Spray Arc",
+  "tags": [
+    "results",
+    "stats",
+    "blue",
+    "spray",
+    "cards",
+    "gauge",
+    "light"
+  ],
+  "whatItIs": "A pale slide with a numbered Result & Impact pill, a large headline fading from black to grey, a grainy blue spray-painted arc sweeping down the right and three white stat cards with percentages, a tick slider and a half gauge.",
+  "whatItMeans": "The airbrushed arc adds a human, energetic gesture to clean data, and each stat card has its own small graphic.",
+  "techniques": [
+    "Grainy spray arc as a decorative sweep behind cards",
+    "Headline that fades line by line",
+    "Blue highlight on key phrases inside cards",
+    "Different mini graphics per stat (slider, gauge)",
+    "Cards at staggered heights"
+  ],
+  "bestFor": [
+    "Results and impact slides",
+    "Health-tech case studies",
+    "Adding warmth to data pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spray arc",
+      "definition": "A soft grainy curved stroke that looks airbrushed."
+    },
+    {
+      "term": "Tick slider",
+      "definition": "A ruler-like scale with one marked value."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card built around one figure and caption."
+    }
+  ]
+}

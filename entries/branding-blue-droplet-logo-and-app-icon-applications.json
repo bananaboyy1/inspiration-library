@@ -1,0 +1,44 @@
+{
+  "name": "branding-blue-droplet-logo-and-app-icon-applications",
+  "image": "images/branding-blue-droplet-logo-and-app-icon-applications.png",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Blue Droplet Logo and Applications",
+  "tags": [
+    "logo",
+    "droplet",
+    "blue",
+    "browser-tab",
+    "app-icon",
+    "health",
+    "tall"
+  ],
+  "whatItIs": "A tall pale blue sheet with a step tag 'Logo Creation', a gradient headline about a symbol for control and movement, the blue droplet mark with wordmark 'GlucoCare' on guide lines, then browser-tab, home-screen icon and in-hand app mockups.",
+  "whatItMeans": "A single blue droplet with a swirl feels medical yet friendly, and showing tab and icon proves it works small.",
+  "techniques": [
+    "Droplet symbol with an internal swirl for movement",
+    "Guide lines framing the logo lock-up",
+    "Fading headline lines to focus attention",
+    "Browser tab and iOS icon as scale tests",
+    "Soft blue radial gradients"
+  ],
+  "bestFor": [
+    "Health-tech identities",
+    "Logo presentation pages",
+    "Symbol-led wordmark lockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Symbol and wordmark lockup",
+      "definition": "A logo combining an icon and a name in a fixed arrangement."
+    },
+    {
+      "term": "Scale test",
+      "definition": "Showing a logo at favicon and app icon sizes."
+    },
+    {
+      "term": "Fading headline",
+      "definition": "A headline whose lines lose contrast progressively."
+    }
+  ]
+}

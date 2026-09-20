@@ -1,0 +1,45 @@
+{
+  "name": "print-social-yellow-cream-fintech-social-ad-grid",
+  "image": "images/print-social-yellow-cream-fintech-social-ad-grid.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad set",
+  "title": "Yellow and Cream Fintech Ad Grid",
+  "tags": [
+    "fintech",
+    "yellow",
+    "cream",
+    "ads",
+    "portraits",
+    "store-badges",
+    "organic-shapes",
+    "africa"
+  ],
+  "whatItIs": "A six-panel grid of square-ish social ads for a global account app: cream and yellow backgrounds with blob shapes, confident portraits of people holding or using the yellow app, floating transfer cards, coin icons and store badges.",
+  "whatItMeans": "Warm yellow, joyful people and playful shapes make money movement feel optimistic and fast.",
+  "techniques": [
+    "Yellow app screens repeated so the product colour equals the brand colour",
+    "Organic blobs in yellow, pink and blue behind subjects",
+    "Floating transaction pills overlapping the photos",
+    "Headline mixing a light setup line and a heavy punch line",
+    "Store badges anchoring the bottom of every ad"
+  ],
+  "bestFor": [
+    "Fintech app install campaigns",
+    "Consistent multi-ad social sets",
+    "Diaspora and youth audiences"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blob shape",
+      "definition": "An organic rounded shape used behind subjects."
+    },
+    {
+      "term": "Floating card",
+      "definition": "A UI card overlaid on a photo."
+    },
+    {
+      "term": "Setup and punch line",
+      "definition": "A light lead-in line followed by a bold payoff."
+    }
+  ]
+}

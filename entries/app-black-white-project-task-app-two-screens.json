@@ -1,0 +1,44 @@
+{
+  "name": "app-black-white-project-task-app-two-screens",
+  "image": "images/app-black-white-project-task-app-two-screens.jpg",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Black and White Task App Two Screens",
+  "tags": [
+    "tasks",
+    "black",
+    "white",
+    "timeline",
+    "cards",
+    "waves",
+    "planner"
+  ],
+  "whatItIs": "Two phones on lavender grey: a home with a black header with wave lines, dark and pale project cards and a task list, and a Today screen with a date strip and a black vertical timeline with a meeting card.",
+  "whatItMeans": "Monochrome cards with subtle line art feel focused and professional, and the vertical timeline shows the day at a glance.",
+  "techniques": [
+    "Black cards among white for priority",
+    "Wave line texture on dark areas",
+    "Selected date as a black pill",
+    "Vertical timeline with node dots",
+    "Floating round plus button in the nav"
+  ],
+  "bestFor": [
+    "Task and project planners",
+    "Monochrome app UI",
+    "Timeline day views"
+  ],
+  "vocabulary": [
+    {
+      "term": "Date strip",
+      "definition": "A row of days with the current one highlighted."
+    },
+    {
+      "term": "Timeline node",
+      "definition": "A dot on a vertical line marking an event."
+    },
+    {
+      "term": "Wave texture",
+      "definition": "Flowing line art used as a subtle pattern."
+    }
+  ]
+}

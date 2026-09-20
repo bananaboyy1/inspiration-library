@@ -1,0 +1,45 @@
+{
+  "name": "app-blue-and-white-crypto-wallet-screens-tilted-with-fingerprint-security",
+  "image": "images/app-blue-and-white-crypto-wallet-screens-tilted-with-fingerprint-security.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Blue Crypto Wallet Screens with Fingerprint",
+  "tags": [
+    "crypto",
+    "wallet",
+    "blue",
+    "white",
+    "tilted",
+    "fingerprint",
+    "convert",
+    "assets"
+  ],
+  "whatItIs": "A tilted collage of crypto wallet screens with a blue gradient balance header, movers and watchlist lists with coloured sparklines, an assets list, a blue fingerprint security screen and a Convert Bitcoin screen with a keypad and blue Preview Conversion button.",
+  "whatItMeans": "Cobalt blue on white feels trustworthy, and the giant fingerprint makes security tangible.",
+  "techniques": [
+    "Blue gradient balance header",
+    "Coloured sparklines per asset",
+    "Large fingerprint graphic on the security screen",
+    "Blue pill CTAs throughout",
+    "Rotated collage of overlapping screens"
+  ],
+  "bestFor": [
+    "Crypto wallet UI kits",
+    "Blue fintech systems",
+    "Security and biometric screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Biometric screen",
+      "definition": "A screen prompting fingerprint or face verification."
+    },
+    {
+      "term": "Movers list",
+      "definition": "A list of assets with the biggest price changes."
+    },
+    {
+      "term": "Preview button",
+      "definition": "A button showing a result before confirming an action."
+    }
+  ]
+}

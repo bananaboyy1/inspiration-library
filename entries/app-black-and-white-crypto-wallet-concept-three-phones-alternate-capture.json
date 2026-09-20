@@ -1,0 +1,44 @@
+{
+  "name": "app-black-and-white-crypto-wallet-concept-three-phones-alternate-capture",
+  "image": "images/app-black-and-white-crypto-wallet-concept-three-phones-alternate-capture.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Black-Outlined Crypto Wallet Concept (Alternate)",
+  "tags": [
+    "crypto",
+    "wallet",
+    "black-outline",
+    "monochrome",
+    "periwinkle",
+    "analytics",
+    "duplicate"
+  ],
+  "whatItIs": "The same three-phone crypto wallet concept, a white wallet home, a periwinkle asset chart with Buy and Sell, and a checker-grid Analytics page, captured a second time.",
+  "whatItMeans": "It repeats the same idea: bold outlines and one tinted screen make a monochrome set feel graphic.",
+  "techniques": [
+    "Thick black device outlines",
+    "Periwinkle accent screen",
+    "Hatched and black grid cells",
+    "Black pill navigation",
+    "Large balance numerals"
+  ],
+  "bestFor": [
+    "Crypto concept presentations",
+    "Monochrome UI with one tint",
+    "Grid-based analytics visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Accent screen",
+      "definition": "The one screen in a set filled with colour."
+    },
+    {
+      "term": "Grid analytics",
+      "definition": "A weekly grid where cell fill shows value."
+    },
+    {
+      "term": "Pill nav",
+      "definition": "A rounded bottom navigation bar."
+    }
+  ]
+}

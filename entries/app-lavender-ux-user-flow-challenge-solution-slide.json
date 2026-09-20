@@ -1,0 +1,43 @@
+{
+  "name": "app-lavender-ux-user-flow-challenge-solution-slide",
+  "image": "images/app-lavender-ux-user-flow-challenge-solution-slide.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Lavender UX Flow with Challenge and Solution Cards",
+  "tags": [
+    "lavender",
+    "user-flow",
+    "ux",
+    "dashed-line",
+    "cards",
+    "tilted"
+  ],
+  "whatItIs": "A case-study slide with a soft lavender field, a title in two weights, tilted Challenge and Solution cards, a dashed arc and a rounded node flow diagram.",
+  "whatItMeans": "Soft tone and gentle tilts make a UX explanation feel friendly. The paired cards deliver the story at a glance.",
+  "techniques": [
+    "Two-weight title where the second line is faded",
+    "Tilted overlapping cards with icon status marks (warning, check)",
+    "Dashed curved line to lead the eye",
+    "Pill-shaped nodes joined by thin connectors",
+    "Very low-contrast background"
+  ],
+  "bestFor": [
+    "UX case studies",
+    "Explaining a problem and its fix",
+    "Wellness and productivity app portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Challenge/solution pair",
+      "definition": "Two adjacent cards contrasting a problem with its answer."
+    },
+    {
+      "term": "User flow diagram",
+      "definition": "A map of screens or steps a person moves through."
+    },
+    {
+      "term": "Faded second line",
+      "definition": "A title's second line set in a lighter tone."
+    }
+  ]
+}

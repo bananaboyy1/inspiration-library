@@ -1,0 +1,44 @@
+{
+  "name": "app-red-gloved-hands-holding-social-feed-phone-on-striped-red",
+  "image": "images/app-red-gloved-hands-holding-social-feed-phone-on-striped-red.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Black Gloved Hands Holding a Red Social Feed",
+  "tags": [
+    "red",
+    "black",
+    "gloves",
+    "3d",
+    "feed",
+    "stripes",
+    "line-graph"
+  ],
+  "whatItIs": "A red-to-black vignette panel with vertical stripe bars and white and orange line graphs, and a phone held by textured black gloves showing a red-lit brand post about managing crypto with full control, labelled 'App in Use'.",
+  "whatItMeans": "Glossy gloves are a surreal, cinematic detail, and the striped chart texture ties the setting to finance.",
+  "techniques": [
+    "Rendered gloved hands as a surreal prop",
+    "Stripe chart shapes and lines behind the device",
+    "Red-lit photo inside the screen",
+    "Dimmed words within a white headline",
+    "Small top-left label naming the scene"
+  ],
+  "bestFor": [
+    "Crypto and fintech brand presentations",
+    "Dark red mockup scenes",
+    "In-use app imagery"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gloved hand render",
+      "definition": "A 3D hand wearing a glove used as a stylised holder."
+    },
+    {
+      "term": "Brand-lit photo",
+      "definition": "A photograph graded in the brand colour."
+    },
+    {
+      "term": "Scene label",
+      "definition": "A small caption naming what a panel shows."
+    }
+  ]
+}

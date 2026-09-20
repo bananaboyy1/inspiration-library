@@ -1,0 +1,44 @@
+{
+  "name": "app-black-discover-feed-phone-behind-cropped-ghost-letters",
+  "image": "images/app-black-discover-feed-phone-behind-cropped-ghost-letters.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Discover Feed Phone over Grey Ghost Letters",
+  "tags": [
+    "black",
+    "discover",
+    "hand",
+    "ghost-type",
+    "travel",
+    "cover",
+    "white-ui"
+  ],
+  "whatItIs": "A cover on black with giant grey letters cropped by the phone, a hand holding a white 'Welcome to Your Discover Feed' screen with a search bar and a destination photo card.",
+  "whatItMeans": "High contrast between the white UI and black background makes the screen pop, and the cropped letters add depth.",
+  "techniques": [
+    "Ghost lettering partially hidden by the device",
+    "White UI on pure black",
+    "Hand cropped in from the left",
+    "Bold two-line title in the UI",
+    "Tilted device for dynamism"
+  ],
+  "bestFor": [
+    "Travel discovery apps",
+    "Dark cover images",
+    "High-contrast mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cropped lettering",
+      "definition": "Large text partially hidden behind another object."
+    },
+    {
+      "term": "Discover feed",
+      "definition": "A browsing screen of recommended items."
+    },
+    {
+      "term": "High-contrast cover",
+      "definition": "A cover where the subject is brightest against a dark ground."
+    }
+  ]
+}

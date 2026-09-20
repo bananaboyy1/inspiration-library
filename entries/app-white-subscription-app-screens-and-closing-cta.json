@@ -1,0 +1,44 @@
+{
+  "name": "app-white-subscription-app-screens-and-closing-cta",
+  "image": "images/app-white-subscription-app-screens-and-closing-cta.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Subscription App Screens and Closing CTA",
+  "tags": [
+    "subscriptions",
+    "white",
+    "phones",
+    "statement",
+    "photo",
+    "qr",
+    "closing"
+  ],
+  "whatItIs": "A tall white board: a row of five phones (savings, insights gauge, history), a large light statement with inline icons, an office meeting photo with two floating UI cards, and a closing 'TRANSFORM YOUR VISION!' with a QR code.",
+  "whatItMeans": "Inline icons in a statement and UI cards over a real photo tie the product to real life, and the closing line invites contact.",
+  "techniques": [
+    "Row of phones with the centre one larger",
+    "Inline icon chips within a large sentence",
+    "Grey and black phrases inside one statement",
+    "UI cards overlapping a candid photo",
+    "Heavy black closing line with a QR code"
+  ],
+  "bestFor": [
+    "Case-study finales",
+    "Fintech subscription products",
+    "Portfolio calls to action"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inline chip",
+      "definition": "A small icon placed within a line of text."
+    },
+    {
+      "term": "Hero phone",
+      "definition": "The larger centre device in a row."
+    },
+    {
+      "term": "QR sign-off",
+      "definition": "A QR code offering contact at the end of a case study."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-key-takeaways-italic-serif-paragraph-with-highlighted-words",
+  "image": "images/app-lavender-key-takeaways-italic-serif-paragraph-with-highlighted-words.jpg",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Key Takeaways in Italic Serif",
+  "tags": [
+    "takeaways",
+    "italic-serif",
+    "lavender",
+    "highlight",
+    "centered",
+    "dashed-arc",
+    "text-only"
+  ],
+  "whatItIs": "A pale lavender gradient slide with a tiny Key Takeaways label, a centred italic serif paragraph in pale grey-lilac where key words (accessibility, clean modern UI, scaled typography) are dark navy, and a faint dashed arc at left.",
+  "whatItMeans": "Only the important words are dark, so the paragraph can be skimmed, and the italic serif feels reflective.",
+  "techniques": [
+    "Pale text with dark highlighted key words",
+    "Centred italic serif paragraph",
+    "Tiny label above",
+    "Faint dashed arc as decoration",
+    "Soft lavender gradient"
+  ],
+  "bestFor": [
+    "Case-study reflections",
+    "Key takeaway slides",
+    "Text-only closing slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Key word emphasis",
+      "definition": "Setting only selected words in a darker tone."
+    },
+    {
+      "term": "Italic serif",
+      "definition": "A slanted serif typeface giving an editorial voice."
+    },
+    {
+      "term": "Reflection slide",
+      "definition": "A slide summarising what was learned."
+    }
+  ]
+}

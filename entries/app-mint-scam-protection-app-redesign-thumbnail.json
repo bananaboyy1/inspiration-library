@@ -1,0 +1,43 @@
+{
+  "name": "app-mint-scam-protection-app-redesign-thumbnail",
+  "image": "images/app-mint-scam-protection-app-redesign-thumbnail.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Mint Scam Protection App Cover",
+  "tags": [
+    "mint",
+    "peach",
+    "ghost-type",
+    "security",
+    "cover",
+    "redesign"
+  ],
+  "whatItIs": "A mint gradient cover with a phone showing a peach security home screen and lavender and yellow quick-action tiles, giant faint 'Cervylo' behind and service and date captions at the corners.",
+  "whatItMeans": "Pastel tiles and a calm mint field make security feel gentle and approachable.",
+  "techniques": [
+    "Ghost brand name behind the phone",
+    "Pastel tile colours for actions",
+    "Corner captions for service and date",
+    "Phone cropped at the bottom",
+    "Soft gradient background"
+  ],
+  "bestFor": [
+    "Security and safety app covers",
+    "Redesign case studies",
+    "Friendly utilities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Corner captions",
+      "definition": "Small text at the edges of a cover naming the project."
+    },
+    {
+      "term": "Quick actions",
+      "definition": "Tiles giving fast access to key tasks."
+    },
+    {
+      "term": "Redesign cover",
+      "definition": "A cover framing a project as an improved version."
+    }
+  ]
+}

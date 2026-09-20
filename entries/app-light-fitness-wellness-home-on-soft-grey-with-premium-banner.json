@@ -1,0 +1,45 @@
+{
+  "name": "app-light-fitness-wellness-home-on-soft-grey-with-premium-banner",
+  "image": "images/app-light-fitness-wellness-home-on-soft-grey-with-premium-banner.jpg",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Light Wellness Home with Premium Banner",
+  "tags": [
+    "fitness",
+    "wellness",
+    "light",
+    "grey",
+    "cards",
+    "dumbbells",
+    "premium",
+    "minimal"
+  ],
+  "whatItIs": "A single phone screen floating on a pale grey field showing a welcome greeting, a black Go premium banner with a bolt icon, Wellness cards for a journey and steps with a line chart, an Overall Progress card with a 3D dumbbell in a ring and a Start now button, a Past Activities row and a floating pill tab bar.",
+  "whatItMeans": "Soft white cards on grey with one black banner and one black button make a calm hierarchy with clear actions.",
+  "techniques": [
+    "One black banner as the premium call to action",
+    "3D dumbbell inside a progress ring",
+    "White cards with subtle shadows",
+    "Floating pill tab bar with grey active state",
+    "Very light grey gradient background"
+  ],
+  "bestFor": [
+    "Fitness and wellness apps",
+    "Minimal light UI",
+    "Single-screen showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Premium banner",
+      "definition": "A prominent card promoting a paid plan."
+    },
+    {
+      "term": "Progress ring",
+      "definition": "A circular arc showing completion around an object."
+    },
+    {
+      "term": "Floating tab bar",
+      "definition": "A pill navigation bar that hovers above content."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-three-fintech-onboarding-screens-staggered-with-italic-serif-headline",
+  "image": "images/app-three-fintech-onboarding-screens-staggered-with-italic-serif-headline.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Three Fintech Onboarding Screens Staggered",
+  "tags": [
+    "onboarding",
+    "fintech",
+    "blue-grey",
+    "serif-italic",
+    "staggered",
+    "gradient",
+    "progress"
+  ],
+  "whatItIs": "A white page with an Onboarding Screen pill, a headline mixing light sans and bold italic serif 'Banking Experience.', a paragraph, and three phones staggered diagonally down the page showing Banking Made Simple, Your Financial Growth Hub and Pay Your Saved Bills Instantly, each with a blue-grey gradient, cards and Skip and Next buttons.",
+  "whatItMeans": "A diagonal stagger gives a sequence rhythm, and the same gradient and buttons hold the three steps together.",
+  "techniques": [
+    "Diagonal stagger of three phones",
+    "Blue-grey gradient rising from the base of each screen",
+    "Skip and Next button pair on each screen",
+    "Step counters at the top right",
+    "Arc of icons for bill types"
+  ],
+  "bestFor": [
+    "Onboarding flow presentations",
+    "Fintech app case studies",
+    "Diagonal screen sequences"
+  ],
+  "vocabulary": [
+    {
+      "term": "Diagonal stagger",
+      "definition": "Items placed along a diagonal path."
+    },
+    {
+      "term": "Skip/Next pair",
+      "definition": "A secondary and primary button at the base of onboarding."
+    },
+    {
+      "term": "Step counter",
+      "definition": "A fraction such as 2/4 showing onboarding progress."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "app-lavender-project-introduction-with-metadata-and-jumping-travellers-photo",
+  "image": "images/app-lavender-project-introduction-with-metadata-and-jumping-travellers-photo.jpg",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Project Introduction with Jumping Travellers",
+  "tags": [
+    "introduction",
+    "lavender",
+    "photo",
+    "metadata",
+    "topic-pills",
+    "progress-bar",
+    "travel"
+  ],
+  "whatItIs": "A lavender slide titled Project Introduction with a plane progress bar, a large paragraph, a metadata row (project, year, industry, topic pills) and a wide rounded photo of five backpackers jumping by the sea with an overlaid caption.",
+  "whatItMeans": "An energetic photo makes an introduction feel joyful, and the metadata row keeps the facts tidy.",
+  "techniques": [
+    "Four-column metadata row with hairline dividers",
+    "Topic pills as tags",
+    "Large rounded photo with white caption overlay",
+    "Blue gradient in the second title word",
+    "Plane on the progress bar"
+  ],
+  "bestFor": [
+    "Project introduction slides",
+    "Travel case studies",
+    "Metadata plus photo layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metadata row",
+      "definition": "A row of labelled facts divided by hairlines."
+    },
+    {
+      "term": "Topic pill",
+      "definition": "A rounded tag naming a subject."
+    },
+    {
+      "term": "Caption overlay",
+      "definition": "Text placed over the lower edge of a photo."
+    }
+  ]
+}

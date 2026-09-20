@@ -1,0 +1,44 @@
+{
+  "name": "branding-dark-design-language-phone-tablet-laptop-board",
+  "image": "images/branding-dark-design-language-phone-tablet-laptop-board.jpg",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Dark Design Language Multi-Device Board",
+  "tags": [
+    "design-language",
+    "dark",
+    "devices",
+    "rock",
+    "blue",
+    "progress-bar",
+    "tiles"
+  ],
+  "whatItIs": "A dark slate page titled Brand & Design Language with a plane progress bar, a paragraph, a tile of a phone with a camera back, a tablet on a black rock with a dashboard and a laptop with a light landing page, and coloured tiles peeking below.",
+  "whatItMeans": "Showing phone, tablet and laptop together proves one visual system across devices, and the dark base makes the light UIs stand out.",
+  "techniques": [
+    "Three devices in three different tiles",
+    "Rock as a natural base for the tablet",
+    "Blue highlight on the word Design Language",
+    "Plane marker on the progress bar",
+    "Tiles in a bento layout"
+  ],
+  "bestFor": [
+    "Multi-platform design language slides",
+    "Brand consistency showcases",
+    "Dark case-study documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Design language",
+      "definition": "The visual and interaction rules that make a product feel consistent."
+    },
+    {
+      "term": "Multi-device tile",
+      "definition": "A tile showing the design on one device type."
+    },
+    {
+      "term": "Progress bar",
+      "definition": "A bar showing position within a document."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "branding-indigo-yellow-hanging-colour-tag-palette",
+  "image": "images/branding-indigo-yellow-hanging-colour-tag-palette.jpg",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Indigo and Yellow Hanging Colour Tags",
+  "tags": [
+    "palette",
+    "indigo",
+    "yellow",
+    "white",
+    "dashed-lines",
+    "tilted",
+    "vertical-type"
+  ],
+  "whatItIs": "A pale lavender canvas with four tilted, stepped colour tabs (deep indigo, periwinkle, warm yellow, white) hanging from dashed curved lines converging at the top, each tab labelled with a vertical hex code.",
+  "whatItMeans": "Dashed strings make the swatches look like hanging tags, and the descending heights create a graphic skyline of colour.",
+  "techniques": [
+    "Swatches suspended from converging dashed lines",
+    "Descending stagger of tab heights",
+    "Hex codes rotated 90 degrees down each tab",
+    "Text colour chosen per swatch for contrast",
+    "Slight tilt of tab tops for movement"
+  ],
+  "bestFor": [
+    "Brand palette slides",
+    "Playful identity documentation",
+    "Vertical or mobile-formatted presentation pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hanging swatch",
+      "definition": "A colour sample drawn as if suspended by a line."
+    },
+    {
+      "term": "Vertical label",
+      "definition": "Text rotated to read top to bottom."
+    },
+    {
+      "term": "Colour skyline",
+      "definition": "Swatches of different heights forming a silhouette."
+    }
+  ]
+}

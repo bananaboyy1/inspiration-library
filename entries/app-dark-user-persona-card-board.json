@@ -1,0 +1,44 @@
+{
+  "name": "app-dark-user-persona-card-board",
+  "image": "images/app-dark-user-persona-card-board.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Dark User Persona Board",
+  "tags": [
+    "persona",
+    "dark",
+    "cards",
+    "goals",
+    "needs",
+    "engagement",
+    "blue"
+  ],
+  "whatItIs": "A dark slate slide titled User Persona with a portrait card of an anime-style traveller, a quote bar, cards for goals with blue checks, a semicircle engagement gauge with dots, needs arrows, and striped interest bars.",
+  "whatItMeans": "Modular dark cards break a persona into scannable parts, and blue accents tie it to the product.",
+  "techniques": [
+    "Persona portrait card with name overlay",
+    "Big quote mark tile leading a quote bar",
+    "Checklist with blue check circles",
+    "Dotted gauge for an engagement metric",
+    "Hatched bar tracks for interests"
+  ],
+  "bestFor": [
+    "UX persona slides",
+    "Dark-mode research presentations",
+    "Product case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Persona card",
+      "definition": "A fictional user profile summarising goals and needs."
+    },
+    {
+      "term": "Dotted gauge",
+      "definition": "An arc gauge made of dots with one highlighted value."
+    },
+    {
+      "term": "Hatched track",
+      "definition": "A bar background striped with diagonal lines."
+    }
+  ]
+}

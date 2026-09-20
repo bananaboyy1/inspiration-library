@@ -1,0 +1,44 @@
+{
+  "name": "print-social-cobalt-step-two-shape-and-gradient-reference-slide",
+  "image": "images/print-social-cobalt-step-two-shape-and-gradient-reference-slide.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Step 2 Shape and Gradient Reference",
+  "tags": [
+    "tutorial",
+    "cobalt",
+    "step-2",
+    "gradient",
+    "arrows",
+    "annotation",
+    "swipe"
+  ],
+  "whatItIs": "A cobalt slide with glossy 'Step 2', instructions to add an object reference and darker gradation, a red canvas with a dark dome shape, and dotted arrows from small swatches labelled 'The gradient I used' and 'The shape I used'.",
+  "whatItMeans": "Showing the exact swatches beside the canvas makes the step reproducible, and dashed arrows guide the eye.",
+  "techniques": [
+    "Dotted arrows linking swatches to the canvas",
+    "Small labelled reference swatches",
+    "Glossy chrome step title",
+    "Cream key words",
+    "Consistent tutorial chrome across steps"
+  ],
+  "bestFor": [
+    "Design tutorials",
+    "Step-by-step carousels",
+    "Showing gradient recipes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reference swatch",
+      "definition": "A small sample showing the exact colour or shape used."
+    },
+    {
+      "term": "Dotted arrow",
+      "definition": "A dashed arrow linking a note to its target."
+    },
+    {
+      "term": "Gradation",
+      "definition": "A gradual change from light to dark of a colour."
+    }
+  ]
+}
