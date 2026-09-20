@@ -1,5 +1,5 @@
 // Usage: node scripts/ingest.mjs <batch.json>
-// Batch file: array of entries, each with `file` (current name in images/) plus the schema fields
+// Batch file: array of entries, each with `file` (current name in inbox/, or images/) plus the schema fields
 // and a `slug` (descriptive name starting with the discipline, no extension).
 // Renames the image, writes entries/<slug>.json and entries/<slug>.md.
 import fs from 'node:fs'
@@ -36,7 +36,9 @@ ${e.vocabulary.map((v) => `- **${v.term}** — ${v.definition}`).join('\n')}
 let ok = 0
 for (const b of batch) {
   const { file, slug, ...rest } = b
-  const src = path.join(root, 'images', file)
+  // `file` is looked up in inbox/ first (new images), then images/ (already-imported, still un-renamed).
+  const inboxSrc = path.join(root, 'inbox', file)
+  const src = fs.existsSync(inboxSrc) ? inboxSrc : path.join(root, 'images', file)
   if (!fs.existsSync(src)) { console.error('MISSING', file); continue }
   if (!DISCIPLINES.includes(rest.discipline) || !slug.startsWith(rest.discipline + '-')) { console.error('BAD SLUG/DISCIPLINE', slug); continue }
   const dest = slug + path.extname(file).toLowerCase()
