@@ -1,0 +1,48 @@
+{
+  "name": "app-purple-light-tracker-widget-with-uv-gauge",
+  "image": "images/app-purple-light-tracker-widget-with-uv-gauge.png",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Violet daylight app with a yellow progress bar, UV gradient and translucent tiles",
+  "tags": [
+    "health",
+    "violet",
+    "yellow",
+    "glass-tiles",
+    "uv-index",
+    "progress-bar",
+    "monospace",
+    "project-thumbnail"
+  ],
+  "whatItIs": "A saturated violet phone screen with a translucent 'Go outside now' pill and avatar, a two-line bold prompt, a yellow-filled bar showing 53%, and two frosted tiles with a UV index rainbow bar and a lux reading, above a weather row.",
+  "whatItMeans": "Bright and encouraging; violet with yellow bar suggests sunlight indoors.",
+  "techniques": [
+    "Use translucent tiles on a saturated field.",
+    "Fill a bar with yellow to signal sunlight.",
+    "Set headlines bold and readings in monospace.",
+    "Show a rainbow scale for UV."
+  ],
+  "bestFor": [
+    "Daylight, wellness and habit apps",
+    "Single-colour app screens",
+    "Small thumbnails"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted tile",
+      "definition": "A translucent tile over a colour field."
+    },
+    {
+      "term": "UV scale",
+      "definition": "A colour gradient bar for UV levels."
+    },
+    {
+      "term": "Monospace reading",
+      "definition": "A number set in monospace type."
+    },
+    {
+      "term": "Prompt headline",
+      "definition": "A bold instruction at the top."
+    }
+  ]
+}

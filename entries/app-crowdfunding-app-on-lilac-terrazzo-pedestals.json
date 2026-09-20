@@ -1,0 +1,47 @@
+{
+  "name": "app-crowdfunding-app-on-lilac-terrazzo-pedestals",
+  "image": "images/app-crowdfunding-app-on-lilac-terrazzo-pedestals.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Dark crowdfunding app on lilac terrazzo pedestals",
+  "tags": [
+    "crowdfunding",
+    "dark-ui",
+    "lilac",
+    "terrazzo",
+    "3d-scene",
+    "yellow-accent",
+    "mockup"
+  ],
+  "whatItIs": "A glassy phone stands among lilac terrazzo cylinders. The dark screen shows 'Explore' with tab pills, a large product card with a yellow-dial watch, a purple progress bar, funding stats and a lime plus button in the nav.",
+  "whatItMeans": "Premium and playful; a dark UI with neon accents pops against soft pastel props.",
+  "techniques": [
+    "Set a dark UI in a pastel 3D set for high contrast.",
+    "Use terrazzo pedestals as a stage that suggests a showroom.",
+    "Let one product image with a matching accent (yellow watch and lime) carry the screen.",
+    "Use a lime FAB in the centre of the tab bar."
+  ],
+  "bestFor": [
+    "Marketplace, crowdfunding and product apps",
+    "App launch visuals",
+    "Dark UI presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Terrazzo",
+      "definition": "A speckled surface texture used in props and backgrounds."
+    },
+    {
+      "term": "Pedestal stage",
+      "definition": "Cylindrical platforms used to display a product."
+    },
+    {
+      "term": "FAB",
+      "definition": "A floating action button."
+    },
+    {
+      "term": "Progress bar card",
+      "definition": "A card showing funding progress."
+    }
+  ]
+}

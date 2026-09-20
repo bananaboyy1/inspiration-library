@@ -1,0 +1,48 @@
+{
+  "name": "web-crypto-stablecoin-site-with-lavender-flower-hills-and-3d-coins",
+  "image": "images/web-crypto-stablecoin-site-with-lavender-flower-hills-and-3d-coins.jpg",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Stablecoin site with lavender flower-hill hero, giant coins, dark navy cards and a 3D temple",
+  "tags": [
+    "fintech",
+    "crypto",
+    "lavender",
+    "3d-render",
+    "flowers",
+    "navy-cards",
+    "rounded",
+    "light-weight-type"
+  ],
+  "whatItIs": "A pale grey page with a rounded hero panel: a lilac sky and hills of purple flowers with two huge metallic coins, centred headline 'Where Money Grows' and black button. Below are three cards (one lilac with a coin and coneflower, two dark navy), a logo strip, and a use-cases block with a lilac 3D temple among flowers.",
+  "whatItMeans": "Soft, growing and trustworthy; nature imagery makes yield feel organic.",
+  "techniques": [
+    "Render metaphor scenes (coins in flower fields) in one lilac palette.",
+    "Use big rounded image panels inside a neutral page.",
+    "Mix one light card with dark navy cards for contrast.",
+    "Keep type light and centred."
+  ],
+  "bestFor": [
+    "Crypto and DeFi products with a human tone",
+    "Metaphor-driven fintech",
+    "Lavender-branded landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metaphor render",
+      "definition": "A 3D scene illustrating an idea such as growth."
+    },
+    {
+      "term": "Hero panel",
+      "definition": "A rounded image block at the top of the page."
+    },
+    {
+      "term": "Navy card",
+      "definition": "A dark blue rounded content card."
+    },
+    {
+      "term": "Use-case block",
+      "definition": "A card presenting one application."
+    }
+  ]
+}

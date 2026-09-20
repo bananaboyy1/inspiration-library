@@ -1,0 +1,48 @@
+{
+  "name": "web-multicolour-beauty-salon-site-with-pink-lime-and-blue-bands",
+  "image": "images/web-multicolour-beauty-salon-site-with-pink-lime-and-blue-bands.png",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Beauty-salon site in pink, lime and periwinkle bands with photo cards and giant closing wordmark",
+  "tags": [
+    "beauty",
+    "salon",
+    "pink",
+    "lime",
+    "periwinkle",
+    "cards",
+    "bold-caps",
+    "cyrillic"
+  ],
+  "whatItIs": "Two page columns of a salon site: hero with a face painted with yarn lines and an uppercase headline, service cards in lime, blue and pink, offer tiles, three numbered colour strips, master profile cards grouped by coloured sections, feedback with lime quote card, a booking form on periwinkle with a portrait, an FAQ list, a lime map card and a pink footer with a giant black 'LUMORA'.",
+  "whatItMeans": "Energetic and youthful; saturated colour blocks mirror vivid makeup.",
+  "techniques": [
+    "Assign each section its own saturated colour.",
+    "Use rounded cards with photos and round arrow buttons.",
+    "Close with a giant wordmark.",
+    "Use heavy extended uppercase headings."
+  ],
+  "bestFor": [
+    "Beauty and salon sites",
+    "Colour-block web design",
+    "Service lists with staff cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour-coded section",
+      "definition": "Each section in a distinct brand colour."
+    },
+    {
+      "term": "Master card",
+      "definition": "A staff profile card."
+    },
+    {
+      "term": "Arrow button",
+      "definition": "A small circular arrow action."
+    },
+    {
+      "term": "Giant footer name",
+      "definition": "An oversized brand name at the bottom."
+    }
+  ]
+}

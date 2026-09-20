@@ -1,0 +1,44 @@
+{
+  "name": "web-dark-grid-lines-agentic-dashboard-landing",
+  "image": "images/web-dark-grid-lines-agentic-dashboard-landing.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Dark Blueprint Landing with Dashboard Preview",
+  "tags": [
+    "dark",
+    "grid-lines",
+    "blueprint",
+    "monospace",
+    "dashboard",
+    "enterprise",
+    "striped-logo"
+  ],
+  "whatItIs": "A dark charcoal landing page with a large striped-circle logo beside the headline 'Agentic TPM', outlined and solid blue buttons, thin vertical guide lines framing the page, a dashboard preview inside a window frame and mono-type labels.",
+  "whatItMeans": "Hairline rules and monospace labels give a technical, engineered feel, like a blueprint, while the single blue accent stays confident and focused.",
+  "techniques": [
+    "Visible hairline column guides framing the content",
+    "Blue filled CTA next to an outlined ghost CTA",
+    "Monospace uppercase labels for a technical voice",
+    "Dashboard shown in a window frame that is cut off at the bottom",
+    "Logo strip labeled 'Built by team from' for credibility"
+  ],
+  "bestFor": [
+    "Developer and enterprise tools",
+    "B2B software with a serious tone",
+    "Products for technical managers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Guide lines",
+      "definition": "Visible thin lines that expose the layout grid as decoration."
+    },
+    {
+      "term": "Ghost button",
+      "definition": "A button with only an outline and no fill."
+    },
+    {
+      "term": "Mono label",
+      "definition": "Small uppercase monospace text used as a technical caption."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-success-badge-pill-in-mint-green-with-arrow",
+  "image": "images/web-success-badge-pill-in-mint-green-with-arrow.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Mint green pill badge 'Success | New feature added ↗' with a lighter inner tag",
+  "tags": [
+    "component",
+    "badge",
+    "pill",
+    "green",
+    "success",
+    "arrow",
+    "soft",
+    "ui-kit"
+  ],
+  "whatItIs": "A mint capsule with a light green border, an inner pale 'Success' tag, the text 'New feature added' and a diagonal arrow in dark green.",
+  "whatItMeans": "Positive and calm; a green tonal pill signals success without shouting.",
+  "techniques": [
+    "Use tonal green for success.",
+    "Nest a lighter tag.",
+    "Add a link arrow.",
+    "Keep text dark green."
+  ],
+  "bestFor": [
+    "Success and release badges",
+    "Status notification components",
+    "Tonal system colours"
+  ],
+  "vocabulary": [
+    {
+      "term": "Success state",
+      "definition": "A status colour showing a positive outcome."
+    },
+    {
+      "term": "Tonal pill",
+      "definition": "A capsule using shades of one hue."
+    },
+    {
+      "term": "Release note badge",
+      "definition": "A small pill announcing a new feature."
+    },
+    {
+      "term": "Inner highlight",
+      "definition": "A lighter area inside a pill."
+    }
+  ]
+}

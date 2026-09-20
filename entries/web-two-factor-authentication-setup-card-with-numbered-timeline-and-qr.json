@@ -1,0 +1,48 @@
+{
+  "name": "web-two-factor-authentication-setup-card-with-numbered-timeline-and-qr",
+  "image": "images/web-two-factor-authentication-setup-card-with-numbered-timeline-and-qr.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White card 'Enable Two-Factor Authentication' with a shield icon, a vertical numbered timeline, a QR code and six code boxes",
+  "tags": [
+    "component",
+    "two-factor",
+    "security",
+    "white",
+    "timeline",
+    "qr-code",
+    "code-input",
+    "minimal"
+  ],
+  "whatItIs": "A white rounded card with a soft circle holding a shield icon, a centred bold title and grey subtitle, a hairline and three numbered steps linked by a thin vertical line: Download app, Scan QR code with a QR image, and Enter code with six empty rounded input boxes.",
+  "whatItMeans": "Clear and reassuring; a numbered timeline makes a security setup feel manageable.",
+  "techniques": [
+    "Show steps on a vertical timeline.",
+    "Place the QR inside the step it belongs to.",
+    "Use six separate code boxes.",
+    "Use a soft icon halo."
+  ],
+  "bestFor": [
+    "Security setup flows",
+    "Stepwise settings cards",
+    "OTP input components"
+  ],
+  "vocabulary": [
+    {
+      "term": "Vertical timeline",
+      "definition": "Numbered steps joined by a vertical line."
+    },
+    {
+      "term": "Code input",
+      "definition": "Separate boxes for each digit of a code."
+    },
+    {
+      "term": "Icon halo",
+      "definition": "A soft circle behind an icon."
+    },
+    {
+      "term": "Setup card",
+      "definition": "A card guiding a multi-step task."
+    }
+  ]
+}

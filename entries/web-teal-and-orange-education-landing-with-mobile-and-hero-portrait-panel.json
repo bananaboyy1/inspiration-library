@@ -1,0 +1,48 @@
+{
+  "name": "web-teal-and-orange-education-landing-with-mobile-and-hero-portrait-panel",
+  "image": "images/web-teal-and-orange-education-landing-with-mobile-and-hero-portrait-panel.webp",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Edubox landing page in deep teal, peach and orange with a hero portrait, category cards and a matching mobile screen on a teal gradient",
+  "tags": [
+    "education",
+    "teal",
+    "peach",
+    "orange",
+    "hero-portrait",
+    "category-cards",
+    "mobile",
+    "gradient-backdrop"
+  ],
+  "whatItIs": "A gradient backdrop (coral, yellow, teal) with a desktop page in peach and deep teal: a headline 'Build Your Skills on the Best Platform' with 'Best' in an orange pill, Get Started and Video Play buttons, student avatars, a portrait of a woman in a yellow hoodie on a striped peach card over teal, a row of category cards (Language, Graphic Design highlighted in teal, Content Writing, Finance) and an About block; beside it a phone with the same hero.",
+  "whatItMeans": "Energetic and reassuring; teal and orange make education feel fresh.",
+  "techniques": [
+    "Highlight one word in an orange pill.",
+    "Place the hero portrait on a striped card.",
+    "Highlight the selected category in teal.",
+    "Repeat the hero on mobile."
+  ],
+  "bestFor": [
+    "Education and online course sites",
+    "Teal-orange palettes",
+    "Hero portrait layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Word pill",
+      "definition": "A headline word set inside a coloured pill."
+    },
+    {
+      "term": "Striped portrait card",
+      "definition": "A photo on a card with a wavy line pattern."
+    },
+    {
+      "term": "Category card",
+      "definition": "A card with an icon and a subject."
+    },
+    {
+      "term": "Avatar row",
+      "definition": "A row of small student portraits."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-in-hand-close-up-with-huge-text-and-floating-cards-lime-black",
+  "image": "images/app-in-hand-close-up-with-huge-text-and-floating-cards-lime-black.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Tilted hand-held app with 'Good morning, Alex' and floating black reward and status chips",
+  "tags": [
+    "mobility",
+    "lime",
+    "black",
+    "hand",
+    "photo-blur",
+    "floating-chips",
+    "real-life",
+    "giant-type"
+  ],
+  "whatItIs": "A photograph of a hand holding a tilted phone against a blurred dark sweater, the screen showing a huge greeting, a black map with a lime route and a 'Book a ride' lime bar. Black chips for rewards and safety status float outside, with a white headline below where the middle phrase is lime.",
+  "whatItMeans": "Real and premium; the photo grounds the UI in everyday life.",
+  "techniques": [
+    "Shoot the device in a real hand with soft blur.",
+    "Float black chips outside the screen for key facts.",
+    "Colour the middle of a big statement lime.",
+    "Fade the photo to black under the text."
+  ],
+  "bestFor": [
+    "App-in-real-life showcases",
+    "Neon-accent mobility products",
+    "Photo-plus-UI case study pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "In real life shot",
+      "definition": "A UI shown in a real setting."
+    },
+    {
+      "term": "Floating chip",
+      "definition": "A UI card placed outside the device."
+    },
+    {
+      "term": "Photo fade",
+      "definition": "An image dissolving into black."
+    },
+    {
+      "term": "Greeting hero",
+      "definition": "A big personalised hello as the screen's headline."
+    }
+  ]
+}

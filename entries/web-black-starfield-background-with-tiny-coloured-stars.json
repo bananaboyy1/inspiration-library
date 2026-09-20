@@ -1,0 +1,48 @@
+{
+  "name": "web-black-starfield-background-with-tiny-coloured-stars",
+  "image": "images/web-black-starfield-background-with-tiny-coloured-stars.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Black pixel-grid night sky with scattered tiny white, blue and pink stars and one shooting streak",
+  "tags": [
+    "background",
+    "stars",
+    "dark",
+    "starfield",
+    "pixel",
+    "minimal",
+    "space",
+    "particles"
+  ],
+  "whatItIs": "A near-black canvas covered by a very faint square pixel grid with scattered single-pixel stars in white, pale blue and pink, and a short diagonal streak at the upper left.",
+  "whatItMeans": "Quiet and expansive; a few stars make emptiness feel like space.",
+  "techniques": [
+    "Scatter sparse single-pixel stars.",
+    "Add a faint pixel grid.",
+    "Include one shooting streak.",
+    "Keep the base near black."
+  ],
+  "bestFor": [
+    "Space and night hero backgrounds",
+    "Dark pixel textures",
+    "Particle-field backdrops"
+  ],
+  "vocabulary": [
+    {
+      "term": "Starfield",
+      "definition": "A background of scattered small stars."
+    },
+    {
+      "term": "Pixel grid",
+      "definition": "A faint grid of square pixels."
+    },
+    {
+      "term": "Shooting streak",
+      "definition": "A short diagonal line suggesting a meteor."
+    },
+    {
+      "term": "Sparse particles",
+      "definition": "A few well-spaced points on a dark field."
+    }
+  ]
+}

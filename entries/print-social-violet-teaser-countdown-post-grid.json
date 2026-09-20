@@ -1,0 +1,48 @@
+{
+  "name": "print-social-violet-teaser-countdown-post-grid",
+  "image": "images/print-social-violet-teaser-countdown-post-grid.jpg",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "title": "Nine violet launch teaser posts with countdown, mic and dark phone screens",
+  "tags": [
+    "launch",
+    "teaser",
+    "violet",
+    "countdown",
+    "podcast-app",
+    "phone-mockups",
+    "grid",
+    "3d-microphone"
+  ],
+  "whatItIs": "A 3x3 grid of square rounded posts on violet with a small logo at each top. They include a flip-clock countdown '3 2 1', a Spotify-powered UI, dark phone screens with green accents, a chrome 3D microphone with avatars, a portrait of a man with headphones and a black 'Something exciting is on the way!' card.",
+  "whatItMeans": "Hype and community energy; violet plus dark screens feel like music and nightlife.",
+  "techniques": [
+    "Build teaser posts around a countdown clock graphic.",
+    "Keep one background violet with wavy texture for all posts.",
+    "Alternate device mockups with a hero object and a portrait.",
+    "Use a single black post in the grid as a pause."
+  ],
+  "bestFor": [
+    "App launch teasers and countdowns",
+    "Music and podcast products",
+    "Coming-soon campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flip clock",
+      "definition": "A countdown numeral style with split cards."
+    },
+    {
+      "term": "Teaser post",
+      "definition": "A post hinting at a coming launch."
+    },
+    {
+      "term": "Wavy texture",
+      "definition": "Subtle curved shapes in a background."
+    },
+    {
+      "term": "Pause card",
+      "definition": "A darker post breaking the grid rhythm."
+    }
+  ]
+}

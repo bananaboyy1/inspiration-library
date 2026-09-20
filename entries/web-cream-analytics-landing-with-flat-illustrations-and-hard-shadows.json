@@ -1,0 +1,48 @@
+{
+  "name": "web-cream-analytics-landing-with-flat-illustrations-and-hard-shadows",
+  "image": "images/web-cream-analytics-landing-with-flat-illustrations-and-hard-shadows.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Cream analytics page with flat character illustration, thick black outlines and raspberry buttons",
+  "tags": [
+    "saas",
+    "cream",
+    "illustration",
+    "neo-brutalism",
+    "raspberry",
+    "hard-shadow",
+    "flat",
+    "icons"
+  ],
+  "whatItIs": "A cream page with a nav, a bold centred headline 'Understand your visitors Grow your business', an email field with a raspberry button in a hard-shadow outline, two flat-illustrated characters at desks with a cactus and charts over a wavy black line, logos, a video placeholder with hard shadow, and three step illustrations.",
+  "whatItMeans": "Friendly and quirky; flat drawings and hard shadows make analytics approachable.",
+  "techniques": [
+    "Outline every element in thick black with a hard offset shadow.",
+    "Draw flat characters in muted colours.",
+    "Divide sections with a wavy black line.",
+    "Use raspberry as the single accent."
+  ],
+  "bestFor": [
+    "Friendly SaaS and analytics tools",
+    "Illustration-led landing pages",
+    "Neo-brutalist light pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hard offset shadow",
+      "definition": "A solid unblurred shadow."
+    },
+    {
+      "term": "Flat illustration",
+      "definition": "Drawings with flat colour and simple shapes."
+    },
+    {
+      "term": "Wavy divider",
+      "definition": "A curved line separating sections."
+    },
+    {
+      "term": "Accent button",
+      "definition": "A button in the single accent colour."
+    }
+  ]
+}

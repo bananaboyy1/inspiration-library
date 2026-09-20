@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-fitness-dashboard-with-coral-gradient-hero-and-calendar",
+  "image": "images/app-dark-fitness-dashboard-with-coral-gradient-hero-and-calendar.webp",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Dark bento fitness dashboard: month calendar, coral portrait hero, gradient progress bars and small widgets",
+  "tags": [
+    "dashboard",
+    "fitness",
+    "dark",
+    "coral",
+    "bento",
+    "calendar",
+    "gradient-bars",
+    "widgets"
+  ],
+  "whatItIs": "A charcoal bento dashboard with a left icon rail, a month activity calendar with coral selected date and dots, three progress bars with tinted gradients (water, steps, calories), a large coral-to-maroon hero card with a portrait and 'Your Body, Your Power.', a weekly bar chart and two widgets for timer and hydration.",
+  "whatItMeans": "Warm and powerful; coral on charcoal feels energetic yet calm.",
+  "techniques": [
+    "Build a bento of rounded dark cards.",
+    "Use coral as the single accent.",
+    "Give progress bars a soft gradient.",
+    "Add a large photographic hero card."
+  ],
+  "bestFor": [
+    "Fitness and health dashboards",
+    "Dark bento layouts",
+    "Coral accent systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento dashboard",
+      "definition": "A dashboard of varied rounded tiles."
+    },
+    {
+      "term": "Selected date",
+      "definition": "A highlighted day in a calendar."
+    },
+    {
+      "term": "Gradient progress bar",
+      "definition": "A bar with a tinted gradient fill."
+    },
+    {
+      "term": "Hero card",
+      "definition": "A large photo card at the top."
+    }
+  ]
+}

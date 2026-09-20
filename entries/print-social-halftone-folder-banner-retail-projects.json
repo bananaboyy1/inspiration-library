@@ -1,0 +1,47 @@
+{
+  "name": "print-social-halftone-folder-banner-retail-projects",
+  "image": "images/print-social-halftone-folder-banner-retail-projects.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Galaxy halftone banner with a 'retail projects' folder",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "galaxy",
+    "blue",
+    "desktop-metaphor",
+    "series"
+  ],
+  "whatItIs": "A wide banner with a blue-purple galaxy image treated in coarse halftone dots. A manila folder labelled 'retail projects' sits at centre, with a cursor, a white scribble, and Photoshop, Figma, Illustrator and spark icons.",
+  "whatItMeans": "Deep and cosmic yet nostalgic; halftone gives space imagery a print feel.",
+  "techniques": [
+    "Convert a dramatic photo to halftone so it becomes texture.",
+    "Keep the folder in the same position across a series.",
+    "Use a white scribble burst for contrast against a dark background.",
+    "Include tool icons as skill hints."
+  ],
+  "bestFor": [
+    "Portfolio and service-category banners",
+    "Creator profile headers",
+    "Divider images in decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Halftone image",
+      "definition": "A photograph rendered as a dot pattern."
+    },
+    {
+      "term": "Series consistency",
+      "definition": "Reusing one composition with changed content."
+    },
+    {
+      "term": "Cursor graphic",
+      "definition": "A pixel arrow used as a decorative pointer."
+    },
+    {
+      "term": "Galaxy texture",
+      "definition": "Star-field imagery as a background."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-thank-you-slide-with-close-up-phone-and-glass-buttons",
+  "image": "images/web-thank-you-slide-with-close-up-phone-and-glass-buttons.png",
+  "discipline": "web",
+  "designType": "Closing banner",
+  "title": "Thank-you slide with an orange phone close-up in hand, blue pill buttons and contact details",
+  "tags": [
+    "closing",
+    "hand",
+    "orange-phone",
+    "grey",
+    "blue-pills",
+    "contact",
+    "real-estate",
+    "fintech"
+  ],
+  "whatItIs": "A grey rounded panel with a close-up of a hand holding an orange phone showing a property yield screen, giant faded 'THANK YOU FOR WATCHING', blue rotated 'Appreciate' and 'Follow' pills, a services list and an email.",
+  "whatItMeans": "Friendly and social; platform-style buttons invite engagement.",
+  "techniques": [
+    "Enlarge a UI close-up as the backdrop.",
+    "Overlay faded giant text.",
+    "Tilt blue action pills.",
+    "List services at the bottom left."
+  ],
+  "bestFor": [
+    "Case-study endings",
+    "Behance-style sign-offs",
+    "Fintech and property"
+  ],
+  "vocabulary": [
+    {
+      "term": "Engagement pill",
+      "definition": "A button-shaped prompt like Follow."
+    },
+    {
+      "term": "Faded giant text",
+      "definition": "Large low-opacity words."
+    },
+    {
+      "term": "Close-up backdrop",
+      "definition": "A magnified photo behind text."
+    },
+    {
+      "term": "Services list",
+      "definition": "A short list of offered disciplines."
+    }
+  ]
+}

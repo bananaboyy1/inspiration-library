@@ -1,0 +1,48 @@
+{
+  "name": "web-pricing-plans-and-footer-with-floating-3d-icon-tiles",
+  "image": "images/web-pricing-plans-and-footer-with-floating-3d-icon-tiles.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Pricing with a raised blue Pro card and a footer strewn with floating 3D app-icon tiles",
+  "tags": [
+    "pricing",
+    "footer",
+    "blue",
+    "white",
+    "3d-icons",
+    "raised-card",
+    "saas",
+    "light"
+  ],
+  "whatItIs": "A white page with a 'Pricing' pill, 'Simple pricing plans', three cards in which the middle Pro plan is saturated blue and lifted with a lightning tile and a white button while the others are pale with blue buttons, and a grey dotted footer 'Stay organized and boost your productivity' with link columns and scattered 3D icon tiles (calendar, clock, check, flag, bulb, hourglass, chevrons).",
+  "whatItMeans": "Clear and cheerful; a raised blue plan guides choice and floating icons add play to the footer.",
+  "techniques": [
+    "Raise and colour the recommended plan.",
+    "Use small 3D tiles as decoration.",
+    "Keep other cards pale.",
+    "Use a dotted texture in the footer."
+  ],
+  "bestFor": [
+    "SaaS pricing sections",
+    "Playful footers",
+    "Blue productivity brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Raised plan",
+      "definition": "A pricing card lifted above the others."
+    },
+    {
+      "term": "3D icon tile",
+      "definition": "A rendered app-icon tile with soft shadow."
+    },
+    {
+      "term": "Dotted texture",
+      "definition": "A fine dot pattern as a surface."
+    },
+    {
+      "term": "Best choice tag",
+      "definition": "A short label on the recommended plan."
+    }
+  ]
+}

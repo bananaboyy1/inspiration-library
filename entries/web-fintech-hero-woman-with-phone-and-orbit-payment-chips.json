@@ -1,0 +1,48 @@
+{
+  "name": "web-fintech-hero-woman-with-phone-and-orbit-payment-chips",
+  "image": "images/web-fintech-hero-woman-with-phone-and-orbit-payment-chips.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "White studio shot of a woman with a phone, a navy arc linking payment chips and italic-serif 'Pay Send Track'",
+  "tags": [
+    "hero",
+    "fintech",
+    "white",
+    "motion-blur",
+    "arc",
+    "chips",
+    "italic-serif",
+    "navy"
+  ],
+  "whatItIs": "A white cyclorama with a woman in navy top and light jeans looking at her phone, blurred pedestrians walking behind, a navy arc connecting two floating payment chips, and stacked words 'Pay' (italic serif), 'Send', 'Track' in navy at right.",
+  "whatItMeans": "Calm amid motion; the still figure with a blurred crowd says control.",
+  "techniques": [
+    "Blur passers-by against a still subject.",
+    "Draw a single arc linking UI chips around her.",
+    "Stack action verbs with one in italic serif.",
+    "Keep the palette navy on white."
+  ],
+  "bestFor": [
+    "Fintech hero visuals",
+    "Payment brand films and key art",
+    "Minimal white campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Still-in-motion",
+      "definition": "A sharp subject among blurred movement."
+    },
+    {
+      "term": "Payment chip",
+      "definition": "A small floating card showing an amount."
+    },
+    {
+      "term": "Verb stack",
+      "definition": "Action words stacked as a headline."
+    },
+    {
+      "term": "Cyclorama",
+      "definition": "A seamless white studio backdrop."
+    }
+  ]
+}

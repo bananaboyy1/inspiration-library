@@ -1,0 +1,48 @@
+{
+  "name": "app-workout-discovery-text-slide-and-three-phones-white-black-violet",
+  "image": "images/app-workout-discovery-text-slide-and-three-phones-white-black-violet.png",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "title": "White slide with a centred dimmed-and-bold paragraph and three phones: workouts list, dark workout detail and violet schedule",
+  "tags": [
+    "fitness",
+    "white",
+    "black",
+    "violet",
+    "case-study",
+    "paragraph",
+    "phones",
+    "workouts"
+  ],
+  "whatItIs": "A white board with tiny corner labels, a centred paragraph where some sentences are grey, and three phones: a white Workouts list with thumbnail rows and a search, a dark workout detail with a photo and a white Begin workout button, and a violet gradient Select Workout with pills and time cards.",
+  "whatItMeans": "Clear and structured; three moods (light, dark, violet) show range in one flow.",
+  "techniques": [
+    "Dim sentences in a centred paragraph.",
+    "Use white, dark and violet screens together.",
+    "Stagger phones on a white board.",
+    "Keep tiny corner labels."
+  ],
+  "bestFor": [
+    "Fitness app case studies",
+    "Discovery and scheduling flows",
+    "Minimal white boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dimmed paragraph",
+      "definition": "A paragraph with some sentences in grey."
+    },
+    {
+      "term": "Mood range",
+      "definition": "Screens shown in light, dark and colour."
+    },
+    {
+      "term": "Workout row",
+      "definition": "A list item with thumbnail and metadata."
+    },
+    {
+      "term": "Bookmark button",
+      "definition": "A save icon on a list item."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "app-store-listing-screenshot-styles-comparison",
+  "image": "images/app-store-listing-screenshot-styles-comparison.png",
+  "discipline": "app",
+  "designType": "App store presentation",
+  "title": "App Store listing screenshots in bold poster styles",
+  "tags": [
+    "app-store",
+    "screenshots",
+    "marketing",
+    "purple-orange",
+    "photography",
+    "diagonal-split",
+    "listing"
+  ],
+  "whatItIs": "A diagonal-split collage of App Store pages: a dark 'Your App' template with blue placeholder screenshots, and listings with vibrant screenshot posters such as purple and orange sound equalizers, a translation app with a rainbow globe, and a photo-led memory app.",
+  "whatItMeans": "Shows how the listing itself is a design surface; big headlines in screenshots sell before anyone reads.",
+  "techniques": [
+    "Turn each screenshot into a mini poster with a bold headline above a phone.",
+    "Use a consistent gradient background across a screenshot set.",
+    "Mix illustration, real photography or 3D depending on the app's voice.",
+    "Use a diagonal cut to compare styles."
+  ],
+  "bestFor": [
+    "App store marketing design",
+    "Growth and product marketing teams",
+    "Comparing visual approaches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Store screenshot",
+      "definition": "A marketing image displayed in an app listing."
+    },
+    {
+      "term": "Headline-over-device",
+      "definition": "Big text above a phone in a screenshot."
+    },
+    {
+      "term": "Listing page",
+      "definition": "The store page describing an app."
+    },
+    {
+      "term": "Diagonal split",
+      "definition": "Two areas divided by an angled line."
+    }
+  ]
+}

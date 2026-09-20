@@ -1,0 +1,49 @@
+{
+  "name": "branding-blue-orange-yellow-palette-type-and-icon-board",
+  "image": "images/branding-blue-orange-yellow-palette-type-and-icon-board.png",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Bento brand board: blue ramp, warm gradient, type specimen, hex stripes and orbit icon",
+  "tags": [
+    "brand-board",
+    "bento",
+    "blue",
+    "orange",
+    "yellow",
+    "typography",
+    "gradient",
+    "icon",
+    "hex-codes"
+  ],
+  "whatItIs": "A white grid of rounded tiles: a stepped blue ramp, an orange-yellow gradient, a Let's talk button, a cream typeface card with 'Roobert', a navy specimen tile with AaBbCc and numerals, an orange gradient tile with a white orbit-heart icon, and vertical colour bars with hex codes.",
+  "whatItMeans": "Friendly and optimistic; cool blue with sunny gradients feels warm and approachable.",
+  "techniques": [
+    "Arrange all identity parts as a bento of rounded tiles.",
+    "Show colour as ramps, gradients and labelled bars together.",
+    "Render type as a giant specimen on a dark tile.",
+    "Use a gradient tile for the icon."
+  ],
+  "bestFor": [
+    "Brand guideline overviews",
+    "AI and consumer app identities",
+    "Single-sheet brand summaries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento brand board",
+      "definition": "A modular grid summarising a brand."
+    },
+    {
+      "term": "Colour ramp",
+      "definition": "A stepped series of tones of one hue."
+    },
+    {
+      "term": "Gradient tile",
+      "definition": "A tile filled with a colour blend."
+    },
+    {
+      "term": "Hex bar",
+      "definition": "A vertical swatch labelled with its code."
+    }
+  ]
+}

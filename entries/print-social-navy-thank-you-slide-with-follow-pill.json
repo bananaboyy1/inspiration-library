@@ -1,0 +1,48 @@
+{
+  "name": "print-social-navy-thank-you-slide-with-follow-pill",
+  "image": "images/print-social-navy-thank-you-slide-with-follow-pill.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Navy sign-off slide with 'Thanks for watching', follow pill and contact rows",
+  "tags": [
+    "closing-slide",
+    "navy",
+    "white",
+    "follow-button",
+    "thumbs-up",
+    "contact-rows",
+    "agency",
+    "hairline"
+  ],
+  "whatItIs": "A deep navy slide with a huge white sans headline where a tilted blue thumbs-up pill and a blue '+ Follow' pill sit between the words, a small thumbnail of a website peeks in place of a word, and two hairline rows list Email and Web with values on the right.",
+  "whatItMeans": "Friendly and social-native; the sign-off mimics platform buttons so viewers feel invited to follow.",
+  "techniques": [
+    "Insert UI-like pills (like, follow) between words of a headline.",
+    "Replace a word with a live thumbnail of the work.",
+    "List contact details as hairline rows with labels left and values right.",
+    "Use one vivid blue on navy."
+  ],
+  "bestFor": [
+    "Case-study closing slides",
+    "Agency sign-offs",
+    "Social-platform-first portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inline UI pill",
+      "definition": "A button-like graphic embedded within a headline."
+    },
+    {
+      "term": "Hairline row",
+      "definition": "A list line separated by a thin rule."
+    },
+    {
+      "term": "Thumbnail word",
+      "definition": "A small image standing in for a word."
+    },
+    {
+      "term": "Follow prompt",
+      "definition": "A graphic urging viewers to follow."
+    }
+  ]
+}

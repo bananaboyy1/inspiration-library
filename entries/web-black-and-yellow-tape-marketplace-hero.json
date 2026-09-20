@@ -1,0 +1,49 @@
+{
+  "name": "web-black-and-yellow-tape-marketplace-hero",
+  "image": "images/web-black-and-yellow-tape-marketplace-hero.jpg",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Dark marketplace site with a yellow caution-tape ticker and condensed headlines",
+  "tags": [
+    "landing-page",
+    "dark",
+    "yellow",
+    "condensed-type",
+    "caution-tape",
+    "marquee",
+    "globe-lines",
+    "marketplace"
+  ],
+  "whatItIs": "A laptop floating above a continuing screen. The dark navy hero has thin globe lines with yellow dots, a condensed white and yellow headline, small pills, a yellow CTA, and a diagonal yellow tape ticker of avatars and slogans. Below are chips of use cases and a bright yellow product block.",
+  "whatItMeans": "Loud, urban and busy; yellow tape reads like a live activation.",
+  "techniques": [
+    "Set a diagonal yellow tape strip as a ticker across the hero.",
+    "Use tall condensed uppercase with yellow emphasis words.",
+    "Add faint globe or network lines as a background pattern.",
+    "Pour a chip cloud of example use cases under the hero.",
+    "Let the page extend out of the laptop to show length."
+  ],
+  "bestFor": [
+    "Marketplaces and campaign-based platforms",
+    "Youth and social brands",
+    "Bold black and yellow identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tape ticker",
+      "definition": "A tilted band with repeating slogans, like caution tape."
+    },
+    {
+      "term": "Chip cloud",
+      "definition": "A collection of small tags showing example queries."
+    },
+    {
+      "term": "Globe lines",
+      "definition": "Fine lines suggesting a wireframe globe."
+    },
+    {
+      "term": "Overflowing mockup",
+      "definition": "A page that continues beyond the device frame."
+    }
+  ]
+}

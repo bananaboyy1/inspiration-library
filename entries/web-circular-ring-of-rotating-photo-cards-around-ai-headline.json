@@ -1,0 +1,48 @@
+{
+  "name": "web-circular-ring-of-rotating-photo-cards-around-ai-headline",
+  "image": "images/web-circular-ring-of-rotating-photo-cards-around-ai-headline.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Ring of small rounded photo cards arranged in a circle around the centred line 'The future is built on AI.' and a scroll cue",
+  "tags": [
+    "hero",
+    "gallery",
+    "circle",
+    "photo-cards",
+    "white",
+    "minimal",
+    "scroll",
+    "kinetic"
+  ],
+  "whatItIs": "A white page with about twenty small tilted rounded photos (mountains, lakes, forest, dusk skies) placed evenly around a large circle, and inside it a centred light headline 'The future is built on AI.' with a tiny 'SCROLL TO EXPLORE' line.",
+  "whatItMeans": "Airy and kinetic; a ring of images frames a single line and hints at rotation.",
+  "techniques": [
+    "Place photos evenly on a circle.",
+    "Tilt each tile along the ring.",
+    "Centre one calm headline.",
+    "Add a small scroll cue."
+  ],
+  "bestFor": [
+    "Hero sections with rotating galleries",
+    "Minimal photography sites",
+    "Circular layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo ring",
+      "definition": "Photos arranged around a circle."
+    },
+    {
+      "term": "Radial tilt",
+      "definition": "Each item rotated to follow the circle."
+    },
+    {
+      "term": "Scroll cue",
+      "definition": "A small line inviting the user to scroll."
+    },
+    {
+      "term": "Centre statement",
+      "definition": "A headline inside a ring of images."
+    }
+  ]
+}

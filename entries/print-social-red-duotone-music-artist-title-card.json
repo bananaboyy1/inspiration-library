@@ -1,0 +1,48 @@
+{
+  "name": "print-social-red-duotone-music-artist-title-card",
+  "image": "images/print-social-red-duotone-music-artist-title-card.png",
+  "discipline": "print-social",
+  "designType": "Music and event cover",
+  "title": "Red duotone artist portrait with chunky white title",
+  "tags": [
+    "music",
+    "cover",
+    "red",
+    "duotone",
+    "chunky-type",
+    "portrait",
+    "artist",
+    "bold"
+  ],
+  "whatItIs": "A cover with a red-tinted photo of a man in tinted glasses under a bold red overlay with torn shapes, overlaid by a stacked heavy white title 'BAGUN CINHA'.",
+  "whatItMeans": "Loud, rhythmic and youthful; red heat and thick type create a street-culture punch.",
+  "techniques": [
+    "Tint a photo with one saturated colour and overlay an expressive shape.",
+    "Stack a title in a heavy rounded-blocky face across the centre.",
+    "Let the face peek above the type for human contact.",
+    "Add rough cut-out edges to the overlay."
+  ],
+  "bestFor": [
+    "Music artist and event covers",
+    "Single or album art",
+    "Festival and party promos"
+  ],
+  "vocabulary": [
+    {
+      "term": "Duotone overlay",
+      "definition": "A photo coloured with one strong hue."
+    },
+    {
+      "term": "Stacked title",
+      "definition": "A name set on multiple lines as a block."
+    },
+    {
+      "term": "Torn shape",
+      "definition": "A rough-edged cut-out overlaid on an image."
+    },
+    {
+      "term": "Chunky display face",
+      "definition": "A very heavy, rounded typeface."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-bento-feature-cards-with-fingerprint-ring-and-noise-graph",
+  "image": "images/web-dark-bento-feature-cards-with-fingerprint-ring-and-noise-graph.webp",
+  "discipline": "web",
+  "designType": "Feature illustration",
+  "title": "Five dark bordered feature cards: '100% Customizable' with an oval scribble, a fingerprint, a speed waveform, a growth chart and an avatar list",
+  "tags": [
+    "saas",
+    "dark",
+    "bento",
+    "hand-drawn-oval",
+    "fingerprint",
+    "waveform",
+    "chart",
+    "avatars"
+  ],
+  "whatItIs": "A black page with a bento of hairline-bordered cards: '100% Customizable' inside a scribbled white oval, a fingerprint icon in a circle with 'Secure by default', a download speed waveform with 'Faster than light', a wide card with a rising jagged white line chart in a mini window, and a card with floating name tags and avatars for 'Keep your loved ones safe'.",
+  "whatItMeans": "Minimal and technical; thin lines and small illustrations feel like a modern dev-tool.",
+  "techniques": [
+    "Border cards with hairlines on black.",
+    "Circle a key number with a scribbled oval.",
+    "Illustrate each feature with a tiny graphic.",
+    "Use short bold titles."
+  ],
+  "bestFor": [
+    "Dark SaaS feature bento",
+    "Developer-tool sites",
+    "Minimal illustrated cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hairline card",
+      "definition": "A card with a thin subtle border."
+    },
+    {
+      "term": "Scribbled oval",
+      "definition": "A hand-drawn ring around a word."
+    },
+    {
+      "term": "Mini window chart",
+      "definition": "A chart inside a tiny browser frame."
+    },
+    {
+      "term": "Feature graphic",
+      "definition": "A small image explaining one feature."
+    }
+  ]
+}

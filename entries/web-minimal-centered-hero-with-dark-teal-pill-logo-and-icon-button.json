@@ -1,0 +1,48 @@
+{
+  "name": "web-minimal-centered-hero-with-dark-teal-pill-logo-and-icon-button",
+  "image": "images/web-minimal-centered-hero-with-dark-teal-pill-logo-and-icon-button.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "White hero with a dark teal rounded wordmark, two-line lorem text, a black camera-icon button and an arrow link",
+  "tags": [
+    "hero",
+    "white",
+    "logo",
+    "black-button",
+    "centered",
+    "minimal",
+    "template",
+    "teal"
+  ],
+  "whatItIs": "A white page with a centred dark slate-teal rounded wordmark 'LOOO', a black bold line and a grey second line of placeholder text, and below a black rounded button with a camera icon and a text link 'Dolor Sit Amet ->'.",
+  "whatItMeans": "Neutral and open; a stripped hero shows structure before content.",
+  "techniques": [
+    "Stack logo, headline and buttons on a centre line.",
+    "Pair a black filled button with a text link.",
+    "Use dark teal for the logo only.",
+    "Leave generous white space."
+  ],
+  "bestFor": [
+    "Hero templates",
+    "Minimal brand landing pages",
+    "Wireframe-like placeholders"
+  ],
+  "vocabulary": [
+    {
+      "term": "Centre-line hero",
+      "definition": "A hero with everything centred on one axis."
+    },
+    {
+      "term": "Text link secondary",
+      "definition": "An arrow link next to a primary button."
+    },
+    {
+      "term": "Placeholder copy",
+      "definition": "Lorem ipsum text used in a template."
+    },
+    {
+      "term": "Icon button",
+      "definition": "A button with an icon and a label."
+    }
+  ]
+}

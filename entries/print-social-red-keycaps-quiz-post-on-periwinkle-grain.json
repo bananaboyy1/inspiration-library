@@ -1,0 +1,48 @@
+{
+  "name": "print-social-red-keycaps-quiz-post-on-periwinkle-grain",
+  "image": "images/print-social-red-keycaps-quiz-post-on-periwinkle-grain.png",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Periwinkle grain post with three red keyboard keycaps and tilted red banners: who wins?",
+  "tags": [
+    "language",
+    "quiz",
+    "periwinkle",
+    "red",
+    "keycaps",
+    "dashed-line",
+    "grain",
+    "cyrillic"
+  ],
+  "whatItIs": "A grainy periwinkle post with two tilted red banners with cream caps, three 3D red keycaps labelled Der, Die and Das stacked at the left, a dashed curved divider and a small line 'spoiler: ти' with a red underline.",
+  "whatItMeans": "Playful and clean; keycaps make grammar genders feel like game buttons.",
+  "techniques": [
+    "Use physical keycaps as answer buttons.",
+    "Tilt banners for the question.",
+    "Draw a dashed line separating options from reveal.",
+    "Reveal the answer in tiny text."
+  ],
+  "bestFor": [
+    "Language quizzes",
+    "Interactive-feeling posts",
+    "Retro-tech object posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Keycap object",
+      "definition": "A keyboard key used as a graphic."
+    },
+    {
+      "term": "Answer buttons",
+      "definition": "Options shown as pressable items."
+    },
+    {
+      "term": "Dashed divider",
+      "definition": "A dotted line separating regions."
+    },
+    {
+      "term": "Spoiler line",
+      "definition": "A small reveal at the bottom."
+    }
+  ]
+}

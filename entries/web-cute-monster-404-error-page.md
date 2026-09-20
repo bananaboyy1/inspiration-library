@@ -1,0 +1,29 @@
+# Fuzzy Monster 404 Page
+
+![](../images/web-cute-monster-404-error-page.webp)
+
+**Discipline:** web · **Design type:** Error page
+**Tags:** 404, mascot, 3d, warm, beige, friendly, empty-state
+
+## What it is
+A rounded-frame website 404 page in warm beige with a huge pale '404' whose middle zero is replaced by a fluffy green one-eyed monster looking sad, with a small brown message beneath.
+
+## What it means
+A dead end becomes charming. The mascot's sad face softens the frustration, and the tonal beige palette keeps the page soothing.
+
+## Techniques
+- Replace a digit with a character so the number and mascot fuse
+- Render the big numerals in a tone just off the background so they recede
+- Use a hand-feeling display font for the message and small neutral type for detail
+- Frame the whole page in a rounded inset border for a card-like feeling
+- Give the mascot a facial expression that matches the message
+
+## Best for
+- Error and empty states
+- Kid-friendly or playful brands
+- Adding personality to utility pages
+
+## Vocabulary
+- **Tonal numerals** — Large characters shown in a color close to the background so they act as texture.
+- **Mascot substitution** — Swapping a letter or digit for an illustrated character.
+- **Inset frame** — A rounded border set inside the canvas that contains the layout.

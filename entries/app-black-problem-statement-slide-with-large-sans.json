@@ -1,0 +1,47 @@
+{
+  "name": "app-black-problem-statement-slide-with-large-sans",
+  "image": "images/app-black-problem-statement-slide-with-large-sans.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Problem statement on pure black with one large light sans paragraph",
+  "tags": [
+    "case-study",
+    "problem-statement",
+    "black",
+    "white-type",
+    "centered",
+    "minimal",
+    "large-type"
+  ],
+  "whatItIs": "A black slide with a small grey label 'PROBLEM STATEMENT', a huge centred three-line white sans statement about caregivers balancing rest, and a short grey paragraph beneath.",
+  "whatItMeans": "Serious and clear; nothing competes with the sentence.",
+  "techniques": [
+    "Set the whole slide as one big statement.",
+    "Use a tiny grey label above.",
+    "Keep supporting text short and dimmer.",
+    "Use black only."
+  ],
+  "bestFor": [
+    "Case-study problem slides",
+    "Statement pages",
+    "Dark minimal decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Statement slide",
+      "definition": "A slide built from one key sentence."
+    },
+    {
+      "term": "Eyebrow label",
+      "definition": "A tiny caps label above a headline."
+    },
+    {
+      "term": "Tonal hierarchy",
+      "definition": "White for primary, grey for secondary text."
+    },
+    {
+      "term": "Centred block",
+      "definition": "Text centred on the canvas."
+    }
+  ]
+}

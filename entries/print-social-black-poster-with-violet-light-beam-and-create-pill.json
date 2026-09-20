@@ -1,0 +1,48 @@
+{
+  "name": "print-social-black-poster-with-violet-light-beam-and-create-pill",
+  "image": "images/print-social-black-poster-with-violet-light-beam-and-create-pill.jpg",
+  "discipline": "print-social",
+  "designType": "Social cover post",
+  "title": "Black poster with a glowing pill button emitting a violet light beam over a faint grid",
+  "tags": [
+    "dark",
+    "violet",
+    "light-beam",
+    "pill",
+    "grid",
+    "minimal",
+    "studio",
+    "ai"
+  ],
+  "whatItIs": "A black portrait with a faint line grid, a glass pill with a plus and 'Create' from which a violet light beam fans out to the right, the words 'Brand Intelligence' in the beam and tiny credits and handle in the corners.",
+  "whatItMeans": "Futuristic and focused; a button emitting light suggests creation as a power.",
+  "techniques": [
+    "Turn a UI pill into a light source.",
+    "Fan a coloured beam across the frame.",
+    "Keep a faint grid.",
+    "Use tiny corner text."
+  ],
+  "bestFor": [
+    "AI and creative studio posts",
+    "Dark minimal posters",
+    "UI-inspired art"
+  ],
+  "vocabulary": [
+    {
+      "term": "Light beam",
+      "definition": "A fan of coloured light."
+    },
+    {
+      "term": "UI pill",
+      "definition": "An interface button as a graphic."
+    },
+    {
+      "term": "Faint grid",
+      "definition": "A subtle line grid in the background."
+    },
+    {
+      "term": "Corner credits",
+      "definition": "Small text in the corners."
+    }
+  ]
+}

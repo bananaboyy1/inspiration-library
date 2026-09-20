@@ -1,0 +1,49 @@
+{
+  "name": "app-sun-seeking-onboarding-gradient-screens",
+  "image": "images/app-sun-seeking-onboarding-gradient-screens.png",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Onboarding screens on sunset-to-sky gradients with skin-tone swatches",
+  "tags": [
+    "onboarding",
+    "gradient",
+    "sun",
+    "forms",
+    "skin-type",
+    "black-buttons",
+    "monospace",
+    "health"
+  ],
+  "whatItIs": "Three phones in a row: a peach-to-lilac sign-up with a sunburst icon and Apple/Email buttons; a blue-to-yellow questionnaire with six skin-tone swatch cards and monospace descriptions; and a list of age options with the selected one in black.",
+  "whatItMeans": "Warm, open and reassuring; the sun-inspired gradients make a personal questionnaire feel gentle.",
+  "techniques": [
+    "Use a full-screen sunrise gradient as the background of a sign-in screen.",
+    "Show skin-tone options as coloured circles in tappable cards.",
+    "Highlight the selected option by inverting to black.",
+    "Add a step counter and back arrow to show progress.",
+    "Use monospace text for descriptors."
+  ],
+  "bestFor": [
+    "Health and sun-safety apps",
+    "Questionnaire and onboarding flows",
+    "Apps needing an inclusive, friendly tone"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sunrise gradient",
+      "definition": "A gradient moving from warm orange through yellow to blue."
+    },
+    {
+      "term": "Swatch card",
+      "definition": "A tappable card with a colour sample."
+    },
+    {
+      "term": "Inverted selection",
+      "definition": "Selected state shown as black fill with white text."
+    },
+    {
+      "term": "Step counter",
+      "definition": "Shows progress like 3 / 12."
+    }
+  ]
+}

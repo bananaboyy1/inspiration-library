@@ -1,0 +1,48 @@
+{
+  "name": "web-fashion-listing-page-desktop-and-mobile-over-silhouette",
+  "image": "images/web-fashion-listing-page-desktop-and-mobile-over-silhouette.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Hoodie listing pages with filter column, 4-up grid and cropped footer wordmark over a dark silhouette",
+  "tags": [
+    "e-commerce",
+    "plp",
+    "filters",
+    "grid",
+    "dark-backdrop",
+    "mobile",
+    "giant-footer-wordmark",
+    "fashion"
+  ],
+  "whatItIs": "A dark gradient board with an uppercase intro sentence and two white pages: a desktop listing with a collapsible filter column, a four-column grid of models in hoodies with names and prices, pagination, and black footer with a cropped giant wordmark; and a two-column mobile version.",
+  "whatItMeans": "Orderly and dependable; even spacing and consistent photography make 40 items scannable.",
+  "techniques": [
+    "Use identical model photo cropping across the grid.",
+    "Keep a collapsible filter column at left.",
+    "Cut the footer wordmark by the edge.",
+    "Show mobile as two columns."
+  ],
+  "bestFor": [
+    "Apparel listing pages",
+    "Design-system presentations",
+    "Large catalogue layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Product grid",
+      "definition": "Evenly spaced product cards in columns."
+    },
+    {
+      "term": "Filter column",
+      "definition": "A side list of collapsible filters."
+    },
+    {
+      "term": "Pagination",
+      "definition": "Numbered controls for pages of results."
+    },
+    {
+      "term": "Consistent crop",
+      "definition": "Uniform framing across images."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-teal-pixel-dither-gradient-background",
+  "image": "images/web-teal-pixel-dither-gradient-background.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Teal dithered pixel gradient rising from deep green to white with scanlines",
+  "tags": [
+    "pattern",
+    "dither",
+    "teal",
+    "pixel",
+    "scanlines",
+    "gradient",
+    "retro",
+    "background"
+  ],
+  "whatItIs": "A wide image where a mountain-like mass of teal and dark green pixel dither rises against a white-to-cyan sky, with faint horizontal scanlines.",
+  "whatItMeans": "Retro-digital and cool; dither turns a gradient into a texture.",
+  "techniques": [
+    "Build a gradient from dithered pixels.",
+    "Add scanlines.",
+    "Keep to teal, green and white.",
+    "Use as a hero or cover backdrop."
+  ],
+  "bestFor": [
+    "Backgrounds for tech covers",
+    "Retro CRT aesthetics",
+    "Texture assets"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dither",
+      "definition": "A pattern of dots that simulates a gradient."
+    },
+    {
+      "term": "Scanlines",
+      "definition": "Thin horizontal lines like a CRT."
+    },
+    {
+      "term": "Pixel mountain",
+      "definition": "A shape formed by pixel noise."
+    },
+    {
+      "term": "Retro digital",
+      "definition": "A look from early computing."
+    }
+  ]
+}

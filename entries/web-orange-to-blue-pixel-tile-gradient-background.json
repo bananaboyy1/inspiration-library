@@ -1,0 +1,48 @@
+{
+  "name": "web-orange-to-blue-pixel-tile-gradient-background",
+  "image": "images/web-orange-to-blue-pixel-tile-gradient-background.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Stepped square-tile gradient from white through orange and yellow to blue",
+  "tags": [
+    "pattern",
+    "pixel-grid",
+    "gradient",
+    "orange",
+    "yellow",
+    "blue",
+    "tiles",
+    "background"
+  ],
+  "whatItIs": "A rectangle of large stepped squares fading from white at the top left through peach, orange, yellow and grey-green to vivid blue at the bottom right.",
+  "whatItMeans": "Warm-to-cool and digital; the blocky steps feel like a low-res sunset.",
+  "techniques": [
+    "Build a gradient from offset rows of tiles.",
+    "Cross warm and cool hues diagonally.",
+    "Use as a hero, cover or divider background.",
+    "Keep tiles uniform in size."
+  ],
+  "bestFor": [
+    "Backgrounds for tech covers",
+    "Pixel and retro-digital brands",
+    "Section dividers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stepped gradient",
+      "definition": "A colour blend made of blocks."
+    },
+    {
+      "term": "Diagonal blend",
+      "definition": "A gradient running corner to corner."
+    },
+    {
+      "term": "Low-res look",
+      "definition": "Deliberately chunky pixels."
+    },
+    {
+      "term": "Warm-cool sweep",
+      "definition": "A transition from warm to cool hues."
+    }
+  ]
+}

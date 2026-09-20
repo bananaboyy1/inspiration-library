@@ -1,0 +1,48 @@
+{
+  "name": "web-grid-pulse-interactive-pixel-grid-lighting-up-in-gradient-trail",
+  "image": "images/web-grid-pulse-interactive-pixel-grid-lighting-up-in-gradient-trail.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "White fine grid where squares light up in orange, pink, violet, blue and cyan along the pointer's path, under the heading 'grid pulse'",
+  "tags": [
+    "interactive",
+    "grid",
+    "gradient",
+    "trail",
+    "white",
+    "pixel",
+    "heading",
+    "toggle"
+  ],
+  "whatItIs": "A white page with a fine hairline grid whose cells light in a sweeping arc from orange through red, magenta, violet and blue to cyan and fade out behind the pointer, with a huge black 'grid pulse' heading, a paragraph explaining the effect and a small Text toggle at the top right.",
+  "whatItMeans": "Playful and tactile; a colour trail on a quiet grid rewards moving the cursor.",
+  "techniques": [
+    "Light grid cells along the pointer path.",
+    "Fade them out over time.",
+    "Shift hue along the trail.",
+    "Overlay a bold heading."
+  ],
+  "bestFor": [
+    "Interactive hero backgrounds",
+    "Creative developer portfolios",
+    "Pixel-grid effects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pointer trail",
+      "definition": "Colour left behind by the cursor."
+    },
+    {
+      "term": "Grid pulse",
+      "definition": "Cells lighting up and fading in a grid."
+    },
+    {
+      "term": "Hue sweep",
+      "definition": "A gradual shift of hue along a path."
+    },
+    {
+      "term": "Fine grid",
+      "definition": "A grid of small hairline cells."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-warm-food-delivery-landing-with-giant-headline-behind-smiling-diner",
+  "image": "images/web-warm-food-delivery-landing-with-giant-headline-behind-smiling-diner.webp",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Brown and yellow food site with giant 'FLAVOR THAT MAKES HISTORY!' behind a laughing noodle eater and rounded photo cards",
+  "tags": [
+    "food",
+    "restaurant",
+    "brown",
+    "yellow",
+    "cream",
+    "giant-type",
+    "photo-cards",
+    "rounded"
+  ],
+  "whatItIs": "A long cream page with a heavy brown headline whose letters are overlapped by a cutout woman eating noodles, a category row of six tinted tiles with one dark selected, dish cards in dark brown, yellow and grey with food photos and yellow Buy Now pills, dark photo sections with a chef and a smiling child in brown cards, a yellow wavy footer band and a brown footer.",
+  "whatItMeans": "Warm and hungry; brown and yellow feel like comfort food and the joyful diner sells the flavour.",
+  "techniques": [
+    "Put a cutout person in front of a giant headline.",
+    "Use rounded photo cards in warm colours.",
+    "Alternate cream, dark photo and yellow bands.",
+    "End with a wavy divider into the footer."
+  ],
+  "bestFor": [
+    "Restaurant and food delivery sites",
+    "Warm brown-yellow brands",
+    "Photo-card layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type behind subject",
+      "definition": "Giant text partly hidden by a cutout person."
+    },
+    {
+      "term": "Category tile row",
+      "definition": "A row of icons for food types."
+    },
+    {
+      "term": "Dish card",
+      "definition": "A coloured card with a dish photo and price."
+    },
+    {
+      "term": "Wavy footer",
+      "definition": "A wave-shaped edge above the footer."
+    }
+  ]
+}

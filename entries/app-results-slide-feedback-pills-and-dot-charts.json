@@ -1,0 +1,47 @@
+{
+  "name": "app-results-slide-feedback-pills-and-dot-charts",
+  "image": "images/app-results-slide-feedback-pills-and-dot-charts.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Results slide with feedback pills and dot-matrix charts",
+  "tags": [
+    "case-study",
+    "results",
+    "light-grey",
+    "pills",
+    "dot-matrix",
+    "gauge",
+    "banking"
+  ],
+  "whatItIs": "A pale grey slide numbered 07 with a light headline. User feedback is set as three white capsule bubbles with avatars, and three small white cards at the bottom show a dot-matrix bar chart, a semicircle gauge (86%) and a thin-line bar chart, each with a dark pill percentage.",
+  "whatItMeans": "Reassuring and clean; results feel measured and humane thanks to the pills and tiny charts.",
+  "techniques": [
+    "Show quotes as chat-like capsules with a circular avatar.",
+    "Draw charts from dots or thin lines rather than fills.",
+    "Use dark rounded pills for headline percentages.",
+    "Stagger cards at different heights."
+  ],
+  "bestFor": [
+    "Case-study results slides",
+    "Fintech portfolios",
+    "Reporting test outcomes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feedback capsule",
+      "definition": "A rounded bubble holding a short quote with an avatar."
+    },
+    {
+      "term": "Dot-matrix chart",
+      "definition": "A bar chart made of a grid of dots."
+    },
+    {
+      "term": "Stat pill",
+      "definition": "A dark rounded label with a percentage."
+    },
+    {
+      "term": "Results slide",
+      "definition": "A slide summarising outcomes."
+    }
+  ]
+}

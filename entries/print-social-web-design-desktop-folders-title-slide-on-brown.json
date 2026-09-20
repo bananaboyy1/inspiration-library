@@ -1,0 +1,48 @@
+{
+  "name": "print-social-web-design-desktop-folders-title-slide-on-brown",
+  "image": "images/print-social-web-design-desktop-folders-title-slide-on-brown.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Chocolate title slide with cream 'web design', cursor and three blue folders",
+  "tags": [
+    "title-slide",
+    "brown",
+    "cream",
+    "folders",
+    "cursor",
+    "desktop-metaphor",
+    "heavy-sans",
+    "portfolio"
+  ],
+  "whatItIs": "A dark brown slide with a huge cream heavy sans 'web design', a pixel-outlined cursor at its end, a subline about 2025 designs and three blue folders labelled website, ui/ux and web design.",
+  "whatItMeans": "Simple and consistent; a colour inversion of the social media title slide.",
+  "techniques": [
+    "Invert the palette of a series template.",
+    "Scatter labelled folders.",
+    "Use one cursor as an accent.",
+    "Keep a subline small and light."
+  ],
+  "bestFor": [
+    "Portfolio section dividers",
+    "Series with matching slides",
+    "Desktop-themed decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Palette inversion",
+      "definition": "Swapping light and dark colours for a variant."
+    },
+    {
+      "term": "Section title slide",
+      "definition": "A slide that names a portfolio section."
+    },
+    {
+      "term": "Folder scatter",
+      "definition": "Folders placed around a title."
+    },
+    {
+      "term": "Cursor accent",
+      "definition": "A pointer used as decoration."
+    }
+  ]
+}

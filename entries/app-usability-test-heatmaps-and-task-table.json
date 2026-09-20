@@ -1,0 +1,48 @@
+{
+  "name": "app-usability-test-heatmaps-and-task-table",
+  "image": "images/app-usability-test-heatmaps-and-task-table.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "User-testing results with a task table in floating pills and red-green heatmaps on app screens",
+  "tags": [
+    "research",
+    "usability",
+    "heatmap",
+    "table",
+    "light-grey",
+    "pills",
+    "fintech",
+    "results"
+  ],
+  "whatItIs": "A pale grey slide '13 User testing Result' with a heading, description, a table of tasks with average time, success rate and completion each in a soft white pill, and below a row of translucent phone screens overlaid with glowing red-to-green heat blobs.",
+  "whatItMeans": "Evidence-driven and calm; heat blobs make attention tangible.",
+  "techniques": [
+    "Show metrics as floating white pills on hairlines.",
+    "Overlay red-green blobs as heatmaps on real screens.",
+    "Use plain grey with tiny numerals.",
+    "Present five screens in a row."
+  ],
+  "bestFor": [
+    "Usability results slides",
+    "Heatmap presentations",
+    "Fintech research reports"
+  ],
+  "vocabulary": [
+    {
+      "term": "Heatmap blob",
+      "definition": "A glowing spot showing where users tapped."
+    },
+    {
+      "term": "Metric pill",
+      "definition": "A white capsule holding a measure."
+    },
+    {
+      "term": "Mission table",
+      "definition": "A list of tasks with results."
+    },
+    {
+      "term": "Overlay analysis",
+      "definition": "Data drawn over a UI screenshot."
+    }
+  ]
+}

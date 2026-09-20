@@ -1,0 +1,48 @@
+{
+  "name": "app-black-closing-case-card-with-circular-text-seal",
+  "image": "images/app-black-closing-case-card-with-circular-text-seal.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Black closing slide with a white circular text seal, CREATE and DOMINATE, and credits",
+  "tags": [
+    "closing",
+    "black",
+    "white",
+    "circular-text",
+    "seal",
+    "monospace",
+    "credits",
+    "minimal"
+  ],
+  "whatItIs": "A black slide with a white circle holding a black zigzag mark ringed with repeating 'CREATE.DOMINATE.' text, the words CREATE and DOMINATE on each side, a logo at the top left, studio name centred at the top, year at the right, a paragraph at the bottom and project and designer credits at the corners.",
+  "whatItMeans": "Confident and final; a seal is a fitting sign-off.",
+  "techniques": [
+    "Ring a symbol with circular monospace text.",
+    "Place words either side.",
+    "Use tiny corner credits.",
+    "Keep the field pure black."
+  ],
+  "bestFor": [
+    "Case-study endings",
+    "Studio sign-offs",
+    "Dark closing slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Text seal",
+      "definition": "A circular badge with text set around a symbol."
+    },
+    {
+      "term": "Circular monospace",
+      "definition": "Monospace text following a ring."
+    },
+    {
+      "term": "Corner credits",
+      "definition": "Small text in the four corners."
+    },
+    {
+      "term": "Closing paragraph",
+      "definition": "A short call-to-action at the bottom."
+    }
+  ]
+}

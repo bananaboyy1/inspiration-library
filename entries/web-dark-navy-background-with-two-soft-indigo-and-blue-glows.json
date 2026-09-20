@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-navy-background-with-two-soft-indigo-and-blue-glows",
+  "image": "images/web-dark-navy-background-with-two-soft-indigo-and-blue-glows.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Near-black navy field with a violet glow at the upper left and a blue glow at the lower right",
+  "tags": [
+    "background",
+    "gradient",
+    "navy",
+    "violet",
+    "blue",
+    "glow",
+    "dark",
+    "mesh"
+  ],
+  "whatItIs": "A dark blue-black canvas with two large soft radial glows: an indigo-violet one at the upper left and a cobalt blue one at the lower right, fading smoothly to black between them.",
+  "whatItMeans": "Calm and deep; two cool lights give a dark page a night-sky depth.",
+  "techniques": [
+    "Place two large radial glows on a diagonal.",
+    "Use adjacent cool hues.",
+    "Keep the base near black.",
+    "Use as a hero or section backdrop."
+  ],
+  "bestFor": [
+    "Dark SaaS heroes",
+    "Ambient backgrounds",
+    "Blue and violet brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radial glow",
+      "definition": "A soft circular light fading outward."
+    },
+    {
+      "term": "Diagonal balance",
+      "definition": "Two elements placed on opposite corners."
+    },
+    {
+      "term": "Cool palette",
+      "definition": "Blues and violets."
+    },
+    {
+      "term": "Ambient backdrop",
+      "definition": "A background that adds mood, not content."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "branding-browser-frame-favicon-mockup-violet",
+  "image": "images/branding-browser-frame-favicon-mockup-violet.jpg",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Dark browser chrome with logo favicon cropped on a violet background",
+  "tags": [
+    "favicon",
+    "browser",
+    "violet",
+    "dark-ui",
+    "logo-application",
+    "crop",
+    "url"
+  ],
+  "whatItIs": "A dark browser window cropped at the top left on periwinkle violet, with traffic-light dots, a tab showing a violet monogram and 'Sovrix', a close button, back/forward/refresh icons and a URL 'https://sovrix.com'. The page area is blank grey.",
+  "whatItMeans": "Precise and minimal; the crop makes the tiny logo the only story.",
+  "techniques": [
+    "Enlarge and crop browser chrome to focus on the favicon and tab.",
+    "Use one saturated background colour matching the brand.",
+    "Keep the window content empty so nothing distracts.",
+    "Set the URL text in two greys."
+  ],
+  "bestFor": [
+    "Logo application slides",
+    "Web brand presentations",
+    "Showing digital touchpoints"
+  ],
+  "vocabulary": [
+    {
+      "term": "Favicon",
+      "definition": "A tiny logo shown in browser tabs."
+    },
+    {
+      "term": "Browser chrome",
+      "definition": "The frame of a browser window."
+    },
+    {
+      "term": "Tight crop",
+      "definition": "A close cut that enlarges a small detail."
+    },
+    {
+      "term": "Empty state frame",
+      "definition": "A window with no content used as a stage."
+    }
+  ]
+}

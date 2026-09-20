@@ -1,0 +1,48 @@
+{
+  "name": "web-botanical-dna-mobile-hero-with-glass-orb-and-scientist",
+  "image": "images/web-botanical-dna-mobile-hero-with-glass-orb-and-scientist.png",
+  "discipline": "web",
+  "designType": "Responsive mobile web",
+  "title": "Phone with thin caps headline and glass sphere plant beside a soft-focus lab technician",
+  "tags": [
+    "mobile-web",
+    "hero",
+    "glass-sphere",
+    "botanical",
+    "thin-caps",
+    "lab",
+    "split",
+    "white-button"
+  ],
+  "whatItIs": "A split image: at left a phone with a hazy sunlit grey-green hero, thin uppercase headline, a glass bubble holding leaves and a capsule and a wide white Get Started button; at right a man in a white coat reading a clipboard in a blurred lab.",
+  "whatItMeans": "Scientific yet natural; the bubble unites lab and garden.",
+  "techniques": [
+    "Pair a mobile hero with a documentary lab photo.",
+    "Use a glass orb as a symbolic container.",
+    "Set light uppercase across the whole width.",
+    "Use one large white button."
+  ],
+  "bestFor": [
+    "Personalised health and DNA brands",
+    "Mobile hero showcases",
+    "Human-plus-UI splits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Symbolic orb",
+      "definition": "A sphere containing an object that stands for the product."
+    },
+    {
+      "term": "Light rays",
+      "definition": "Beams of light across a backdrop."
+    },
+    {
+      "term": "Split showcase",
+      "definition": "UI on one side, photo on the other."
+    },
+    {
+      "term": "Wide CTA",
+      "definition": "A full-width button."
+    }
+  ]
+}

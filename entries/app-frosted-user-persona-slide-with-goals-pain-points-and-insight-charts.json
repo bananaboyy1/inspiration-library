@@ -1,0 +1,48 @@
+{
+  "name": "app-frosted-user-persona-slide-with-goals-pain-points-and-insight-charts",
+  "image": "images/app-frosted-user-persona-slide-with-goals-pain-points-and-insight-charts.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "Persona slide on blurred blue-grey with a portrait card, frosted goals cards and green bar insights",
+  "tags": [
+    "persona",
+    "research",
+    "frosted-glass",
+    "blue-grey",
+    "green",
+    "insight-charts",
+    "portrait",
+    "fintech"
+  ],
+  "whatItIs": "A misty blue-grey slide '06 User Persona' with a large rounded portrait of a businessman with name overlay, a quote, three frosted cards (Goals, Pain Points, Needs) and three insight cards with percentage pills over thin green bar charts.",
+  "whatItMeans": "Calm and credible; frosted panels make dense research feel soft.",
+  "techniques": [
+    "Frost every content card on a blurred backdrop.",
+    "Fade the portrait into the card bottom.",
+    "Draw insight charts as thin green bars.",
+    "Use small icons before card titles."
+  ],
+  "bestFor": [
+    "Persona slides",
+    "Research summaries",
+    "Glass-style presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Persona card",
+      "definition": "A portrait with name and role."
+    },
+    {
+      "term": "Frosted card",
+      "definition": "A translucent blurred card."
+    },
+    {
+      "term": "Insight pill",
+      "definition": "A small percentage badge."
+    },
+    {
+      "term": "Goals/pains/needs",
+      "definition": "A common persona structure."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-onboarding-dialog-with-dark-image-header-page-dots-and-skip-next",
+  "image": "images/web-onboarding-dialog-with-dark-image-header-page-dots-and-skip-next.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White onboarding modal on black with a dark image area holding a grey 3D ring, a heading, description, four page dots and Skip and Next buttons",
+  "tags": [
+    "component",
+    "modal",
+    "onboarding",
+    "white",
+    "black",
+    "3d-ring",
+    "page-dots",
+    "buttons"
+  ],
+  "whatItIs": "A white rounded dialog on black with a dark charcoal image at the top showing a soft grey donut with faint vertical lines and a close x, a bold title 'Welcome to Origin UI', a grey description, four page dots at the left and a bordered Skip and a black Next with an arrow at the right.",
+  "whatItMeans": "Polished and friendly; a hero image and clear navigation make a tour feel light.",
+  "techniques": [
+    "Put a hero image above the copy.",
+    "Add page dots for progress.",
+    "Pair outlined Skip with black Next.",
+    "Round the dialog generously."
+  ],
+  "bestFor": [
+    "Onboarding tour dialogs",
+    "Feature announcement modals",
+    "Component libraries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Onboarding modal",
+      "definition": "A dialog guiding first-time users."
+    },
+    {
+      "term": "Hero image slot",
+      "definition": "A picture area at the top of a card."
+    },
+    {
+      "term": "Page dots",
+      "definition": "Dots showing the current step."
+    },
+    {
+      "term": "Skip/Next",
+      "definition": "A secondary and primary navigation pair."
+    }
+  ]
+}

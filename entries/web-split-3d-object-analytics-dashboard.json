@@ -1,0 +1,44 @@
+{
+  "name": "web-split-3d-object-analytics-dashboard",
+  "image": "images/web-split-3d-object-analytics-dashboard.png",
+  "discipline": "web",
+  "designType": "Dashboard",
+  "title": "Split Dashboard with 3D Satellite Dish",
+  "tags": [
+    "dashboard",
+    "split-screen",
+    "3d",
+    "security",
+    "monospace",
+    "data",
+    "light-dark"
+  ],
+  "whatItIs": "A framed dashboard split into a black left panel showing a glassy 3D satellite dish with faint grid, and a light right panel with KPI tiles, severity-tagged threat cards, a line chart and segmented bar meters for CPU, memory and network.",
+  "whatItMeans": "The dark hero object gives the dashboard a memorable identity and thematic metaphor (listening, monitoring), while the light data side stays readable and orderly.",
+  "techniques": [
+    "Half-dark, half-light split to separate mood from information",
+    "3D object as a thematic illustration inside a data product",
+    "Small colored severity tags for triage",
+    "Segmented bar meters colored by health level",
+    "Monospace type for data-heavy labels"
+  ],
+  "bestFor": [
+    "Security, monitoring and analytics products",
+    "Concept dashboards and case studies",
+    "Products that need a memorable visual metaphor"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split canvas",
+      "definition": "A layout divided into two contrasting halves."
+    },
+    {
+      "term": "Segmented meter",
+      "definition": "A bar composed of small discrete blocks that fill to show a value."
+    },
+    {
+      "term": "Severity tag",
+      "definition": "A small colored label showing priority level."
+    }
+  ]
+}

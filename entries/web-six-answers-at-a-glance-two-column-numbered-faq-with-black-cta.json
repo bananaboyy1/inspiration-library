@@ -1,0 +1,48 @@
+{
+  "name": "web-six-answers-at-a-glance-two-column-numbered-faq-with-black-cta",
+  "image": "images/web-six-answers-at-a-glance-two-column-numbered-faq-with-black-cta.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'Six answers at a glance' numbered 01 to 06 in two columns with bold questions and grey answers, and a black Browse the guides pill",
+  "tags": [
+    "faq",
+    "numbered",
+    "two-column",
+    "white",
+    "black-button",
+    "minimal",
+    "snapshot",
+    "answers"
+  ],
+  "whatItIs": "A white page with a small pale 'Snapshot' pill, a large bold centred headline, a grey subline, six numbered questions in two columns with bold questions and grey answers, and a black rounded 'Browse the guides' button.",
+  "whatItMeans": "Easy and open; showing all answers at once removes the need to expand anything.",
+  "techniques": [
+    "Show all answers openly in a grid.",
+    "Number each item in grey.",
+    "Bold the questions.",
+    "End with one black button."
+  ],
+  "bestFor": [
+    "Short FAQ sections",
+    "Pricing page FAQs",
+    "Minimal support sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Open FAQ",
+      "definition": "Questions and answers all visible at once."
+    },
+    {
+      "term": "Index number",
+      "definition": "A small grey number beside each item."
+    },
+    {
+      "term": "Snapshot pill",
+      "definition": "A small label above a heading."
+    },
+    {
+      "term": "Two-column grid",
+      "definition": "Content split into two equal columns."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-vehicle-selection-label-strip-with-caption-on-white",
+  "image": "images/app-vehicle-selection-label-strip-with-caption-on-white.png",
+  "discipline": "app",
+  "designType": "Case study divider",
+  "title": "Rounded white strip with an outlined 'Vehicle selection' pill and a caption on contrast by intent",
+  "tags": [
+    "divider",
+    "white",
+    "outlined-pill",
+    "caption",
+    "black-frame",
+    "two-tone-text",
+    "minimal",
+    "case-study"
+  ],
+  "whatItIs": "A slim white panel with rounded top corners on black, an outlined pill 'VEHICLE SELECTION' at the left and an uppercase caption at the right (some black, some grey) explaining a full-screen road hero with soft info up top and hard numbers on a dark pill.",
+  "whatItMeans": "Quiet and explanatory; the caption states the design rule in one line.",
+  "techniques": [
+    "Label the next screen with an outlined pill.",
+    "Explain the design intent in a caption.",
+    "Use two-tone text.",
+    "Frame in black with rounded corners."
+  ],
+  "bestFor": [
+    "Case-study section labels",
+    "Design rationale captions",
+    "Minimal white boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Design rationale caption",
+      "definition": "A short line explaining a design choice."
+    },
+    {
+      "term": "Section pill",
+      "definition": "An outlined capsule naming a section."
+    },
+    {
+      "term": "Contrast by intent",
+      "definition": "Deliberately pairing soft and hard elements."
+    },
+    {
+      "term": "Rounded panel",
+      "definition": "A panel with softly rounded corners."
+    }
+  ]
+}

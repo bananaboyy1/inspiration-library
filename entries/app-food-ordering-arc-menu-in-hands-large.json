@@ -1,0 +1,48 @@
+{
+  "name": "app-food-ordering-arc-menu-in-hands-large",
+  "image": "images/app-food-ordering-arc-menu-in-hands-large.jpg",
+  "discipline": "app",
+  "designType": "Food ordering app",
+  "title": "Food ordering app with arc category selector held in both hands",
+  "tags": [
+    "food",
+    "delivery",
+    "white-ui",
+    "arc-menu",
+    "hands",
+    "black-pill-nav",
+    "orange-accent",
+    "close-up"
+  ],
+  "whatItIs": "A close-up of two hands holding a phone. The screen has a large 'Hungry? Order & Eat.' title, search with a black filter button, a curved arc of circular category images, food cards with discount tags and prices, and a black pill tab bar with an orange home button.",
+  "whatItMeans": "Appetising and easy; the curved arc adds motion and playfulness to browsing.",
+  "techniques": [
+    "Arrange categories along an arc to add rhythm.",
+    "Use white cards with cut-out food photos and small black discount tags.",
+    "Contrast a black floating nav with an orange active icon.",
+    "Photograph with a hand touching the screen for interactivity."
+  ],
+  "bestFor": [
+    "Food delivery and restaurant apps",
+    "Marketplaces with photo-led products",
+    "Close-up mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Arc menu",
+      "definition": "Items arranged on a curved path."
+    },
+    {
+      "term": "Discount tag",
+      "definition": "A small black label showing a percent off."
+    },
+    {
+      "term": "Cutout food photo",
+      "definition": "A dish with the background removed."
+    },
+    {
+      "term": "Touch mockup",
+      "definition": "A hand shown interacting with the screen."
+    }
+  ]
+}

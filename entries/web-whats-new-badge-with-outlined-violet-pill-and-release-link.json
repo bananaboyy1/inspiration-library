@@ -1,0 +1,48 @@
+{
+  "name": "web-whats-new-badge-with-outlined-violet-pill-and-release-link",
+  "image": "images/web-whats-new-badge-with-outlined-violet-pill-and-release-link.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Centred announcement: violet outlined pill 'What's new?' followed by grey 'Just released v4.3.1 >' on white",
+  "tags": [
+    "component",
+    "badge",
+    "announcement",
+    "violet",
+    "outlined",
+    "white",
+    "chevron",
+    "minimal"
+  ],
+  "whatItIs": "A white page with a single line at the centre: a thin violet-bordered capsule with violet text 'What's new?' and to its right grey text 'Just released v4.3.1' with a small chevron.",
+  "whatItMeans": "Understated and useful; a tiny announcement line signals activity without demanding attention.",
+  "techniques": [
+    "Outline a coloured pill for the label.",
+    "Follow with plain grey text.",
+    "End with a chevron link.",
+    "Centre with lots of white space."
+  ],
+  "bestFor": [
+    "Release announcement badges",
+    "Hero eyebrow components",
+    "Minimal marketing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Announcement line",
+      "definition": "A short line announcing a release."
+    },
+    {
+      "term": "Outlined pill",
+      "definition": "A capsule with a border only."
+    },
+    {
+      "term": "Version tag",
+      "definition": "A label with a release number."
+    },
+    {
+      "term": "Chevron link",
+      "definition": "A link ending with a small arrow."
+    }
+  ]
+}

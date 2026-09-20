@@ -1,0 +1,48 @@
+{
+  "name": "print-social-red-photo-frame-festival-poster",
+  "image": "images/print-social-red-photo-frame-festival-poster.jpg",
+  "discipline": "print-social",
+  "designType": "Event poster",
+  "title": "Festival poster with a white frame around a red-toned performer",
+  "tags": [
+    "music",
+    "festival",
+    "red",
+    "white-frame",
+    "portrait",
+    "poster",
+    "playful",
+    "dj"
+  ],
+  "whatItIs": "A portrait poster with a red-tinted photo of a smiling man in sunglasses. A thick white rectangle frames him, with the event logo and date across the top and 'main stage' on the bottom edge. Sponsor logos sit at the base.",
+  "whatItMeans": "Bold and simple; the frame turns the performer into a picture or ticket.",
+  "techniques": [
+    "Frame a subject with a thick white border, letting their hands break the frame.",
+    "Tint the photo a single colour and keep the frame neutral.",
+    "Place event metadata inside the frame edges.",
+    "Let a small logo cluster close the poster."
+  ],
+  "bestFor": [
+    "Music and festival posters",
+    "Lineup announcements",
+    "Portrait-led event promotion"
+  ],
+  "vocabulary": [
+    {
+      "term": "Breaking the frame",
+      "definition": "A subject extending beyond a border."
+    },
+    {
+      "term": "Photo border",
+      "definition": "A plain frame around a picture."
+    },
+    {
+      "term": "Lineup card",
+      "definition": "A poster or card featuring one performer."
+    },
+    {
+      "term": "Monochrome tint",
+      "definition": "A single colour applied to a photo."
+    }
+  ]
+}

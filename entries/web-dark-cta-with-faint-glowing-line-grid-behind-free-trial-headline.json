@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-cta-with-faint-glowing-line-grid-behind-free-trial-headline",
+  "image": "images/web-dark-cta-with-faint-glowing-line-grid-behind-free-trial-headline.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Black call-to-action 'Start your free trial' with a small Get Started button over a faint glowing grid",
+  "tags": [
+    "cta",
+    "dark",
+    "grid",
+    "glow",
+    "minimal",
+    "white",
+    "button",
+    "saas"
+  ],
+  "whatItIs": "A near-black canvas with a barely visible glowing line grid at the centre, a bold white headline 'Start your free trial', a grey line about users and a small white Get Started button.",
+  "whatItMeans": "Focused and quiet; a faint grid adds structure without distracting from the ask.",
+  "techniques": [
+    "Use a very faint glowing grid behind text.",
+    "Keep one small button.",
+    "Centre a bold headline.",
+    "Stay black and white."
+  ],
+  "bestFor": [
+    "Closing CTA sections",
+    "Dark minimal SaaS pages",
+    "Grid-glow backgrounds"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glow grid",
+      "definition": "A faint luminous line grid."
+    },
+    {
+      "term": "Closing CTA",
+      "definition": "A final call-to-action section."
+    },
+    {
+      "term": "Centred stack",
+      "definition": "Headline, line and button centred vertically."
+    },
+    {
+      "term": "Ambient texture",
+      "definition": "A subtle pattern adding depth."
+    }
+  ]
+}

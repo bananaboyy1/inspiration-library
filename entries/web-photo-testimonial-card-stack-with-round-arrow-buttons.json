@@ -1,0 +1,48 @@
+{
+  "name": "web-photo-testimonial-card-stack-with-round-arrow-buttons",
+  "image": "images/web-photo-testimonial-card-stack-with-round-arrow-buttons.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Stacked rounded photo cards with the front portrait sharp, beside a name, role, quote and two black circular arrows",
+  "tags": [
+    "component",
+    "testimonial",
+    "card-stack",
+    "portrait",
+    "black-buttons",
+    "pale-lilac",
+    "shadow",
+    "carousel"
+  ],
+  "whatItIs": "A pale lilac-grey field with a stack of rounded photo cards behind a front portrait of a woman in dark light, and at the right a bold name 'Tamar Mendelson', a grey role, a paragraph review and two black circular arrow buttons.",
+  "whatItMeans": "Personal and polished; a stack of photos suggests more voices behind the first.",
+  "techniques": [
+    "Offset background photo cards behind the front one.",
+    "Pair a large portrait with a bold name.",
+    "Use black circular arrows.",
+    "Keep a soft shadow."
+  ],
+  "bestFor": [
+    "Testimonial sliders",
+    "Photo stack components",
+    "Restaurant and service sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo stack",
+      "definition": "Overlapping cards showing depth."
+    },
+    {
+      "term": "Round arrow buttons",
+      "definition": "Black circles with left and right arrows."
+    },
+    {
+      "term": "Name and role",
+      "definition": "A bold name with a lighter title."
+    },
+    {
+      "term": "Front card",
+      "definition": "The active image at the top of a stack."
+    }
+  ]
+}

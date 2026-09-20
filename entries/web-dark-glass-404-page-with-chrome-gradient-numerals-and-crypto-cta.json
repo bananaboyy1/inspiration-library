@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-glass-404-page-with-chrome-gradient-numerals-and-crypto-cta",
+  "image": "images/web-dark-glass-404-page-with-chrome-gradient-numerals-and-crypto-cta.jpg",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Black 404 in silver-gradient numerals behind a frosted card, plus a glass CTA and footer with a chrome swirl",
+  "tags": [
+    "404",
+    "error-page",
+    "dark",
+    "chrome",
+    "glass",
+    "crypto",
+    "footer",
+    "gradient-numerals"
+  ],
+  "whatItIs": "A pure black page with a thin nav, giant thin '404' fading from silver to dark, a frosted glass card 'Oops, page not found' with a glass button, below a wide glass CTA panel 'Try the crypto wallet of the future, today.' with a blue-chrome swirl rising through it and a multi-column footer.",
+  "whatItMeans": "Sleek and premium; glass and chrome make even an error page feel expensive.",
+  "techniques": [
+    "Use thin numerals with a metallic gradient.",
+    "Overlay a frosted card on the numerals.",
+    "Run a chrome swirl across CTA and footer.",
+    "Keep everything black, grey and blue."
+  ],
+  "bestFor": [
+    "Crypto and fintech templates",
+    "Dark premium error pages",
+    "Glassmorphic footers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Metallic gradient",
+      "definition": "A silver-like blend across text."
+    },
+    {
+      "term": "Chrome swirl",
+      "definition": "A glossy 3D ribbon graphic."
+    },
+    {
+      "term": "Glass button",
+      "definition": "A translucent button with a subtle sheen."
+    },
+    {
+      "term": "Overlay card",
+      "definition": "A card laid over large numerals."
+    }
+  ]
+}

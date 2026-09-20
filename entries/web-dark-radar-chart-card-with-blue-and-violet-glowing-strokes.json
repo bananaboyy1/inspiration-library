@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-radar-chart-card-with-blue-and-violet-glowing-strokes",
+  "image": "images/web-dark-radar-chart-card-with-blue-and-violet-glowing-strokes.webp",
+  "discipline": "web",
+  "designType": "Data visualization",
+  "title": "Dark card 'Glowing Multiple Stroke' with a red -5.2% badge and a radar chart of two glowing polygons over months",
+  "tags": [
+    "chart",
+    "radar",
+    "dark",
+    "blue",
+    "violet",
+    "glow",
+    "badge",
+    "card"
+  ],
+  "whatItIs": "A black rounded card with a bold title, a red pill '-5.2%' with a down arrow, a grey subtitle and a radar chart with dotted grid rings, month labels around the edge and two glowing polygons, one blue and one violet.",
+  "whatItMeans": "Technical and elegant; a soft glow makes thin data lines feel luminous.",
+  "techniques": [
+    "Draw multiple series as glowing strokes.",
+    "Use dotted concentric rings.",
+    "Show change in a small red pill.",
+    "Place month labels on the perimeter."
+  ],
+  "bestFor": [
+    "Dark dashboards",
+    "Radar and comparison charts",
+    "Glow-styled data cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radar chart",
+      "definition": "A chart plotting values on radial axes."
+    },
+    {
+      "term": "Glow stroke",
+      "definition": "A line with a soft luminous halo."
+    },
+    {
+      "term": "Delta pill",
+      "definition": "A capsule showing change with an arrow."
+    },
+    {
+      "term": "Perimeter labels",
+      "definition": "Labels placed around a circular chart."
+    }
+  ]
+}

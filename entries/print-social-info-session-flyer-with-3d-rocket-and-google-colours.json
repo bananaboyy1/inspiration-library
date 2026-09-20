@@ -1,0 +1,48 @@
+{
+  "name": "print-social-info-session-flyer-with-3d-rocket-and-google-colours",
+  "image": "images/print-social-info-session-flyer-with-3d-rocket-and-google-colours.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Grid-paper info session flyer with a cutout speaker, 3D rocket and venue and date pills",
+  "tags": [
+    "event",
+    "info-session",
+    "grid-paper",
+    "blue",
+    "rocket",
+    "pills",
+    "google-colours",
+    "speaker"
+  ],
+  "whatItIs": "A white grid-paper flyer with a Google Developer Group logo pill, 'Info Session: Breaking Into The Future Of Technology' with a blue gradient last words, a glossy 3D blue rocket, a speaker cutout in graduation robes with a name card, blue and pink pills for venue and date and multi-colour chevrons at the edges.",
+  "whatItMeans": "Bright and academic; the rocket signals launching a tech career.",
+  "techniques": [
+    "Use grid paper as the background.",
+    "Colour the last words in a gradient.",
+    "Add a glossy 3D object.",
+    "Turn logistics into coloured pills."
+  ],
+  "bestFor": [
+    "Tech community info sessions",
+    "Developer group flyers",
+    "Speaker-led event posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Grid-paper ground",
+      "definition": "A squared notebook background."
+    },
+    {
+      "term": "3D rocket",
+      "definition": "A glossy rendered rocket icon."
+    },
+    {
+      "term": "Speaker cutout",
+      "definition": "A person without their background."
+    },
+    {
+      "term": "Info pill",
+      "definition": "A capsule with venue or date."
+    }
+  ]
+}

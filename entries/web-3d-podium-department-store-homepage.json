@@ -1,0 +1,44 @@
+{
+  "name": "web-3d-podium-department-store-homepage",
+  "image": "images/web-3d-podium-department-store-homepage.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Podium Product Display Store Homepage",
+  "tags": [
+    "ecommerce",
+    "podium",
+    "yellow",
+    "green",
+    "3d",
+    "department-store",
+    "categories"
+  ],
+  "whatItIs": "A store homepage on a mustard backdrop with a dark green top bar, a light blue hero where products (bags, luggage, electronics, snacks) sit on stacked yellow podiums, a bold green headline and a row of colorful category tiles below.",
+  "whatItMeans": "Staged products on podiums feel like a showroom, and the blue, yellow and green palette is cheerful and approachable for a broad shopping audience.",
+  "techniques": [
+    "Cut-out products arranged on stepped platforms as a hero illustration",
+    "Deep green type and buttons as the anchor against pastel color",
+    "Category tiles each with its own saturated background color",
+    "Utility bar for promo and language above the nav",
+    "Simple flat sky and ground planes behind the podiums"
+  ],
+  "bestFor": [
+    "Multi-category retail sites",
+    "Marketplaces",
+    "Campaign landing pages with many product types"
+  ],
+  "vocabulary": [
+    {
+      "term": "Podium staging",
+      "definition": "Products arranged on stepped blocks as if in a display."
+    },
+    {
+      "term": "Category tile",
+      "definition": "A colorful card that links to a product category."
+    },
+    {
+      "term": "Utility bar",
+      "definition": "A thin strip above the nav for promos and settings."
+    }
+  ]
+}

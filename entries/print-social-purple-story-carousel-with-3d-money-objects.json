@@ -1,0 +1,49 @@
+{
+  "name": "print-social-purple-story-carousel-with-3d-money-objects",
+  "image": "images/print-social-purple-story-carousel-with-3d-money-objects.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Nine-panel purple carousel telling a money story with 3D cash, coins and phones",
+  "tags": [
+    "carousel",
+    "fintech",
+    "purple",
+    "3d-cash",
+    "storytelling",
+    "swipe-pill",
+    "app-badges",
+    "sequence"
+  ],
+  "whatItIs": "A 3x3 grid of square panels alternating dark violet and pale lilac. Each has a short light-weight sentence with one bolder or green word, a 3D or photographic money prop (coin stacks, an ATM slot, a piggy bank, banknote bundles, a hand holding a phone) and a small 'swipe' pill or app-store badges.",
+  "whatItMeans": "Empathetic and clear; each panel is one line of a story so a budgeting product feels like a conversation.",
+  "techniques": [
+    "Write the carousel as a narrative of one short sentence per panel.",
+    "Emphasise one word per panel through weight or a single green highlight.",
+    "Pair each sentence with a single glossy 3D or photographic prop.",
+    "Alternate dark and pale purple backgrounds for rhythm.",
+    "Add a small swipe pill to cue movement."
+  ],
+  "bestFor": [
+    "Fintech and budgeting education carousels",
+    "Story-led product explainers",
+    "Purple-branded consumer finance"
+  ],
+  "vocabulary": [
+    {
+      "term": "One-line panel",
+      "definition": "A slide carrying a single short sentence."
+    },
+    {
+      "term": "Swipe pill",
+      "definition": "A small capsule prompting the viewer to swipe."
+    },
+    {
+      "term": "Word emphasis",
+      "definition": "Changing weight or colour of one word."
+    },
+    {
+      "term": "Prop metaphor",
+      "definition": "An object standing in for an abstract idea."
+    }
+  ]
+}

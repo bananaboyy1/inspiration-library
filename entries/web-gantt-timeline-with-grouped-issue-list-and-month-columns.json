@@ -1,0 +1,48 @@
+{
+  "name": "web-gantt-timeline-with-grouped-issue-list-and-month-columns",
+  "image": "images/web-gantt-timeline-with-grouped-issue-list-and-month-columns.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Roadmap timeline: left list of grouped issues with coloured status dots and durations, and month columns with white bars",
+  "tags": [
+    "component",
+    "timeline",
+    "gantt",
+    "roadmap",
+    "status-dots",
+    "white",
+    "grey",
+    "project-management"
+  ],
+  "whatItIs": "A pale panel with a left table (Issues, Duration) grouped under Cloud Infrastructure and Collaboration Tools with green, grey and orange dots, and a right area of month columns (Apr to Jul) with white rounded bars at positions plus small purple and red release labels at the edges.",
+  "whatItMeans": "Orderly and readable; dots and bars keep a plan calm.",
+  "techniques": [
+    "Group rows under section labels.",
+    "Use small status dots.",
+    "Place labelled bars on month columns.",
+    "Tint release tags in soft colours."
+  ],
+  "bestFor": [
+    "Product roadmap and timeline components",
+    "Project management UI",
+    "Gantt visualisations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Roadmap",
+      "definition": "A timeline of planned work."
+    },
+    {
+      "term": "Status dot",
+      "definition": "A coloured dot marking state."
+    },
+    {
+      "term": "Grouped rows",
+      "definition": "Rows organised under section headings."
+    },
+    {
+      "term": "Release tag",
+      "definition": "A small label marking a version date."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-payment-method-modal-with-radio-cards-and-stacked-dialog",
+  "image": "images/web-payment-method-modal-with-radio-cards-and-stacked-dialog.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Modal 'Choose a payment method' with three radio cards, a selected grey state, and a Cancel and black Continue footer",
+  "tags": [
+    "component",
+    "modal",
+    "radio-cards",
+    "payment",
+    "white",
+    "black-button",
+    "stacked-dialog",
+    "ui-kit"
+  ],
+  "whatItIs": "A white modal over a second dialog peeking behind, with a bold title, a grey subtitle, a hairline, three rounded radio cards (Credit Card selected in grey, PayPal, Apple Pay) each with an icon, description and radio circle, and a footer with an outlined Cancel and a black Continue.",
+  "whatItMeans": "Clear and calm; card-style radio options make choices easy to scan.",
+  "techniques": [
+    "Use full-width radio cards.",
+    "Tint the selected card grey.",
+    "Stack a second dialog behind.",
+    "Pair outlined Cancel with a black primary."
+  ],
+  "bestFor": [
+    "Payment and checkout modals",
+    "Radio card components",
+    "Minimal dialogs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radio card",
+      "definition": "A selectable card with a radio circle."
+    },
+    {
+      "term": "Stacked dialog",
+      "definition": "A dialog partly hidden behind another."
+    },
+    {
+      "term": "Modal footer",
+      "definition": "The bottom row of actions in a dialog."
+    },
+    {
+      "term": "Selected state",
+      "definition": "The chosen option tinted or filled."
+    }
+  ]
+}

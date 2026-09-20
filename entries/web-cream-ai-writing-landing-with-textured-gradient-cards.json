@@ -1,0 +1,49 @@
+{
+  "name": "web-cream-ai-writing-landing-with-textured-gradient-cards",
+  "image": "images/web-cream-ai-writing-landing-with-textured-gradient-cards.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Cream AI writing tool with serif headline, hand-drawn underline and three painterly gradient feature cards",
+  "tags": [
+    "saas",
+    "cream",
+    "serif",
+    "gradient-cards",
+    "texture",
+    "orange",
+    "blue",
+    "purple",
+    "pill-nav"
+  ],
+  "whatItIs": "A warm off-white page with a floating pill nav, a chip, a large light serif headline with a lavender hand-drawn underline, black and white buttons, and three large cards with textured orange, blue and purple backgrounds holding UI snippets (suggestions, rephrase, tone options).",
+  "whatItMeans": "Warm and craft-like; painterly textures make an AI tool feel human.",
+  "techniques": [
+    "Use serif for the hero headline on cream.",
+    "Add a hand-drawn underline stroke.",
+    "Give feature cards richly textured single-hue backgrounds.",
+    "Float small UI cards over them."
+  ],
+  "bestFor": [
+    "AI writing and productivity tools",
+    "Warm SaaS pages",
+    "Feature card sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Painterly texture",
+      "definition": "A brush-like surface on a background."
+    },
+    {
+      "term": "Hand-drawn underline",
+      "definition": "A loose stroke under a headline."
+    },
+    {
+      "term": "Feature card",
+      "definition": "A card demoing a capability."
+    },
+    {
+      "term": "Floating UI",
+      "definition": "Interface snippets over imagery."
+    }
+  ]
+}

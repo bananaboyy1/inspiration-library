@@ -1,0 +1,45 @@
+{
+  "name": "app-case-study-website-divider-strip",
+  "image": "images/app-case-study-website-divider-strip.png",
+  "discipline": "app",
+  "designType": "Case study divider",
+  "title": "Black divider strip with outlined pill and one-line description",
+  "tags": [
+    "divider",
+    "minimal",
+    "black",
+    "pill-tag",
+    "case-study",
+    "two-tone-text"
+  ],
+  "whatItIs": "A very thin, wide black strip with an outlined pill labelled 'WEBSITE' at the left and a tiny paragraph at the right where part of the text is white and part grey.",
+  "whatItMeans": "Quiet structure; it acts as a chapter break in a long case study.",
+  "techniques": [
+    "Use an outlined pill as a chapter label.",
+    "Split a sentence into bright and dim tones to show emphasis.",
+    "Keep everything tiny on pure black to make a subtle divider."
+  ],
+  "bestFor": [
+    "Long case studies with several deliverables",
+    "Chapter headers",
+    "Minimal dark presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chapter strip",
+      "definition": "A slim band that labels a new section."
+    },
+    {
+      "term": "Outlined pill",
+      "definition": "A capsule with a thin border and no fill."
+    },
+    {
+      "term": "Dim emphasis",
+      "definition": "Lowering the brightness of secondary words."
+    },
+    {
+      "term": "Divider",
+      "definition": "An element that separates sections."
+    }
+  ]
+}

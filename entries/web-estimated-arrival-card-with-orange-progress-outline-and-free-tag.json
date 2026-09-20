@@ -1,0 +1,48 @@
+{
+  "name": "web-estimated-arrival-card-with-orange-progress-outline-and-free-tag",
+  "image": "images/web-estimated-arrival-card-with-orange-progress-outline-and-free-tag.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White card 'ESTIMATED ARRIVAL September 28, Friday delivery' with an orange clock, an orange border that fills as progress and a Free pill",
+  "tags": [
+    "component",
+    "delivery",
+    "card",
+    "orange",
+    "progress-border",
+    "white",
+    "free-tag",
+    "clock"
+  ],
+  "whatItIs": "A white card with a rounded orange outline that runs along the top and left edges as a progress trace, an orange clock icon, a small caps label, a bold navy date, a grey line, an orange gradient 'Free' pill and a small chevron.",
+  "whatItMeans": "Clear and reassuring; the orange outline turns a delivery estimate into a subtle progress cue.",
+  "techniques": [
+    "Use the card border as a progress line.",
+    "Pair a clock icon with the date.",
+    "Show cost in a small pill.",
+    "Keep a single orange hue."
+  ],
+  "bestFor": [
+    "Delivery and order tracking components",
+    "Checkout summaries",
+    "Progress-outline cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Progress border",
+      "definition": "An outline that fills to show progress."
+    },
+    {
+      "term": "Eyebrow label",
+      "definition": "A tiny caps label above the main text."
+    },
+    {
+      "term": "Free pill",
+      "definition": "A capsule stating no cost."
+    },
+    {
+      "term": "Expand chevron",
+      "definition": "An arrow indicating more details."
+    }
+  ]
+}

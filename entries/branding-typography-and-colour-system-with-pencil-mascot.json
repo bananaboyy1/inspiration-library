@@ -1,0 +1,47 @@
+{
+  "name": "branding-typography-and-colour-system-with-pencil-mascot",
+  "image": "images/branding-typography-and-colour-system-with-pencil-mascot.jpg",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Typography and colour page with a pencil mascot and weight slider",
+  "tags": [
+    "typography",
+    "colour-palette",
+    "mascot",
+    "navy",
+    "italic-serif",
+    "weight-slider",
+    "brand-guidelines"
+  ],
+  "whatItIs": "A white page with a headline mixing regular sans and bold italic serif, a cartoon pencil character leaning on giant 'Helvetica Neue' type, a horizontal weight slider (Light, Regular, Medium, Bold), and a circular colour chart showing five blues with percentages around a script 'p' logo.",
+  "whatItMeans": "Friendly, structured and clear; the mascot humanises the guidelines and the ring makes proportions instantly visible.",
+  "techniques": [
+    "Show colour proportions as segments of a ring around the logo.",
+    "Demonstrate type weights with a draggable-style slider.",
+    "Add a cartoon mascot to lighten a technical page.",
+    "Contrast light sans with italic serif in the headline."
+  ],
+  "bestFor": [
+    "Brand guideline pages",
+    "Design-system typography and colour docs",
+    "Friendly fintech identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour ring",
+      "definition": "A circular chart showing each colour's share."
+    },
+    {
+      "term": "Weight slider",
+      "definition": "A control showing the range of font weights."
+    },
+    {
+      "term": "Mascot",
+      "definition": "A character used to represent a brand."
+    },
+    {
+      "term": "Palette proportion",
+      "definition": "The percentage of each colour used in a brand."
+    }
+  ]
+}

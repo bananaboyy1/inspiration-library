@@ -1,0 +1,48 @@
+{
+  "name": "web-accordion-gallery-of-vertical-photo-strips-with-one-expanded",
+  "image": "images/web-accordion-gallery-of-vertical-photo-strips-with-one-expanded.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Photo accordion: thin rounded vertical strips of nature photos with one wide expanded mountain photo in the middle",
+  "tags": [
+    "component",
+    "gallery",
+    "accordion",
+    "photo-strips",
+    "rounded",
+    "white",
+    "expanding",
+    "nature"
+  ],
+  "whatItIs": "A white frame with a horizontal row of narrow pill-shaped photo strips (sky and tree, red sail, waterfall, blue flower, building, yellow leaves, sunset) and one wide rounded photo of green mountains and cloudy sky expanded near the left.",
+  "whatItMeans": "Playful and immersive; strips reveal to a full photo on hover.",
+  "techniques": [
+    "Show photos as narrow pills.",
+    "Expand the active one horizontally.",
+    "Keep spacing even.",
+    "Use a white background."
+  ],
+  "bestFor": [
+    "Image galleries",
+    "Hover-expanding accordions",
+    "Photography showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Expanding strips",
+      "definition": "Narrow items that widen when active."
+    },
+    {
+      "term": "Pill photo",
+      "definition": "A photo cropped to a tall capsule."
+    },
+    {
+      "term": "Focus item",
+      "definition": "The single item shown at full size."
+    },
+    {
+      "term": "Horizontal accordion",
+      "definition": "An accordion that expands sideways."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "app-super-app-green-glow-hands-thumbnail",
+  "image": "images/app-super-app-green-glow-hands-thumbnail.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Super-app green-lit hands, square project thumbnail crop",
+  "tags": [
+    "super-app",
+    "green",
+    "thumbnail",
+    "hands",
+    "monochrome-photo",
+    "project-cover"
+  ],
+  "whatItIs": "A square-cropped version of the green-tinted hands holding a phone with a service-grid home screen, made as a portfolio thumbnail.",
+  "whatItMeans": "Reads instantly at small size: the glowing screen and green hands are a strong, simple focal point.",
+  "techniques": [
+    "Crop a mockup to a square with the device centred for portfolio grids.",
+    "Keep a single colour cast for one-glance recognition.",
+    "Leave dark space around the phone to let it glow.",
+    "Use a bright screen against a dark scene to survive downsizing."
+  ],
+  "bestFor": [
+    "Behance and Dribbble covers",
+    "Portfolio grids",
+    "Social previews of app projects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Project cover",
+      "definition": "A thumbnail representing a whole project."
+    },
+    {
+      "term": "Thumbnail crop",
+      "definition": "A recomposed version for small sizes."
+    },
+    {
+      "term": "Colour cast",
+      "definition": "A single dominant tint over an image."
+    },
+    {
+      "term": "Glow focus",
+      "definition": "Using a bright screen to draw the eye."
+    }
+  ]
+}

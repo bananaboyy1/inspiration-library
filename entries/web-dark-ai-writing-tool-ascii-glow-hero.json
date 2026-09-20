@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-ai-writing-tool-ascii-glow-hero",
+  "image": "images/web-dark-ai-writing-tool-ascii-glow-hero.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Dark AI writing hero with orange glow and ASCII flames",
+  "tags": [
+    "ai",
+    "dark-mode",
+    "orange",
+    "ascii-art",
+    "glow",
+    "hero",
+    "saas",
+    "prompt-box"
+  ],
+  "whatItIs": "A black landing hero with a floating pill nav, a small 'new update' chip, an enormous white headline 'Write Faster with AI', two buttons (orange and white), and an app window with a glowing orange prompt box. Orange glow and ASCII-character flames rise from the bottom edges.",
+  "whatItMeans": "Powerful and techy but warm; the orange heat suggests speed and creation.",
+  "techniques": [
+    "Draw texture with letters (ASCII) to make edge glows feel like fire.",
+    "Use one hot orange for glow, primary button and logo on pure black.",
+    "Center a giant sans headline with generous space.",
+    "Give the input box an orange halo so it becomes the hero of the UI."
+  ],
+  "bestFor": [
+    "AI and creative tools",
+    "Dev and productivity SaaS",
+    "Launch pages with a bold dark aesthetic"
+  ],
+  "vocabulary": [
+    {
+      "term": "ASCII texture",
+      "definition": "Imagery made from typed characters."
+    },
+    {
+      "term": "Glow halo",
+      "definition": "A soft coloured light around an element."
+    },
+    {
+      "term": "Update chip",
+      "definition": "A small pill announcing a release."
+    },
+    {
+      "term": "Floating nav",
+      "definition": "A navigation bar as a detached rounded pill."
+    }
+  ]
+}

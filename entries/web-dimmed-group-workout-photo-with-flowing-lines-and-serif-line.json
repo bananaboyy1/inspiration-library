@@ -1,0 +1,48 @@
+{
+  "name": "web-dimmed-group-workout-photo-with-flowing-lines-and-serif-line",
+  "image": "images/web-dimmed-group-workout-photo-with-flowing-lines-and-serif-line.png",
+  "discipline": "web",
+  "designType": "Hero section",
+  "title": "Group-exercise photo darkened with fine wavy lines and a single serif sentence",
+  "tags": [
+    "hero",
+    "photography",
+    "dark-overlay",
+    "serif",
+    "wave-lines",
+    "fitness",
+    "health",
+    "minimal"
+  ],
+  "whatItIs": "A photograph of people mid-workout outdoors from behind, darkened with an overlay. Thin white wavy lines run across the frame, and the centred sentence 'From health signals to everyday life.' is set in a light serif.",
+  "whatItMeans": "Human and reflective; the lines suggest data flowing through everyday activity.",
+  "techniques": [
+    "Darken a candid action photo for legible type.",
+    "Trace fine data-like lines over the image.",
+    "Use a single serif sentence as the only text.",
+    "Crop from behind so faces stay anonymous."
+  ],
+  "bestFor": [
+    "Health-data and wearable brand heroes",
+    "Quote or mission slides over photography",
+    "Fitness storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Data-line overlay",
+      "definition": "Fine curves drawn over a photo to suggest signals."
+    },
+    {
+      "term": "Dark scrim",
+      "definition": "A dim layer over an image."
+    },
+    {
+      "term": "Single-line hero",
+      "definition": "A hero with one sentence of text."
+    },
+    {
+      "term": "Anonymous crop",
+      "definition": "A shot from behind that hides identity."
+    }
+  ]
+}

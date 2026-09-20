@@ -1,0 +1,47 @@
+{
+  "name": "web-team-section-on-curved-dashed-path",
+  "image": "images/web-team-section-on-curved-dashed-path.jpg",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Meet-the-team section with duotone portraits on a diagonal dashed path",
+  "tags": [
+    "team-section",
+    "duotone",
+    "periwinkle",
+    "gradient",
+    "dashed-line",
+    "portraits",
+    "minimal"
+  ],
+  "whatItIs": "A periwinkle-to-white vertical gradient with a small title 'Meet the Team' at the top. Three circular duotone portraits with names and roles step diagonally down to the left along a dotted curved path.",
+  "whatItMeans": "Airy, friendly and guided; the path invites the eye through the team like a journey.",
+  "techniques": [
+    "Place portraits along a dashed curved line instead of a grid.",
+    "Tint portraits in the brand blue for cohesion.",
+    "Give each portrait a soft circular halo and shadow.",
+    "Keep type minimal in two tones (dark and grey)."
+  ],
+  "bestFor": [
+    "Team and about pages",
+    "Startup and agency sites",
+    "Any section wanting an organic flow"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dashed path",
+      "definition": "A dotted line connecting elements."
+    },
+    {
+      "term": "Duotone portrait",
+      "definition": "A photo tinted with brand colours."
+    },
+    {
+      "term": "Halo",
+      "definition": "A soft circle around an avatar."
+    },
+    {
+      "term": "Diagonal stagger",
+      "definition": "Arranging items in a stepped diagonal."
+    }
+  ]
+}

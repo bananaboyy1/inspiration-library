@@ -1,0 +1,48 @@
+{
+  "name": "app-wellness-tracker-phone-on-violet-and-yellow-planes",
+  "image": "images/app-wellness-tracker-phone-on-violet-and-yellow-planes.jpg",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Medication adherence app on periwinkle with yellow accent, standing on a textured slope",
+  "tags": [
+    "health",
+    "periwinkle",
+    "yellow",
+    "donut-chart",
+    "3d-scene",
+    "tilted-phone",
+    "planes",
+    "wellness"
+  ],
+  "whatItIs": "A periwinkle phone tilts on a lavender textured slope against vertical colour planes in navy, indigo, yellow and white. The screen shows a wellness tracker with yellow segmented tabs, a white card with a donut chart (54%) and three status pills, and a yellow plus button in the nav.",
+  "whatItMeans": "Friendly, clear and optimistic; blue with a sunny yellow accent softens a medical topic.",
+  "techniques": [
+    "Colour the whole UI in one hue with one yellow accent.",
+    "Stage the device against flat colour planes that match the UI.",
+    "Use a soft donut chart with status pills.",
+    "Place a shadow-casting phone on a textured surface."
+  ],
+  "bestFor": [
+    "Health-tracking and medication apps",
+    "Two-colour brand systems",
+    "Mockups built from flat planes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour planes",
+      "definition": "Flat vertical blocks of colour used as a backdrop."
+    },
+    {
+      "term": "Donut chart",
+      "definition": "A ring chart showing a proportion."
+    },
+    {
+      "term": "Accent pop",
+      "definition": "A single contrasting colour used sparingly."
+    },
+    {
+      "term": "Textured slope",
+      "definition": "A tilted surface with grainy texture."
+    }
+  ]
+}

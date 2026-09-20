@@ -1,0 +1,48 @@
+{
+  "name": "branding-interlocking-s-symbol-with-sans-wordmark",
+  "image": "images/branding-interlocking-s-symbol-with-sans-wordmark.jpg",
+  "discipline": "branding",
+  "designType": "Logo with symbol",
+  "title": "Violet interlocking S-shaped symbol from rounded pipes beside a bold sans wordmark",
+  "tags": [
+    "logo",
+    "symbol",
+    "violet",
+    "black",
+    "rounded-geometry",
+    "tech",
+    "wordmark",
+    "white-background"
+  ],
+  "whatItIs": "A white slide with a violet symbol made of two rounded L-shaped pipes forming an S with cross-shaped negative space, next to a black bold grotesque wordmark 'Sovrix'.",
+  "whatItMeans": "Clean and technical; rounded joins make it friendly and the negative cross hints at connection.",
+  "techniques": [
+    "Build an initial from rounded pipe segments.",
+    "Leave negative space forming a plus or cross.",
+    "Pair a coloured symbol with a black wordmark.",
+    "Match the wordmark's roundness to the symbol."
+  ],
+  "bestFor": [
+    "Software and infrastructure brands",
+    "Initial-based symbols",
+    "Simple two-colour marks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pipe construction",
+      "definition": "Forms built from constant-width rounded segments."
+    },
+    {
+      "term": "Negative-space cross",
+      "definition": "A plus shape formed by gaps."
+    },
+    {
+      "term": "Horizontal lockup",
+      "definition": "Symbol and name side by side."
+    },
+    {
+      "term": "Rounded join",
+      "definition": "A curved corner where segments meet."
+    }
+  ]
+}

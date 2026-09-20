@@ -1,0 +1,48 @@
+{
+  "name": "app-admin-table-on-tablet-held-with-two-hands-over-glow-wordmark",
+  "image": "images/app-admin-table-on-tablet-held-with-two-hands-over-glow-wordmark.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Voice-assistant admin table on a tablet held in two dark hands over a purple-orange glow and ghost CallAi",
+  "tags": [
+    "dashboard",
+    "tablet",
+    "table",
+    "purple",
+    "orange",
+    "glow",
+    "hands",
+    "ghost-wordmark"
+  ],
+  "whatItIs": "Two dark hands hold a black-bezel tablet showing a light admin table of assistants with status pills and a purple Create button, over a violet-to-peach gradient with a faint giant 'CallAi' wordmark.",
+  "whatItMeans": "Approachable tech; a warm glow softens a dense table.",
+  "techniques": [
+    "Hold the tablet from both sides for scale.",
+    "Use a violet-orange gradient backdrop.",
+    "Set a ghost wordmark behind.",
+    "Keep the table light and tidy."
+  ],
+  "bestFor": [
+    "SaaS admin dashboard covers",
+    "AI voice products",
+    "Tablet mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Two-hand hold",
+      "definition": "A device held by both hands."
+    },
+    {
+      "term": "Gradient glow backdrop",
+      "definition": "A warm colour blend behind a device."
+    },
+    {
+      "term": "Ghost wordmark",
+      "definition": "A faint large brand name."
+    },
+    {
+      "term": "Admin table",
+      "definition": "A data table for managing items."
+    }
+  ]
+}

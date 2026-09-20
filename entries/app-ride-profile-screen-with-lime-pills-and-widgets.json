@@ -1,0 +1,48 @@
+{
+  "name": "app-ride-profile-screen-with-lime-pills-and-widgets",
+  "image": "images/app-ride-profile-screen-with-lime-pills-and-widgets.png",
+  "discipline": "app",
+  "designType": "Ride-hailing app",
+  "title": "Profile screen with lime avatar, pill buttons, black stat block and side widgets",
+  "tags": [
+    "profile",
+    "lime",
+    "black",
+    "pills",
+    "stats",
+    "widgets",
+    "circular-nav",
+    "white"
+  ],
+  "whatItIs": "A white phone with a lime-circle avatar, big name, two big pill buttons (lime member, black upgrade), a black rounded stat block with 12 rides, 48 km, $124 in white and lime, settings rows, and a bottom nav of circular buttons with the active lime one. Two labelled black widgets float at the sides.",
+  "whatItMeans": "Bold, friendly and legible; very round shapes and lime-on-black feel modern and gamified.",
+  "techniques": [
+    "Use extremely rounded buttons and cards throughout.",
+    "Display stats in a black block with one lime number.",
+    "Make bottom nav a row of round buttons with the active one in lime.",
+    "Show widgets beside the phone with small caps labels."
+  ],
+  "bestFor": [
+    "Mobility and membership apps",
+    "Profile and account screens",
+    "Neon accent brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pill button",
+      "definition": "A fully rounded rectangular button."
+    },
+    {
+      "term": "Stat block",
+      "definition": "A dark card with several key numbers."
+    },
+    {
+      "term": "Round nav",
+      "definition": "A navigation of circular buttons."
+    },
+    {
+      "term": "Widget callout",
+      "definition": "A labelled component shown beside the device."
+    }
+  ]
+}

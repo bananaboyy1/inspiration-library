@@ -1,0 +1,48 @@
+{
+  "name": "app-lime-black-watch-screens-with-giant-ghost-countdown",
+  "image": "images/app-lime-black-watch-screens-with-giant-ghost-countdown.png",
+  "discipline": "app",
+  "designType": "Wearable UI",
+  "title": "Seven smartwatch screens in lime, black and white around a giant ghost 2:47 timer",
+  "tags": [
+    "smartwatch",
+    "wearable",
+    "lime",
+    "black",
+    "white",
+    "ghost-numerals",
+    "voice",
+    "rides"
+  ],
+  "whatItIs": "A tall white board with an outlined 'Apple Watch App' pill and watch screens on soft shadows: a voice-listening lime blur, ride in progress, profile stats, a home with a lime Book a ride button, a large watch 'Arriving now 2:47 min' over huge faint numerals, a route confirm and an 'You arrived!' summary, with two small explanation texts.",
+  "whatItMeans": "Precise and focused; each watch screen carries one datum.",
+  "techniques": [
+    "Show each state as a separate watch.",
+    "Enlarge the hero screen over giant ghost numerals.",
+    "Use lime for key data.",
+    "Add tiny explanatory captions."
+  ],
+  "bestFor": [
+    "Wearable app flows",
+    "Mobility products",
+    "Minimal white boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "State sequence",
+      "definition": "Screens showing each stage of a flow."
+    },
+    {
+      "term": "Ghost numerals",
+      "definition": "Huge faint numbers behind content."
+    },
+    {
+      "term": "Listening orb",
+      "definition": "A blurred sphere indicating voice input."
+    },
+    {
+      "term": "Glanceable data",
+      "definition": "Info readable at a glance."
+    }
+  ]
+}

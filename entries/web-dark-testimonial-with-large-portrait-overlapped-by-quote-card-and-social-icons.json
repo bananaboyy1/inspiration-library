@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-testimonial-with-large-portrait-overlapped-by-quote-card-and-social-icons",
+  "image": "images/web-dark-testimonial-with-large-portrait-overlapped-by-quote-card-and-social-icons.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Dark testimonial slider: rounded grey portrait overlapped by a black card with name, role, quote and four round social buttons, arrows and dots",
+  "tags": [
+    "component",
+    "testimonial",
+    "dark",
+    "portrait",
+    "overlap",
+    "social-icons",
+    "carousel",
+    "dots"
+  ],
+  "whatItIs": "A black canvas with a large rounded portrait of an older man in glasses and olive polo, overlapped by a dark rounded card with a bold name 'William Carter', a grey role, a paragraph quote and four white round social icon buttons, and below outlined circular arrows with three dots.",
+  "whatItMeans": "Credible and modern; overlap ties the face to the words.",
+  "techniques": [
+    "Overlap a text card over a portrait.",
+    "Use white round social buttons.",
+    "Add dot pagination between arrows.",
+    "Keep tones dark."
+  ],
+  "bestFor": [
+    "Dark testimonial carousels",
+    "Team quote components",
+    "Portrait-and-card layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overlap card",
+      "definition": "A card placed partly over an image."
+    },
+    {
+      "term": "Social button",
+      "definition": "A round icon button linking to a profile."
+    },
+    {
+      "term": "Pagination dots",
+      "definition": "Dots showing the current slide."
+    },
+    {
+      "term": "Outlined arrow",
+      "definition": "A circular arrow with a border."
+    }
+  ]
+}

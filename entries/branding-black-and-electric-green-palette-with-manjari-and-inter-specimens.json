@@ -1,0 +1,48 @@
+{
+  "name": "branding-black-and-electric-green-palette-with-manjari-and-inter-specimens",
+  "image": "images/branding-black-and-electric-green-palette-with-manjari-and-inter-specimens.png",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Tall colour cards in black, electric green, white, charcoal, grey over giant Manjari and Inter specimens",
+  "tags": [
+    "colour-palette",
+    "typography",
+    "black",
+    "electric-green",
+    "rounded-cards",
+    "rounded-sans",
+    "specimen",
+    "guidelines"
+  ],
+  "whatItIs": "A black board with a top row of tall rounded colour cards (Pilo Black, Electric Green, Pure White, Charcoal, Mid Gray with hex codes), an outlined 'Fonts & Colors' pill, and two giant white type specimens, rounded Manjari and tight Inter, each with a small alphabet.",
+  "whatItMeans": "Bold and modern; big cards and giant type make the system feel confident.",
+  "techniques": [
+    "Show colours as tall rounded cards of varied size.",
+    "Present giant specimens on black.",
+    "Use small alphabets under specimens.",
+    "Keep labels tiny."
+  ],
+  "bestFor": [
+    "Brand guidelines",
+    "Dark presentations of type and colour",
+    "Neon-green identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tall swatch card",
+      "definition": "A tall rounded rectangle showing a colour."
+    },
+    {
+      "term": "Type pair",
+      "definition": "A display face and a text face."
+    },
+    {
+      "term": "Hex label",
+      "definition": "A small code inside a swatch."
+    },
+    {
+      "term": "Section pill",
+      "definition": "An outlined capsule naming a section."
+    }
+  ]
+}

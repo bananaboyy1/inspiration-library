@@ -1,0 +1,48 @@
+{
+  "name": "web-tilted-testimonial-card-carousel-with-black-notched-focus-card",
+  "image": "images/web-tilted-testimonial-card-carousel-with-black-notched-focus-card.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Row of slightly rotated white testimonial cards with a large black focus card that has a clipped corner, and arrow buttons below",
+  "tags": [
+    "component",
+    "testimonials",
+    "carousel",
+    "black",
+    "white",
+    "clipped-corner",
+    "tilted",
+    "avatars"
+  ],
+  "whatItIs": "A white area with overlapping rotated white quote cards with small avatars and attributions, and one taller black card at the centre with a cut top-right corner holding a larger quote, avatar and attribution in italic, with two outlined square arrow buttons under it.",
+  "whatItMeans": "Lively and tactile; tilt and a dark focus card make quotes feel like pinned notes.",
+  "techniques": [
+    "Rotate cards slightly.",
+    "Make the focus card black with a clipped corner.",
+    "Overlap neighbours behind it.",
+    "Add square arrow controls."
+  ],
+  "bestFor": [
+    "Testimonial carousels",
+    "Card stack components",
+    "Black-and-white social proof"
+  ],
+  "vocabulary": [
+    {
+      "term": "Focus card",
+      "definition": "The active card, larger and in a contrasting colour."
+    },
+    {
+      "term": "Clipped corner",
+      "definition": "A card with one corner cut off diagonally."
+    },
+    {
+      "term": "Tilted card",
+      "definition": "A card rotated a few degrees."
+    },
+    {
+      "term": "Attribution line",
+      "definition": "Name and company below a quote."
+    }
+  ]
+}

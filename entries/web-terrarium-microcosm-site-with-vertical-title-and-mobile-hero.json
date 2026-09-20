@@ -1,0 +1,48 @@
+{
+  "name": "web-terrarium-microcosm-site-with-vertical-title-and-mobile-hero",
+  "image": "images/web-terrarium-microcosm-site-with-vertical-title-and-mobile-hero.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Glass terrarium photo with giant vertical white BIOLOARK and a mobile hero with a black CTA",
+  "tags": [
+    "nature",
+    "terrarium",
+    "dark-green",
+    "vertical-title",
+    "mobile-hero",
+    "photography",
+    "product",
+    "cyrillic"
+  ],
+  "whatItIs": "A dark forest-green photo of a glass teardrop terrarium with carnivorous plants and a lamp cap, a huge rotated white 'BIOLOARK' along the left edge and a white-bordered phone showing the same photo with a small logo, a centred headline and a wide black 'В КАТАЛОГ' button.",
+  "whatItMeans": "Immersive and quiet; a giant rotated word and the plant image feel like a nature documentary.",
+  "techniques": [
+    "Rotate a giant white word up the edge.",
+    "Use a moody macro nature photo.",
+    "Show a phone with the same photo.",
+    "Add a wide black CTA at the bottom."
+  ],
+  "bestFor": [
+    "Nature and plant product sites",
+    "Photo-led mobile heroes",
+    "Vertical title layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Vertical giant title",
+      "definition": "A huge word rotated 90 degrees."
+    },
+    {
+      "term": "Macro nature photo",
+      "definition": "A close image of plants."
+    },
+    {
+      "term": "Photo continuity",
+      "definition": "The same image used on poster and screen."
+    },
+    {
+      "term": "Wide CTA bar",
+      "definition": "A full-width button."
+    }
+  ]
+}

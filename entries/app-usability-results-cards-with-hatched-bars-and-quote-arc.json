@@ -1,0 +1,48 @@
+{
+  "name": "app-usability-results-cards-with-hatched-bars-and-quote-arc",
+  "image": "images/app-usability-results-cards-with-hatched-bars-and-quote-arc.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Usability results: three white cards with big thin percentages and hatched bars, plus a quote inside a hairline arc",
+  "tags": [
+    "research",
+    "usability",
+    "white",
+    "italic-serif",
+    "hatched-bars",
+    "quote",
+    "fintech",
+    "minimal"
+  ],
+  "whatItIs": "A near-white slide with a pill label, a headline mixing light sans and bold italic serif, three rounded white cards (Money Transfer 92%, Bill Payment 84%, Finding Key Features 89%) each with a thin numeral and a hatched progress bar with a percentage pill, and a large quote mark and testimonial in a huge thin arc.",
+  "whatItMeans": "Precise and reassuring; thin numerals and hatched bars feel calm and credible.",
+  "techniques": [
+    "Set percentages in a very thin weight.",
+    "Fill bars with diagonal hatching.",
+    "Frame a quote inside a large hairline arc.",
+    "Mix light sans and bold italic serif."
+  ],
+  "bestFor": [
+    "Usability results slides",
+    "Fintech case studies",
+    "Minimal light decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched bar",
+      "definition": "A progress bar filled with diagonal lines."
+    },
+    {
+      "term": "Result card",
+      "definition": "A card summarising one test outcome."
+    },
+    {
+      "term": "Hairline arc",
+      "definition": "A huge thin curve as a frame."
+    },
+    {
+      "term": "Participant quote",
+      "definition": "A user's words with name and role."
+    }
+  ]
+}

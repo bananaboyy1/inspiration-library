@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-defi-dashboard-teal-glow",
+  "image": "images/app-dark-defi-dashboard-teal-glow.png",
+  "discipline": "app",
+  "designType": "Dark dashboard",
+  "title": "Dark DeFi dashboard on a teal-glow starfield",
+  "tags": [
+    "dashboard",
+    "dark-mode",
+    "crypto",
+    "area-chart",
+    "teal-glow",
+    "case-study-cover",
+    "tilted-mockup"
+  ],
+  "whatItIs": "A project cover: black starfield with a teal glow at the right, the studio name and discipline chips at top left, and a tilted desktop dashboard with sidebar, an area chart, collateral totals and an earn table.",
+  "whatItMeans": "Technical, premium and futuristic; the glow suggests energy and live data.",
+  "techniques": [
+    "Tilt the dashboard in perspective so it feels like a 3D object in space.",
+    "Use one cool glow (teal) to light the UI from one side.",
+    "Limit the chart palette to one line colour with a gradient fill.",
+    "Put small outlined chips at the top for context instead of a big heading.",
+    "Keep panels near-black with hairline borders for layered depth."
+  ],
+  "bestFor": [
+    "Crypto, trading and analytics product covers",
+    "Dark-themed SaaS showcases",
+    "Portfolio thumbnails for UI projects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Area chart",
+      "definition": "A line chart with the area under it filled."
+    },
+    {
+      "term": "Glow gradient",
+      "definition": "A soft light bloom in an accent colour behind or beside an object."
+    },
+    {
+      "term": "Case-study cover",
+      "definition": "The first image of a portfolio project."
+    },
+    {
+      "term": "Chip",
+      "definition": "A small rounded tag with a short label."
+    }
+  ]
+}

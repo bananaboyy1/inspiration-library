@@ -1,0 +1,48 @@
+{
+  "name": "web-two-tab-segmented-switch-with-profile-and-notifications-content",
+  "image": "images/web-two-tab-segmented-switch-with-profile-and-notifications-content.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Two-tab segmented control with a raised white active pill and a content line 'Content for Profile'",
+  "tags": [
+    "component",
+    "tabs",
+    "segmented",
+    "white",
+    "grey",
+    "icons",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white frame with a grey rounded track split into Profile (active, white raised pill with a person icon) and Notifications (bell icon, grey text) and a grey line of content below.",
+  "whatItMeans": "Simple and clear; the raised pill shows selection with almost no ink.",
+  "techniques": [
+    "Split a track into two equal segments.",
+    "Raise the active one as a white pill.",
+    "Grey the inactive label.",
+    "Show content directly beneath."
+  ],
+  "bestFor": [
+    "Tabbed panels",
+    "Settings pages",
+    "Minimal switchers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented control",
+      "definition": "A track of two or more exclusive options."
+    },
+    {
+      "term": "Active pill",
+      "definition": "The selected segment shown as a raised capsule."
+    },
+    {
+      "term": "Tab panel",
+      "definition": "The content area shown for the selected tab."
+    },
+    {
+      "term": "Grey track",
+      "definition": "The recessed background behind the segments."
+    }
+  ]
+}

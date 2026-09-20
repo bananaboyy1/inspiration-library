@@ -1,0 +1,47 @@
+{
+  "name": "web-pixel-gradient-square-grid-background",
+  "image": "images/web-pixel-gradient-square-grid-background.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Square-tile gradient from white to deep blue",
+  "tags": [
+    "pattern",
+    "pixel-grid",
+    "gradient",
+    "blue",
+    "squares",
+    "background",
+    "minimal"
+  ],
+  "whatItIs": "A rectangular pattern of small rounded squares arranged in a dense grid whose colour fades from white at the top through light blue to deep navy at the bottom, with tile sizes shrinking near the bottom.",
+  "whatItMeans": "Calm and digital; a stepped gradient reads like a pixelated sky or sunset.",
+  "techniques": [
+    "Render a gradient as a grid of small tiles rather than a smooth blend.",
+    "Vary tile size or gap along the gradient to add rhythm.",
+    "Keep one hue family from white to navy.",
+    "Use the pattern as a hero or divider background."
+  ],
+  "bestFor": [
+    "Hero backgrounds and section dividers",
+    "Fintech and tech decks",
+    "Textures for social covers and posters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tile gradient",
+      "definition": "A gradient built from discrete squares."
+    },
+    {
+      "term": "Pixel grid",
+      "definition": "A regular grid of square cells."
+    },
+    {
+      "term": "Tonal ramp",
+      "definition": "A smooth progression of one hue from light to dark."
+    },
+    {
+      "term": "Background texture",
+      "definition": "A pattern that adds surface without content."
+    }
+  ]
+}

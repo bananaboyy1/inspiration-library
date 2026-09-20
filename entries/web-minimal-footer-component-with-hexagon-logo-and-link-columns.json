@@ -1,0 +1,48 @@
+{
+  "name": "web-minimal-footer-component-with-hexagon-logo-and-link-columns",
+  "image": "images/web-minimal-footer-component-with-hexagon-logo-and-link-columns.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White footer with a hexagon logo and name, two round social buttons, copyright and right-aligned link columns",
+  "tags": [
+    "component",
+    "footer",
+    "white",
+    "hexagon-logo",
+    "social-icons",
+    "links",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white frame with a bordered hexagon logo and 'Awesome Corp' at the left, two round grey icon buttons for social links at the right, a hairline, a small copyright at the left and two rows of links (Products, About, Blog, Contact; Privacy, Terms) right-aligned.",
+  "whatItMeans": "Tidy and neutral; a footer stripped to essentials.",
+  "techniques": [
+    "Use a simple outlined hexagon logo.",
+    "Round the social icon buttons.",
+    "Right-align link groups.",
+    "Divide with a hairline."
+  ],
+  "bestFor": [
+    "Footer components",
+    "Minimal corporate sites",
+    "UI kits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Footer link group",
+      "definition": "A set of links aligned at the footer's edge."
+    },
+    {
+      "term": "Social icon button",
+      "definition": "A round button with a platform icon."
+    },
+    {
+      "term": "Hairline divider",
+      "definition": "A very thin separating line."
+    },
+    {
+      "term": "Legal row",
+      "definition": "Small links for privacy and terms."
+    }
+  ]
+}

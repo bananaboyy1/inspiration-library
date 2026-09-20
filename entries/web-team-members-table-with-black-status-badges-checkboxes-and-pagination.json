@@ -1,0 +1,48 @@
+{
+  "name": "web-team-members-table-with-black-status-badges-checkboxes-and-pagination",
+  "image": "images/web-team-members-table-with-black-status-badges-checkboxes-and-pagination.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "'Team Members' table with search, black Invite button, sortable columns, avatar rows with black Active badges and a paged footer",
+  "tags": [
+    "component",
+    "table",
+    "members",
+    "black",
+    "white",
+    "badges",
+    "checkboxes",
+    "pagination"
+  ],
+  "whatItIs": "A white bordered card with an icon tile and 'Team Members / 30 members across 3 workspaces', a Search members field and a black Invite button, a header row with a select-all circle and sortable Member, Status, Role and Joined columns, six rows with a checkbox, round avatar, name and email, a black Active or pale Invited or Inactive badge, a role in black or grey and a date, and a footer '30 Results' with 'Page 1 of 5' arrows.",
+  "whatItMeans": "Efficient and neutral; black badges for active and pale ones for others create hierarchy without colour.",
+  "techniques": [
+    "Use black for active status and pale for inactive.",
+    "Add sort arrows on headers.",
+    "Put avatar, name and email in one cell.",
+    "Finish with results count and pager."
+  ],
+  "bestFor": [
+    "Admin and team management tables",
+    "Monochrome data tables",
+    "User directories"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sortable header",
+      "definition": "A column title with a sort arrow."
+    },
+    {
+      "term": "Status badge",
+      "definition": "A capsule showing state such as Active."
+    },
+    {
+      "term": "Bulk select circle",
+      "definition": "A control that selects all rows."
+    },
+    {
+      "term": "Table footer",
+      "definition": "A row with count and pagination."
+    }
+  ]
+}

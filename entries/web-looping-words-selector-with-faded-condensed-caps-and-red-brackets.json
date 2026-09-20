@@ -1,0 +1,48 @@
+{
+  "name": "web-looping-words-selector-with-faded-condensed-caps-and-red-brackets",
+  "image": "images/web-looping-words-selector-with-faded-condensed-caps-and-red-brackets.webp",
+  "discipline": "web",
+  "designType": "Motion text",
+  "title": "Cream page with a vertical scroller of heavy condensed words 'WORDS SELECTOR' fading up and down under red corner brackets",
+  "tags": [
+    "typography",
+    "motion",
+    "cream",
+    "plum",
+    "condensed",
+    "fade",
+    "corner-brackets",
+    "selector"
+  ],
+  "whatItIs": "A cream page with a centred stack of heavy condensed uppercase words, where the middle two ('WORDS', 'SELECTOR') are plum with a vertical gradient and the lines above and below fade to grey, framed by small red corner brackets like a camera focus.",
+  "whatItMeans": "Kinetic and focused; fading neighbours and brackets make one word feel selected.",
+  "techniques": [
+    "Stack words in a vertical scroller.",
+    "Fade the outer lines.",
+    "Frame the selection with red corner brackets.",
+    "Use heavy condensed caps."
+  ],
+  "bestFor": [
+    "Rotating word headlines",
+    "Kinetic typography components",
+    "Selector interactions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Word scroller",
+      "definition": "A vertical list of words that loops."
+    },
+    {
+      "term": "Focus brackets",
+      "definition": "Corner marks indicating the selected item."
+    },
+    {
+      "term": "Fade mask",
+      "definition": "A gradient hiding the ends of a list."
+    },
+    {
+      "term": "Condensed caps",
+      "definition": "Tall narrow uppercase letters."
+    }
+  ]
+}

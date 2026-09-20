@@ -1,0 +1,48 @@
+{
+  "name": "web-how-it-works-four-step-list-with-numbered-timeline-and-icon-cards",
+  "image": "images/web-how-it-works-four-step-list-with-numbered-timeline-and-icon-cards.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'A four-step path from blank page to launched site' with mono step numbers in circles on a vertical line and four bordered cards with icons",
+  "tags": [
+    "how-it-works",
+    "steps",
+    "timeline",
+    "monospace",
+    "cards",
+    "white",
+    "icons",
+    "minimal"
+  ],
+  "whatItIs": "A white page with a tiny caps label 'HOW IT WORKS', a bold centred headline and a vertical timeline where circles with monospace numbers (01 to 04) sit beside wide hairline cards each with a small icon tile, a bold title (Browse the catalog, Install via shadcn, Customize without fear, Ship) and grey description.",
+  "whatItMeans": "Clear and confident; a numbered line and quiet cards make a process feel simple.",
+  "techniques": [
+    "Number steps in monospace circles on a vertical line.",
+    "Use hairline cards.",
+    "Add a small icon tile per step.",
+    "Keep grey descriptions short."
+  ],
+  "bestFor": [
+    "How-it-works sections",
+    "Developer product pages",
+    "Minimal step lists"
+  ],
+  "vocabulary": [
+    {
+      "term": "Numbered timeline",
+      "definition": "Steps marked by numbers on a vertical line."
+    },
+    {
+      "term": "Hairline card",
+      "definition": "A card with a very thin border."
+    },
+    {
+      "term": "Icon tile",
+      "definition": "A small rounded square holding an icon."
+    },
+    {
+      "term": "Eyebrow label",
+      "definition": "A tiny caps label above a heading."
+    }
+  ]
+}

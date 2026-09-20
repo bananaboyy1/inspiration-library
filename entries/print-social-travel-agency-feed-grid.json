@@ -1,0 +1,48 @@
+{
+  "name": "print-social-travel-agency-feed-grid",
+  "image": "images/print-social-travel-agency-feed-grid.png",
+  "discipline": "print-social",
+  "designType": "Instagram feed grid",
+  "title": "Travel agency feed in sky blue with swooshes and circular crops",
+  "tags": [
+    "instagram",
+    "feed",
+    "travel",
+    "blue",
+    "swoosh",
+    "circle-crop",
+    "photography",
+    "template-system"
+  ],
+  "whatItIs": "A 4x3 grid of Instagram posts for a travel brand. Each uses full-bleed destination photos, a sky-blue brush swoosh, a small logo bar, and short headlines in white; some crop photos to circles or arches.",
+  "whatItMeans": "Airy, aspirational and consistent; blue ties disparate destination photos together.",
+  "techniques": [
+    "Use one brush-stroke swoosh in the brand blue as a signature device across all posts.",
+    "Alternate full-bleed photos with circular or arch crops for variety within a system.",
+    "Keep headline size and placement predictable for scannability.",
+    "Let a small cloud cutout blend photos with the sky palette."
+  ],
+  "bestFor": [
+    "Travel and tourism accounts",
+    "Any brand needing a cohesive photo-led feed",
+    "Templates for social managers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feed grid",
+      "definition": "The mosaic of posts on a profile page."
+    },
+    {
+      "term": "Brush swoosh",
+      "definition": "A painted stroke used as a brand device."
+    },
+    {
+      "term": "Circle crop",
+      "definition": "Photo masked into a circle."
+    },
+    {
+      "term": "Template system",
+      "definition": "A set of layouts reused for consistency."
+    }
+  ]
+}

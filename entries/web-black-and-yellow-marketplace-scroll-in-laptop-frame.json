@@ -1,0 +1,48 @@
+{
+  "name": "web-black-and-yellow-marketplace-scroll-in-laptop-frame",
+  "image": "images/web-black-and-yellow-marketplace-scroll-in-laptop-frame.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Tall black-and-yellow page scrolling out of a laptop screen on a dark navy field",
+  "tags": [
+    "marketplace",
+    "black",
+    "yellow",
+    "condensed-type",
+    "tape",
+    "laptop",
+    "tall-scroll",
+    "mockup"
+  ],
+  "whatItIs": "A laptop on dark navy with a browser window taller than the screen showing the tape-ticker hero, chip cloud, 'BUILT FOR BRANDS' heading and a yellow real-time tracking block extending beyond the frame.",
+  "whatItMeans": "Bold and clear; extending the page above the laptop shows the whole flow.",
+  "techniques": [
+    "Let the page extend above the laptop.",
+    "Use a dark navy stage.",
+    "Keep yellow as the only bright colour.",
+    "Show the browser chrome."
+  ],
+  "bestFor": [
+    "Long page showcases",
+    "Black and yellow sites",
+    "Laptop scroll mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overflow mockup",
+      "definition": "A page that extends past its device."
+    },
+    {
+      "term": "Browser chrome",
+      "definition": "The frame and toolbar of a browser."
+    },
+    {
+      "term": "Yellow feature block",
+      "definition": "A bright block presenting a feature."
+    },
+    {
+      "term": "Navy stage",
+      "definition": "A dark blue background."
+    }
+  ]
+}

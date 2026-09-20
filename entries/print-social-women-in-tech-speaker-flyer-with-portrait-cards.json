@@ -1,0 +1,48 @@
+{
+  "name": "print-social-women-in-tech-speaker-flyer-with-portrait-cards",
+  "image": "images/print-social-women-in-tech-speaker-flyer-with-portrait-cards.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Career talk flyer on pink grid paper with three gradient-framed speaker portraits",
+  "tags": [
+    "event",
+    "flyer",
+    "pink",
+    "grid-paper",
+    "portraits",
+    "speakers",
+    "pills",
+    "chevrons"
+  ],
+  "whatItIs": "A pale pink squared-paper flyer with a logo pill, a big 'How to Get Started in Tech' with the last words in blue and pink gradients, three rounded portrait cards with coloured gradient frames and name tags, blue and pink info pills and coloured chevrons at the edges.",
+  "whatItMeans": "Warm and inclusive; portraits in gradient frames make the speakers the stars.",
+  "techniques": [
+    "Frame each speaker in a rounded card with its own gradient.",
+    "Colour key words of the title in blue and pink.",
+    "Use info pills for venue and time.",
+    "Sprinkle chevron shapes at edges."
+  ],
+  "bestFor": [
+    "Speaker-led tech events",
+    "Community meetups",
+    "Panel announcements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Portrait card",
+      "definition": "A rounded photo card with a name tag."
+    },
+    {
+      "term": "Gradient frame",
+      "definition": "A border filled with a colour blend."
+    },
+    {
+      "term": "Info pill",
+      "definition": "A capsule holding logistics."
+    },
+    {
+      "term": "Grid paper",
+      "definition": "A squared notebook background."
+    }
+  ]
+}

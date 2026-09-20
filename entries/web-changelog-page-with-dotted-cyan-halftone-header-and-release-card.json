@@ -1,0 +1,48 @@
+{
+  "name": "web-changelog-page-with-dotted-cyan-halftone-header-and-release-card",
+  "image": "images/web-changelog-page-with-dotted-cyan-halftone-header-and-release-card.webp",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Dark changelog with a cyan halftone-dot banner, a dated release title, a placeholder feature card and contributor avatars with action icons",
+  "tags": [
+    "changelog",
+    "dark",
+    "halftone",
+    "cyan",
+    "release-notes",
+    "avatars",
+    "minimal",
+    "banner"
+  ],
+  "whatItIs": "A black page whose top banner is a cyan and black dithered dot pattern with 'Changelog' and 'Latest Enhancements & Platform News', below a narrow column with a date, a release title 'v3.0.0: Major UI Refresh & New Integrations', a large dark card reading 'UI Refresh & Integrations', a short description, avatar chips '+1 contributors' and three icon buttons with a 'Show full release' tooltip.",
+  "whatItMeans": "Technical and tidy; a dot banner brings texture to an otherwise text-driven page.",
+  "techniques": [
+    "Use a dithered dot banner as a header.",
+    "Keep a narrow reading column.",
+    "Show contributors as avatar chips.",
+    "Add small action icons with tooltips."
+  ],
+  "bestFor": [
+    "Changelog and release-note pages",
+    "Dark developer sites",
+    "Halftone headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dither banner",
+      "definition": "A header made of dithered dots."
+    },
+    {
+      "term": "Release entry",
+      "definition": "A dated block describing a version."
+    },
+    {
+      "term": "Contributor chips",
+      "definition": "Small avatars showing who contributed."
+    },
+    {
+      "term": "Tooltip label",
+      "definition": "A small label describing an icon button."
+    }
+  ]
+}

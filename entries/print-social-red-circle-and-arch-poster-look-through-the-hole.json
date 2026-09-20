@@ -1,0 +1,48 @@
+{
+  "name": "print-social-red-circle-and-arch-poster-look-through-the-hole",
+  "image": "images/print-social-red-circle-and-arch-poster-look-through-the-hole.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Red poster where black words pass through a circular hole cut into a red block",
+  "tags": [
+    "poster",
+    "red",
+    "black",
+    "circle",
+    "cutout",
+    "giant-type",
+    "concept",
+    "swiss"
+  ],
+  "whatItIs": "A white poster with a red circle behind giant black 'LOOK THROUGH' and a red rectangle below with a circular hole revealing white and the words 'THE HOLE IN THE WALL' cropped by the circle. Small text is centred and 'Look beyond the possible' repeats in the top corners.",
+  "whatItMeans": "Clever and bold; the layout physically shows a hole in a wall.",
+  "techniques": [
+    "Cut a circular window in a solid block.",
+    "Crop the text at the window edge.",
+    "Overlap type on a red circle.",
+    "Repeat a slogan in the top corners."
+  ],
+  "bestFor": [
+    "Concept typographic posters",
+    "Swiss-style series",
+    "Red and black graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Window cutout",
+      "definition": "A shape cut into a block revealing what is behind."
+    },
+    {
+      "term": "Type crop",
+      "definition": "Text cut by a shape edge."
+    },
+    {
+      "term": "Overlap layering",
+      "definition": "Text over and under shapes."
+    },
+    {
+      "term": "Slogan repeat",
+      "definition": "The same line at multiple corners."
+    }
+  ]
+}

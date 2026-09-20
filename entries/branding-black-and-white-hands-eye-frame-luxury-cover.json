@@ -1,0 +1,48 @@
+{
+  "name": "branding-black-and-white-hands-eye-frame-luxury-cover",
+  "image": "images/branding-black-and-white-hands-eye-frame-luxury-cover.png",
+  "discipline": "branding",
+  "designType": "Brand presentation cover",
+  "title": "Black-and-white hands forming a frame around eyes, with a serif 'Maison Noire' title",
+  "tags": [
+    "luxury",
+    "black-and-white",
+    "hands",
+    "eyes",
+    "serif",
+    "cover",
+    "ui-ux",
+    "editorial"
+  ],
+  "whatItIs": "A black cover with a greyscale photo of two hands forming a triangular frame each with an eye in the palm, a flourished serif title 'MAISON NOIRE' in the middle and tiny credits and columns of text at the sides.",
+  "whatItMeans": "Mysterious and elegant; the eye-in-hand image sets a fashion-noir tone.",
+  "techniques": [
+    "Use a surreal black-and-white photo as the central image.",
+    "Set a flourished serif title.",
+    "Place tiny credits in the corners.",
+    "Add faint text columns at the sides."
+  ],
+  "bestFor": [
+    "Luxury and fashion presentations",
+    "Serif noir identities",
+    "Cover slides with a striking image"
+  ],
+  "vocabulary": [
+    {
+      "term": "Surreal monochrome",
+      "definition": "A dreamlike black-and-white image."
+    },
+    {
+      "term": "Flourished serif",
+      "definition": "A serif with decorative swashes."
+    },
+    {
+      "term": "Side columns",
+      "definition": "Faint text running down the edges."
+    },
+    {
+      "term": "Noir palette",
+      "definition": "Black, white and grey only."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-spray-texture-agency-page-with-stats-and-case-carousel",
+  "image": "images/web-spray-texture-agency-page-with-stats-and-case-carousel.webp",
+  "discipline": "web",
+  "designType": "Agency site",
+  "title": "White agency page with blue and pink spray-paint clouds, coloured stats and a tilted case carousel",
+  "tags": [
+    "agency",
+    "spray-texture",
+    "pink",
+    "blue",
+    "red",
+    "stats",
+    "carousel",
+    "rounded"
+  ],
+  "whatItIs": "A white page with soft spray-painted blue clouds, a stats row 'Numbers that speak' in blue, black and red, an 'Our cases' section with a lilac card carousel showing a fitness brand with images and blue arrows, and a pink spray panel with a large statement containing inline image and icon chips and a blue Apply button.",
+  "whatItMeans": "Friendly and loose; spray texture and coloured numerals give warmth.",
+  "techniques": [
+    "Paint spray clouds behind sections.",
+    "Colour individual stats differently.",
+    "Tilt side cards in a carousel.",
+    "Embed icon chips inline in a statement."
+  ],
+  "bestFor": [
+    "Personal brand and marketing agencies",
+    "Playful light sites",
+    "Stat and case sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spray cloud",
+      "definition": "A speckled soft paint shape."
+    },
+    {
+      "term": "Inline icon chip",
+      "definition": "A small icon inside a sentence."
+    },
+    {
+      "term": "Stat colouring",
+      "definition": "Different colours for each figure."
+    },
+    {
+      "term": "Case carousel",
+      "definition": "A slider of project cards."
+    }
+  ]
+}

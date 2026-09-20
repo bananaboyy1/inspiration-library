@@ -1,0 +1,48 @@
+{
+  "name": "app-tilted-portfolio-dashboard-with-glow-line-and-allocation-cards",
+  "image": "images/app-tilted-portfolio-dashboard-with-glow-line-and-allocation-cards.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Tilted monitor with yellow-green glow line chart plus flat allocation and payout cards",
+  "tags": [
+    "dashboard",
+    "real-estate",
+    "investment",
+    "light-grey",
+    "lime",
+    "glow-line",
+    "monitor",
+    "cards"
+  ],
+  "whatItIs": "A light grey board 'UI Design 02' with a large tilted monitor showing a yellow-to-green glowing chart line with a tooltip, allocation and payout panels, and below flat cards: Property Allocation with thin gradient bars, a nav of round icon buttons with dark green active, and Upcoming Payouts with date pills and amounts.",
+  "whatItMeans": "Refined and calm; light type and gradient bars feel like a private wealth app.",
+  "techniques": [
+    "Tilt the monitor to fill the frame.",
+    "Show hero chart as a glowing gradient line.",
+    "Present components flat below as documentation.",
+    "Use date pills and light rules in lists."
+  ],
+  "bestFor": [
+    "Investment dashboard showcases",
+    "Component documentation",
+    "Light green fintech"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glow line chart",
+      "definition": "A chart line with a luminous halo."
+    },
+    {
+      "term": "Allocation bar",
+      "definition": "A thin gradient bar showing a share."
+    },
+    {
+      "term": "Date pill",
+      "definition": "A small capsule with a date."
+    },
+    {
+      "term": "Component sheet",
+      "definition": "A board showing UI parts flat."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-collapsing-pill-navigation-that-shrinks-to-a-circle-on-scroll",
+  "image": "images/web-collapsing-pill-navigation-that-shrinks-to-a-circle-on-scroll.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Grey page with a small white pill nav (logo, Home, About, Services, Contact) above 'Navigation with Framer Motion' and a scroll instruction",
+  "tags": [
+    "component",
+    "navigation",
+    "pill",
+    "motion",
+    "white",
+    "grey",
+    "scroll",
+    "minimal"
+  ],
+  "whatItIs": "A pale grey page with a floating white pill at the top centre holding an arrow logo and four grey links, a bold black heading 'Navigation with Framer Motion' and a grey line explaining that the nav collapses on scroll and expands on click.",
+  "whatItMeans": "Light and playful; a nav that shrinks to a circle stays out of the way.",
+  "techniques": [
+    "Float a pill nav at the top.",
+    "Collapse it into a circle on scroll.",
+    "Expand it on click.",
+    "Keep type minimal."
+  ],
+  "bestFor": [
+    "Floating navigation components",
+    "Scroll-reactive UI",
+    "Minimal landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Collapsing nav",
+      "definition": "A navigation that shrinks while scrolling."
+    },
+    {
+      "term": "Floating pill",
+      "definition": "A rounded bar hovering above the page."
+    },
+    {
+      "term": "Scroll-triggered motion",
+      "definition": "Animation driven by scroll position."
+    },
+    {
+      "term": "Icon-only state",
+      "definition": "The collapsed version showing just an icon."
+    }
+  ]
+}

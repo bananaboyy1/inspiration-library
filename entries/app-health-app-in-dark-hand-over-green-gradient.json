@@ -1,0 +1,48 @@
+{
+  "name": "app-health-app-in-dark-hand-over-green-gradient",
+  "image": "images/app-health-app-in-dark-hand-over-green-gradient.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Health-updates app held by a dark hand against a pale green-to-yellow gradient",
+  "tags": [
+    "health",
+    "green",
+    "gradient",
+    "hand",
+    "mockup",
+    "white-ui",
+    "project-cover",
+    "pills"
+  ],
+  "whatItIs": "A dark hand holds a tilted phone with a white health UI, a big 'Health Updates' title, green cards and a consultation entry, on a soft green and yellow gradient with a small studio pill and a service pill at the bottom.",
+  "whatItMeans": "Fresh and caring; green light suits wellness.",
+  "techniques": [
+    "Hold the phone at an angle.",
+    "Match background to UI green.",
+    "Add corner pills for studio and discipline.",
+    "Use a soft gradient."
+  ],
+  "bestFor": [
+    "Health app covers",
+    "Case study thumbnails",
+    "Green wellness brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Corner pill",
+      "definition": "A capsule label in a corner."
+    },
+    {
+      "term": "Gradient backdrop",
+      "definition": "A soft colour blend behind a device."
+    },
+    {
+      "term": "Hand-held cover",
+      "definition": "A cover with a hand holding the device."
+    },
+    {
+      "term": "Tilted UI",
+      "definition": "A screen shown at an angle."
+    }
+  ]
+}

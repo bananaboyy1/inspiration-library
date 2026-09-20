@@ -1,0 +1,47 @@
+{
+  "name": "branding-oversized-year-numerals-logo-portfolio-cover",
+  "image": "images/branding-oversized-year-numerals-logo-portfolio-cover.png",
+  "discipline": "branding",
+  "designType": "Logo portfolio cover",
+  "title": "Grey cover with giant cropped year numerals and a copyright mark",
+  "tags": [
+    "logo-portfolio",
+    "grey",
+    "white-type",
+    "giant-numerals",
+    "copyright-symbol",
+    "minimal",
+    "volume-cover"
+  ],
+  "whatItIs": "A mid-grey slide with tiny caps title 'SELECTED LOGOS, FORMS & MARKS' at the top, and giant white bold numerals '26 © 20' cropped by the edges with a circled-c symbol in the middle. 'VOL.02' sits at the bottom left.",
+  "whatItMeans": "Confident and editorial; the copyright glyph doubles as a cover graphic and a joke on ownership.",
+  "techniques": [
+    "Use a giant symbol (©) as the graphic centre of a cover.",
+    "Crop huge numerals off the frame.",
+    "Use a flat grey field to keep white type crisp.",
+    "Frame with tiny caps labels at the corners."
+  ],
+  "bestFor": [
+    "Logo folio and volume covers",
+    "Minimal portfolio covers",
+    "Brand-mark collections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Copyright glyph",
+      "definition": "The circled C used as a graphic."
+    },
+    {
+      "term": "Numeral crop",
+      "definition": "Numbers cut by the frame."
+    },
+    {
+      "term": "Volume label",
+      "definition": "Text naming an edition of a portfolio."
+    },
+    {
+      "term": "Flat field",
+      "definition": "A single-colour background."
+    }
+  ]
+}

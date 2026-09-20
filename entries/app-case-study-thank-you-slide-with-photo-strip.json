@@ -1,0 +1,46 @@
+{
+  "name": "app-case-study-thank-you-slide-with-photo-strip",
+  "image": "images/app-case-study-thank-you-slide-with-photo-strip.png",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "title": "Dark thank-you slide with photo-booth strip and credits",
+  "tags": [
+    "closing-slide",
+    "dark",
+    "photo-booth",
+    "credits",
+    "case-study",
+    "student-project"
+  ],
+  "whatItIs": "A charcoal slide with a tilted white photo-booth strip of a team, 'Thanks for taking the time!' at the top centre, and credit text at left and right in small caps.",
+  "whatItMeans": "Personal and warm; the polaroid strip humanises a technical project.",
+  "techniques": [
+    "Use a photo-booth strip as a friendly sign-off image.",
+    "Set a short human thank-you in large light type.",
+    "Split credits and process notes to opposite sides.",
+    "Tilt the photo slightly to break the grid."
+  ],
+  "bestFor": [
+    "Case study endings",
+    "Student and team projects",
+    "Credits and acknowledgements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo-booth strip",
+      "definition": "A vertical strip of snapshot photos."
+    },
+    {
+      "term": "Credits block",
+      "definition": "A list of contributors and roles."
+    },
+    {
+      "term": "Sign-off slide",
+      "definition": "The last slide thanking the audience."
+    },
+    {
+      "term": "Tilted print",
+      "definition": "A photo rotated a few degrees for informality."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-thanks-slide-ransom-letters-and-window",
+  "image": "images/print-social-halftone-thanks-slide-ransom-letters-and-window.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Thanks slide with ransom letters, chrome exclamation mark and app window on halftone hills",
+  "tags": [
+    "closing-slide",
+    "halftone",
+    "ransom-lettering",
+    "chrome",
+    "window",
+    "icons",
+    "hills",
+    "nostalgia"
+  ],
+  "whatItIs": "A halftoned blue sky and green hills backdrop with a grey app window carrying a black torn-paper title 'Thanks' in mismatched colourful letters, followed by a silver chrome exclamation mark, surrounded by Figma, Photoshop, Premiere, Illustrator, Procreate and After Effects icons and a translucent trash can.",
+  "whatItMeans": "Cheerful and nostalgic; a chrome punctuation mark adds a shiny modern twist.",
+  "techniques": [
+    "Put a torn black shape behind multicolour letters for high contrast.",
+    "Add a glossy chrome 3D object as punctuation.",
+    "Frame the title inside a fake window with traffic-light buttons.",
+    "Scatter tool icons around as skill tags."
+  ],
+  "bestFor": [
+    "Portfolio closing slides",
+    "Playful creative CVs",
+    "Nostalgic desktop-themed decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chrome 3D",
+      "definition": "A shiny metallic rendered object."
+    },
+    {
+      "term": "Fake window",
+      "definition": "A drawn app window used as a frame."
+    },
+    {
+      "term": "Torn-paper backing",
+      "definition": "A ragged dark shape behind text."
+    },
+    {
+      "term": "Icon scatter",
+      "definition": "App icons spread around a central element."
+    }
+  ]
+}

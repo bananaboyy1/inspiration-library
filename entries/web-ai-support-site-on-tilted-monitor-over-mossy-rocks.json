@@ -1,0 +1,48 @@
+{
+  "name": "web-ai-support-site-on-tilted-monitor-over-mossy-rocks",
+  "image": "images/web-ai-support-site-on-tilted-monitor-over-mossy-rocks.webp",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Clean AI customer-support hero on a tilted monitor rising from moss in a green gradient",
+  "tags": [
+    "mockup",
+    "monitor",
+    "moss",
+    "green",
+    "white-ui",
+    "blue-accent",
+    "ai",
+    "perspective"
+  ],
+  "whatItIs": "A tilted monitor with a white AI-support page (blue keyword highlighted with an icon, dark button, floating avatar chips and a vertical blue bar) sits above mossy rocks against a white-to-lime gradient.",
+  "whatItMeans": "Fresh and natural; moss makes software feel alive.",
+  "techniques": [
+    "Tilt the screen dramatically.",
+    "Ground the monitor in moss.",
+    "Colour a key word in the headline blue with an inline icon.",
+    "Scatter faded UI chips on the page."
+  ],
+  "bestFor": [
+    "SaaS hero presentations",
+    "Organic-tech contrast",
+    "Case-study covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Organic contrast",
+      "definition": "A digital screen set in natural texture."
+    },
+    {
+      "term": "Inline icon",
+      "definition": "A small icon inside a headline."
+    },
+    {
+      "term": "Faded chips",
+      "definition": "Low-contrast decorative UI pieces."
+    },
+    {
+      "term": "Tilted monitor",
+      "definition": "A screen shown in perspective."
+    }
+  ]
+}

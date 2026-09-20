@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-folder-banner-tiktok-shop",
+  "image": "images/print-social-halftone-folder-banner-tiktok-shop.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Rainbow halftone banner with a 'tiktok shop' folder and blue scribble",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "rainbow",
+    "green",
+    "pink",
+    "blue-scribble",
+    "desktop-metaphor"
+  ],
+  "whatItIs": "A wide banner with a red, green and blue halftone gradient, a manila folder labelled 'tiktok shop', a big blue scribble burst, a cursor, and tool icons for Photoshop, Illustrator and Figma.",
+  "whatItMeans": "Loud, playful and unified; halftone brings the series together even as colours change.",
+  "techniques": [
+    "Switch the gradient colours per category while keeping the folder identical.",
+    "Use a loose blue scribble behind the folder for energy.",
+    "Overlay halftone dots on saturated colour fields.",
+    "Keep icons around the folder as skill indicators."
+  ],
+  "bestFor": [
+    "Category headers in creator portfolios",
+    "Service menus",
+    "Series of banners"
+  ],
+  "vocabulary": [
+    {
+      "term": "Palette swap",
+      "definition": "Changing background colours while keeping structure."
+    },
+    {
+      "term": "Scribble burst",
+      "definition": "A rough hand-drawn star behind an object."
+    },
+    {
+      "term": "Dot screen",
+      "definition": "The pattern of dots in halftone."
+    },
+    {
+      "term": "Series banner",
+      "definition": "One of a set sharing structure."
+    }
+  ]
+}

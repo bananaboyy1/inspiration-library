@@ -1,0 +1,47 @@
+{
+  "name": "print-social-conference-speaker-card-indigo-and-lime",
+  "image": "images/print-social-conference-speaker-card-indigo-and-lime.jpg",
+  "discipline": "print-social",
+  "designType": "Event speaker card",
+  "title": "Conference speaker card with cut-out portrait and confetti stripes",
+  "tags": [
+    "event",
+    "speaker-card",
+    "indigo",
+    "lime",
+    "portrait",
+    "sponsor-strip",
+    "conference"
+  ],
+  "whatItIs": "A dark indigo card with a cut-out portrait of a suited man with glasses, a violet 'Speaker' pill, name and title in white, a date block and registration link, coloured pill confetti behind his shoulder, and a row of sponsor logos at the base.",
+  "whatItMeans": "Professional but festive; bright pill shapes lend energy to a formal portrait.",
+  "techniques": [
+    "Cut out the subject and let coloured pill shapes peek behind his shoulders.",
+    "Use a small role pill above the name as a label.",
+    "Set date and link in a bordered block at the lower left.",
+    "Close with a sponsor logo strip."
+  ],
+  "bestFor": [
+    "Conference and summit speaker announcements",
+    "Panel and webinar promotion",
+    "Templated speaker series"
+  ],
+  "vocabulary": [
+    {
+      "term": "Speaker card",
+      "definition": "A graphic introducing one event speaker."
+    },
+    {
+      "term": "Confetti pills",
+      "definition": "Small rounded capsules scattered as decoration."
+    },
+    {
+      "term": "Sponsor strip",
+      "definition": "A row of partner logos."
+    },
+    {
+      "term": "Role pill",
+      "definition": "A rounded label naming a role."
+    }
+  ]
+}

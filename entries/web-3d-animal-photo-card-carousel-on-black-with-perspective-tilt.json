@@ -1,0 +1,48 @@
+{
+  "name": "web-3d-animal-photo-card-carousel-on-black-with-perspective-tilt",
+  "image": "images/web-3d-animal-photo-card-carousel-on-black-with-perspective-tilt.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Row of animal photo cards (red panda, lion, elephant) tilted in 3D on black, the centre card facing forward with caption",
+  "tags": [
+    "component",
+    "carousel",
+    "3d",
+    "photo-cards",
+    "dark",
+    "captions",
+    "perspective",
+    "gallery"
+  ],
+  "whatItIs": "A black background with tall rounded photo cards on a horizontal path that rotate in 3D: the centre card of two lions faces the viewer with a white title 'Lion', an italic Latin name and a photographer credit, while neighbouring cards of a red panda and elephants angle away and narrow.",
+  "whatItMeans": "Immersive and tactile; tilting cards turn a gallery into a rotating exhibit.",
+  "techniques": [
+    "Rotate side cards in perspective.",
+    "Show captions on the focus card.",
+    "Fade edge cards.",
+    "Use a black stage."
+  ],
+  "bestFor": [
+    "Photo and nature galleries",
+    "3D carousel components",
+    "Dark showcase sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cover-flow carousel",
+      "definition": "A carousel where side items are angled away."
+    },
+    {
+      "term": "Focus card",
+      "definition": "The forward-facing central card."
+    },
+    {
+      "term": "Caption overlay",
+      "definition": "Text laid over the bottom of a photo."
+    },
+    {
+      "term": "Photo credit",
+      "definition": "A line naming the photographer."
+    }
+  ]
+}

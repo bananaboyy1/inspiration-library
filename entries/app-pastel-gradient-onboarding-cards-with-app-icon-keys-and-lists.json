@@ -1,0 +1,48 @@
+{
+  "name": "app-pastel-gradient-onboarding-cards-with-app-icon-keys-and-lists",
+  "image": "images/app-pastel-gradient-onboarding-cards-with-app-icon-keys-and-lists.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Gradient onboarding cards for a to-do app: app icon, keyboard shortcut keys, list preview and check tile, with blue Continue pills",
+  "tags": [
+    "onboarding",
+    "cards",
+    "pastel-gradient",
+    "blue",
+    "icons",
+    "keys",
+    "page-dots",
+    "desktop-app"
+  ],
+  "whatItIs": "A grey board with rounded white cards each topped by a soft gradient (sky blue to lilac, mint, pink) holding a hero object: a glossy blue-ring app icon on white, two keycaps 'command' and 'D', a sidebar list of Home, Today, Friends and Work with counts, and a check tile; below each a heading, a grey description, a blue Continue pill and page dots.",
+  "whatItMeans": "Light and delightful; gradient tops make each feature a small gift.",
+  "techniques": [
+    "Give each card a different soft gradient top.",
+    "Put one hero object per card.",
+    "Use a single blue Continue pill.",
+    "Add four page dots."
+  ],
+  "bestFor": [
+    "Desktop and mobile onboarding",
+    "Productivity app tours",
+    "Pastel gradient cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient card top",
+      "definition": "A soft gradient area above the text of a card."
+    },
+    {
+      "term": "Keycap illustration",
+      "definition": "A keyboard key drawn as an object."
+    },
+    {
+      "term": "Page dots",
+      "definition": "Small dots showing carousel position."
+    },
+    {
+      "term": "Hero object",
+      "definition": "The main icon on a card."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-design-process-staircase-of-pills-with-gradient-final-step",
+  "image": "images/app-design-process-staircase-of-pills-with-gradient-final-step.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Five design-process pills rising in steps on dashed columns with a yellow-green gradient final step",
+  "tags": [
+    "process",
+    "staircase",
+    "light-grey",
+    "dashed-lines",
+    "gradient-pill",
+    "minimal",
+    "lime",
+    "case-study"
+  ],
+  "whatItIs": "A light grey slide 'Design Process 01' with dashed vertical column guides and five white rounded labels stepping up to the right (Research & Discovery, UX & Wireframing, Brand Identity, UI Design), the last 'Prototype & Finalization' filled with a yellow-to-green gradient.",
+  "whatItMeans": "Simple and rising; the gradient step marks completion.",
+  "techniques": [
+    "Step labels up diagonally on dashed columns.",
+    "Make the final step a gradient.",
+    "Keep others white and dark grey.",
+    "Use a small dot header."
+  ],
+  "bestFor": [
+    "Design process slides",
+    "Timeline summaries",
+    "Minimal light decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dashed column guide",
+      "definition": "A dashed vertical line as a layout guide."
+    },
+    {
+      "term": "Rising labels",
+      "definition": "Labels stepped upward across a slide."
+    },
+    {
+      "term": "Gradient final step",
+      "definition": "The last item highlighted with a gradient."
+    },
+    {
+      "term": "Section dot",
+      "definition": "A small green dot beside a heading."
+    }
+  ]
+}

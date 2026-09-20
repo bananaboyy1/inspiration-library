@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-features-bento-with-typography-aa-globe-and-security-locks",
+  "image": "images/web-dark-features-bento-with-typography-aa-globe-and-security-locks.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Black FEATURES bento: a serif Aa card, layouts bars, a globe with rings, a speed line, security locks and a mobile outline",
+  "tags": [
+    "features",
+    "bento",
+    "dark",
+    "serif",
+    "globe",
+    "icons",
+    "minimal",
+    "cards"
+  ],
+  "whatItIs": "A near-black page with a small caps 'FEATURES' label and rounded dark cards: a tall Typography card with a big white serif 'Aa', a Layouts card with three grey bars, a Global CDN card with a globe icon and concentric rings, a Speed card with a 'Load Time' bar, a wide Security First card with three lock tiles and a Mobile Ready card with a phone outline, each with a bold title and grey description.",
+  "whatItMeans": "Minimal and demonstrative; each feature is shown by one tiny graphic.",
+  "techniques": [
+    "Show each feature as one simple graphic.",
+    "Use dark cards without borders.",
+    "Mix tall and wide cards.",
+    "Keep titles white and text grey."
+  ],
+  "bestFor": [
+    "Dark SaaS feature bento",
+    "Developer templates",
+    "Minimal feature illustrations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feature graphic",
+      "definition": "A tiny illustration of one capability."
+    },
+    {
+      "term": "Dark bento",
+      "definition": "A grid of dark rounded cards."
+    },
+    {
+      "term": "Concentric rings",
+      "definition": "Circles radiating around an icon."
+    },
+    {
+      "term": "Specimen card",
+      "definition": "A card showing a type sample."
+    }
+  ]
+}

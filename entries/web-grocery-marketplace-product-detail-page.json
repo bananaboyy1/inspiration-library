@@ -1,0 +1,44 @@
+{
+  "name": "web-grocery-marketplace-product-detail-page",
+  "image": "images/web-grocery-marketplace-product-detail-page.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Grocery Product Detail with Store Comparison",
+  "tags": [
+    "ecommerce",
+    "grocery",
+    "teal",
+    "lime",
+    "product-page",
+    "comparison",
+    "urgency"
+  ],
+  "whatItIs": "A product page in a macOS window frame: deep teal rounded header with search, a large product image on a pale tile with thumbnails, price with superscript cents, Klarna row, lime Buy now button, urgency countdown and a list comparing stores by price and delivery time.",
+  "whatItMeans": "Deep teal with lime feels fresh and food-related, while the dense but ordered layout signals a fast, practical marketplace.",
+  "techniques": [
+    "Superscript decimals on prices for a distinct numeric style",
+    "Lime pill CTA as the loudest element against teal and white",
+    "Countdown and sold-recently badges for urgency",
+    "Store comparison rows that put price and delivery time side by side",
+    "Rounded pale tile behind the product image"
+  ],
+  "bestFor": [
+    "Grocery and delivery marketplaces",
+    "Price-comparison shops",
+    "Any product page needing trust and urgency cues"
+  ],
+  "vocabulary": [
+    {
+      "term": "Superscript price",
+      "definition": "Cents set small and raised beside the dollar amount."
+    },
+    {
+      "term": "Urgency cue",
+      "definition": "Countdowns or sales counters encouraging a quick decision."
+    },
+    {
+      "term": "Vendor comparison",
+      "definition": "Rows comparing sellers on price and delivery."
+    }
+  ]
+}

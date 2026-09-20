@@ -1,0 +1,48 @@
+{
+  "name": "web-app-footer-cta-with-silver-gradient-headline-download-buttons-and-ghost-word",
+  "image": "images/web-app-footer-cta-with-silver-gradient-headline-download-buttons-and-ghost-word.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Dark closing screen 'Ready to begin?' with a silver gradient headline, iOS and Android buttons, link pills, a tilted marquee and a giant ghost word",
+  "tags": [
+    "cta",
+    "dark",
+    "silver-gradient",
+    "download-buttons",
+    "marquee",
+    "ghost-word",
+    "footer",
+    "app"
+  ],
+  "whatItIs": "A near-black page with a curved marquee of spaced small caps phrases at the top (parent tracking, 12-step progress, sponsor connection), a large white-to-silver gradient headline 'Ready to begin?', two dark rounded buttons for Download iOS and Android, three smaller pills (Privacy Policy, Terms of Service, Support), and at the bottom a giant faded word cropped by the frame with a copyright and a 'Crafted with ♥ by' pill and a scroll-up button.",
+  "whatItMeans": "Polished and encouraging; a gradient headline and ghost word give a footer CTA a finish.",
+  "techniques": [
+    "Fill the headline with a silver gradient.",
+    "Curve a marquee across the top.",
+    "Use dark pill buttons for stores.",
+    "Crop a giant ghost word at the bottom."
+  ],
+  "bestFor": [
+    "App landing page footers",
+    "Dark closing CTAs",
+    "Gradient-text headlines"
+  ],
+  "vocabulary": [
+    {
+      "term": "Silver gradient text",
+      "definition": "Letters filled with a white-to-grey blend."
+    },
+    {
+      "term": "Curved marquee",
+      "definition": "A scrolling line of text following a curve."
+    },
+    {
+      "term": "Ghost word",
+      "definition": "A giant faint word behind or below content."
+    },
+    {
+      "term": "Store buttons",
+      "definition": "Dark pills for downloading from app stores."
+    }
+  ]
+}

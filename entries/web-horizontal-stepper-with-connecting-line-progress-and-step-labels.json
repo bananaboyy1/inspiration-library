@@ -1,0 +1,48 @@
+{
+  "name": "web-horizontal-stepper-with-connecting-line-progress-and-step-labels",
+  "image": "images/web-horizontal-stepper-with-connecting-line-progress-and-step-labels.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Wide horizontal stepper with a black checked circle, a solid line to a black '2' circle and a pending grey '3', labels centred beneath",
+  "tags": [
+    "component",
+    "stepper",
+    "progress",
+    "line",
+    "black",
+    "grey",
+    "white",
+    "horizontal"
+  ],
+  "whatItIs": "A white frame with three circles spaced far apart on a horizontal line: a black check, a black 2 joined by a solid black line and a pale grey 3 with no connecting line yet, each with a bold label and grey description centred below and a content line 'Step Step 2 content'.",
+  "whatItMeans": "Clear and airy; a line that fills shows progress between steps.",
+  "techniques": [
+    "Join completed steps with a solid line.",
+    "Leave the next segment empty.",
+    "Centre labels under circles.",
+    "Show content beneath."
+  ],
+  "bestFor": [
+    "Checkout and wizard steppers",
+    "Progress trackers",
+    "Minimal forms"
+  ],
+  "vocabulary": [
+    {
+      "term": "Progress line",
+      "definition": "A line connecting steps that fills as you advance."
+    },
+    {
+      "term": "Step circle",
+      "definition": "A numbered or checked circle marking a step."
+    },
+    {
+      "term": "Centred label",
+      "definition": "A title and description under a marker."
+    },
+    {
+      "term": "Wide stepper",
+      "definition": "A stepper spread across the page width."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-floating-emoji-avatar-toolbar-pill-on-black",
+  "image": "images/web-floating-emoji-avatar-toolbar-pill-on-black.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White pill toolbar on black with a sparkle icon, three emoji avatars with green online dots and a menu icon",
+  "tags": [
+    "component",
+    "toolbar",
+    "pill",
+    "avatars",
+    "emoji",
+    "online-status",
+    "black",
+    "white"
+  ],
+  "whatItIs": "A black canvas with a white capsule holding a gold sparkle, a divider, three round emoji avatars (witch, unicorn, monkey) on green, lilac and yellow with small green online dots, another divider and a grey hamburger icon.",
+  "whatItMeans": "Playful and compact; a floating pill of avatars feels like a live presence bar.",
+  "techniques": [
+    "Float a white pill on black.",
+    "Use emoji avatars in pastel circles.",
+    "Add green online dots.",
+    "Separate groups with thin dividers."
+  ],
+  "bestFor": [
+    "Presence and collaboration bars",
+    "Floating toolbars",
+    "Playful avatar UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating toolbar",
+      "definition": "A pill of controls hovering above content."
+    },
+    {
+      "term": "Presence dot",
+      "definition": "A small dot showing someone is online."
+    },
+    {
+      "term": "Emoji avatar",
+      "definition": "An emoji used as a profile picture."
+    },
+    {
+      "term": "Divider tick",
+      "definition": "A thin vertical line separating groups."
+    }
+  ]
+}

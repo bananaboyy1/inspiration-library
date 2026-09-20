@@ -1,0 +1,47 @@
+{
+  "name": "app-fintech-case-study-quote-and-project-info",
+  "image": "images/app-fintech-case-study-quote-and-project-info.jpg",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Grey-blue quote slide with project metadata",
+  "tags": [
+    "case-study",
+    "quote",
+    "fintech",
+    "grey",
+    "gradient",
+    "testimonial",
+    "metadata"
+  ],
+  "whatItIs": "A pale grey slide with a soft blue gradient. A large quote mark and two-tone statement (black then grey) sits above an avatar and name; at the bottom, Project and About columns list metadata in slash-separated labels.",
+  "whatItMeans": "Quiet, professional and elegant; the layout gives the words all the weight.",
+  "techniques": [
+    "Set a statement half in black, half in grey to build hierarchy in one paragraph.",
+    "Use slash-separated label/value pairs for compact metadata.",
+    "Place a small avatar and name beneath a quote for credibility.",
+    "Keep background a soft misty gradient with no other decoration."
+  ],
+  "bestFor": [
+    "Case-study summaries and testimonials",
+    "Fintech and SaaS portfolios",
+    "Slide decks with restrained tone"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pull quote",
+      "definition": "A highlighted statement or testimonial."
+    },
+    {
+      "term": "Two-tone text",
+      "definition": "One statement in two tones for emphasis."
+    },
+    {
+      "term": "Label / value pair",
+      "definition": "Metadata shown as grey label and dark value."
+    },
+    {
+      "term": "Mist gradient",
+      "definition": "A very soft pale gradient background."
+    }
+  ]
+}

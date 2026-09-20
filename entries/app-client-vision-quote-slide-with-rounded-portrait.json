@@ -1,0 +1,46 @@
+{
+  "name": "app-client-vision-quote-slide-with-rounded-portrait",
+  "image": "images/app-client-vision-quote-slide-with-rounded-portrait.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Client vision quote with bold phrases and rounded portrait",
+  "tags": [
+    "quote",
+    "testimonial",
+    "light-grey",
+    "portrait",
+    "two-tone-type",
+    "case-study"
+  ],
+  "whatItIs": "A light grey slide with a rounded portrait of a curly-haired man at left and a large quote in light grey type where key phrases are dark bold. Name and title are below.",
+  "whatItMeans": "Human, credible and clear; the bolded phrases summarise the quote at a glance.",
+  "techniques": [
+    "Bold selected phrases within a light quote so it can be skimmed.",
+    "Pair a rounded-corner portrait with a paragraph.",
+    "Use a small dot and section title at the top corner as a header.",
+    "Keep the background very pale."
+  ],
+  "bestFor": [
+    "Case-study vision and testimonial slides",
+    "Portfolios",
+    "Brand presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Skim highlighting",
+      "definition": "Bold phrases inside light text for quick reading."
+    },
+    {
+      "term": "Rounded portrait",
+      "definition": "A photo with softly rounded corners."
+    },
+    {
+      "term": "Section marker",
+      "definition": "A dot and label denoting a slide's topic."
+    },
+    {
+      "term": "Attribution line",
+      "definition": "Name and role beneath a quote."
+    }
+  ]
+}

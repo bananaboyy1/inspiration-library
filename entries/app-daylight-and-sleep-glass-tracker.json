@@ -1,0 +1,48 @@
+{
+  "name": "app-daylight-and-sleep-glass-tracker",
+  "image": "images/app-daylight-and-sleep-glass-tracker.png",
+  "discipline": "app",
+  "designType": "Health dashboard",
+  "title": "Daylight and sleep tracker screens with glass cards and low-poly clouds",
+  "tags": [
+    "health",
+    "sun",
+    "sleep",
+    "glass",
+    "gradient",
+    "bar-chart",
+    "monospace",
+    "low-poly"
+  ],
+  "whatItIs": "Two phone screens on cobalt. The left is a sky gradient with a progress bar, small info tiles and a sunrise arc; the right is a pink-peach gradient with glass cards containing bar and stage charts for daylight and sleep. Low-poly grey clouds float at the edges.",
+  "whatItMeans": "Optimistic and natural: the background gradient itself expresses time of day.",
+  "techniques": [
+    "Make the whole screen gradient match the subject (sky vs sunset).",
+    "Use frosted cards holding data over the gradient for legibility and depth.",
+    "Pair monospace labels with big numbers for a precise, scientific accent.",
+    "Add 3D low-poly props outside the phones to bridge the UI and the poster."
+  ],
+  "bestFor": [
+    "Sleep, light and circadian apps",
+    "Environmental or weather-based UIs",
+    "Showcase shots for health products"
+  ],
+  "vocabulary": [
+    {
+      "term": "Contextual gradient",
+      "definition": "A background that changes to reflect time or state."
+    },
+    {
+      "term": "Stage chart",
+      "definition": "A chart showing categories (sleep stages) over time."
+    },
+    {
+      "term": "Low-poly",
+      "definition": "3D shapes built from few flat facets."
+    },
+    {
+      "term": "Sunrise arc",
+      "definition": "A curved timeline showing the sun's path."
+    }
+  ]
+}

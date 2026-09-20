@@ -1,0 +1,48 @@
+{
+  "name": "web-page-not-found-with-icon-tile-search-field-and-underlined-home-link",
+  "image": "images/web-page-not-found-with-icon-tile-search-field-and-underlined-home-link.webp",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "White 'Page not found' with a magnifier-x icon tile, a wide search field, a black Search button and an arrow 'Go back home' link",
+  "tags": [
+    "404",
+    "error-page",
+    "white",
+    "black",
+    "search",
+    "icon-tile",
+    "minimal",
+    "centered"
+  ],
+  "whatItIs": "A centred white page with a soft rounded icon tile holding a magnifier with an x, a big bold black 'Page not found', a grey two-line hint 'Try searching below.', a bordered search input, a full-width black Search button and an underlined link with a left arrow 'Go back home'.",
+  "whatItMeans": "Helpful and calm; giving a search field turns a dead end into a next step.",
+  "techniques": [
+    "Offer search on an error page.",
+    "Use a soft icon tile as the only graphic.",
+    "Use a black primary and a text link secondary.",
+    "Keep the copy short."
+  ],
+  "bestFor": [
+    "404 and empty-search states",
+    "Minimal error pages",
+    "Search-led recovery"
+  ],
+  "vocabulary": [
+    {
+      "term": "Search recovery",
+      "definition": "Offering search when a page is missing."
+    },
+    {
+      "term": "Icon tile",
+      "definition": "A rounded square with a symbol."
+    },
+    {
+      "term": "Return link",
+      "definition": "A link back to the home page with an arrow."
+    },
+    {
+      "term": "Centred stack",
+      "definition": "Elements stacked on one vertical axis."
+    }
+  ]
+}

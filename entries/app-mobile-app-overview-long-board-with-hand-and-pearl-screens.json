@@ -1,0 +1,48 @@
+{
+  "name": "app-mobile-app-overview-long-board-with-hand-and-pearl-screens",
+  "image": "images/app-mobile-app-overview-long-board-with-hand-and-pearl-screens.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Long white board: hand-held onboarding then home, analytics, card, transfer, details, choose-a-card and swap screens in pearl glass",
+  "tags": [
+    "fintech",
+    "pearl",
+    "glass",
+    "hand",
+    "long-board",
+    "serif-numerals",
+    "onboarding",
+    "staggered"
+  ],
+  "whatItIs": "A tall off-white board '12 Mobile App' opening with a large hand holding a phone with a pearl onboarding, then screens with side captions: home dashboard, analytics with mirrored bars, manage cards with a fluted pearl card, money transfer keypad, a hand-held transaction details chart, choose a card and asset swap.",
+  "whatItMeans": "Refined and airy; pearl glass and serif figures make a banking app feel private.",
+  "techniques": [
+    "Open with a hand-held hero photo.",
+    "Alternate phone left and right with short captions.",
+    "Use pearl glass throughout.",
+    "Show a hand mid-flow for detail."
+  ],
+  "bestFor": [
+    "Fintech app showcases",
+    "Long-scroll case study boards",
+    "Pearl glass UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Staggered captions",
+      "definition": "Titles and descriptions placed beside alternating phones."
+    },
+    {
+      "term": "Pearl glass",
+      "definition": "A pale iridescent translucent surface."
+    },
+    {
+      "term": "Hand-held hero",
+      "definition": "A large photo of a hand holding the device."
+    },
+    {
+      "term": "Mirrored bars",
+      "definition": "Bars above and below a centre line."
+    }
+  ]
+}

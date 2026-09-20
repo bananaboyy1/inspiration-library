@@ -1,0 +1,48 @@
+{
+  "name": "web-range-calendar-with-black-endpoints-and-grey-selected-band",
+  "image": "images/web-range-calendar-with-black-endpoints-and-grey-selected-band.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "August 2026 date-range picker with black rounded endpoint tiles on the 12th and 16th, a pale band between them and faded neighbours",
+  "tags": [
+    "component",
+    "calendar",
+    "date-range",
+    "white",
+    "black",
+    "grey",
+    "selection",
+    "cursor"
+  ],
+  "whatItIs": "A white card with month navigation arrows and 'August 2026', weekday letters and a grid of dates where 12 (with a dot) and 16 are black tiles with rounded outer edges, the dates between are on a pale grey band and out-of-month days are light grey, with a hand cursor near 25.",
+  "whatItMeans": "Clear and simple; black endpoints and a soft band show the range at a glance.",
+  "techniques": [
+    "Show endpoints as black rounded tiles.",
+    "Fill the range with a pale band.",
+    "Fade out-of-month dates.",
+    "Add a hover cursor."
+  ],
+  "bestFor": [
+    "Date-range pickers",
+    "Booking and scheduling",
+    "Minimal calendar components"
+  ],
+  "vocabulary": [
+    {
+      "term": "Range selection",
+      "definition": "A start and end date with a highlighted span."
+    },
+    {
+      "term": "Endpoint tile",
+      "definition": "The filled tile at each end of a range."
+    },
+    {
+      "term": "Range band",
+      "definition": "The tinted strip connecting endpoints."
+    },
+    {
+      "term": "Adjacent-month day",
+      "definition": "A faded date from another month."
+    }
+  ]
+}

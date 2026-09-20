@@ -1,0 +1,48 @@
+{
+  "name": "web-cart-checkout-success-and-tracking-screens-in-black-and-white",
+  "image": "images/web-cart-checkout-success-and-tracking-screens-in-black-and-white.png",
+  "discipline": "web",
+  "designType": "Checkout and forms",
+  "title": "Four fashion-store flow screens on black: cart, checkout, payment success modal and order-tracking map",
+  "tags": [
+    "checkout",
+    "cart",
+    "modal",
+    "tracking",
+    "map",
+    "black-and-white",
+    "purple",
+    "yellow"
+  ],
+  "whatItIs": "A black board with four white desktop screens: cart with product rows and order review with a black Checkout and purple and yellow express buttons; a two-column checkout form with a grey summary; a dimmed page with a payment success modal and outline illustration; and an orders tracking page with a map route.",
+  "whatItMeans": "Clear and calm; monochrome UI with just purple and yellow express buttons.",
+  "techniques": [
+    "Keep the UI black and white.",
+    "Use brand-coloured express buttons only.",
+    "Show a modal with a line illustration.",
+    "Pair order timeline with a map."
+  ],
+  "bestFor": [
+    "E-commerce flow design",
+    "Checkout and confirmation states",
+    "Monochrome commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Express checkout",
+      "definition": "Fast pay buttons above a form."
+    },
+    {
+      "term": "Success modal",
+      "definition": "A dialog confirming an action."
+    },
+    {
+      "term": "Order timeline",
+      "definition": "A list of steps with dates and addresses."
+    },
+    {
+      "term": "Route map",
+      "definition": "A map showing a delivery path."
+    }
+  ]
+}

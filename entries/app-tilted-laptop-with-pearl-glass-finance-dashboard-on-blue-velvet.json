@@ -1,0 +1,48 @@
+{
+  "name": "app-tilted-laptop-with-pearl-glass-finance-dashboard-on-blue-velvet",
+  "image": "images/app-tilted-laptop-with-pearl-glass-finance-dashboard-on-blue-velvet.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Pearl frosted banking dashboard on a laptop tilted low over a blue ribbed velvet surface",
+  "tags": [
+    "dashboard",
+    "fintech",
+    "pearl",
+    "glass",
+    "laptop",
+    "blue-velvet",
+    "light-grey",
+    "card"
+  ],
+  "whatItIs": "A dark laptop in perspective against a pale blue-grey wall showing a light frosted dashboard with an available balance, quick actions, revenue and expense tiles, an activity chart, transactions and upcoming payments lists, a send-money panel with a Continue button and a gradient credit card, resting on ribbed blue velvet.",
+  "whatItMeans": "Calm and premium; soft glass and a tactile velvet make finance feel gentle.",
+  "techniques": [
+    "Tilt the laptop low in perspective.",
+    "Use frosted glass tiles on a pale blue base.",
+    "Rest the device on a tactile fabric.",
+    "Set numerals in a light sans."
+  ],
+  "bestFor": [
+    "Fintech dashboard showcases",
+    "Glass-style web apps",
+    "Fabric-stage mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Low-angle laptop",
+      "definition": "A laptop shot from a low angle."
+    },
+    {
+      "term": "Ribbed velvet",
+      "definition": "A soft surface with parallel ridges."
+    },
+    {
+      "term": "Frosted tile",
+      "definition": "A translucent tile with a metric."
+    },
+    {
+      "term": "Send-money panel",
+      "definition": "A panel with amount and a Continue button."
+    }
+  ]
+}

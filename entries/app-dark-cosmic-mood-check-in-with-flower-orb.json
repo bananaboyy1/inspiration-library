@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-cosmic-mood-check-in-with-flower-orb",
+  "image": "images/app-dark-cosmic-mood-check-in-with-flower-orb.png",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Starfield AI check-in with a glowing flower, slider and long dimmed-and-bright case-study text",
+  "tags": [
+    "ai",
+    "mood",
+    "dark",
+    "starfield",
+    "flower",
+    "slider",
+    "case-study",
+    "emphasis-text"
+  ],
+  "whatItIs": "A black case-study page with tiny caps labels, a big paragraph where sentences alternate white and grey, and a phone with a starry background, greeting, chips, a glowing iridescent flower above 'How do you feel right now?', a pastel slider and a 'Talk to me' voice field.",
+  "whatItMeans": "Meditative and intimate; the flower stands in for emotion.",
+  "techniques": [
+    "Use a glowing organic object as an emotion indicator.",
+    "Alternate bright and dim sentences.",
+    "Keep the phone small in a vast black page.",
+    "Use a single slider for mood."
+  ],
+  "bestFor": [
+    "Wellbeing and AI companion apps",
+    "Dark, calm case studies",
+    "Mood input patterns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Emotion object",
+      "definition": "A symbolic visual reflecting the user's state."
+    },
+    {
+      "term": "Bright-dim text",
+      "definition": "Alternating text brightness to guide reading."
+    },
+    {
+      "term": "Mood slider",
+      "definition": "A slider from unpleasant to pleasant."
+    },
+    {
+      "term": "Voice field",
+      "definition": "A prompt bar with a mic icon."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-folder-banner-ai-image-generation",
+  "image": "images/print-social-halftone-folder-banner-ai-image-generation.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Violet and magenta halftone banner with an 'ai image generation' folder and app icons",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "violet",
+    "magenta",
+    "serif-label",
+    "ai",
+    "desktop-metaphor"
+  ],
+  "whatItIs": "A wide halftone banner of blue-violet and pink dots, a manila folder titled 'ai image generation' in serif, a white scribble burst, a pixel cursor and Photoshop, Gemini, ChatGPT and Figma icons.",
+  "whatItMeans": "Colourful and current; AI tool icons tie the folder to a topic.",
+  "techniques": [
+    "Change halftone colours per category.",
+    "Use tool icons relevant to each topic.",
+    "Keep the folder and cursor fixed.",
+    "Add a white scribble burst."
+  ],
+  "bestFor": [
+    "Category banners",
+    "AI and design freelancer profiles",
+    "Series headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Topic icons",
+      "definition": "App logos chosen to match the subject."
+    },
+    {
+      "term": "Halftone duotone",
+      "definition": "Dots in two colours."
+    },
+    {
+      "term": "Fixed folder",
+      "definition": "A constant central element across a series."
+    },
+    {
+      "term": "Scribble burst",
+      "definition": "A rough hand-drawn star."
+    }
+  ]
+}

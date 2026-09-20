@@ -1,0 +1,48 @@
+{
+  "name": "web-grid-system-spec-over-dark-editorial-portrait",
+  "image": "images/web-grid-system-spec-over-dark-editorial-portrait.png",
+  "discipline": "web",
+  "designType": "Design system documentation",
+  "title": "Column grid spec with desktop and mobile bars over a darkened portrait",
+  "tags": [
+    "grid-system",
+    "documentation",
+    "dark",
+    "columns",
+    "gutters",
+    "portrait-backdrop",
+    "uppercase",
+    "fashion"
+  ],
+  "whatItIs": "A darkened photo of two pale red-haired figures in vintage clothing sits behind a spec. An uppercase statement explains a 12-column desktop and 4-column mobile grid, then translucent vertical column bars show margins, gutters and pixel widths with small labels.",
+  "whatItMeans": "Precise and moody; overlaying the grid on an editorial image makes an abstract rule feel cinematic.",
+  "techniques": [
+    "Draw the layout grid as translucent bars over a dark photo.",
+    "Label margins, columns and gutters with hairline pointers.",
+    "Show desktop and mobile side by side.",
+    "Use an uppercase statement to summarise the rule."
+  ],
+  "bestFor": [
+    "Design-system grid documentation",
+    "Fashion and editorial brand systems",
+    "Dark technical spec pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column grid",
+      "definition": "A set of vertical columns organising a layout."
+    },
+    {
+      "term": "Gutter",
+      "definition": "The space between columns."
+    },
+    {
+      "term": "Margin",
+      "definition": "The outer space beyond the columns."
+    },
+    {
+      "term": "Overlay spec",
+      "definition": "Technical annotations placed on top of an image."
+    }
+  ]
+}

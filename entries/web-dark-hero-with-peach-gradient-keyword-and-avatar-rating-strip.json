@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-hero-with-peach-gradient-keyword-and-avatar-rating-strip",
+  "image": "images/web-dark-hero-with-peach-gradient-keyword-and-avatar-rating-strip.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Black hero 'Build sites that sell well.' with a peach gradient second line, a sparkle badge, two buttons and an avatar and stars strip",
+  "tags": [
+    "hero",
+    "dark",
+    "peach",
+    "gradient-text",
+    "badge",
+    "buttons",
+    "avatars",
+    "stars"
+  ],
+  "whatItIs": "A black page with a dark badge 'Introducing Sparkles' with an arrow, a heavy white headline whose second line is peach, a grey paragraph mentioning React and Vue.js in bold, a white pill button 'Get lifetime access — $59' and an outlined 'Explore components', and below a row of overlapping avatars with five yellow stars and 'Trusted by 400+ users'.",
+  "whatItMeans": "Direct and warm; a peach keyword softens a stark black hero.",
+  "techniques": [
+    "Colour the second headline line in a soft gradient.",
+    "Use a badge above the headline.",
+    "Pair a white filled and an outlined button.",
+    "Add an avatar and stars strip for trust."
+  ],
+  "bestFor": [
+    "Developer product heroes",
+    "Dark landing pages",
+    "Social-proof strips"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient keyword",
+      "definition": "A headline phrase filled with a gradient."
+    },
+    {
+      "term": "Badge with arrow",
+      "definition": "A pill announcing news with an arrow."
+    },
+    {
+      "term": "Avatar strip",
+      "definition": "Overlapping avatars with a rating."
+    },
+    {
+      "term": "Button pair",
+      "definition": "A filled and an outlined button."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "print-social-studio-services-ad-desk-scene",
+  "image": "images/print-social-studio-services-ad-desk-scene.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Design studio services ad with desk scene and giant headline",
+  "tags": [
+    "ad",
+    "services",
+    "blue",
+    "desk-scene",
+    "sans-serif",
+    "contact-info",
+    "square-format"
+  ],
+  "whatItIs": "A square ad on blue: a glowing white arch shape frames a desk with a monitor and chair, with a huge 'Next Project' headline in black and grey, a list of services in small text and contact icons at the bottom.",
+  "whatItMeans": "Professional and approachable; the desk scene tells people this is where work gets done.",
+  "techniques": [
+    "Use a lit stage shape (arch) behind a scene to focus the eye on the headline.",
+    "Pair a huge two-line headline with a small services list for scanning.",
+    "Group contact handles in a row at the base.",
+    "Keep the palette to brand blue, white and black."
+  ],
+  "bestFor": [
+    "Freelance and studio service promos",
+    "Agency announcements",
+    "Social ads listing several services"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stage shape",
+      "definition": "A bright geometric form behind the subject as a spotlight."
+    },
+    {
+      "term": "Services list",
+      "definition": "A compact line of offerings under a headline."
+    },
+    {
+      "term": "Contact row",
+      "definition": "Icons and handles arranged in a strip."
+    },
+    {
+      "term": "Headline scale",
+      "definition": "Making the main phrase dominate the layout."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-white-login-schedule-and-signup-screens-on-white",
+  "image": "images/app-white-login-schedule-and-signup-screens-on-white.png",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Account access flow in black and white: login, workout scheduler and sign-up",
+  "tags": [
+    "onboarding",
+    "login",
+    "signup",
+    "white",
+    "black-buttons",
+    "date-picker",
+    "photo-header",
+    "case-study"
+  ],
+  "whatItIs": "A white board titled 'Account Access' with three staggered phones: a welcome login with grey filled inputs and black Continue, a scheduler with a photo of two people training and a date picker sheet, and a sign-up form with icon fields.",
+  "whatItMeans": "Clean, direct and confident; black-on-white buttons and filled fields make forms feel effortless.",
+  "techniques": [
+    "Use grey filled inputs with small left icons.",
+    "Keep one wide black primary button per screen.",
+    "Introduce a photo header above a bottom sheet for a motivating moment.",
+    "Present a two-tone title with the second word dimmed."
+  ],
+  "bestFor": [
+    "Fitness and lifestyle apps",
+    "Form-heavy onboarding",
+    "Minimal monochrome UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Filled input",
+      "definition": "A field with a soft grey background."
+    },
+    {
+      "term": "Wheel picker",
+      "definition": "A scrolling selector for dates or numbers."
+    },
+    {
+      "term": "Photo header sheet",
+      "definition": "A photo above a rounded white bottom sheet."
+    },
+    {
+      "term": "Primary black button",
+      "definition": "A full-width black action button."
+    }
+  ]
+}

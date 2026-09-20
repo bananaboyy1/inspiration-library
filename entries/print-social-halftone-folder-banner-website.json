@@ -1,0 +1,47 @@
+{
+  "name": "print-social-halftone-folder-banner-website",
+  "image": "images/print-social-halftone-folder-banner-website.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Halftone gradient banner with a folder and app icons",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder-metaphor",
+    "desktop-ui",
+    "warm-gradient",
+    "blue-scribble",
+    "serif-label"
+  ],
+  "whatItIs": "A wide banner with an orange to red to blue halftone dot texture. A manila folder labelled 'website' in serif sits centre with a pixel cursor, a blue scribble burst behind and app icons around.",
+  "whatItMeans": "Nostalgic desktop meets modern zine; it says 'a folder of services' in a fun way.",
+  "techniques": [
+    "Use a desktop metaphor (folder, cursor, app icons) to visualise a service category.",
+    "Apply coarse halftone over a gradient for tactile print grit.",
+    "Add a loose hand-drawn scribble to soften digital objects.",
+    "Label with an elegant serif to contrast with the icons."
+  ],
+  "bestFor": [
+    "Service menu banners and channel headers",
+    "Creative freelancers and agencies",
+    "Slide dividers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Halftone dots",
+      "definition": "A dot screen creating tone or texture."
+    },
+    {
+      "term": "Desktop metaphor",
+      "definition": "Using folders and cursors as visual language."
+    },
+    {
+      "term": "Scribble accent",
+      "definition": "A hand-drawn burst to add energy."
+    },
+    {
+      "term": "Channel banner",
+      "definition": "A wide header for a social profile or channel."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-interactive-calendar-grid-with-count-badges-and-view-toggle",
+  "image": "images/web-dark-interactive-calendar-grid-with-count-badges-and-view-toggle.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Dark month calendar with rounded date tiles, round count badges, weekday pills, a two-tone year title and a view toggle",
+  "tags": [
+    "component",
+    "calendar",
+    "dark",
+    "tiles",
+    "badges",
+    "weekday-pills",
+    "toggle",
+    "grid"
+  ],
+  "whatItIs": "A black interface with a small dropdown label, a heading 'LN 2024' in white and grey, a segmented toggle between columns and grid views, a row of grey weekday pills and a grid of dark rounded date tiles where some carry small grey circular badges with counts and one date (1) is highlighted in a lighter circle.",
+  "whatItMeans": "Sleek and tactile; soft tiles and tiny badges turn a calendar into a set of pressable cards.",
+  "techniques": [
+    "Render days as soft rounded tiles.",
+    "Show event counts as small round badges.",
+    "Use pills for weekday headings.",
+    "Keep to greys on black."
+  ],
+  "bestFor": [
+    "Calendar and scheduling components",
+    "Dark UI kits",
+    "Tile-based grids"
+  ],
+  "vocabulary": [
+    {
+      "term": "Date tile",
+      "definition": "A rounded square representing one day."
+    },
+    {
+      "term": "Count badge",
+      "definition": "A small circle showing the number of events."
+    },
+    {
+      "term": "Weekday pill",
+      "definition": "A capsule labelling a column."
+    },
+    {
+      "term": "View toggle",
+      "definition": "A control switching between layouts."
+    }
+  ]
+}

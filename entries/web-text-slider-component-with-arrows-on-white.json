@@ -1,0 +1,48 @@
+{
+  "name": "web-text-slider-component-with-arrows-on-white",
+  "image": "images/web-text-slider-component-with-arrows-on-white.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Centred light text 'this is the first text' with left and right arrows on pure white",
+  "tags": [
+    "component",
+    "slider",
+    "text",
+    "white",
+    "arrows",
+    "minimal",
+    "typography",
+    "ui-kit"
+  ],
+  "whatItIs": "A blank white frame with one line of light sans text and two thin arrow glyphs beneath, representing a text slider.",
+  "whatItMeans": "Pure and quiet; only content and controls remain.",
+  "techniques": [
+    "Centre a single text line.",
+    "Use thin arrows as controls.",
+    "Keep everything on white.",
+    "Let content swap in place."
+  ],
+  "bestFor": [
+    "Text carousel components",
+    "Minimal quote sliders",
+    "Component libraries"
+  ],
+  "vocabulary": [
+    {
+      "term": "Text slider",
+      "definition": "A component that swaps lines of text with arrows."
+    },
+    {
+      "term": "Arrow controls",
+      "definition": "Simple left and right glyph buttons."
+    },
+    {
+      "term": "Empty stage",
+      "definition": "A blank frame around one element."
+    },
+    {
+      "term": "Light sans",
+      "definition": "A thin-weight sans-serif."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-process-slide-with-eight-blue-cards-and-steel-photos",
+  "image": "images/web-process-slide-with-eight-blue-cards-and-steel-photos.png",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "title": "Blue process board with project, goal and problem cards, tasks 1-4 and industrial photos",
+  "tags": [
+    "case-study",
+    "process",
+    "blue",
+    "cards",
+    "white-pills",
+    "photos",
+    "industrial",
+    "cyrillic"
+  ],
+  "whatItIs": "A deep blue rounded board '(04) Process' with a grid of lighter blue rounded cards: about the project, goal, problem, each with a white label pill, two photos of steel stock, and four task cards with numbered white circles and outlined pills.",
+  "whatItMeans": "Organised and reliable; equal cards make a complex brief scannable.",
+  "techniques": [
+    "Tile the brief as equal rounded cards.",
+    "Label each with a white pill.",
+    "Mix in real photos of the material.",
+    "Number tasks with circles."
+  ],
+  "bestFor": [
+    "Case-study briefs",
+    "B2B web process slides",
+    "Blue presentation boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Brief card",
+      "definition": "A card describing part of a brief."
+    },
+    {
+      "term": "Label pill",
+      "definition": "A white capsule naming a card."
+    },
+    {
+      "term": "Task number",
+      "definition": "A white circle with a step number."
+    },
+    {
+      "term": "Photo tile",
+      "definition": "A card that is a photograph."
+    }
+  ]
+}

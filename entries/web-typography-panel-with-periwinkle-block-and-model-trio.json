@@ -1,0 +1,48 @@
+{
+  "name": "web-typography-panel-with-periwinkle-block-and-model-trio",
+  "image": "images/web-typography-panel-with-periwinkle-block-and-model-trio.png",
+  "discipline": "web",
+  "designType": "Typography and colour guide",
+  "title": "Typography style page with periwinkle block, navy quote and three-model banner",
+  "tags": [
+    "typography",
+    "periwinkle",
+    "navy",
+    "fashion",
+    "helvetica",
+    "uppercase",
+    "quote",
+    "tinted-photos"
+  ],
+  "whatItIs": "A white page with an uppercase statement, then a two-part block: a periwinkle panel with 'TYPOGRAPHY' and huge white 'USED FOR BOLD HEADLINES & VISUAL HIERARCHY', and a navy panel with a quote. Below is a tinted photo trio of three models in blue hoodies with a large white overlaid headline 'YOUR STYLE, OUR SIGNATURE'.",
+  "whatItMeans": "Confident and minimal; the type does the talking, tinted photos keep it cohesive.",
+  "techniques": [
+    "Set the type rule as a real headline example instead of a specimen.",
+    "Split a wide block into a light periwinkle and a deep navy half.",
+    "Tint a row of photos with a blue overlay so headline text reads across all.",
+    "Keep all text in one grotesque family."
+  ],
+  "bestFor": [
+    "Fashion and e-commerce brand guides",
+    "Typography documentation",
+    "Systems that show rules by example"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type-in-use",
+      "definition": "Showing a typeface within a real headline."
+    },
+    {
+      "term": "Colour overlay",
+      "definition": "A translucent tint over photos."
+    },
+    {
+      "term": "Split block",
+      "definition": "A panel divided in two colours."
+    },
+    {
+      "term": "Statement caps",
+      "definition": "A long sentence set in uppercase."
+    }
+  ]
+}

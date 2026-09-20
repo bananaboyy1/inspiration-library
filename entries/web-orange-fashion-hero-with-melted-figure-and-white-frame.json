@@ -1,0 +1,48 @@
+{
+  "name": "web-orange-fashion-hero-with-melted-figure-and-white-frame",
+  "image": "images/web-orange-fashion-hero-with-melted-figure-and-white-frame.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Orange gradient hero with a white frame, giant black 'THE TRENDS WE WEAR', a profile portrait and melting reflection",
+  "tags": [
+    "fashion",
+    "orange",
+    "white-frame",
+    "giant-caps",
+    "serif-logo",
+    "profile-portrait",
+    "liquid-distortion",
+    "minimal"
+  ],
+  "whatItIs": "An orange gradient poster with a liquid-distorted red reflection of a head above and below a white rectangle containing a thin nav, a giant heavy black 'THE TRENDS WE WEAR' and a photo of a man in profile looking up with a flourished white serif logo 'Avara' and tiny corner captions.",
+  "whatItMeans": "Bold and warm; the melting reflection adds surreal energy to a clean layout.",
+  "techniques": [
+    "Frame a page as a white rectangle over a vivid field.",
+    "Extend the subject as a distorted reflection.",
+    "Set giant heavy caps as a headline.",
+    "Overlay a serif logo on the photo."
+  ],
+  "bestFor": [
+    "Fashion and lifestyle heroes",
+    "Poster-like site covers",
+    "Orange gradient brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Liquid distortion",
+      "definition": "A warped melting effect on an image."
+    },
+    {
+      "term": "White frame",
+      "definition": "A white panel holding UI over a colour field."
+    },
+    {
+      "term": "Profile portrait",
+      "definition": "A side-view face photo."
+    },
+    {
+      "term": "Serif logo overlay",
+      "definition": "A serif wordmark placed over a photo."
+    }
+  ]
+}

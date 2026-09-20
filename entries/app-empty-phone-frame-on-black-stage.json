@@ -1,0 +1,46 @@
+{
+  "name": "app-empty-phone-frame-on-black-stage",
+  "image": "images/app-empty-phone-frame-on-black-stage.gif",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blank white phone screen on pure black stage",
+  "tags": [
+    "mockup",
+    "blank",
+    "black",
+    "minimal",
+    "phone-frame",
+    "template",
+    "white-screen"
+  ],
+  "whatItIs": "A pure black wide frame with a single centred phone with a black bezel and an entirely white blank screen with only a status bar.",
+  "whatItMeans": "A neutral, dramatic stage waiting for content; contrast makes the device shape clear.",
+  "techniques": [
+    "Show a phone as a blank canvas on black to set up a reveal or animation.",
+    "Keep the status bar to hint at realism.",
+    "Use the white screen as a starting frame for transitions."
+  ],
+  "bestFor": [
+    "Animated case-study intros",
+    "Template starting frames",
+    "Showcase reveals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blank canvas frame",
+      "definition": "An empty device used before content appears."
+    },
+    {
+      "term": "Black stage",
+      "definition": "A pure black background for a presentation."
+    },
+    {
+      "term": "Status bar",
+      "definition": "The top strip showing time and signal."
+    },
+    {
+      "term": "Reveal frame",
+      "definition": "The first frame of an animated sequence."
+    }
+  ]
+}

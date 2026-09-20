@@ -1,0 +1,48 @@
+{
+  "name": "web-fashion-store-menu-listing-mobile-scatter-board",
+  "image": "images/web-fashion-store-menu-listing-mobile-scatter-board.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Scattered board of fashion mega-menu, listing, footer and mobile screens",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "mega-menu",
+    "plp",
+    "mobile",
+    "grey-board",
+    "white-ui",
+    "footer-wordmark"
+  ],
+  "whatItIs": "A pale grey board with several white UI fragments at staggered positions: a mega menu with category columns and photo tiles, a hoodie product listing with filters, a black footer with a cropped giant wordmark, and two mobile screens (home and product detail).",
+  "whatItMeans": "Orderly and neutral; scattering fragments shows the breadth of a design system without one long page.",
+  "techniques": [
+    "Scatter screens across a neutral board rather than aligning them.",
+    "Use a mega menu with a featured photo row.",
+    "Label photo tiles with small white text on the image.",
+    "Close with a black footer and giant cropped brand name."
+  ],
+  "bestFor": [
+    "Design-language overviews",
+    "Fashion and retail systems",
+    "Component showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mega menu",
+      "definition": "A large dropdown that shows many categories and images."
+    },
+    {
+      "term": "Scatter board",
+      "definition": "A presentation with screens placed at varied positions."
+    },
+    {
+      "term": "Filter column",
+      "definition": "A vertical list of collapsible filters."
+    },
+    {
+      "term": "Featured row",
+      "definition": "A row of promoted tiles in a menu."
+    }
+  ]
+}

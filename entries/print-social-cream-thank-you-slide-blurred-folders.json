@@ -1,0 +1,48 @@
+{
+  "name": "print-social-cream-thank-you-slide-blurred-folders",
+  "image": "images/print-social-cream-thank-you-slide-blurred-folders.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Thank-you slide with heavy sans, blurred folders and a contact sticker",
+  "tags": [
+    "closing-slide",
+    "cream",
+    "brown",
+    "blurred-folders",
+    "cursor",
+    "contact",
+    "sticker",
+    "script"
+  ],
+  "whatItIs": "A cream slide with a bold chocolate 'thank you for watching!' headline, a paragraph with bold phrases, a big cursor arrow, three heavily blurred blue folders floating in the background, and a greyscale portrait with a 'contact me' script sticker with handles and a list of services.",
+  "whatItMeans": "Warm and approachable; blurred folders keep the desktop theme without distracting.",
+  "techniques": [
+    "Blur desktop icons in the background as texture.",
+    "Use a real cursor pointing at the call to action.",
+    "Attach an outlined script sticker to a portrait.",
+    "Bold key phrases inside a friendly paragraph."
+  ],
+  "bestFor": [
+    "Portfolio closing slides",
+    "Freelancer contact pages",
+    "Presentations with a desktop theme"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blurred icons",
+      "definition": "Out-of-focus interface elements used as decoration."
+    },
+    {
+      "term": "Contact sticker",
+      "definition": "A script label attached to a portrait."
+    },
+    {
+      "term": "Cursor callout",
+      "definition": "A cursor icon pointing to text."
+    },
+    {
+      "term": "Closing slide",
+      "definition": "The final slide with thanks and contact."
+    }
+  ]
+}

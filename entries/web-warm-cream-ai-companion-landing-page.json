@@ -1,0 +1,44 @@
+{
+  "name": "web-warm-cream-ai-companion-landing-page",
+  "image": "images/web-warm-cream-ai-companion-landing-page.png",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Cream Landing Page with Pixel Mascots",
+  "tags": [
+    "cream",
+    "mascots",
+    "ai",
+    "browser-mockup",
+    "logo-strip",
+    "friendly",
+    "serif-logo"
+  ],
+  "whatItIs": "A long landing page on warm off-white with a dark serif wordmark, a bold sans headline, dark pill CTA, a browser mockup with small colored character mascots perched on top, a logo marquee and a 'Meet your companion' feature block.",
+  "whatItMeans": "Soft cream and toy-like characters make AI feel gentle and personable instead of cold. The dotted halftone at the top adds subtle texture.",
+  "techniques": [
+    "Mascots sitting on the edge of the browser mockup as if peeking in",
+    "Tight heavy headline against light regular-weight subhead",
+    "Grayscale logo strip for trust signals without visual noise",
+    "Dark pill buttons as the only strong contrast",
+    "Pale dotted texture fading down from the top"
+  ],
+  "bestFor": [
+    "AI assistants and productivity tools",
+    "Products wanting a friendly personality",
+    "Consumer-leaning software launches"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mascot perch",
+      "definition": "Characters placed on top of a UI frame to interact with it."
+    },
+    {
+      "term": "Logo marquee",
+      "definition": "A row of muted partner or customer logos."
+    },
+    {
+      "term": "Halftone texture",
+      "definition": "A dot-pattern gradient used as subtle background texture."
+    }
+  ]
+}

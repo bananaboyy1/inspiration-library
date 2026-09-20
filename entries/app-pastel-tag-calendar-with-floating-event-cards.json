@@ -1,0 +1,48 @@
+{
+  "name": "app-pastel-tag-calendar-with-floating-event-cards",
+  "image": "images/app-pastel-tag-calendar-with-floating-event-cards.png",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Calendar app with floating category tags and pastel event cards around the phone",
+  "tags": [
+    "calendar",
+    "planner",
+    "pastel",
+    "tags",
+    "event-cards",
+    "exploded-ui",
+    "white-background",
+    "blue-accent"
+  ],
+  "whatItIs": "A white board with a centred phone showing a month view with coloured dashes. Around it float removable category tags (Home, Plants, Friends, School, Work, Sport, Grandma) in bright pills, and event cards in warm grey with a category chip and a coloured letter tile. A headline reads 'Where your time finally makes sense'.",
+  "whatItMeans": "Cheerful and organised; each colour is a life category, so the interface feels personal.",
+  "techniques": [
+    "Explode UI components around the device to explain a colour-tagging system.",
+    "Give each category a solid colour used for dashes, chips and tiles.",
+    "Use a large letter tile as an avatar on event cards.",
+    "Place a light two-line headline beside the phone."
+  ],
+  "bestFor": [
+    "Planner and calendar apps",
+    "Explaining tag or category systems",
+    "Family and lifestyle organisers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Exploded UI",
+      "definition": "Interface parts scattered around a device to explain them."
+    },
+    {
+      "term": "Category pill",
+      "definition": "A coloured capsule naming a category."
+    },
+    {
+      "term": "Letter tile",
+      "definition": "A coloured block with a single letter as an icon."
+    },
+    {
+      "term": "Colour coding",
+      "definition": "Assigning colours to categories."
+    }
+  ]
+}

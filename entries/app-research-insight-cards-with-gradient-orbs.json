@@ -1,0 +1,48 @@
+{
+  "name": "app-research-insight-cards-with-gradient-orbs",
+  "image": "images/app-research-insight-cards-with-gradient-orbs.gif",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Insight cards on black with blurred gradient orbs and a pale donut",
+  "tags": [
+    "research",
+    "cards",
+    "dark-background",
+    "gradient-blur",
+    "donut",
+    "blue",
+    "orange",
+    "carousel"
+  ],
+  "whatItIs": "A black slide with three large rounded cards in a horizontal carousel: a white card with a pale blue donut and a highlighted blue phrase, a cream card whose lower half glows orange, and a blue-gradient card peeking at the left. Small caps text says 'a collection of insights gathered from: User interviews'.",
+  "whatItMeans": "Soft and reflective; blurred gradient orbs make qualitative research feel emotional.",
+  "techniques": [
+    "Show insights as a carousel of cards that bleed off the edges.",
+    "Use a blurred coloured orb at the bottom of each card as a mood cue.",
+    "Colour one phrase in each headline with the card's accent.",
+    "Set cards on black so their colours are vivid."
+  ],
+  "bestFor": [
+    "User research summaries",
+    "Insight and theme presentations",
+    "Case-study interludes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Insight card",
+      "definition": "A card stating one research finding."
+    },
+    {
+      "term": "Gradient orb",
+      "definition": "A blurred blob of colour used as decoration."
+    },
+    {
+      "term": "Bleed-off carousel",
+      "definition": "Cards cropped by the frame to imply more."
+    },
+    {
+      "term": "Accent phrase",
+      "definition": "A highlighted phrase in a headline."
+    }
+  ]
+}

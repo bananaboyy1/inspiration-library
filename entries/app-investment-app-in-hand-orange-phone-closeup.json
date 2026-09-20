@@ -1,0 +1,47 @@
+{
+  "name": "app-investment-app-in-hand-orange-phone-closeup",
+  "image": "images/app-investment-app-in-hand-orange-phone-closeup.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Tilted close-up of an investing app in an orange phone held in a hand",
+  "tags": [
+    "fintech",
+    "mockup",
+    "orange",
+    "hand",
+    "perspective",
+    "close-up",
+    "light-ui"
+  ],
+  "whatItIs": "A rounded light-grey frame with a huge angled close-up of an orange phone in a hand. The screen shows a greeting, metrics, small yield bars and the start of a chart, in italicised perspective.",
+  "whatItMeans": "Modern and tactile; the dramatic angle makes the interface feel alive and desirable.",
+  "techniques": [
+    "Use an extreme angled close-up to make text swoop across the frame.",
+    "Pick a phone colour that complements the UI accent.",
+    "Crop the device to fill the frame.",
+    "Frame the shot in a rounded card with a small studio tag."
+  ],
+  "bestFor": [
+    "Case-study covers",
+    "Fintech and lifestyle app showcases",
+    "Detail shots in portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Perspective crop",
+      "definition": "A close, angled view where the screen recedes."
+    },
+    {
+      "term": "Complementary hardware",
+      "definition": "A phone colour chosen to complement the UI."
+    },
+    {
+      "term": "Rounded frame",
+      "definition": "A card-shaped container around a project image."
+    },
+    {
+      "term": "Studio tag",
+      "definition": "A small label with a designer's name."
+    }
+  ]
+}

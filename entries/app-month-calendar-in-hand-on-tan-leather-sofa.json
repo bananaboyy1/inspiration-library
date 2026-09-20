@@ -1,0 +1,48 @@
+{
+  "name": "app-month-calendar-in-hand-on-tan-leather-sofa",
+  "image": "images/app-month-calendar-in-hand-on-tan-leather-sofa.png",
+  "discipline": "app",
+  "designType": "Calendar and planner app",
+  "title": "Calendar with coloured dash markers held above a tan tufted sofa and navy trousers",
+  "tags": [
+    "calendar",
+    "planner",
+    "light-ui",
+    "colour-dashes",
+    "hand",
+    "sofa",
+    "navy",
+    "tan"
+  ],
+  "whatItIs": "A hand holds a tilted phone with a light-grey monthly calendar, day/week/month toggle, coloured dashes under dates, a black today circle and a tab bar with a blue selected pill, over a tan quilted sofa and navy trousers.",
+  "whatItMeans": "Everyday and calm; the sofa scene sets the app in a relaxed evening moment.",
+  "techniques": [
+    "Show the app in a relaxed lifestyle scene.",
+    "Match scene colours to the UI (tan, navy, blue).",
+    "Mark events with dashes.",
+    "Use a segmented control for views."
+  ],
+  "bestFor": [
+    "Planner and calendar apps",
+    "Lifestyle mockups",
+    "Warm neutral scenes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lifestyle scene",
+      "definition": "A relaxed real-life setting for a mockup."
+    },
+    {
+      "term": "Event dash",
+      "definition": "A coloured dash under a date."
+    },
+    {
+      "term": "Tufted sofa",
+      "definition": "A quilted-surface sofa."
+    },
+    {
+      "term": "Selected pill",
+      "definition": "The active tab shown as a coloured capsule."
+    }
+  ]
+}

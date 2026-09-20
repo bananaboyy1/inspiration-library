@@ -1,0 +1,48 @@
+{
+  "name": "print-social-photo-overlay-cover-with-thin-grotesque",
+  "image": "images/print-social-photo-overlay-cover-with-thin-grotesque.png",
+  "discipline": "print-social",
+  "designType": "Social cover post",
+  "title": "Darkened photo cover with huge light caps and a side caption",
+  "tags": [
+    "cover",
+    "photo-overlay",
+    "thin-caps",
+    "field",
+    "green",
+    "cyrillic",
+    "two-runner",
+    "logo"
+  ],
+  "whatItIs": "A 4:5 post with a darkened photo of two women running through a meadow. A giant white light-weight two-line headline sits at the top with a narrow caption to its right marked by an asterisk, a small wordmark at the bottom and an arrow glyph in the corner.",
+  "whatItMeans": "Open, hopeful and calm; the running figures bring movement and the thin type feels premium.",
+  "techniques": [
+    "Darken a natural photo so white type reads.",
+    "Set a huge light-weight headline and a slim side caption.",
+    "Use an asterisk as a bullet for the caption.",
+    "Place a small logo at the bottom centre and a directional glyph at the corner."
+  ],
+  "bestFor": [
+    "Wellness, therapy and coaching covers",
+    "Editorial-style Instagram posts",
+    "Carousel opening slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo overlay",
+      "definition": "A dark tint over a photo for text legibility."
+    },
+    {
+      "term": "Thin caps",
+      "definition": "Uppercase type in a light weight."
+    },
+    {
+      "term": "Side caption",
+      "definition": "A narrow column of text beside a headline."
+    },
+    {
+      "term": "Directional glyph",
+      "definition": "An arrow mark suggesting the next slide."
+    }
+  ]
+}

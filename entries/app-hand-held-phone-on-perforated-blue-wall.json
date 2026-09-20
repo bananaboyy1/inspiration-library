@@ -1,0 +1,47 @@
+{
+  "name": "app-hand-held-phone-on-perforated-blue-wall",
+  "image": "images/app-hand-held-phone-on-perforated-blue-wall.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Hand holding a phone against a perforated cobalt panel",
+  "tags": [
+    "mockup",
+    "phone-in-hand",
+    "travel",
+    "cobalt",
+    "orange-accent",
+    "photographic",
+    "case-study-cover"
+  ],
+  "whatItIs": "A photographic mockup: a hand holds a phone with an orange frame in front of a cobalt perforated metal wall. The screen shows a full-bleed ocean photo with a serif headline about sailing.",
+  "whatItMeans": "Bold, tactile and aspirational; the saturated blue-orange complement gives an instant editorial punch.",
+  "techniques": [
+    "Choose a real-world textured background in the app's brand colour for a stage.",
+    "Use a complementary accent (orange phone case) to separate the device from the background.",
+    "Let a real hand hold the device to add scale and human presence.",
+    "Repeat the wall's dot pattern as a pattern language for the brand."
+  ],
+  "bestFor": [
+    "App launch and case-study covers",
+    "Travel and luxury mobile experiences",
+    "Portfolio thumbnails"
+  ],
+  "vocabulary": [
+    {
+      "term": "In-hand mockup",
+      "definition": "A device photographed being held, for realism."
+    },
+    {
+      "term": "Complementary contrast",
+      "definition": "Using opposite colours (blue/orange) so both stand out."
+    },
+    {
+      "term": "Perforated texture",
+      "definition": "A surface pattern of regular holes."
+    },
+    {
+      "term": "Hero shot",
+      "definition": "The main image chosen to sell a project."
+    }
+  ]
+}

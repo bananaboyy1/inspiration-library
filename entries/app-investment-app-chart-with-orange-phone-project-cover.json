@@ -1,0 +1,47 @@
+{
+  "name": "app-investment-app-chart-with-orange-phone-project-cover",
+  "image": "images/app-investment-app-chart-with-orange-phone-project-cover.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Project cover: orange phone with glowing chart and studio tag",
+  "tags": [
+    "cover",
+    "fintech",
+    "orange",
+    "chart",
+    "hand",
+    "project-thumbnail",
+    "logo-tag"
+  ],
+  "whatItIs": "A white project thumbnail with a tilted orange phone held in a hand showing a glowing lime chart, a dark circular nav bar, and a lime logo tile and studio name in the corners.",
+  "whatItMeans": "Clear and clean; the orange hardware and lime chart give a recognisable, fresh pairing.",
+  "techniques": [
+    "Use a bright hardware colour as the main graphic.",
+    "Angle the phone so the chart becomes a dynamic curve.",
+    "Keep the background almost white to focus attention.",
+    "Add a tiny logo tile and studio label in the corners."
+  ],
+  "bestFor": [
+    "Behance and Dribbble project covers",
+    "Fintech app thumbnails",
+    "Small-size previews"
+  ],
+  "vocabulary": [
+    {
+      "term": "Project thumbnail",
+      "definition": "A small cover image for a portfolio piece."
+    },
+    {
+      "term": "Hardware accent",
+      "definition": "A phone colour chosen as part of the composition."
+    },
+    {
+      "term": "Corner tag",
+      "definition": "Small branded label in a corner of the frame."
+    },
+    {
+      "term": "Glow chart",
+      "definition": "A chart line with a luminous halo."
+    }
+  ]
+}

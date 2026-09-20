@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-folder-banner-amazon",
+  "image": "images/print-social-halftone-folder-banner-amazon.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Blue halftone banner with an 'amazon' folder and large white scribble burst",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "blue",
+    "scribble",
+    "serif-label",
+    "icons",
+    "desktop-metaphor"
+  ],
+  "whatItIs": "A blue halftone banner with a manila folder titled 'amazon', a big white scribble star at its right, a pixel cursor and Illustrator, Photoshop and Figma icons.",
+  "whatItMeans": "Recognisable and playful; consistent folder motif keeps the series unified.",
+  "techniques": [
+    "Keep the folder identical across variants.",
+    "Change only the background hue and label.",
+    "Use a bold white scribble as energy.",
+    "Show only relevant tool icons."
+  ],
+  "bestFor": [
+    "Platform-specific portfolio banners",
+    "Series headers",
+    "Freelancer profiles"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series constant",
+      "definition": "An element that stays the same across variants."
+    },
+    {
+      "term": "White scribble",
+      "definition": "A rough white starburst."
+    },
+    {
+      "term": "Platform label",
+      "definition": "A brand name on a folder tab."
+    },
+    {
+      "term": "Halftone blue",
+      "definition": "Blue dot texture."
+    }
+  ]
+}

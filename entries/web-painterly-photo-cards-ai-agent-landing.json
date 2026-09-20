@@ -1,0 +1,44 @@
+{
+  "name": "web-painterly-photo-cards-ai-agent-landing",
+  "image": "images/web-painterly-photo-cards-ai-agent-landing.png",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Serif Headline Landing with Painterly Hero",
+  "tags": [
+    "serif",
+    "painterly",
+    "light",
+    "hero-image",
+    "testimonial",
+    "cards",
+    "ai"
+  ],
+  "whatItIs": "A pale mint-white landing page in a rounded frame with a large tightly set serif headline, email capture, a painterly illustrated coastal landscape hero with a car and a floating testimonial card, and three feature cards with product UI over landscape imagery.",
+  "whatItMeans": "The illustrative scene and serif type bring warmth and human trust to a technical product, while clean UI cards keep it credible.",
+  "techniques": [
+    "Tight-tracked large serif headline as the main visual",
+    "Painterly landscape as hero backdrop with a testimonial card overlaid",
+    "Email-in-hero capture field instead of a button alone",
+    "Product UI cards set over blurred landscape crops",
+    "Tabbed customer story logos underneath the hero"
+  ],
+  "bestFor": [
+    "AI/CX platforms seeking warmth",
+    "B2B products aimed at non-technical buyers",
+    "Brands blending editorial feel and product proof"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hero capture",
+      "definition": "An inline email input inside the hero."
+    },
+    {
+      "term": "Overlaid testimonial",
+      "definition": "A quote card floated over the hero image."
+    },
+    {
+      "term": "Painterly render",
+      "definition": "Illustration that mimics brush-based imagery."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-fashion-hero-with-dark-portrait-and-periwinkle-fleece",
+  "image": "images/web-fashion-hero-with-dark-portrait-and-periwinkle-fleece.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Fashion homepage with a periwinkle hero, giant 'STYLISH LIFE' behind a model and a dark portrait header",
+  "tags": [
+    "fashion",
+    "periwinkle",
+    "giant-type",
+    "cutout",
+    "dark-header",
+    "navy",
+    "nav",
+    "hero"
+  ],
+  "whatItIs": "A dark navy header with a small studio credit and a moody portrait, then a white page with centred logo and menu and a large periwinkle gradient hero where 'STYLISH LIFE' in giant white caps sits behind a model in a violet fleece, with small corner captions and a New arrival row starting below.",
+  "whatItMeans": "Sleek and youthful; type behind the model creates depth.",
+  "techniques": [
+    "Place giant type behind a cutout model.",
+    "Use a gradient hero with small captions in corners.",
+    "Keep a plain white centred nav.",
+    "Colour the product to match the gradient."
+  ],
+  "bestFor": [
+    "Fashion homepages",
+    "Model-led heroes",
+    "Periwinkle brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type-behind hero",
+      "definition": "Giant text placed behind a person."
+    },
+    {
+      "term": "Caption corners",
+      "definition": "Small labels in hero corners."
+    },
+    {
+      "term": "Centred nav",
+      "definition": "A logo and menu centred at the top."
+    },
+    {
+      "term": "Colour matching",
+      "definition": "Clothing matching the hero gradient."
+    }
+  ]
+}

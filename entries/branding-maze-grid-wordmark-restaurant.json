@@ -1,0 +1,47 @@
+{
+  "name": "branding-maze-grid-wordmark-restaurant",
+  "image": "images/branding-maze-grid-wordmark-restaurant.png",
+  "discipline": "branding",
+  "designType": "Wordmarks",
+  "title": "Pixel-maze wordmark on wrappers and kraft bags",
+  "tags": [
+    "wordmark",
+    "grid-type",
+    "maze",
+    "black-and-white",
+    "restaurant",
+    "packaging",
+    "geometric"
+  ],
+  "whatItIs": "A black wordmark built from rectangular strokes and dots, forming a maze-like lettering of 'bemeals' between two heavy bars. It is applied on a sandwich wrapper on dark wood and reversed out of a kraft paper bag against terracotta tiles.",
+  "whatItMeans": "Bold, codelike and playful, with a puzzle quality that invites a second look.",
+  "techniques": [
+    "Construct every letter from a square grid so the word looks like a maze or barcode.",
+    "Frame the word between heavy horizontal bars for a stamp-like lockup.",
+    "Use it as a repeating band on packaging.",
+    "Show positive and reversed versions on contrasting materials."
+  ],
+  "bestFor": [
+    "Restaurants, delivery and packaging",
+    "Tech and design brands wanting a codelike mark",
+    "Brands that work as stamps or labels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Grid lettering",
+      "definition": "Letters built on a square module."
+    },
+    {
+      "term": "Stamp lockup",
+      "definition": "A logo arranged like a rubber stamp."
+    },
+    {
+      "term": "Reversed logo",
+      "definition": "A logo in light on dark."
+    },
+    {
+      "term": "Wrap band",
+      "definition": "A logo repeated as a stripe across packaging."
+    }
+  ]
+}

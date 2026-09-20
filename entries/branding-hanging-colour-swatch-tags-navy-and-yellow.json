@@ -1,0 +1,47 @@
+{
+  "name": "branding-hanging-colour-swatch-tags-navy-and-yellow",
+  "image": "images/branding-hanging-colour-swatch-tags-navy-and-yellow.jpg",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Palette as hanging tabs with vertical hex codes in navy, indigo, yellow and white",
+  "tags": [
+    "colour-palette",
+    "navy",
+    "indigo",
+    "yellow",
+    "dashed-lines",
+    "vertical-type",
+    "stepped-blocks"
+  ],
+  "whatItIs": "A pale lavender page with four stepped colour blocks in descending height, each with rounded top corners and its hex code set vertically. Dashed curved lines run from the top down to a dot on each block.",
+  "whatItMeans": "Tidy and playful; the stepped shapes read like a bar chart and the lines like strings.",
+  "techniques": [
+    "Stagger swatches in stepped heights like a bar chart.",
+    "Connect each swatch to a dot via a dashed curved line.",
+    "Rotate hex codes vertically inside the swatch.",
+    "Fade the connector line colour to match each swatch."
+  ],
+  "bestFor": [
+    "Brand guideline palettes",
+    "Design system documentation",
+    "Fresh, friendly identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stepped swatches",
+      "definition": "Colour blocks arranged at descending heights."
+    },
+    {
+      "term": "Dashed connector",
+      "definition": "A dotted line linking elements."
+    },
+    {
+      "term": "Vertical label",
+      "definition": "Text rotated to run up or down."
+    },
+    {
+      "term": "Hex code",
+      "definition": "A six-digit web colour value."
+    }
+  ]
+}

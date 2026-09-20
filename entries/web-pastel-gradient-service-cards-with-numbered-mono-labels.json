@@ -1,0 +1,48 @@
+{
+  "name": "web-pastel-gradient-service-cards-with-numbered-mono-labels",
+  "image": "images/web-pastel-gradient-service-cards-with-numbered-mono-labels.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'Services.' heading with tall rounded cards in lilac, mint and blush gradients, each with a (00N) label, an icon, caps title and short text",
+  "tags": [
+    "services",
+    "pastel-gradient",
+    "lilac",
+    "mint",
+    "blush",
+    "cards",
+    "monospace",
+    "icons"
+  ],
+  "whatItIs": "A white page with a giant bold 'Services.' and a horizontal row of tall rounded cards with soft gradients (lilac, mint, blush), each with a monospace number in brackets '( 001 )', a thin black icon (palette, code, magnifier), an uppercase title (Branding, Development, SEO Optimization) and a short grey description at the bottom.",
+  "whatItMeans": "Fresh and orderly; soft colour gradients differentiate services without heavy graphics.",
+  "techniques": [
+    "Give each card its own pastel gradient.",
+    "Number with monospace bracketed labels.",
+    "Use one thin icon per card.",
+    "Bleed the last card off the edge."
+  ],
+  "bestFor": [
+    "Agency service sections",
+    "Pastel card rows",
+    "Minimal portfolio sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient card",
+      "definition": "A card filled with a soft colour gradient."
+    },
+    {
+      "term": "Bracket number",
+      "definition": "A monospace index like ( 001 )."
+    },
+    {
+      "term": "Cropped carousel",
+      "definition": "A row whose last item is cut by the edge."
+    },
+    {
+      "term": "Service card",
+      "definition": "A card describing one offering."
+    }
+  ]
+}

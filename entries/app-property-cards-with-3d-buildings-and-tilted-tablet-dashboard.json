@@ -1,0 +1,48 @@
+{
+  "name": "app-property-cards-with-3d-buildings-and-tilted-tablet-dashboard",
+  "image": "images/app-property-cards-with-3d-buildings-and-tilted-tablet-dashboard.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Two light property cards with 3D building models, and a tilted tablet dashboard with a gradient bar chart",
+  "tags": [
+    "real-estate",
+    "3d-buildings",
+    "cards",
+    "light-grey",
+    "lime",
+    "tablet",
+    "bar-chart",
+    "status-tags"
+  ],
+  "whatItIs": "A board 'UI Design 04' with two white property cards for a studio and a flat, each with address, status tag, spec pills, a 3D isometric building and purchase and appreciation figures in light numerals; and a tilted tablet dashboard with greeting, next payout card, allocation bars, payout history with hatched and lime bars, and property cards.",
+  "whatItMeans": "Tangible and calm; 3D buildings connect numbers to real assets.",
+  "techniques": [
+    "Show each asset as a 3D building.",
+    "List specs in outlined pills.",
+    "Use hatched bars with one lime bar.",
+    "Present components flat and in a tilted dashboard."
+  ],
+  "bestFor": [
+    "Property investment apps",
+    "Card-level UI documentation",
+    "Light lime dashboards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Isometric model",
+      "definition": "A 3D building rendered from an angle."
+    },
+    {
+      "term": "Status tag",
+      "definition": "A small label like Under Renovation."
+    },
+    {
+      "term": "Spec pill",
+      "definition": "A capsule listing a property attribute."
+    },
+    {
+      "term": "Hatched bar",
+      "definition": "A bar filled with diagonal lines."
+    }
+  ]
+}

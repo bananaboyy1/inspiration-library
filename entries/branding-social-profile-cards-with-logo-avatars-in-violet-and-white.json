@@ -1,0 +1,48 @@
+{
+  "name": "branding-social-profile-cards-with-logo-avatars-in-violet-and-white",
+  "image": "images/branding-social-profile-cards-with-logo-avatars-in-violet-and-white.jpg",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "title": "Two profile cards on black: outlined and filled violet circle avatars over a violet half-banner with a Follow pill",
+  "tags": [
+    "social-profile",
+    "avatar",
+    "violet",
+    "white",
+    "black",
+    "cards",
+    "follow-button",
+    "logo"
+  ],
+  "whatItIs": "A black field with two rounded white cards each with a violet top half, a circular avatar holding the logo (violet on white, and white on violet), name, handle, bio, counts, link and a black Follow pill.",
+  "whatItMeans": "Clean and practical; testing avatar versions shows how the mark sits in a circle.",
+  "techniques": [
+    "Test the logo in a circle in two colourways.",
+    "Split the card into colour banner and white body.",
+    "Overlap the avatar across the split.",
+    "Use a black Follow pill."
+  ],
+  "bestFor": [
+    "Social profile mockups",
+    "Avatar testing",
+    "Two-colour identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Avatar lockup",
+      "definition": "A logo placed inside a circular profile picture."
+    },
+    {
+      "term": "Half-banner card",
+      "definition": "A card with a coloured top and white body."
+    },
+    {
+      "term": "Follow pill",
+      "definition": "A capsule button for following."
+    },
+    {
+      "term": "Colourway test",
+      "definition": "Showing two colour versions of a logo."
+    }
+  ]
+}

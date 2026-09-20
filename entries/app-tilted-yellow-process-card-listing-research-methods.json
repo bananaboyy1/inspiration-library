@@ -1,0 +1,48 @@
+{
+  "name": "app-tilted-yellow-process-card-listing-research-methods",
+  "image": "images/app-tilted-yellow-process-card-listing-research-methods.gif",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Tilted yellow rounded card listing research methods on a white field",
+  "tags": [
+    "process",
+    "research",
+    "yellow",
+    "tilted-card",
+    "white",
+    "minimal",
+    "animation-frame",
+    "labels"
+  ],
+  "whatItIs": "A wide white canvas with one tilted amber rounded card at the left carrying the word Research and a scattered list: Data Analysis, Problem Statement, User Journey, User Interviews and User Persona.",
+  "whatItMeans": "Playful and light; the tilted card feels like a sticky note waiting for companions.",
+  "techniques": [
+    "Tilt a coloured card to break a rigid grid.",
+    "Set list items in two loose columns in white on yellow.",
+    "Leave big white space for other cards to arrive.",
+    "Use the frame as one step of an animated sequence."
+  ],
+  "bestFor": [
+    "Process and methodology slides",
+    "Animated case-study sequences",
+    "Minimal step cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tilted card",
+      "definition": "A card rotated slightly for informality."
+    },
+    {
+      "term": "Method list",
+      "definition": "A list of activities in a process."
+    },
+    {
+      "term": "Empty canvas",
+      "definition": "White space reserved for future elements."
+    },
+    {
+      "term": "Animation frame",
+      "definition": "One still from a motion piece."
+    }
+  ]
+}

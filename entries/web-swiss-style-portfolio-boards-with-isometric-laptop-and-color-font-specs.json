@@ -1,0 +1,48 @@
+{
+  "name": "web-swiss-style-portfolio-boards-with-isometric-laptop-and-color-font-specs",
+  "image": "images/web-swiss-style-portfolio-boards-with-isometric-laptop-and-color-font-specs.png",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Monochrome Swiss-style portfolio: isometric laptop and phone with giant WELCOME, guide ticks, and black colour and font panels",
+  "tags": [
+    "swiss-style",
+    "monochrome",
+    "geometric-type",
+    "laptop-mockup",
+    "guide-ticks",
+    "colours",
+    "fonts",
+    "portfolio"
+  ],
+  "whatItIs": "A tall white board with an isometric black laptop and phone showing a giant cropped geometric 'WELCOME' with vertical tick guides and a smartwatch mockup, a full-width page with the same giant word, tiny nav links and 'swiss style' in grey, and a black footer with 'colors' (black and white swatch) and 'fonts' (Bruno Ace, Actay).",
+  "whatItMeans": "Precise and confident; a two-colour system and one bold word feel architectural.",
+  "techniques": [
+    "Show the site on a floating isometric laptop and phone.",
+    "Use a giant cropped word with guide ticks.",
+    "Document colours and fonts in a black band.",
+    "Keep to black and white."
+  ],
+  "bestFor": [
+    "Swiss and minimalist portfolios",
+    "Monochrome design systems",
+    "Type-led personal sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Isometric mockup",
+      "definition": "Devices shown in angled 3D view."
+    },
+    {
+      "term": "Guide ticks",
+      "definition": "Vertical marks showing letter boundaries."
+    },
+    {
+      "term": "Two-colour system",
+      "definition": "A palette of only black and white."
+    },
+    {
+      "term": "Font panel",
+      "definition": "A section naming the typefaces used."
+    }
+  ]
+}

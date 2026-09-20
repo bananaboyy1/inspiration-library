@@ -1,0 +1,44 @@
+{
+  "name": "web-cute-monster-404-error-page",
+  "image": "images/web-cute-monster-404-error-page.webp",
+  "discipline": "web",
+  "designType": "Error page",
+  "title": "Fuzzy Monster 404 Page",
+  "tags": [
+    "404",
+    "mascot",
+    "3d",
+    "warm",
+    "beige",
+    "friendly",
+    "empty-state"
+  ],
+  "whatItIs": "A rounded-frame website 404 page in warm beige with a huge pale '404' whose middle zero is replaced by a fluffy green one-eyed monster looking sad, with a small brown message beneath.",
+  "whatItMeans": "A dead end becomes charming. The mascot's sad face softens the frustration, and the tonal beige palette keeps the page soothing.",
+  "techniques": [
+    "Replace a digit with a character so the number and mascot fuse",
+    "Render the big numerals in a tone just off the background so they recede",
+    "Use a hand-feeling display font for the message and small neutral type for detail",
+    "Frame the whole page in a rounded inset border for a card-like feeling",
+    "Give the mascot a facial expression that matches the message"
+  ],
+  "bestFor": [
+    "Error and empty states",
+    "Kid-friendly or playful brands",
+    "Adding personality to utility pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tonal numerals",
+      "definition": "Large characters shown in a color close to the background so they act as texture."
+    },
+    {
+      "term": "Mascot substitution",
+      "definition": "Swapping a letter or digit for an illustrated character."
+    },
+    {
+      "term": "Inset frame",
+      "definition": "A rounded border set inside the canvas that contains the layout."
+    }
+  ]
+}

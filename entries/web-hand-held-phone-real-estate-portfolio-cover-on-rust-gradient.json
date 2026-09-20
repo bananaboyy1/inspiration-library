@@ -1,0 +1,48 @@
+{
+  "name": "web-hand-held-phone-real-estate-portfolio-cover-on-rust-gradient",
+  "image": "images/web-hand-held-phone-real-estate-portfolio-cover-on-rust-gradient.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Real-estate mobile site held in a hand under a giant WEBSITE title on a rust gradient",
+  "tags": [
+    "project-cover",
+    "real-estate",
+    "hand",
+    "rust",
+    "gradient",
+    "white-type",
+    "mobile-site",
+    "caps-title"
+  ],
+  "whatItIs": "A rust-brown to red gradient with a huge white 'WEBSITE' at the top edge, a hand holding an angled phone showing a dark interiors site, and small caps captions for category, date and designer at the lower corners.",
+  "whatItMeans": "Bold and simple; the warm gradient and giant word make a strong thumbnail.",
+  "techniques": [
+    "Set an oversized white caps word at the top of the frame.",
+    "Hold the phone at an angle in a hand from below.",
+    "Use a monochrome warm gradient as the background.",
+    "Put credits in tiny caps at the corners."
+  ],
+  "bestFor": [
+    "Web project covers",
+    "Portfolio thumbnails",
+    "Property and interiors sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Giant caps title",
+      "definition": "A huge uppercase word used as the main graphic."
+    },
+    {
+      "term": "Rust gradient",
+      "definition": "A gradient of brown to red."
+    },
+    {
+      "term": "Hand-in-frame",
+      "definition": "A hand holding the device from below."
+    },
+    {
+      "term": "Credit caps",
+      "definition": "Small uppercase credit text."
+    }
+  ]
+}

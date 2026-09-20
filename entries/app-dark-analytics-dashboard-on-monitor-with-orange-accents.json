@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-analytics-dashboard-on-monitor-with-orange-accents",
+  "image": "images/app-dark-analytics-dashboard-on-monitor-with-orange-accents.jpg",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Dark analytics dashboard on a monitor with orange highlights, arc bars and donut charts",
+  "tags": [
+    "dashboard",
+    "dark",
+    "orange",
+    "monitor-mockup",
+    "charts",
+    "tiles",
+    "analytics",
+    "red-glow"
+  ],
+  "whatItIs": "A monitor showing a black dashboard with a left menu, greeting, a big orange tile, stat cards, arch-shaped bar charts, donut rings and a ranked product list with orange and grey accents, against a red-black gradient.",
+  "whatItMeans": "Bold and technical; orange on black feels like a performance console.",
+  "techniques": [
+    "Use one orange for key tiles.",
+    "Draw bars as arches.",
+    "Keep secondary charts grey and white.",
+    "Stage the monitor on a red glow."
+  ],
+  "bestFor": [
+    "Analytics and admin dashboards",
+    "Dark SaaS panels",
+    "Orange-accent brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Arch bars",
+      "definition": "Bars with rounded tops shaped like arches."
+    },
+    {
+      "term": "Accent tile",
+      "definition": "One tile in the accent colour."
+    },
+    {
+      "term": "Donut ring",
+      "definition": "A ring chart."
+    },
+    {
+      "term": "Monitor mockup",
+      "definition": "A desktop screen in a scene."
+    }
+  ]
+}

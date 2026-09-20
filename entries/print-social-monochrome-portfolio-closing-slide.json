@@ -1,0 +1,47 @@
+{
+  "name": "print-social-monochrome-portfolio-closing-slide",
+  "image": "images/print-social-monochrome-portfolio-closing-slide.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Wide-tech-type closing slide with QR codes",
+  "tags": [
+    "presentation",
+    "typography",
+    "black-and-white",
+    "qr-code",
+    "portfolio",
+    "extended-type",
+    "gradient-text"
+  ],
+  "whatItIs": "A three-part portfolio ending: a white 'a few words about me' block in wide geometric type, a black contact band with square social icons, and a huge 'For watching' with the middle letters fading to grey above two QR codes and a small blue logo.",
+  "whatItMeans": "Minimal and self-assured, like a designer's sign-off; big type and monochrome keep attention on the call to scan.",
+  "techniques": [
+    "Set a huge closing phrase in wide techno-rounded type with a gradient fade across letters.",
+    "Alternate white and black bands to separate topics.",
+    "Use giant QR codes as the main graphic with tiny captions.",
+    "Keep social links as small lowercase text and square white icons."
+  ],
+  "bestFor": [
+    "Portfolio and pitch closing slides",
+    "Personal brand deliverables",
+    "Calls to follow or scan"
+  ],
+  "vocabulary": [
+    {
+      "term": "Extended geometric type",
+      "definition": "Wide letterforms built from circles and lines."
+    },
+    {
+      "term": "Gradient text",
+      "definition": "Letters that fade from solid to transparent."
+    },
+    {
+      "term": "Band layout",
+      "definition": "Horizontal colour bands dividing content."
+    },
+    {
+      "term": "QR call-to-action",
+      "definition": "A scannable code as the main action."
+    }
+  ]
+}

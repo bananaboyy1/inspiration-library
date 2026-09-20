@@ -1,0 +1,48 @@
+{
+  "name": "app-property-onboarding-and-login-three-screens-with-layered-photo",
+  "image": "images/app-property-onboarding-and-login-three-screens-with-layered-photo.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Three white screens: onboarding with a layered sea-view photo, log in by phone and log in by email with dark social block",
+  "tags": [
+    "onboarding",
+    "login",
+    "black",
+    "white",
+    "layered-photo",
+    "segmented-tabs",
+    "social-sign-in",
+    "real-estate"
+  ],
+  "whatItIs": "A pale grey background with three staggered phones: onboarding with 'UNLOCK OVERSEAS OPPORTUNITIES', a stack of gradient panels and a sea-view window photo and a black Get Started pill; log in by phone with a segmented control, flag field and black Continue plus a dark block of Apple, Facebook, Google and X buttons; and log in by email with email and password fields.",
+  "whatItMeans": "Clean and modern; black pill buttons and a dark social block create a clear hierarchy.",
+  "techniques": [
+    "Layer gradient panels behind a photo.",
+    "Use a segmented control for phone or email.",
+    "Contrast a white form with a dark social block.",
+    "Keep black primary pills."
+  ],
+  "bestFor": [
+    "Login and onboarding design",
+    "Property and travel apps",
+    "Monochrome mobile flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Layered photo",
+      "definition": "A photo with gradient panels stacked behind."
+    },
+    {
+      "term": "Segmented tabs",
+      "definition": "A toggle between two input modes."
+    },
+    {
+      "term": "Dark social block",
+      "definition": "A black area with sign-in provider buttons."
+    },
+    {
+      "term": "Flag field",
+      "definition": "A phone input with a country flag."
+    }
+  ]
+}

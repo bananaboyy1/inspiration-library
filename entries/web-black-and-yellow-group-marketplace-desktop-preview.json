@@ -1,0 +1,48 @@
+{
+  "name": "web-black-and-yellow-group-marketplace-desktop-preview",
+  "image": "images/web-black-and-yellow-group-marketplace-desktop-preview.png",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Black-and-yellow crowd marketplace pages with globe lines, tape ticker, chip cloud and yellow feature blocks",
+  "tags": [
+    "marketplace",
+    "black",
+    "yellow",
+    "condensed-type",
+    "tape",
+    "chips",
+    "laptop-screen",
+    "form"
+  ],
+  "whatItIs": "Two overlapping desktop pages: a black hero with globe lines and a headline 'THE WORLD'S FIRST MARKETPLACE FOR CONSUMER GROUP ACTIVATIONS.', a yellow tape ticker, chip cloud, 'BUILT FOR BRANDS' with a yellow tracking block; and a second page with a radial orbit graphic, logos, a yellow 'coming to iOS' block and a dark contact form.",
+  "whatItMeans": "Loud and urban; yellow on black feels like live activation.",
+  "techniques": [
+    "Yellow tape ticker across the hero.",
+    "Radial orbit graphic as a feature visual.",
+    "Yellow full-width feature blocks.",
+    "Condensed uppercase headlines."
+  ],
+  "bestFor": [
+    "Marketplace and community platforms",
+    "Youth brands",
+    "Black and yellow sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Orbit graphic",
+      "definition": "Concentric rings with nodes."
+    },
+    {
+      "term": "Tape ticker",
+      "definition": "A diagonal strip of slogans."
+    },
+    {
+      "term": "Feature block",
+      "definition": "A yellow block presenting one benefit."
+    },
+    {
+      "term": "Chip cloud",
+      "definition": "Many small option pills."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "print-social-designer-folder-portfolio-cover",
+  "image": "images/print-social-designer-folder-portfolio-cover.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Designer portfolio cover as a desktop with folders",
+  "tags": [
+    "portfolio",
+    "desktop-metaphor",
+    "serif-script",
+    "cream",
+    "folders",
+    "file-icons",
+    "cursor"
+  ],
+  "whatItIs": "A cream cover with an oversized script and serif title 'designer portfolio (2025)' over a big blue macOS-style folder and a cursor. Small folders and file thumbnails of social and web projects, plus app icons, float around.",
+  "whatItMeans": "Familiar, witty and organised; it makes browsing a portfolio feel like opening files.",
+  "techniques": [
+    "Recreate a desktop with folders and file names to present categories.",
+    "Overlap a script word on a heavy serif word for contrast.",
+    "Scatter project thumbnails as tiny file previews.",
+    "Keep a soft cream background with blue folders as the only saturated colour."
+  ],
+  "bestFor": [
+    "Portfolio covers and agenda slides",
+    "Creative freelancers",
+    "Presentations that map out sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Desktop metaphor",
+      "definition": "Interface icons used as illustration."
+    },
+    {
+      "term": "Script overlay",
+      "definition": "A flowing script word laid over bold type."
+    },
+    {
+      "term": "File thumbnail",
+      "definition": "A tiny image labelled like a file."
+    },
+    {
+      "term": "Cover slide",
+      "definition": "The opening slide of a deck."
+    }
+  ]
+}

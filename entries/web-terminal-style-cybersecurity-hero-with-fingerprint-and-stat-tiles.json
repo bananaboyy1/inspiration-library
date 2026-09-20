@@ -1,0 +1,48 @@
+{
+  "name": "web-terminal-style-cybersecurity-hero-with-fingerprint-and-stat-tiles",
+  "image": "images/web-terminal-style-cybersecurity-hero-with-fingerprint-and-stat-tiles.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Black monospace cybersecurity hero with corner brackets, green CTA, glitchy fingerprint image and stat tiles",
+  "tags": [
+    "cybersecurity",
+    "monospace",
+    "black",
+    "neon-green",
+    "corner-brackets",
+    "fingerprint",
+    "stat-tiles",
+    "logos"
+  ],
+  "whatItIs": "A black page in a grey frame with bracketed nav, monospace uppercase headline 'COMPREHENSIVE CYBERSECURITY SOLUTIONS DESIGNED FOR EVERY DIGITAL BUSINESS', a green tag, green and outlined buttons, a scanned white fingerprint image, partner logos and four dark green stat tiles (99%, 60+, 120+, 24/7).",
+  "whatItMeans": "Technical and secure; monospace and neon green feel like a terminal.",
+  "techniques": [
+    "Use monospace headlines and corner brackets.",
+    "Render the hero as a noisy fingerprint scan.",
+    "Use one neon green for actions.",
+    "End with a row of stat tiles."
+  ],
+  "bestFor": [
+    "Cybersecurity and infrastructure sites",
+    "Terminal-style dark UIs",
+    "Green-on-black brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Corner brackets",
+      "definition": "Small L marks framing sections."
+    },
+    {
+      "term": "Monospace headline",
+      "definition": "A headline in fixed-width type."
+    },
+    {
+      "term": "Scan image",
+      "definition": "A noisy image resembling a scan."
+    },
+    {
+      "term": "Stat tile",
+      "definition": "A dark tile with one big figure."
+    }
+  ]
+}

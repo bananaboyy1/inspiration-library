@@ -1,0 +1,48 @@
+{
+  "name": "web-mechanic-services-site-on-laptop-in-garage-scene",
+  "image": "images/web-mechanic-services-site-on-laptop-in-garage-scene.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark mobile-mechanic website on a laptop among car tools in a workshop",
+  "tags": [
+    "laptop-mockup",
+    "garage",
+    "dark",
+    "blue",
+    "service-site",
+    "tools",
+    "car",
+    "project-cover"
+  ],
+  "whatItIs": "A laptop on a dark workbench with a mug, tools and a cloth, a sports car in the background. The screen shows a dark page with a blue-highlighted headline 'Professional Mobile Mechanics', blue and green buttons and a photo card.",
+  "whatItMeans": "Practical and moody; the site looks at home in the workshop it advertises.",
+  "techniques": [
+    "Stage the mockup in the service's real environment.",
+    "Match dark UI to dark scene with a blue accent.",
+    "Use props like tools to add narrative.",
+    "Keep the screen readable with high contrast type."
+  ],
+  "bestFor": [
+    "Trades and automotive service sites",
+    "Dark UI case studies",
+    "Local business web design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Environmental staging",
+      "definition": "Placing a mockup in a scene from the client's industry."
+    },
+    {
+      "term": "Workbench prop",
+      "definition": "Tools used as storytelling elements."
+    },
+    {
+      "term": "Blue highlight",
+      "definition": "A key word coloured in the accent."
+    },
+    {
+      "term": "Dark UI",
+      "definition": "An interface with a dark background."
+    }
+  ]
+}

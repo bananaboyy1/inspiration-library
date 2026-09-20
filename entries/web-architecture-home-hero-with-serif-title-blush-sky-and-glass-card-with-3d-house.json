@@ -1,0 +1,48 @@
+{
+  "name": "web-architecture-home-hero-with-serif-title-blush-sky-and-glass-card-with-3d-house",
+  "image": "images/web-architecture-home-hero-with-serif-title-blush-sky-and-glass-card-with-3d-house.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Custom-home builder hero: giant taupe serif 'THE PERFECT HOME' over a mountain field, a white card with a rounded 3D house and a room-tour pill",
+  "tags": [
+    "architecture",
+    "real-estate",
+    "serif",
+    "taupe",
+    "blush-sky",
+    "3d-house",
+    "white-card",
+    "landscape"
+  ],
+  "whatItIs": "A blush-grey sky and dark grass landscape inside a framed page with a thin nav and a Contact link, a huge dark taupe serif 'THE PERFECT HOME®' with 'We craft custom homes' and a dark pill START, a big white rounded card with tag pills, a 3D rounded wood-clad house with hotspot dots, a 'ROOMTOUR' preview tile and play button, a taupe card about materials with a wall cross-section, avatars with '12m+ customers' and a light statement 'WE CAN COMBINE NATURE & HOME COMFORT'.",
+  "whatItMeans": "Warm and refined; taupe serif and a soft sunset sky feel like a calm luxury build.",
+  "techniques": [
+    "Set a giant serif title on a landscape photo.",
+    "Overlay a white card holding a 3D model with hotspots.",
+    "Use a taupe card with a cross-section illustration.",
+    "Keep a warm blush and taupe palette."
+  ],
+  "bestFor": [
+    "Home builders and architecture studios",
+    "Serif landscape heroes",
+    "3D model hero cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hotspot dot",
+      "definition": "A dot marking an interactive point on a 3D model."
+    },
+    {
+      "term": "Room-tour tile",
+      "definition": "A small preview with a play button."
+    },
+    {
+      "term": "Cross-section illustration",
+      "definition": "A cutaway drawing of a wall."
+    },
+    {
+      "term": "Taupe serif",
+      "definition": "A serif headline in muted brown-grey."
+    }
+  ]
+}

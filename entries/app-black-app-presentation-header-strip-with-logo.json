@@ -1,0 +1,46 @@
+{
+  "name": "app-black-app-presentation-header-strip-with-logo",
+  "image": "images/app-black-app-presentation-header-strip-with-logo.png",
+  "discipline": "app",
+  "designType": "Case study divider",
+  "title": "Black rounded strip with an outlined 'App presentation' pill and white logo",
+  "tags": [
+    "divider",
+    "black",
+    "pill-tag",
+    "logo",
+    "minimal",
+    "empty-space",
+    "case-study"
+  ],
+  "whatItIs": "A wide black rounded panel with a thin outlined pill 'APP PRESENTATION' at the top left and a white rounded 'pilo' logo at the top right, otherwise empty.",
+  "whatItMeans": "A quiet chapter opener; emptiness builds anticipation for what follows.",
+  "techniques": [
+    "Use an outlined pill as a chapter label.",
+    "Place the logo opposite the label.",
+    "Leave the field empty and black."
+  ],
+  "bestFor": [
+    "Case-study section breaks",
+    "Dark presentations",
+    "Reveal frames"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chapter pill",
+      "definition": "An outlined capsule naming a section."
+    },
+    {
+      "term": "Empty canvas",
+      "definition": "Deliberately blank space."
+    },
+    {
+      "term": "Corner logo",
+      "definition": "A logo placed in a top corner."
+    },
+    {
+      "term": "Divider panel",
+      "definition": "A slide that separates sections."
+    }
+  ]
+}

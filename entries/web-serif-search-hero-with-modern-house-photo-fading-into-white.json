@@ -1,0 +1,48 @@
+{
+  "name": "web-serif-search-hero-with-modern-house-photo-fading-into-white",
+  "image": "images/web-serif-search-hero-with-modern-house-photo-fading-into-white.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Search hero 'Find the perfect block for your app.' in black serif with a pill search bar and a modern house photo feathered into white",
+  "tags": [
+    "hero",
+    "serif",
+    "search",
+    "white",
+    "photo-fade",
+    "architecture",
+    "minimal",
+    "black-button"
+  ],
+  "whatItIs": "A white page with a centred two-line black serif headline, a grey subline, a rounded search field with a magnifier and a black Search pill and, below, a photograph of a modern timber-and-glass house under a large tree whose edges fade softly into the white.",
+  "whatItMeans": "Refined and calm; a feathered photo gives a search page an editorial feel.",
+  "techniques": [
+    "Use a serif headline on white.",
+    "Embed a black button in a pill search bar.",
+    "Feather a photo's edges into the background.",
+    "Keep the layout centred."
+  ],
+  "bestFor": [
+    "Search-centred landing pages",
+    "Editorial minimal heroes",
+    "Architecture and real-estate themes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feathered photo",
+      "definition": "An image whose edges dissolve into the page."
+    },
+    {
+      "term": "Pill search bar",
+      "definition": "A rounded search field with an embedded button."
+    },
+    {
+      "term": "Serif headline",
+      "definition": "A headline in a serif typeface."
+    },
+    {
+      "term": "Centred hero",
+      "definition": "Content aligned on the centre axis."
+    }
+  ]
+}

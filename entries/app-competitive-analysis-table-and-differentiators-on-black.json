@@ -1,0 +1,48 @@
+{
+  "name": "app-competitive-analysis-table-and-differentiators-on-black",
+  "image": "images/app-competitive-analysis-table-and-differentiators-on-black.png",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Black 'What exists. What was missing.' slide with a market comparison table and three differentiator cards",
+  "tags": [
+    "competitive-analysis",
+    "dark",
+    "lime",
+    "table",
+    "check-marks",
+    "cards",
+    "case-study",
+    "outlined-pills"
+  ],
+  "whatItIs": "A dark slide with outlined pills, large white headings 'What exists. What was missing.' and 'The gap we found: an app that feels as calm and effortless as the ride itself.', a market comparison table of ride apps with check and cross marks where the brand row is highlighted in lime, and three dark cards (Autonomous UX, Voice-first booking, Wrist-native design) with lime dots.",
+  "whatItMeans": "Clear and persuasive; a table with one lit row proves the gap.",
+  "techniques": [
+    "Highlight your row in the comparison table.",
+    "Use check and cross icons.",
+    "Set giant white statements on dark.",
+    "Present differentiators as three dark cards."
+  ],
+  "bestFor": [
+    "Competitive analysis slides",
+    "Dark case studies",
+    "Differentiation storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Comparison table",
+      "definition": "A grid comparing products across features."
+    },
+    {
+      "term": "Highlighted row",
+      "definition": "One row emphasised in a table."
+    },
+    {
+      "term": "Differentiator card",
+      "definition": "A card stating a unique feature."
+    },
+    {
+      "term": "Design conclusion",
+      "definition": "The takeaway from research."
+    }
+  ]
+}

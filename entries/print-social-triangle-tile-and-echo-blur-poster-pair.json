@@ -1,0 +1,48 @@
+{
+  "name": "print-social-triangle-tile-and-echo-blur-poster-pair",
+  "image": "images/print-social-triangle-tile-and-echo-blur-poster-pair.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Two posters: yellow-orange triangle tessellation over DON'T KNOW, and a blue echo-trail letter form",
+  "tags": [
+    "posters",
+    "yellow",
+    "orange",
+    "blue",
+    "tessellation",
+    "echo-effect",
+    "heavy-type",
+    "abstract"
+  ],
+  "whatItIs": "Two posters on black. The left cream poster has a yellow and orange triangle pattern above two columns of small text and a heavy black 'DON'T KNOW'. The right white poster shows huge blue letters echoed in shifting blue tints, with small blue text blocks.",
+  "whatItMeans": "Uncertain and playful; the pattern and the echo effect illustrate doubt and blur.",
+  "techniques": [
+    "Tile triangles in two warm colours.",
+    "Repeat letters with offset tints to create motion echo.",
+    "Use tiny two-column text as texture.",
+    "Stay in a limited palette per poster."
+  ],
+  "bestFor": [
+    "Typography poster series",
+    "Abstract concept posters",
+    "Colour-limited graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Triangle tessellation",
+      "definition": "A pattern of triangles filling a rectangle."
+    },
+    {
+      "term": "Echo effect",
+      "definition": "Repeated shapes offset and shaded to imply motion."
+    },
+    {
+      "term": "Heavy stack",
+      "definition": "A word set very bold across two lines."
+    },
+    {
+      "term": "Micro columns",
+      "definition": "Small text columns used as texture."
+    }
+  ]
+}

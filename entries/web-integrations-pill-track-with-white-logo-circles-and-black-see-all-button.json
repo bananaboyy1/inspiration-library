@@ -1,0 +1,48 @@
+{
+  "name": "web-integrations-pill-track-with-white-logo-circles-and-black-see-all-button",
+  "image": "images/web-integrations-pill-track-with-white-logo-circles-and-black-see-all-button.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'All types of integration' heading over a soft grey capsule track of overlapping white round app logos, with a black See all pill",
+  "tags": [
+    "integrations",
+    "logos",
+    "pill",
+    "white",
+    "grey",
+    "black-button",
+    "centered",
+    "minimal"
+  ],
+  "whatItIs": "A white page with a bold centred heading, a grey subline, a long pale grey capsule holding a row of overlapping white circles with app logos (Vercel, ChatGPT, Supabase, GitHub, Notion, Gmail, Maps, Neon) and a black rounded 'See all integration' button with an arrow.",
+  "whatItMeans": "Clean and quick; a compact logo track proves compatibility at a glance.",
+  "techniques": [
+    "Overlap round white logo chips.",
+    "Sit them in a recessed capsule track.",
+    "Fade the ends of the track.",
+    "Add one black pill button."
+  ],
+  "bestFor": [
+    "Integrations sections",
+    "Logo tracks",
+    "Minimal marketing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Logo chip",
+      "definition": "A round white disc holding a logo."
+    },
+    {
+      "term": "Recessed track",
+      "definition": "A pale capsule holding a row of items."
+    },
+    {
+      "term": "Overlap stack",
+      "definition": "Items slightly overlapping in a line."
+    },
+    {
+      "term": "See-all button",
+      "definition": "A button leading to the full list."
+    }
+  ]
+}

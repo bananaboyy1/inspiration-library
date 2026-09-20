@@ -1,0 +1,47 @@
+{
+  "name": "app-tablet-dashboard-on-violet-cushions",
+  "image": "images/app-tablet-dashboard-on-violet-cushions.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Analytics tablet resting on puffy violet cushions",
+  "tags": [
+    "mockup",
+    "tablet",
+    "3d-scene",
+    "violet",
+    "soft-textile",
+    "analytics",
+    "playful-luxury"
+  ],
+  "whatItIs": "A tablet with a light analytics dashboard lies on quilted violet fabric cushions, lit softly, with a purple gradient at the corner.",
+  "whatItMeans": "Soft, comfortable and surprising; the plush fabric makes a data tool feel friendly.",
+  "techniques": [
+    "Set a functional screen on an unexpected soft material to create contrast.",
+    "Match the environment to the UI's accent colour (violet) for cohesion.",
+    "Photograph at an angle with shallow depth so the screen recedes naturally.",
+    "Keep the UI light so it glows against the saturated scene."
+  ],
+  "bestFor": [
+    "Analytics and marketing tool launches",
+    "Brands wanting approachable data",
+    "Social preview images for products"
+  ],
+  "vocabulary": [
+    {
+      "term": "Environmental mockup",
+      "definition": "Placing a UI in a stylised physical scene."
+    },
+    {
+      "term": "Tonal scene",
+      "definition": "A scene composed in a single hue family."
+    },
+    {
+      "term": "Material contrast",
+      "definition": "Pairing a hard technical object with a soft texture."
+    },
+    {
+      "term": "Shallow depth",
+      "definition": "Blur in foreground and background to focus on the subject."
+    }
+  ]
+}

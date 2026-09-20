@@ -1,0 +1,48 @@
+{
+  "name": "web-blue-square-tile-gradient-from-white-to-navy",
+  "image": "images/web-blue-square-tile-gradient-from-white-to-navy.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Grid of flat blue squares shading from white at top left to deep navy at bottom right",
+  "tags": [
+    "pattern",
+    "pixel-grid",
+    "gradient",
+    "blue",
+    "squares",
+    "background",
+    "diagonal",
+    "flat"
+  ],
+  "whatItIs": "A rectangle of uniform square tiles whose blue tones shift diagonally from near white to deep navy, with slight tile-to-tile variation.",
+  "whatItMeans": "Cool and digital; the tile mosaic reads as a pixelated sky-to-ocean gradient.",
+  "techniques": [
+    "Build a gradient from equal squares.",
+    "Add small random tile variation.",
+    "Run the ramp diagonally.",
+    "Use as a background or divider."
+  ],
+  "bestFor": [
+    "Hero and section backgrounds",
+    "Blue tech and finance decks",
+    "Pixel-style textures"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tile mosaic",
+      "definition": "A pattern of equal squares."
+    },
+    {
+      "term": "Tonal variation",
+      "definition": "Slight differences in tone between tiles."
+    },
+    {
+      "term": "Diagonal ramp",
+      "definition": "A gradient running corner to corner."
+    },
+    {
+      "term": "Pixel sky",
+      "definition": "A gradient rendered with blocky pixels."
+    }
+  ]
+}

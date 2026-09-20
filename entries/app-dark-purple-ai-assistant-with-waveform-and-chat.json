@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-purple-ai-assistant-with-waveform-and-chat",
+  "image": "images/app-dark-purple-ai-assistant-with-waveform-and-chat.webp",
+  "discipline": "app",
+  "designType": "Chat interface",
+  "title": "AI assistant screens in black-violet with a pink-purple waveform and generated images",
+  "tags": [
+    "ai",
+    "chat",
+    "dark",
+    "violet",
+    "waveform",
+    "voice",
+    "cards",
+    "image-generation"
+  ],
+  "whatItIs": "Three dark phone screens on lavender: a home with a mascot robot upgrade card, action tiles and history list; a voice screen with a glowing magenta-violet waveform and prompt text; and a chat showing a request and two generated mountain images with copy and like icons.",
+  "whatItMeans": "Futuristic and friendly; the waveform makes voice tangible and the violet glow feels creative.",
+  "techniques": [
+    "Render voice as a glowing multi-colour waveform.",
+    "Use a gradient pill button as the main action.",
+    "Show generated results in bordered chat bubbles.",
+    "Add trending prompt chips."
+  ],
+  "bestFor": [
+    "Generative-AI and chatbot apps",
+    "Voice-driven interfaces",
+    "Dark-mode creative tools"
+  ],
+  "vocabulary": [
+    {
+      "term": "Waveform visual",
+      "definition": "A graphic of a sound wave."
+    },
+    {
+      "term": "Result bubble",
+      "definition": "A chat bubble containing generated media."
+    },
+    {
+      "term": "Prompt chip",
+      "definition": "A suggested prompt shown as a pill."
+    },
+    {
+      "term": "Gradient pill",
+      "definition": "A capsule button filled with a gradient."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-clean-two-column-grocery-checkout",
+  "image": "images/web-clean-two-column-grocery-checkout.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Two-Column Grocery Checkout Page",
+  "tags": [
+    "ecommerce",
+    "checkout",
+    "cards",
+    "teal",
+    "lime",
+    "order-summary",
+    "forms"
+  ],
+  "whatItIs": "A checkout screen with a teal rounded header, a left column of cards for delivery information and items grouped by store, and a right column with payment options, promo field, itemized totals, an outlined Klarna button and a lime Confirm order button.",
+  "whatItMeans": "Soft white cards on pale gray keep a dense task calm and ordered, and the lime CTA marks the final step.",
+  "techniques": [
+    "Two-column split with tasks left and summary right",
+    "Cards grouped by vendor with collapsible sections",
+    "Right-aligned totals with a bold final line",
+    "Promo field with an attached dark Apply button",
+    "Muted unselected radio options to focus the selected one"
+  ],
+  "bestFor": [
+    "Checkout and payment flows",
+    "Order summary and review screens",
+    "Multi-vendor carts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Order summary",
+      "definition": "A panel listing costs, fees and total."
+    },
+    {
+      "term": "Grouped cart",
+      "definition": "Cart items organized under their seller."
+    },
+    {
+      "term": "Primary action pill",
+      "definition": "A full-width rounded button for the final step."
+    }
+  ]
+}

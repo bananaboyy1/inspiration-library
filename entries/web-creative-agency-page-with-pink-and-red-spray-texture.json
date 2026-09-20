@@ -1,0 +1,48 @@
+{
+  "name": "web-creative-agency-page-with-pink-and-red-spray-texture",
+  "image": "images/web-creative-agency-page-with-pink-and-red-spray-texture.webp",
+  "discipline": "web",
+  "designType": "Agency site",
+  "title": "Agency landing with pink and red spray-paint clouds, inline image chips and stacked service cards",
+  "tags": [
+    "agency",
+    "spray-texture",
+    "pink",
+    "red",
+    "inline-images",
+    "service-cards",
+    "light-weight-type",
+    "stacked-cards"
+  ],
+  "whatItIs": "A white page with a tiny nav and a large headline 'Creative agency that makes brands stand out' with tiny tilted image chips inside the text, all over fuzzy pink and red spray blotches. Below are a client carousel with rounded cards, and three overlapping service cards in pale blue, white and red, each with a project image poking out.",
+  "whatItMeans": "Bold and warm; spray texture makes a polished page feel handmade.",
+  "techniques": [
+    "Paint spray-grain blotches behind the hero text.",
+    "Embed small tilted image chips in the headline.",
+    "Overlap service cards in different colours like stacked papers.",
+    "Number each service in large light type."
+  ],
+  "bestFor": [
+    "Creative and branding agencies",
+    "Playful service pages",
+    "Portfolio-led landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spray blot",
+      "definition": "A soft speckled paint shape."
+    },
+    {
+      "term": "Inline image chip",
+      "definition": "A small picture inside a headline."
+    },
+    {
+      "term": "Stacked service cards",
+      "definition": "Overlapping cards each describing a service."
+    },
+    {
+      "term": "Client carousel",
+      "definition": "A horizontal row of client project cards."
+    }
+  ]
+}

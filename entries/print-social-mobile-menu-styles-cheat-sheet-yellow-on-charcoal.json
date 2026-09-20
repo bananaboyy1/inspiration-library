@@ -1,0 +1,48 @@
+{
+  "name": "print-social-mobile-menu-styles-cheat-sheet-yellow-on-charcoal",
+  "image": "images/print-social-mobile-menu-styles-cheat-sheet-yellow-on-charcoal.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Mobile menu pattern cheat sheet: eight charcoal phone diagrams with mustard highlights and a serif title",
+  "tags": [
+    "ui-education",
+    "cheat-sheet",
+    "yellow",
+    "charcoal",
+    "grid-paper",
+    "serif-title",
+    "diagram",
+    "carousel"
+  ],
+  "whatItIs": "A 4:5 post on cream grid paper inside a rounded keyline with a big serif 'Mobile Menu Styles In UI Design' (second line grey), two rows of four simple charcoal phones with mustard shapes labelled Grid, Side Menu, Tab Bar, FAB, Sheet, Three Dots, Rectangular and Rudder, plus an author avatar and a save prompt.",
+  "whatItMeans": "Clear and collectable; simplified diagrams make patterns instantly comparable.",
+  "techniques": [
+    "Reduce each pattern to a flat two-colour phone.",
+    "Label above each diagram in a rounded sans.",
+    "Use a big serif title on grid paper.",
+    "Add author and save cues at the base."
+  ],
+  "bestFor": [
+    "UI and design education posts",
+    "Cheat sheets and taxonomies",
+    "Saveable reference carousels"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pattern diagram",
+      "definition": "A simplified drawing of a UI pattern."
+    },
+    {
+      "term": "Two-colour system",
+      "definition": "Diagrams limited to two colours."
+    },
+    {
+      "term": "Grid-paper ground",
+      "definition": "A ruled square background."
+    },
+    {
+      "term": "Save cue",
+      "definition": "A prompt to bookmark the post."
+    }
+  ]
+}

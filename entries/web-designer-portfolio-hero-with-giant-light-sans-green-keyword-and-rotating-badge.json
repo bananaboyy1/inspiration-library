@@ -1,0 +1,48 @@
+{
+  "name": "web-designer-portfolio-hero-with-giant-light-sans-green-keyword-and-rotating-badge",
+  "image": "images/web-designer-portfolio-hero-with-giant-light-sans-green-keyword-and-rotating-badge.webp",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Portfolio hero with a giant light headline, green 'Impact Businesses', circular 'open for projects' badge and a green-framed dark portrait",
+  "tags": [
+    "portfolio",
+    "light-sans",
+    "green",
+    "circular-text",
+    "badge",
+    "portrait",
+    "toggle",
+    "minimal"
+  ],
+  "whatItIs": "A pale grey page with a theme toggle and a giant faded 'PORTRAY' at the top, a white frame containing a nav with a green 'talk' pill, a huge light black headline 'Designing Products that Impact Businesses.' with the last words in green and a circular text badge with an arrow, a paragraph with sparkle glyphs, the name 'Ariana Gold.' and a dark moody portrait inside a thick green frame.",
+  "whatItMeans": "Confident and clean; a green keyword and frame give a minimal portfolio a fresh signature.",
+  "techniques": [
+    "Colour the key words of a light headline green.",
+    "Add a circular rotating text badge.",
+    "Frame a dark portrait with a thick coloured border.",
+    "Use a light-dark toggle."
+  ],
+  "bestFor": [
+    "Designer and freelancer portfolios",
+    "Light minimal heroes",
+    "Green accent sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Circular badge",
+      "definition": "Text set on a ring around an arrow."
+    },
+    {
+      "term": "Colour frame",
+      "definition": "A thick coloured border around a photo."
+    },
+    {
+      "term": "Theme toggle",
+      "definition": "A switch between light and dark mode."
+    },
+    {
+      "term": "Sparkle glyph",
+      "definition": "A star-like mark within text."
+    }
+  ]
+}

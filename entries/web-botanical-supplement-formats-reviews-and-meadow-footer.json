@@ -1,0 +1,48 @@
+{
+  "name": "web-botanical-supplement-formats-reviews-and-meadow-footer",
+  "image": "images/web-botanical-supplement-formats-reviews-and-meadow-footer.png",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Supplement page sections: four format cards, giant caps testimonial heading and a meadow footer",
+  "tags": [
+    "supplements",
+    "sage-green",
+    "format-cards",
+    "testimonials",
+    "uppercase-headline",
+    "meadow-footer",
+    "3d-render",
+    "rounded"
+  ],
+  "whatItIs": "A white rounded page on grey with sections for product formats (capsules, gummies, liquid drops, lozenges as tall tiles alternating grey and pale lime with 3D renders), a giant uppercase heading with green highlighted words, a review row (rating card, video testimonial, quote with stats), and a footer over a misty meadow with an email signup.",
+  "whatItMeans": "Clean, fresh and natural; lime tiles and uppercase light type feel modern-wellness.",
+  "techniques": [
+    "Alternate grey and pale lime tall tiles for choices.",
+    "Highlight alternate words of a giant uppercase heading in green.",
+    "Mix rating, video and quote cards in one row.",
+    "End with a photo footer and single email field."
+  ],
+  "bestFor": [
+    "Supplement and wellness landing pages",
+    "Product-format pickers",
+    "Testimonial sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Format tile",
+      "definition": "A tall card showing one product form."
+    },
+    {
+      "term": "Word highlight",
+      "definition": "Alternating words coloured in a heading."
+    },
+    {
+      "term": "Review mosaic",
+      "definition": "Rating, video and quote cards together."
+    },
+    {
+      "term": "Image footer",
+      "definition": "A footer built on a photograph."
+    }
+  ]
+}

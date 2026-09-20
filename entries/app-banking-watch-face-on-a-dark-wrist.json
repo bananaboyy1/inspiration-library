@@ -1,0 +1,48 @@
+{
+  "name": "app-banking-watch-face-on-a-dark-wrist",
+  "image": "images/app-banking-watch-face-on-a-dark-wrist.jpg",
+  "discipline": "app",
+  "designType": "Wearable UI",
+  "title": "Banking smartwatch balance screen with orange buttons on a silhouetted wrist",
+  "tags": [
+    "smartwatch",
+    "wearable",
+    "banking",
+    "orange",
+    "silhouette",
+    "grey-backdrop",
+    "glass-card",
+    "minimal"
+  ],
+  "whatItIs": "A pale grey background crossed by a dark, backlit forearm with a black smartwatch and green band. The watch shows an account card with balance and card digits on a pearly glass card with two rounded orange Send and Receive buttons.",
+  "whatItMeans": "Calm and dramatic; the near-black arm makes the small bright screen glow.",
+  "techniques": [
+    "Silhouette the arm against a light backdrop so the screen is the only lit area.",
+    "Limit the watch UI to one card and two orange buttons.",
+    "Use a pearly gradient card as a payment visual.",
+    "Keep the palette to grey, black and orange."
+  ],
+  "bestFor": [
+    "Wearable and watch app showcases",
+    "Payment and banking micro-interfaces",
+    "High-contrast product photography"
+  ],
+  "vocabulary": [
+    {
+      "term": "Silhouette lighting",
+      "definition": "Lighting an object so it appears as a dark shape."
+    },
+    {
+      "term": "Glance UI",
+      "definition": "An interface for very quick reading on a small screen."
+    },
+    {
+      "term": "Pearl card",
+      "definition": "A card with an iridescent white gradient."
+    },
+    {
+      "term": "Dual action",
+      "definition": "Two side-by-side primary buttons."
+    }
+  ]
+}

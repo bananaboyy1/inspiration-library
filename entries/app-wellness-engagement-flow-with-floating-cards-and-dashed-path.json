@@ -1,0 +1,48 @@
+{
+  "name": "app-wellness-engagement-flow-with-floating-cards-and-dashed-path",
+  "image": "images/app-wellness-engagement-flow-with-floating-cards-and-dashed-path.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Wellness hub engagement story with floating reminder cards on a lilac field and dashed path",
+  "tags": [
+    "wellness",
+    "case-study",
+    "lilac",
+    "indigo",
+    "floating-cards",
+    "dashed-path",
+    "reminders",
+    "phones-in-hand"
+  ],
+  "whatItIs": "A long pale lilac board with a 'Solving UX' pill, a title, challenge and solution notes tilted at angles, two hand-held indigo phones in rounded squares, an icon nav pill, blurred reminder cards (medication, walk the dog, meal), a tote bag with a quote and a mood card, all linked by a dashed winding path.",
+  "whatItMeans": "Soft and human; scattered blurry cards convey a day of gentle prompts.",
+  "techniques": [
+    "Scatter UI cards and photos along a dashed path.",
+    "Blur cards at the edges to imply depth.",
+    "Tilt notes slightly like pinned papers.",
+    "Use one indigo with a yellow accent."
+  ],
+  "bestFor": [
+    "Health and habit-app case studies",
+    "Engagement and retention stories",
+    "Soft-pastel UX boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating reminder",
+      "definition": "A small card representing a notification."
+    },
+    {
+      "term": "Path narrative",
+      "definition": "Items connected by a dashed line telling a story."
+    },
+    {
+      "term": "Depth blur",
+      "definition": "Blurring outer elements to imply distance."
+    },
+    {
+      "term": "Tilted note",
+      "definition": "A note card rotated for casualness."
+    }
+  ]
+}

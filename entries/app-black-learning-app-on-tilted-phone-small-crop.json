@@ -1,0 +1,48 @@
+{
+  "name": "app-black-learning-app-on-tilted-phone-small-crop",
+  "image": "images/app-black-learning-app-on-tilted-phone-small-crop.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Learning app on a tilted phone against black, small crop, with a black course card and aqua highlights",
+  "tags": [
+    "education",
+    "phone",
+    "black",
+    "aqua",
+    "course-card",
+    "progress",
+    "project-thumbnail",
+    "tilted"
+  ],
+  "whatItIs": "A smaller crop of a tilted silver phone on black showing a white home with a black 'Industrial Design UX' card with 75% and an aqua progress bar, a Quick Send avatar row and a Homework list with percentages and a floating aqua nav.",
+  "whatItMeans": "Crisp and modern; a black card and aqua accent give a learning app punch.",
+  "techniques": [
+    "Tilt the phone against pure black.",
+    "Use a black hero card with an aqua bar.",
+    "Show avatars in a Quick Send row.",
+    "Float an aqua pill nav."
+  ],
+  "bestFor": [
+    "Education app project covers",
+    "Black stage mockups",
+    "Aqua-accent apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Course card",
+      "definition": "A dark card summarising a course with progress."
+    },
+    {
+      "term": "Quick Send row",
+      "definition": "A row of avatars for fast actions."
+    },
+    {
+      "term": "Floating nav",
+      "definition": "A detached pill navigation."
+    },
+    {
+      "term": "Black stage",
+      "definition": "A pure black background."
+    }
+  ]
+}

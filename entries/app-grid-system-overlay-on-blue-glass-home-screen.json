@@ -1,0 +1,48 @@
+{
+  "name": "app-grid-system-overlay-on-blue-glass-home-screen",
+  "image": "images/app-grid-system-overlay-on-blue-glass-home-screen.jpg",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "title": "Four-column grid overlay on a slate-blue gradient wallet home with italic serif headline and measurements",
+  "tags": [
+    "grid-system",
+    "fintech",
+    "slate-blue",
+    "italic-serif",
+    "overlay",
+    "documentation",
+    "glass",
+    "phone"
+  ],
+  "whatItIs": "An off-white page with a 'Grid System' pill, a headline mixing light sans and bold italic serif 'With Money.', a phone showing a wallet home with balance, quick actions, transactions and a floating tab bar under translucent grey column bars with italic measurements (430px, 16x, 100x, 12x).",
+  "whatItMeans": "Precise and elegant; showing the grid on a real screen makes spacing tangible.",
+  "techniques": [
+    "Overlay grid columns on a screen.",
+    "Label margins and columns in italic serif.",
+    "Fade the UI into slate blue.",
+    "Mix light sans with bold italic serif."
+  ],
+  "bestFor": [
+    "Mobile grid documentation",
+    "Fintech design systems",
+    "Elegant spec presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column overlay",
+      "definition": "Translucent bars showing layout columns."
+    },
+    {
+      "term": "Italic measurement",
+      "definition": "Spacing values written in italic serif."
+    },
+    {
+      "term": "Quick actions",
+      "definition": "A row of icon shortcuts."
+    },
+    {
+      "term": "Floating tab bar",
+      "definition": "A detached bottom navigation."
+    }
+  ]
+}

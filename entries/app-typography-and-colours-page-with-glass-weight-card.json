@@ -1,0 +1,48 @@
+{
+  "name": "app-typography-and-colours-page-with-glass-weight-card",
+  "image": "images/app-typography-and-colours-page-with-glass-weight-card.jpg",
+  "discipline": "app",
+  "designType": "Typography and colour guide",
+  "title": "Roobert specimen with a frosted weight card and blurred-glow colour swatches",
+  "tags": [
+    "typography",
+    "colour-palette",
+    "grey",
+    "glass-card",
+    "glow-swatches",
+    "green",
+    "red",
+    "fintech"
+  ],
+  "whatItIs": "A light grey page '03 Typography & Colors' with a giant 'Roobert' partially covered by a frosted weight card, heading and text alphabets, a size table (48/24/16px) and four swatches (dark grey, white, green, red) each with a soft glow above a solid bar.",
+  "whatItMeans": "Elegant and precise; frosted overlays and glows soften guidelines.",
+  "techniques": [
+    "Overlap a glass card on a giant specimen word.",
+    "Show swatches as glow over a solid bar.",
+    "List sizes in a small table card.",
+    "Keep the page pale grey."
+  ],
+  "bestFor": [
+    "Design system typography and colour pages",
+    "Fintech guidelines",
+    "Glass-style documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glow swatch",
+      "definition": "A colour sample with a soft bloom."
+    },
+    {
+      "term": "Size table",
+      "definition": "A list of type sizes for each role."
+    },
+    {
+      "term": "Specimen overlap",
+      "definition": "A UI card overlapping a type sample."
+    },
+    {
+      "term": "Alphabet lines",
+      "definition": "Rows showing all letters and numerals."
+    }
+  ]
+}

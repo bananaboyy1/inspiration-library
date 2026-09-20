@@ -1,0 +1,46 @@
+{
+  "name": "branding-color-palette-with-hex-rgb-cmyk-quadrants",
+  "image": "images/branding-color-palette-with-hex-rgb-cmyk-quadrants.png",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Four-quadrant palette: white, botanical lime, soft grey, black",
+  "tags": [
+    "colour-palette",
+    "brand-guidelines",
+    "lime",
+    "monochrome",
+    "specs",
+    "quadrants"
+  ],
+  "whatItIs": "A 2x2 grid of full-bleed colour blocks. Each names a role (core background, primary accent, supporting elements, action and emphasis) with big light type and HEX, RGB, CMYK values.",
+  "whatItMeans": "Confident and systematic; one pale lime is the only colour, so it carries the whole brand.",
+  "techniques": [
+    "Give every colour a job title, not just a name.",
+    "Present palettes as huge blocks so proportions are felt.",
+    "List colour values in a clean three-row spec.",
+    "Keep three neutrals and one accent to make the accent unmistakable."
+  ],
+  "bestFor": [
+    "Brand guidelines",
+    "Design system documentation",
+    "Neutral-plus-accent identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour role",
+      "definition": "The function assigned to a colour (background, accent, action)."
+    },
+    {
+      "term": "Accent colour",
+      "definition": "The one distinctive hue in a mostly neutral palette."
+    },
+    {
+      "term": "Colour spec",
+      "definition": "HEX, RGB and CMYK values for a colour."
+    },
+    {
+      "term": "Full-bleed block",
+      "definition": "A colour area extending to the edge."
+    }
+  ]
+}

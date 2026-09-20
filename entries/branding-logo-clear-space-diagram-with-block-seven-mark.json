@@ -1,0 +1,48 @@
+{
+  "name": "branding-logo-clear-space-diagram-with-block-seven-mark",
+  "image": "images/branding-logo-clear-space-diagram-with-block-seven-mark.jpg",
+  "discipline": "branding",
+  "designType": "Logo guidelines",
+  "title": "Logo clear-space grid with X, X/2 and X/4 measurements around a block mark and blocky wordmark",
+  "tags": [
+    "logo",
+    "guidelines",
+    "clear-space",
+    "grid",
+    "black",
+    "grey",
+    "stencil-type",
+    "construction"
+  ],
+  "whatItIs": "A light grey page with dashed grid lines, a black quarter-circle-and-block symbol with a dot and a custom stencil-like wordmark, surrounded by shaded margins labelled X/2, X/4 and a dimension arrow marked X.",
+  "whatItMeans": "Precise and systematic; showing the rules behind the logo signals maturity.",
+  "techniques": [
+    "Show clear space as shaded margins with fractional labels.",
+    "Use a dashed grid over pale grey.",
+    "Design a custom wordmark from stencil-cut rounded blocks.",
+    "Keep the diagram in black and grey."
+  ],
+  "bestFor": [
+    "Brand guidelines",
+    "Logo usage rules",
+    "Tech brands with modular marks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Clear space",
+      "definition": "Minimum empty area around a logo."
+    },
+    {
+      "term": "X unit",
+      "definition": "A measure based on part of the logo."
+    },
+    {
+      "term": "Stencil wordmark",
+      "definition": "Lettering with breaks like a stencil."
+    },
+    {
+      "term": "Guideline diagram",
+      "definition": "A drawing explaining logo rules."
+    }
+  ]
+}

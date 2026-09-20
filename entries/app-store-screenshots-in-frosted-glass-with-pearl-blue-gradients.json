@@ -1,0 +1,48 @@
+{
+  "name": "app-store-screenshots-in-frosted-glass-with-pearl-blue-gradients",
+  "image": "images/app-store-screenshots-in-frosted-glass-with-pearl-blue-gradients.jpg",
+  "discipline": "app",
+  "designType": "App store presentation",
+  "title": "Six frosted-glass store screenshots: #1 laurel, home, send money, earning, utility payments and controls",
+  "tags": [
+    "app-store",
+    "screenshots",
+    "fintech",
+    "pearl-blue",
+    "glass",
+    "serif-numerals",
+    "hand",
+    "laurel"
+  ],
+  "whatItIs": "A row of tall rounded screenshot cards on white with pearl blue gradients, each with a light two-line headline and small subline over a phone or UI fragment: a #1 laurel and a hand with a card, a home screen, a send-money keypad, a hand-held earning screen with a donut chart card, a bill reminder toggle card and a partial controls view.",
+  "whatItMeans": "Airy and reassuring; frosted cards and hands make each feature feel tangible.",
+  "techniques": [
+    "Give each screenshot a frosted card and short headline.",
+    "Mix full phones with cropped UI fragments.",
+    "Include hands for scale.",
+    "Keep one pearl-blue gradient."
+  ],
+  "bestFor": [
+    "Fintech store listings",
+    "Glass screenshot sets",
+    "Feature-per-card presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screenshot card",
+      "definition": "A rounded card holding one store image."
+    },
+    {
+      "term": "UI fragment",
+      "definition": "A cropped piece of interface as illustration."
+    },
+    {
+      "term": "Laurel badge",
+      "definition": "A wreath around a rank or rating."
+    },
+    {
+      "term": "Toggle reminder",
+      "definition": "A settings switch shown as a feature."
+    }
+  ]
+}

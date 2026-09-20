@@ -1,0 +1,48 @@
+{
+  "name": "web-testimonial-mosaic-of-black-blue-and-white-cards-with-avatars",
+  "image": "images/web-testimonial-mosaic-of-black-blue-and-white-cards-with-avatars.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'Trusted by Startups' testimonial mosaic in black, royal blue and white cards with square-cropped avatars and CEO titles",
+  "tags": [
+    "testimonials",
+    "mosaic",
+    "black",
+    "blue",
+    "white",
+    "avatars",
+    "cards",
+    "grid-lines"
+  ],
+  "whatItIs": "A white page with a bold centred heading and grey subline above a three-column mosaic of quote cards in different heights: black, bright blue and white with faint grid lines, each with a short quote, a bold name, a role, and a rounded-square avatar.",
+  "whatItMeans": "Confident and varied; mixed colours and heights make quotes feel like a wall of voices.",
+  "techniques": [
+    "Interlock cards of different heights.",
+    "Alternate black, blue and white fills.",
+    "Use rounded-square avatars.",
+    "Add faint grid lines to white cards."
+  ],
+  "bestFor": [
+    "Testimonial walls",
+    "B2B social proof",
+    "Mosaic card layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Quote mosaic",
+      "definition": "Testimonial cards of different sizes interlocked."
+    },
+    {
+      "term": "Rounded-square avatar",
+      "definition": "A profile photo with softly rounded corners."
+    },
+    {
+      "term": "Colour alternation",
+      "definition": "Cards switching between brand colours."
+    },
+    {
+      "term": "Grid-line texture",
+      "definition": "Faint lines on a card surface."
+    }
+  ]
+}

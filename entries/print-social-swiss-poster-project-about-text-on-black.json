@@ -1,0 +1,48 @@
+{
+  "name": "print-social-swiss-poster-project-about-text-on-black",
+  "image": "images/print-social-swiss-poster-project-about-text-on-black.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "About-the-project text slide on black with orange heading and three-dot key",
+  "tags": [
+    "case-study",
+    "black",
+    "orange",
+    "white-text",
+    "minimal",
+    "poster-project",
+    "swiss-style",
+    "dots"
+  ],
+  "whatItIs": "A near-black slide with cropped poster edges at the top, an orange uppercase 'ABOUT THE PROJECT' heading over a white rule, two staggered columns of white body text about Swiss style and a 50-poster set, and three small circles (striped, white, orange) at the lower left.",
+  "whatItMeans": "Quiet and confident; strictly limited colours echo the constraints described in the text.",
+  "techniques": [
+    "Stagger two text columns at different heights.",
+    "Use one orange for the heading and a swatch dot.",
+    "Show a tiny palette key of circles.",
+    "Crop poster edges into the frame for context."
+  ],
+  "bestFor": [
+    "Project description slides",
+    "Constraint-driven design case studies",
+    "Dark minimal presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Staggered columns",
+      "definition": "Text blocks offset vertically."
+    },
+    {
+      "term": "Palette dots",
+      "definition": "Small circles showing the colours used."
+    },
+    {
+      "term": "Heading rule",
+      "definition": "A thin line under a heading."
+    },
+    {
+      "term": "Constraint statement",
+      "definition": "A description of self-imposed limits."
+    }
+  ]
+}

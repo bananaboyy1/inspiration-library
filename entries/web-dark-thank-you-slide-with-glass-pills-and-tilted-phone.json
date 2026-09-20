@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-thank-you-slide-with-glass-pills-and-tilted-phone",
+  "image": "images/web-dark-thank-you-slide-with-glass-pills-and-tilted-phone.jpg",
+  "discipline": "web",
+  "designType": "Closing banner",
+  "title": "Dark sign-off with giant white 'Thanks for staying till the end.', glass pills, follow button and a phone corner",
+  "tags": [
+    "closing",
+    "dark",
+    "white-type",
+    "glass-pills",
+    "follow-button",
+    "phone",
+    "grid",
+    "emoji"
+  ],
+  "whatItIs": "A near-black slide with a faint grid, glass pills for the studio name and email, a giant white heavy sans headline with a cocktail emoji, a blue Follow Us pill, a smaller 'Don't miss a new project' with a blue thumbs-up and a tilted phone corner with a weather widget.",
+  "whatItMeans": "Friendly and social; platform-like buttons and an emoji lighten the sign-off.",
+  "techniques": [
+    "Use giant white headline with an inline emoji.",
+    "Add blue action pills.",
+    "Use glass pills for contact.",
+    "Show a phone corner at the bottom."
+  ],
+  "bestFor": [
+    "Case-study closing slides",
+    "UI portfolio endings",
+    "Dark social sign-offs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Inline emoji",
+      "definition": "An emoji placed within a headline."
+    },
+    {
+      "term": "Glass contact pill",
+      "definition": "A translucent capsule with an icon and text."
+    },
+    {
+      "term": "Action pill",
+      "definition": "A coloured capsule like Follow Us."
+    },
+    {
+      "term": "Phone corner",
+      "definition": "A cropped device in a corner."
+    }
+  ]
+}

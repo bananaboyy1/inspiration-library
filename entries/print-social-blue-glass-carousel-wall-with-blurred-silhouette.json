@@ -1,0 +1,48 @@
+{
+  "name": "print-social-blue-glass-carousel-wall-with-blurred-silhouette",
+  "image": "images/print-social-blue-glass-carousel-wall-with-blurred-silhouette.webp",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "title": "Wall of misty-blue business carousel slides with white text cards and a blurred silhouette",
+  "tags": [
+    "carousel",
+    "blue",
+    "mist",
+    "white-cards",
+    "typography",
+    "perspective",
+    "freelancers",
+    "grid"
+  ],
+  "whatItIs": "A perspective grid of soft blue slides with headlines like 'Boost Conversion Rates', numbered idea labels, white rounded text cards and one photo slide with a man in a jacket and bold white caps, with a large blurred dark silhouette on the right.",
+  "whatItMeans": "Airy and informative; white cards on foggy blue make reading easy.",
+  "techniques": [
+    "Use a mist-blue gradient background on every slide.",
+    "Put the message in white rounded cards.",
+    "Number ideas as small tags.",
+    "Present slides in perspective with a blurred foreground."
+  ],
+  "bestFor": [
+    "Freelancer and design-education carousels",
+    "Tip series",
+    "Presentation of many slides at once"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mist gradient",
+      "definition": "A foggy pale blue background."
+    },
+    {
+      "term": "Text card",
+      "definition": "A white block holding body copy."
+    },
+    {
+      "term": "Idea tag",
+      "definition": "A small label numbering a slide."
+    },
+    {
+      "term": "Foreground blur",
+      "definition": "An out-of-focus object near the camera."
+    }
+  ]
+}

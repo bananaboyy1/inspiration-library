@@ -1,0 +1,48 @@
+{
+  "name": "web-grid-system-spec-with-blush-columns-and-pill-labels",
+  "image": "images/web-grid-system-spec-with-blush-columns-and-pill-labels.jpg",
+  "discipline": "web",
+  "designType": "Design system documentation",
+  "title": "Grid system page with soft blush columns and floating pill measurements",
+  "tags": [
+    "grid-system",
+    "documentation",
+    "light-grey",
+    "blush",
+    "pill-labels",
+    "columns",
+    "desktop-mobile",
+    "minimal"
+  ],
+  "whatItIs": "A light grey page titled Grid System with two rounded frames, desktop and mobile, each holding pale vertical columns tinted with a soft pink glow. White pill labels float over them naming gutters, margins and column counts, with black pills giving the widths (1440px and 375px).",
+  "whatItMeans": "Calm and easy to understand; the soft glow turns dry specs into a gentle visual.",
+  "techniques": [
+    "Show columns as rounded translucent bars on a pale frame.",
+    "Label measurements with white pills and small double arrows.",
+    "Use black pills for the total widths.",
+    "Add a faint coloured glow behind the columns."
+  ],
+  "bestFor": [
+    "Design-system grid documentation",
+    "Responsive spec pages",
+    "Minimal light-mode handoff docs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Column bar",
+      "definition": "A vertical strip representing one grid column."
+    },
+    {
+      "term": "Measurement pill",
+      "definition": "A capsule labelling a size such as a gutter."
+    },
+    {
+      "term": "Width tag",
+      "definition": "A dark pill stating the frame width."
+    },
+    {
+      "term": "Soft glow",
+      "definition": "A faint coloured bloom behind elements."
+    }
+  ]
+}

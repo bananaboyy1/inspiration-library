@@ -1,0 +1,48 @@
+{
+  "name": "app-authentication-flow-in-blue-grey-gradient",
+  "image": "images/app-authentication-flow-in-blue-grey-gradient.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Login, create-account, OTP and home screens with pale-to-slate gradient bottoms",
+  "tags": [
+    "authentication",
+    "fintech",
+    "gradient",
+    "slate-blue",
+    "otp",
+    "keypad",
+    "white",
+    "italic-serif"
+  ],
+  "whatItIs": "An off-white page with a light and italic serif headline and four tilted-perspective phones arranged like a cross: welcome back, create account, OTP verification with a keypad, and home with balance. Each screen fades from near-white to slate blue at the bottom.",
+  "whatItMeans": "Secure and calm; the fade toward blue suggests depth and trust.",
+  "techniques": [
+    "Fade screens from white to slate at the bottom.",
+    "Arrange four screens in a cross around a centre.",
+    "Show OTP boxes and a translucent keypad.",
+    "Use small pill tabs to name each screen."
+  ],
+  "bestFor": [
+    "Authentication flow case studies",
+    "Fintech UI presentations",
+    "Gradient-bottom mobile screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bottom fade",
+      "definition": "A gradient darkening toward the screen bottom."
+    },
+    {
+      "term": "OTP field",
+      "definition": "Boxes for entering a one-time code."
+    },
+    {
+      "term": "Cross layout",
+      "definition": "Four items placed around a centre."
+    },
+    {
+      "term": "Flow tabs",
+      "definition": "Small pills naming each step."
+    }
+  ]
+}

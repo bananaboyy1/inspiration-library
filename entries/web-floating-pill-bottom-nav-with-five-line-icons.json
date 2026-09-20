@@ -1,0 +1,48 @@
+{
+  "name": "web-floating-pill-bottom-nav-with-five-line-icons",
+  "image": "images/web-floating-pill-bottom-nav-with-five-line-icons.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White pill dock at the bottom with five black line icons (home, search, bell, user, settings) and a soft shadow",
+  "tags": [
+    "component",
+    "navigation",
+    "bottom-nav",
+    "pill",
+    "icons",
+    "white",
+    "shadow",
+    "floating"
+  ],
+  "whatItIs": "A white page with a floating rounded pill near the bottom holding five black outline icons evenly spaced, lifted with a soft shadow.",
+  "whatItMeans": "Light and reachable; a floating dock keeps navigation close to the thumb.",
+  "techniques": [
+    "Float a nav pill above the bottom edge.",
+    "Use thin outline icons.",
+    "Add a soft shadow for lift.",
+    "Space icons evenly."
+  ],
+  "bestFor": [
+    "Mobile bottom navigation",
+    "Floating dock components",
+    "Minimal app UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating dock",
+      "definition": "A pill of icons hovering above the page."
+    },
+    {
+      "term": "Outline icon",
+      "definition": "An icon drawn with a thin line."
+    },
+    {
+      "term": "Soft shadow",
+      "definition": "A diffuse shadow giving lift."
+    },
+    {
+      "term": "Bottom nav",
+      "definition": "Navigation placed at the bottom of the screen."
+    }
+  ]
+}

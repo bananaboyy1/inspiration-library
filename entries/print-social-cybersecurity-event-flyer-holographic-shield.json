@@ -1,0 +1,48 @@
+{
+  "name": "print-social-cybersecurity-event-flyer-holographic-shield",
+  "image": "images/print-social-cybersecurity-event-flyer-holographic-shield.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Cybersecurity event flyer with a holographic shield and pill details",
+  "tags": [
+    "event",
+    "flyer",
+    "tech",
+    "dark",
+    "holographic",
+    "3d-shield",
+    "pills",
+    "google-colours"
+  ],
+  "whatItIs": "A dark navy portrait flyer with the title 'Building Digital Trust' (last word in blue), a subtitle, two pill buttons (Venue, Date & Time) in blue and green, date and location text beneath, and a glossy iridescent 3D shield with a padlock glowing in the corner. Small Google-coloured chevrons float at the edge.",
+  "whatItMeans": "Techy, secure and community-friendly; the glossy shield makes an abstract topic tangible.",
+  "techniques": [
+    "Illustrate an abstract idea with one glossy 3D object.",
+    "Turn key details (venue, date) into colourful pills that resemble UI buttons.",
+    "Use one word of the title in a brighter colour for emphasis.",
+    "Keep the dark background subtle with small brand-coloured shapes."
+  ],
+  "bestFor": [
+    "Tech meetups and webinars",
+    "Developer community events",
+    "Announcement posters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Iridescent 3D",
+      "definition": "A glossy render with rainbow-like reflections."
+    },
+    {
+      "term": "Detail pill",
+      "definition": "A rounded label showing event info."
+    },
+    {
+      "term": "Hero object",
+      "definition": "One large object representing the theme."
+    },
+    {
+      "term": "Dark tech flyer",
+      "definition": "A dark-background event design."
+    }
+  ]
+}

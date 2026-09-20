@@ -1,0 +1,48 @@
+{
+  "name": "web-design-system-hero-with-gradient-outlined-cta-and-inbox-app-preview",
+  "image": "images/web-design-system-hero-with-gradient-outlined-cta-and-inbox-app-preview.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Hero 'Ruixen: Design Systems for the Visionary Web' with a black and a violet-outlined button, an email app preview and a logo row",
+  "tags": [
+    "hero",
+    "dark-navy-text",
+    "white",
+    "gradient-border",
+    "app-preview",
+    "logos",
+    "saas",
+    "email-ui"
+  ],
+  "whatItIs": "A white page with a bold navy centred headline, a grey subline, a black Start Building button and a white Request a demo button with a violet-to-teal gradient outline, a large inbox UI preview (folders, mail list with tags, message pane) fading into white at the bottom, and a row of company logos beneath.",
+  "whatItMeans": "Clean and credible; a gradient outline makes the secondary CTA feel special without weight.",
+  "techniques": [
+    "Outline a secondary button in a gradient.",
+    "Fade a product preview into the page.",
+    "Follow with a logo row.",
+    "Use navy for headline text."
+  ],
+  "bestFor": [
+    "Design system and SaaS heroes",
+    "Light product-preview pages",
+    "Gradient-outline buttons"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gradient outline",
+      "definition": "A button border made from a colour gradient."
+    },
+    {
+      "term": "Fading preview",
+      "definition": "A screenshot dissolving into the background."
+    },
+    {
+      "term": "Logo row",
+      "definition": "A strip of customer logos."
+    },
+    {
+      "term": "Primary and secondary CTA",
+      "definition": "A filled and an outlined action."
+    }
+  ]
+}

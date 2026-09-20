@@ -1,0 +1,48 @@
+{
+  "name": "app-lime-portfolio-performance-with-glow-curve",
+  "image": "images/app-lime-portfolio-performance-with-glow-curve.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Investment app with lime-yellow glow curve and quiet grey UI",
+  "tags": [
+    "fintech",
+    "investing",
+    "lime",
+    "grey",
+    "line-chart",
+    "glow",
+    "phone-mockup",
+    "real-estate"
+  ],
+  "whatItIs": "A light-grey board with a phone showing greeting, metrics for invested amount and returns, small progress bars and a performance chart with a glowing lime-to-yellow curve and a dashed vertical marker. Beside it float a chart card and an upcoming payouts list.",
+  "whatItMeans": "Fresh, optimistic and precise; the glowing line makes growth the only colourful thing.",
+  "techniques": [
+    "Give the main chart line a soft blurred halo in a warm gradient.",
+    "Use light numerals with a small greyed currency sign for elegant figures.",
+    "Break a tall UI into floating cards outside the phone to explain components.",
+    "Use a dark circular nav item as the only heavy element."
+  ],
+  "bestFor": [
+    "Investment and wealth apps",
+    "Data-driven mobile UI",
+    "Case study boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glow line",
+      "definition": "A chart line with a soft luminous outline."
+    },
+    {
+      "term": "Exploded UI",
+      "definition": "Components floated beside a device to explain them."
+    },
+    {
+      "term": "Marker line",
+      "definition": "A dashed vertical rule showing a selected point."
+    },
+    {
+      "term": "Micro progress bar",
+      "definition": "A thin bar showing status next to a metric."
+    }
+  ]
+}

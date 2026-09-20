@@ -1,0 +1,48 @@
+{
+  "name": "web-book-a-demo-modal-on-laptop-over-perforated-metal",
+  "image": "images/web-book-a-demo-modal-on-laptop-over-perforated-metal.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark laptop with a glass 'Book a demo' modal over the yellow condensed hero, on perforated metal sheets",
+  "tags": [
+    "laptop-mockup",
+    "modal",
+    "dark",
+    "yellow",
+    "perforated-metal",
+    "form",
+    "isometric",
+    "black"
+  ],
+  "whatItIs": "A black moody scene of an open laptop on perforated steel sheets showing a dark site with giant condensed grey and yellow headline words behind a frosted 'BOOK A DEMO' modal with four dark fields and a yellow Submit pill, with a small '6K RES' tag.",
+  "whatItMeans": "Sleek and industrial; the modal is the hero of a low-key mockup.",
+  "techniques": [
+    "Show a modal over the site hero.",
+    "Use a black perforated-metal stage.",
+    "Keep yellow as the only accent.",
+    "Light softly from one side."
+  ],
+  "bestFor": [
+    "Form and modal presentations",
+    "Dark black-and-yellow sites",
+    "Industrial mockup scenes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted modal",
+      "definition": "A translucent dialog over a page."
+    },
+    {
+      "term": "Perforated metal",
+      "definition": "Steel sheet with a hole pattern."
+    },
+    {
+      "term": "Form field",
+      "definition": "A dark input with an icon."
+    },
+    {
+      "term": "Low-key scene",
+      "definition": "A mostly dark, softly lit setup."
+    }
+  ]
+}

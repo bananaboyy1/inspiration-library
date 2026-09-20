@@ -1,0 +1,47 @@
+{
+  "name": "web-oversized-welcome-portfolio-footer",
+  "image": "images/web-oversized-welcome-portfolio-footer.png",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Portfolio footer with a giant boxed WELCOME in tech-rounded type",
+  "tags": [
+    "portfolio",
+    "typography",
+    "monochrome",
+    "footer",
+    "grid-lines",
+    "laptop-mockup",
+    "link-list"
+  ],
+  "whatItIs": "A cropped laptop above a white footer: a row of small text links, a short greeting, and an enormous black 'WELCOME' in wide rounded letters, each character in its own cell separated by thin vertical lines and cropped at the edge.",
+  "whatItMeans": "Bold, calm and confident; the oversized word makes the footer the finale.",
+  "techniques": [
+    "Set a single giant word across the whole width of the footer.",
+    "Separate letters with hairline grid cells for a drafting-sheet look.",
+    "Crop the letterforms at the bottom and sides for scale.",
+    "Keep everything else tiny so the word dominates."
+  ],
+  "bestFor": [
+    "Portfolio and studio websites",
+    "Footers and closing sections",
+    "Type-driven, minimal brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Giant footer word",
+      "definition": "A huge word closing the page."
+    },
+    {
+      "term": "Letter cells",
+      "definition": "Hairline boxes around each letter."
+    },
+    {
+      "term": "Drafting look",
+      "definition": "A layout style resembling technical drawings."
+    },
+    {
+      "term": "Cropped type",
+      "definition": "Letters cut by the frame."
+    }
+  ]
+}

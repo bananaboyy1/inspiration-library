@@ -1,0 +1,50 @@
+{
+  "name": "web-emerald-fintech-wallet-landing-page",
+  "image": "images/web-emerald-fintech-wallet-landing-page.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Emerald wallet landing page moving from white to deep green with fingerprint security",
+  "tags": [
+    "fintech",
+    "emerald",
+    "green",
+    "dark",
+    "gradient",
+    "fingerprint",
+    "cards",
+    "testimonial-cards",
+    "long-scroll"
+  ],
+  "whatItIs": "A tall page: a bright green hero with three phones and floating icons, then white sections with dark green feature cards, numbered steps, a dark emerald security section with a glowing fingerprint scanner and labels, tilted testimonial cards, a green CTA panel, and a footer with a large logo.",
+  "whatItMeans": "Secure, modern and wealthy; deep green feels stable while white sections keep it fresh.",
+  "techniques": [
+    "Transition the page from white to dark emerald to signal a security section.",
+    "Present a glowing fingerprint scanner as a security emblem.",
+    "Use dark green cards on light backgrounds for features.",
+    "Tilt testimonial cards slightly for depth.",
+    "Close with a giant logo in the footer."
+  ],
+  "bestFor": [
+    "Wallet, payments and neobank sites",
+    "Security-focused products",
+    "Green fintech brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Security emblem",
+      "definition": "A glowing icon (fingerprint) representing protection."
+    },
+    {
+      "term": "Tonal transition",
+      "definition": "A page moving from light to dark sections."
+    },
+    {
+      "term": "Tilted card",
+      "definition": "A card rotated slightly for depth."
+    },
+    {
+      "term": "Numbered steps",
+      "definition": "A vertical list of steps in circles."
+    }
+  ]
+}

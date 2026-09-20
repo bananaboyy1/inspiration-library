@@ -1,0 +1,48 @@
+{
+  "name": "app-solar-energy-app-in-hand-over-giant-white-wordmark",
+  "image": "images/app-solar-energy-app-in-hand-over-giant-white-wordmark.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Green energy app held in a hand with floating glass notifications over a huge white wordmark",
+  "tags": [
+    "energy",
+    "green",
+    "hand",
+    "glass-notifications",
+    "giant-wordmark",
+    "gradient",
+    "mockup",
+    "project-cover"
+  ],
+  "whatItIs": "A green gradient with a giant white cropped 'cubee' behind, a hand holding a phone whose dark green UI shows a savings figure, an app icon, a gauge, and stats. Frosted glass notification cards float outside the phone.",
+  "whatItMeans": "Fresh and smart; green glow and glass alerts say clean energy and instant feedback.",
+  "techniques": [
+    "Put a huge cropped wordmark behind the device.",
+    "Float glass notifications beside the phone.",
+    "Keep the palette in green tones.",
+    "Show a savings number as the hero."
+  ],
+  "bestFor": [
+    "Energy and sustainability apps",
+    "Project covers with notification storytelling",
+    "Green tech brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass notification",
+      "definition": "A translucent alert card outside the phone."
+    },
+    {
+      "term": "Cropped wordmark",
+      "definition": "A giant brand name cut by the frame."
+    },
+    {
+      "term": "Hero number",
+      "definition": "A single big figure as focal point."
+    },
+    {
+      "term": "Tonal green",
+      "definition": "A palette of many greens."
+    }
+  ]
+}

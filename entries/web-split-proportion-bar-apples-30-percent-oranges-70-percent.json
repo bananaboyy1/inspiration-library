@@ -1,0 +1,48 @@
+{
+  "name": "web-split-proportion-bar-apples-30-percent-oranges-70-percent",
+  "image": "images/web-split-proportion-bar-apples-30-percent-oranges-70-percent.webp",
+  "discipline": "web",
+  "designType": "Data visualization",
+  "title": "Single horizontal bar split into a black 30% segment 'Apples' and a grey 70% segment 'Oranges' with labels beneath",
+  "tags": [
+    "chart",
+    "proportion",
+    "bar",
+    "black",
+    "grey",
+    "labels",
+    "minimal",
+    "comparison"
+  ],
+  "whatItIs": "A white frame with a pill-shaped horizontal bar divided into a short black part and a long mid-grey part, and below them centred labels 'Apples 30%' (bold black) and 'Oranges 70%' (grey).",
+  "whatItMeans": "Direct and simple; one bar tells the ratio without a legend.",
+  "techniques": [
+    "Split one bar into proportional segments.",
+    "Match label weight to segment colour.",
+    "Place labels under each part.",
+    "Use rounded ends."
+  ],
+  "bestFor": [
+    "Proportion comparisons",
+    "Simple share charts",
+    "Minimal data displays"
+  ],
+  "vocabulary": [
+    {
+      "term": "Proportion bar",
+      "definition": "A bar divided by shares of a whole."
+    },
+    {
+      "term": "Segment label",
+      "definition": "Text under a segment naming it and its value."
+    },
+    {
+      "term": "Pill bar",
+      "definition": "A bar with fully rounded ends."
+    },
+    {
+      "term": "Contrast pair",
+      "definition": "Black and grey used for two categories."
+    }
+  ]
+}

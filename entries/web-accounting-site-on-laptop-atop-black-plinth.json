@@ -1,0 +1,48 @@
+{
+  "name": "web-accounting-site-on-laptop-atop-black-plinth",
+  "image": "images/web-accounting-site-on-laptop-atop-black-plinth.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Accounting firm site on a laptop placed on a black plinth in a dark studio",
+  "tags": [
+    "laptop-mockup",
+    "dark-background",
+    "plinth",
+    "blue",
+    "accounting",
+    "team-photo",
+    "product-shot",
+    "project-cover"
+  ],
+  "whatItIs": "A laptop showing a white website with royal-blue accents and a team photo sits on a black cube in a black void, lit softly from one side.",
+  "whatItMeans": "Formal and focused; the void makes the bright screen the only subject.",
+  "techniques": [
+    "Stage the laptop on a plinth in a fully black scene.",
+    "Let one side light reveal the edges.",
+    "Keep the website white to glow.",
+    "Leave large empty areas for a premium feel."
+  ],
+  "bestFor": [
+    "Professional services and corporate site covers",
+    "Dark portfolio thumbnails",
+    "Minimal case-study heroes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Plinth staging",
+      "definition": "Placing a device on a block like a museum object."
+    },
+    {
+      "term": "Black void",
+      "definition": "An empty black background."
+    },
+    {
+      "term": "Edge light",
+      "definition": "Light that only reveals the edges of an object."
+    },
+    {
+      "term": "Glow contrast",
+      "definition": "A bright screen against black."
+    }
+  ]
+}

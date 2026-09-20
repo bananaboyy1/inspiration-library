@@ -1,0 +1,48 @@
+{
+  "name": "web-frequently-asked-questions-as-staggered-white-cards-on-lilac-haze",
+  "image": "images/web-frequently-asked-questions-as-staggered-white-cards-on-lilac-haze.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'Frequently Asked Questions' as staggered white answer cards in three rows, cropped at the edges over a soft lilac haze",
+  "tags": [
+    "faq",
+    "cards",
+    "staggered",
+    "lilac",
+    "haze",
+    "white",
+    "habit-app",
+    "question-answer"
+  ],
+  "whatItIs": "A white page with a bold centred heading and grey paragraph above three rows of small white shadowed cards of bold questions with grey answers, offset from each other and cropped at the sides, over a soft blue-lilac cloud gradient behind.",
+  "whatItMeans": "Friendly and airy; an offset card wall makes FAQs feel like sticky answers.",
+  "techniques": [
+    "Show questions and answers as small cards.",
+    "Offset rows and crop edges.",
+    "Use a soft haze behind.",
+    "Keep bold questions and grey answers."
+  ],
+  "bestFor": [
+    "FAQ sections with personality",
+    "Habit and productivity apps",
+    "Card-wall layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Answer card",
+      "definition": "A small card with a question and answer."
+    },
+    {
+      "term": "Offset rows",
+      "definition": "Rows shifted horizontally."
+    },
+    {
+      "term": "Cloud haze",
+      "definition": "A soft blurred colour behind cards."
+    },
+    {
+      "term": "Edge crop",
+      "definition": "Cards cut by the frame."
+    }
+  ]
+}

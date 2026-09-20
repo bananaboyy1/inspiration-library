@@ -1,0 +1,48 @@
+{
+  "name": "web-education-platform-blog-contact-course-and-testimonial-sections",
+  "image": "images/web-education-platform-blog-contact-course-and-testimonial-sections.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Four Edubox sections on a coral-to-yellow gradient: photo blog grid, peach contact cards, course detail with info card, and portrait testimonials",
+  "tags": [
+    "education",
+    "peach",
+    "teal",
+    "gradient-backdrop",
+    "blog-grid",
+    "contact",
+    "course-page",
+    "testimonials"
+  ],
+  "whatItIs": "A blurred coral-yellow-teal backdrop with four white or peach windows: 'The Latest from Our Blog' with a bento of dark-gradient photo cards with metadata and titles, a Contact Us page with three peach cards (address, phone, email), a course page with a large classroom photo, a title, tabs and a white info card with a teal Started Now button and share icons, and 'What People Said About Our s…' with peach portrait cards and play buttons.",
+  "whatItMeans": "Friendly and lively; peach, teal and orange feel welcoming for learners.",
+  "techniques": [
+    "Use dark gradient overlays on photo bento cards.",
+    "Tint contact cards in peach with orange line icons.",
+    "Show course facts in a compact info card.",
+    "Add small hand-drawn scribbles by headings."
+  ],
+  "bestFor": [
+    "Education and course platforms",
+    "Peach and teal palettes",
+    "Blog and testimonial sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo bento",
+      "definition": "A grid of photo cards with different sizes."
+    },
+    {
+      "term": "Info card",
+      "definition": "A card listing price, instructor and duration."
+    },
+    {
+      "term": "Peach tile",
+      "definition": "A soft peach-tinted card."
+    },
+    {
+      "term": "Scribble accent",
+      "definition": "A small hand-drawn mark near a heading."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "app-smart-ring-health-app-orange-and-cream",
+  "image": "images/app-smart-ring-health-app-orange-and-cream.webp",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Smart ring health app in cream with orange heatmap and voice orb",
+  "tags": [
+    "wearable",
+    "health",
+    "orange",
+    "cream",
+    "heatmap",
+    "waveform",
+    "voice-ai",
+    "phones"
+  ],
+  "whatItIs": "Three phones on cream: a home with a photo of a ring on driftwood and a recovery curve card, a sleep heatmap grid in orange-to-lime with a wave overlay and stat cards, and a voice screen with a translucent orange swirl and waveform.",
+  "whatItMeans": "Warm, calm and premium; orange on cream feels energising without clinical coldness.",
+  "techniques": [
+    "Show sleep data as a grid of rounded squares graded from orange to green.",
+    "Overlay a smooth wave line on the heatmap.",
+    "Use a translucent 3D swirl as the voice assistant emblem.",
+    "Pair a real product photo with a chart card.",
+    "Use a dark pill tab bar with an orange active state."
+  ],
+  "bestFor": [
+    "Wearables and health tracking apps",
+    "AI voice features",
+    "Warm consumer health brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Heatmap grid",
+      "definition": "A grid of cells coloured by value."
+    },
+    {
+      "term": "Waveform",
+      "definition": "A graphic of audio amplitude bars."
+    },
+    {
+      "term": "Swirl emblem",
+      "definition": "A translucent 3D shape representing an AI."
+    },
+    {
+      "term": "Active pill tab",
+      "definition": "A selected tab shown as a coloured capsule."
+    }
+  ]
+}

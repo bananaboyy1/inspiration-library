@@ -1,0 +1,48 @@
+{
+  "name": "web-butter-yellow-bento-portfolio-with-condensed-black-type",
+  "image": "images/web-butter-yellow-bento-portfolio-with-condensed-black-type.jpg",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Butter-yellow rounded bento site inside a charcoal frame with heavy condensed headlines",
+  "tags": [
+    "portfolio",
+    "bento",
+    "butter-yellow",
+    "charcoal",
+    "condensed-type",
+    "stat-cards",
+    "ticker",
+    "consulting"
+  ],
+  "whatItIs": "A charcoal-framed page with a pill nav and rounded butter-yellow cards: a big card 'BIG IDEAS, BEAUTIFULLY EXECUTED.' with two buttons beside a photo of two women on a rug, stat cards (60+, 98%) and a dark availability card, a services ticker, an about card with a photo and tag chips, a trusted-by row and a dark footer.",
+  "whatItMeans": "Warm and confident; yellow cards on charcoal feel bold yet friendly.",
+  "techniques": [
+    "Build a bento of rounded yellow cards.",
+    "Set headings in heavy condensed caps.",
+    "Switch one card to dark for contrast.",
+    "Run a services ticker between rows."
+  ],
+  "bestFor": [
+    "Consultant and freelancer sites",
+    "Bento portfolios",
+    "Yellow and charcoal brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento card",
+      "definition": "A rounded tile in a grid."
+    },
+    {
+      "term": "Services ticker",
+      "definition": "A strip of scrolling service names."
+    },
+    {
+      "term": "Availability card",
+      "definition": "A tile showing whether taking clients."
+    },
+    {
+      "term": "Charcoal frame",
+      "definition": "A dark border around a page."
+    }
+  ]
+}

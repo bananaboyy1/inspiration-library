@@ -1,0 +1,48 @@
+{
+  "name": "web-black-and-magenta-saas-finance-site-template-preview",
+  "image": "images/web-black-and-magenta-saas-finance-site-template-preview.jpg",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Black finance SaaS template with a magenta glow behind a dashboard, logo pills and workflow cards on a dusty mauve board",
+  "tags": [
+    "saas",
+    "dark",
+    "magenta",
+    "gradient-glow",
+    "dashboard",
+    "logo-strip",
+    "template",
+    "pill-nav"
+  ],
+  "whatItIs": "A mauve board with 'LIVE PREVIEW SaaS & Tech Website' and a black page: a pill nav, a headline 'Enhance your financial control with Nexio' with a decorated pill label, a dashboard preview glowing with a magenta-to-pink gradient, a row of pill-shaped logos, a section 'How our platform makes your workflow easier' and dashboard cards.",
+  "whatItMeans": "Sleek and premium; a magenta glow lifts a black dashboard without adding clutter.",
+  "techniques": [
+    "Glow a gradient behind the dashboard.",
+    "Show logos as dark pills.",
+    "Use decorated label pills with small lines and diamonds.",
+    "Keep white type on black."
+  ],
+  "bestFor": [
+    "Fintech and SaaS templates",
+    "Dark hero previews",
+    "Magenta-glow brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dashboard glow",
+      "definition": "A coloured bloom behind a UI preview."
+    },
+    {
+      "term": "Logo pill",
+      "definition": "A logo inside a capsule."
+    },
+    {
+      "term": "Decorated label",
+      "definition": "A pill flanked by small lines and dots."
+    },
+    {
+      "term": "Template preview",
+      "definition": "An overview of a website template."
+    }
+  ]
+}

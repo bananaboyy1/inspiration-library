@@ -1,0 +1,48 @@
+{
+  "name": "web-tab-navigation-variants-pill-segment-and-underline-with-icons",
+  "image": "images/web-tab-navigation-variants-pill-segment-and-underline-with-icons.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Three tab bar styles for Profile, Security and Notifications: raised white pill in a grey track, soft-filled pill and underline",
+  "tags": [
+    "component",
+    "tabs",
+    "navigation",
+    "icons",
+    "white",
+    "grey",
+    "black",
+    "variants"
+  ],
+  "whatItIs": "A white board with three rows of the same three tabs with line icons: a grey rounded track with the active Profile in a white raised pill, a version where the active tab has a soft grey fill, and a version with a black underline under the active tab on a hairline.",
+  "whatItMeans": "Systematic and calm; showing three active-state treatments side by side helps choose one.",
+  "techniques": [
+    "Show the same tabs in multiple styles.",
+    "Use thin icons before labels.",
+    "Mark active with a raised pill, tint or underline.",
+    "Keep everything neutral."
+  ],
+  "bestFor": [
+    "Tab component documentation",
+    "Settings navigation",
+    "Neutral UI kits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented tabs",
+      "definition": "Tabs inside a shared rounded track."
+    },
+    {
+      "term": "Underline tabs",
+      "definition": "Tabs marked by a line beneath the active one."
+    },
+    {
+      "term": "Raised pill",
+      "definition": "An active tab shown as a white capsule with a shadow."
+    },
+    {
+      "term": "Icon tab",
+      "definition": "A tab combining an icon and a label."
+    }
+  ]
+}

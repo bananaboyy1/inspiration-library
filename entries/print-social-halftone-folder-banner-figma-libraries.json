@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-folder-banner-figma-libraries",
+  "image": "images/print-social-halftone-folder-banner-figma-libraries.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Red, violet and cyan halftone wave banner with a paper-clipped 'figma libraries' folder",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "wave",
+    "red",
+    "violet",
+    "cyan",
+    "serif-label"
+  ],
+  "whatItIs": "A wide banner with coarse halftone dots in red, violet, blue and cyan forming layered waves, a manila folder with a paper clip and 'figma libraries' in serif, a pixel cursor, four dark app icons and a white scribble burst at the corner.",
+  "whatItMeans": "Vivid and nostalgic; wave-like halftone gives the desktop metaphor motion.",
+  "techniques": [
+    "Form waves from halftone colour bands.",
+    "Clip a paper to the folder.",
+    "Use dark rounded app icons.",
+    "Keep folder and cursor central."
+  ],
+  "bestFor": [
+    "Creator resource banners",
+    "Series headers",
+    "Design tool content"
+  ],
+  "vocabulary": [
+    {
+      "term": "Halftone wave",
+      "definition": "Layered wavy shapes rendered in dots."
+    },
+    {
+      "term": "Paper clip",
+      "definition": "A clip graphic attached to a folder."
+    },
+    {
+      "term": "Dark app icon",
+      "definition": "A black rounded square with a tool logo."
+    },
+    {
+      "term": "Folder title serif",
+      "definition": "A serif label on a folder."
+    }
+  ]
+}

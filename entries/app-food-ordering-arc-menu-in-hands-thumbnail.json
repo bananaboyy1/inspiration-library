@@ -1,0 +1,47 @@
+{
+  "name": "app-food-ordering-arc-menu-in-hands-thumbnail",
+  "image": "images/app-food-ordering-arc-menu-in-hands-thumbnail.jpg",
+  "discipline": "app",
+  "designType": "Food ordering app",
+  "title": "Food ordering app close-up as a project thumbnail",
+  "tags": [
+    "food",
+    "delivery",
+    "thumbnail",
+    "hands",
+    "arc-menu",
+    "white-ui",
+    "project-cover"
+  ],
+  "whatItIs": "A small-format crop of the food app in both hands showing the arc category selector, product cards and floating black nav.",
+  "whatItMeans": "Compact and legible; the hands and large UI read even at thumbnail size.",
+  "techniques": [
+    "Crop tightly so the main title and food images dominate.",
+    "Keep the surroundings a soft peach gradient.",
+    "Use the pill nav at the bottom as an anchor.",
+    "Let the finger point at a card for a sense of action."
+  ],
+  "bestFor": [
+    "Portfolio grid covers",
+    "Social previews",
+    "App case-study thumbnails"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thumbnail crop",
+      "definition": "A recomposed image sized for small display."
+    },
+    {
+      "term": "Soft peach gradient",
+      "definition": "A pale warm background."
+    },
+    {
+      "term": "Anchor nav",
+      "definition": "A bottom bar that grounds the composition."
+    },
+    {
+      "term": "Pointer finger",
+      "definition": "A finger touching the UI in a photo."
+    }
+  ]
+}

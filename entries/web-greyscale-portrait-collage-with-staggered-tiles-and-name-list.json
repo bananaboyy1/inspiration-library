@@ -1,0 +1,48 @@
+{
+  "name": "web-greyscale-portrait-collage-with-staggered-tiles-and-name-list",
+  "image": "images/web-greyscale-portrait-collage-with-staggered-tiles-and-name-list.webp",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Team section with four staggered greyscale portrait tiles at the left and a list of six names with tracked caps roles at the right",
+  "tags": [
+    "team",
+    "greyscale",
+    "portraits",
+    "staggered",
+    "list",
+    "white",
+    "minimal",
+    "caps-roles"
+  ],
+  "whatItIs": "A white page with four rounded black-and-white portraits at staggered heights, two with broken image alt text overlaying, and at the right a vertical list of six people, each with a small grey marker, a medium sans name and a wide-tracked grey caps role (Director of Photography, Founder, Lead Front-End, Product Owner, CTO - Product Designer, Make-Up Artiste).",
+  "whatItMeans": "Editorial and calm; staggered greyscale tiles and a tracked list feel like a credits page.",
+  "techniques": [
+    "Stagger portrait tiles in a loose collage.",
+    "Convert to greyscale.",
+    "Pair with a clean name list.",
+    "Track role captions widely."
+  ],
+  "bestFor": [
+    "Team and credits pages",
+    "Photography and film studios",
+    "Monochrome collages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Staggered tiles",
+      "definition": "Tiles placed at different heights."
+    },
+    {
+      "term": "Credits list",
+      "definition": "A list of names with roles."
+    },
+    {
+      "term": "Tracked caps",
+      "definition": "Uppercase text with wide letter spacing."
+    },
+    {
+      "term": "Greyscale collage",
+      "definition": "A black-and-white arrangement of photos."
+    }
+  ]
+}

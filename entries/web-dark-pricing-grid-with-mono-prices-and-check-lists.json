@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-pricing-grid-with-mono-prices-and-check-lists",
+  "image": "images/web-dark-pricing-grid-with-mono-prices-and-check-lists.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Black 'Data-Driven Growth' pricing with four bordered plans in a wide-and-narrow grid, monospace prices and check lists",
+  "tags": [
+    "pricing",
+    "dark",
+    "monospace",
+    "checklist",
+    "bordered-cards",
+    "minimal",
+    "subscribe-buttons",
+    "saas"
+  ],
+  "whatItIs": "A near-black page with a big white heading and grey paragraph above four bordered dark cards in a bento arrangement: a wide Creators Special card with a 'Most Recommended' tag, a light Subscribe button, $19/month in monospace and four checked features; Starters $0, Teams $49 and Enterprise $99 each with a small tag, a dark Subscribe button and check lists.",
+  "whatItMeans": "Technical and calm; monospace prices and outlined cards feel like a developer product.",
+  "techniques": [
+    "Set prices in monospace.",
+    "Highlight the recommended plan with a light button.",
+    "Use a wide card for the featured tier.",
+    "Keep hairline borders on black."
+  ],
+  "bestFor": [
+    "Dark SaaS pricing",
+    "Developer tool sites",
+    "Monospace price displays"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monospace price",
+      "definition": "A price set in a fixed-width typeface."
+    },
+    {
+      "term": "Featured tier",
+      "definition": "The recommended plan given more space."
+    },
+    {
+      "term": "Check list",
+      "definition": "Feature lines marked with tick circles."
+    },
+    {
+      "term": "Plan tag",
+      "definition": "A small pill naming a tier."
+    }
+  ]
+}

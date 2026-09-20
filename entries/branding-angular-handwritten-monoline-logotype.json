@@ -1,0 +1,47 @@
+{
+  "name": "branding-angular-handwritten-monoline-logotype",
+  "image": "images/branding-angular-handwritten-monoline-logotype.jpg",
+  "discipline": "branding",
+  "designType": "Wordmarks",
+  "title": "Angular handwritten monoline logotype for a designer",
+  "tags": [
+    "logotype",
+    "handwritten",
+    "monoline",
+    "black-and-white",
+    "signature",
+    "minimal",
+    "designer"
+  ],
+  "whatItIs": "A white slide with a black monoline signature-style 'A3.design' drawn in sharp angular strokes with triangular loops, tilted upward. Four small caps labels frame the corners.",
+  "whatItMeans": "Personal and expressive, like an autograph; angular strokes add a modern edge.",
+  "techniques": [
+    "Draw a wordmark as a single-weight handwritten line with angular joins.",
+    "Tilt the whole mark upward for energy.",
+    "Use triangles for descender and ascender loops.",
+    "Keep everything else tiny and static so the signature dominates."
+  ],
+  "bestFor": [
+    "Personal brands and freelancers",
+    "Creative studios",
+    "Signature-style logos for stamps and packaging"
+  ],
+  "vocabulary": [
+    {
+      "term": "Signature logotype",
+      "definition": "A wordmark that looks like a handwritten signature."
+    },
+    {
+      "term": "Monoline script",
+      "definition": "Handwriting drawn with uniform stroke width."
+    },
+    {
+      "term": "Angular joins",
+      "definition": "Sharp corners in a script."
+    },
+    {
+      "term": "Upward tilt",
+      "definition": "Rotating a mark to imply momentum."
+    }
+  ]
+}

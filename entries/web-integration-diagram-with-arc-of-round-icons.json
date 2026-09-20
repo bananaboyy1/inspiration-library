@@ -1,0 +1,48 @@
+{
+  "name": "web-integration-diagram-with-arc-of-round-icons",
+  "image": "images/web-integration-diagram-with-arc-of-round-icons.gif",
+  "discipline": "web",
+  "designType": "Feature illustration",
+  "title": "Sharing feature illustration with cards and a curved arc of round icons",
+  "tags": [
+    "illustration",
+    "feature",
+    "white",
+    "blue",
+    "icons",
+    "arc",
+    "integration",
+    "cards"
+  ],
+  "whatItIs": "A white area with two cards at left (event listing with thumbnails, share link with social icons) and, at right, a pale arc of circular blue-outline icons (link, phone, calendar, web, mail) ending in a long pill with the product logo and 'Calendar'.",
+  "whatItMeans": "Clean and explanatory; the arc shows one calendar flowing to many channels.",
+  "techniques": [
+    "Arrange circular icons along a soft arc to show distribution.",
+    "End the arc with a large pill carrying the product.",
+    "Use tiny UI cards with thumbnails to illustrate outputs.",
+    "Keep everything in blue outline on white."
+  ],
+  "bestFor": [
+    "Feature and integration sections",
+    "SaaS explainer illustrations",
+    "Distribution and sharing concepts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon arc",
+      "definition": "Icons arranged along a curve."
+    },
+    {
+      "term": "Output card",
+      "definition": "A mini UI card showing a result."
+    },
+    {
+      "term": "Product pill",
+      "definition": "A long capsule with a logo and label."
+    },
+    {
+      "term": "Outline icon",
+      "definition": "A pictogram drawn with line only."
+    }
+  ]
+}

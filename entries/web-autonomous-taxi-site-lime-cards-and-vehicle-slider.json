@@ -1,0 +1,48 @@
+{
+  "name": "web-autonomous-taxi-site-lime-cards-and-vehicle-slider",
+  "image": "images/web-autonomous-taxi-site-lime-cards-and-vehicle-slider.png",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Autonomous taxi site: black stats block and white vehicle slider with lime highlight",
+  "tags": [
+    "landing-page",
+    "autonomous",
+    "black-and-white",
+    "lime",
+    "stats-cards",
+    "slider",
+    "rounded-frame",
+    "vehicles"
+  ],
+  "whatItIs": "A rounded framed page on black with two sections: a black one with a two-tone statement and three stat cards (lime, white, dark), and a white one with the headline 'Autonomous. Effortless.' where the second word has a lime marker highlight above a centred white van with blurred neighbouring vehicles and arrow buttons. A single vehicle render sits below the frame.",
+  "whatItMeans": "Clean and confident; the lime highlight and blurred neighbours give a modern, focused product carousel.",
+  "techniques": [
+    "Highlight a headline word with a tilted lime marker block.",
+    "Use three stat cards in different fills (lime, white, dark) as a set.",
+    "Blur the previous and next slides in a carousel to show depth.",
+    "Flip from a black section to a white one within one rounded frame."
+  ],
+  "bestFor": [
+    "Mobility, hardware and product-led landing pages",
+    "Sites with vehicle or product carousels",
+    "Bold black, white and neon brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Marker highlight",
+      "definition": "A coloured block behind a word, like highlighter pen."
+    },
+    {
+      "term": "Blurred neighbour",
+      "definition": "Adjacent carousel items shown out of focus."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card with a key fact."
+    },
+    {
+      "term": "Section flip",
+      "definition": "Switching between dark and light sections."
+    }
+  ]
+}

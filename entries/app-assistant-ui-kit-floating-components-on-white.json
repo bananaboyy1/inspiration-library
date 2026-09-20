@@ -1,0 +1,48 @@
+{
+  "name": "app-assistant-ui-kit-floating-components-on-white",
+  "image": "images/app-assistant-ui-kit-floating-components-on-white.png",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Floating assistant components: nav pill, house-shaped chart, greeting card with gradient arc, chips, task cards and settings rows",
+  "tags": [
+    "ui-kit",
+    "components",
+    "white",
+    "orange",
+    "blue",
+    "chart",
+    "chips",
+    "assistant"
+  ],
+  "whatItIs": "A white canvas with scattered components: a pill tab bar with a blue selected Home, a house-shaped tile chart in yellow, navy, blue and orange with percentages, a central card 'How can I help you today?' with chips and a gradient arc input, coloured letter avatars, event cards with category tags and letter tiles, toggle chips (Home, Work) and rows for time allocation, frequent activities and mood statistics with round icons.",
+  "whatItMeans": "Cheerful and organised; a component cloud shows the whole system at once.",
+  "techniques": [
+    "Scatter components on white as a system overview.",
+    "Use a house-shaped chart for a family app.",
+    "Give each category a colour.",
+    "Use round icons on grey rows."
+  ],
+  "bestFor": [
+    "UI kit and component overviews",
+    "Family and planner apps",
+    "Colour-coded systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Component cloud",
+      "definition": "UI parts scattered across a canvas."
+    },
+    {
+      "term": "Shape chart",
+      "definition": "A chart shaped like an object such as a house."
+    },
+    {
+      "term": "Letter tile",
+      "definition": "A tile with a single letter as an icon."
+    },
+    {
+      "term": "Toggle chip",
+      "definition": "A pill with a close or switch control."
+    }
+  ]
+}

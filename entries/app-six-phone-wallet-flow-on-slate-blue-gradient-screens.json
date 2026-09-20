@@ -1,0 +1,48 @@
+{
+  "name": "app-six-phone-wallet-flow-on-slate-blue-gradient-screens",
+  "image": "images/app-six-phone-wallet-flow-on-slate-blue-gradient-screens.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Six wallet, cards, profile, QR scan and payment success screens with slate-blue gradients",
+  "tags": [
+    "fintech",
+    "slate-blue",
+    "gradient",
+    "italic-serif",
+    "wallet",
+    "qr-scan",
+    "success-modal",
+    "phones"
+  ],
+  "whatItIs": "An off-white board with 'More Control, Built Into Every Detail.' (italic serif on the last words), pill tabs and six phones: wallet with a hatched limit bar and weekly bars, cards with a big card and round actions, a card details sheet, a profile list, a QR scan with a payment sheet and a payment success sheet.",
+  "whatItMeans": "Calm and precise; slate-blue gradients and hatched bars feel like private banking.",
+  "techniques": [
+    "Use a white-to-slate gradient on every screen.",
+    "Draw limits as hatched bars.",
+    "Use bottom sheets for details.",
+    "Present phones in a stepped grid."
+  ],
+  "bestFor": [
+    "Fintech app case studies",
+    "Wallet and payment flows",
+    "Slate-blue palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched limit bar",
+      "definition": "A progress bar with diagonal fill."
+    },
+    {
+      "term": "Bottom sheet",
+      "definition": "A panel sliding up with details."
+    },
+    {
+      "term": "QR scan screen",
+      "definition": "A camera view with a code frame."
+    },
+    {
+      "term": "Success sheet",
+      "definition": "A confirmation panel after payment."
+    }
+  ]
+}

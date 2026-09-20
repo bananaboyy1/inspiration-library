@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-basic-dialog-with-header-body-and-two-footer-buttons",
+  "image": "images/web-dark-basic-dialog-with-header-body-and-two-footer-buttons.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Dark modal 'Hello there!' with a close icon, hairline sections and Close and Okay buttons on black",
+  "tags": [
+    "component",
+    "dialog",
+    "modal",
+    "dark",
+    "buttons",
+    "hairline",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A black screen with a dark grey rounded dialog: a header with a bold title, a grey subline and an x, a hairline, a body sentence, a hairline and a footer with a dark Close button and a light Okay button.",
+  "whatItMeans": "Quiet and orderly; hairlines and tonal buttons keep a dialog light on dark.",
+  "techniques": [
+    "Divide header, body and footer with hairlines.",
+    "Use a light primary against dark secondary.",
+    "Round the corners.",
+    "Keep copy short."
+  ],
+  "bestFor": [
+    "Dark UI dialog components",
+    "Confirmation modals",
+    "Design-system dialogs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dialog",
+      "definition": "A modal window with a message and actions."
+    },
+    {
+      "term": "Footer actions",
+      "definition": "Buttons aligned at the bottom right."
+    },
+    {
+      "term": "Hairline section",
+      "definition": "A thin line separating dialog parts."
+    },
+    {
+      "term": "Tonal button pair",
+      "definition": "A dark and a light button side by side."
+    }
+  ]
+}

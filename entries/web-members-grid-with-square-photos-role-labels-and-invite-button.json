@@ -1,0 +1,48 @@
+{
+  "name": "web-members-grid-with-square-photos-role-labels-and-invite-button",
+  "image": "images/web-members-grid-with-square-photos-role-labels-and-invite-button.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Members panel with a grey header, search icon and black Invite Members button above a grid of rounded square portraits with names and roles",
+  "tags": [
+    "component",
+    "members",
+    "grid",
+    "portraits",
+    "white",
+    "grey",
+    "black-button",
+    "roles"
+  ],
+  "whatItIs": "A white page with a light grey header bar showing 'Members' and 'Team Avengers • 10 Members' with a small search button and a black 'Invite Members' button, and a grid of five rounded-square portrait photos each captioned with a name and a grey role (Admin, Editor, Viewer).",
+  "whatItMeans": "Personal and orderly; large faces make a member list feel human.",
+  "techniques": [
+    "Show members as large rounded photos.",
+    "Caption with name and role.",
+    "Add a header with count and actions.",
+    "Use one black primary button."
+  ],
+  "bestFor": [
+    "Team member lists",
+    "Workspace settings",
+    "Photo-based directories"
+  ],
+  "vocabulary": [
+    {
+      "term": "Member grid",
+      "definition": "A grid of member photos with captions."
+    },
+    {
+      "term": "Role label",
+      "definition": "A grey caption such as Admin or Viewer."
+    },
+    {
+      "term": "Panel header",
+      "definition": "A bar with title, count and actions."
+    },
+    {
+      "term": "Invite button",
+      "definition": "A button for adding members."
+    }
+  ]
+}

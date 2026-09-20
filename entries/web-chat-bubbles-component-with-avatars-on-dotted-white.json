@@ -1,0 +1,48 @@
+{
+  "name": "web-chat-bubbles-component-with-avatars-on-dotted-white",
+  "image": "images/web-chat-bubbles-component-with-avatars-on-dotted-white.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Chat component with a black outgoing bubble and a grey incoming bubble, each with a round avatar, on a dotted ground",
+  "tags": [
+    "component",
+    "chat",
+    "bubbles",
+    "black",
+    "grey",
+    "avatars",
+    "dotted",
+    "ui-kit"
+  ],
+  "whatItIs": "A dotted white frame with two chat bubbles: a black bubble 'I have a question about the library.' with a photo avatar at the right and a light grey reply 'Sure, I'd be happy to help!' with an avatar at the left.",
+  "whatItMeans": "Simple and clear; black versus grey shows who is speaking.",
+  "techniques": [
+    "Use black for the user and grey for the reply.",
+    "Place avatars outside the bubbles.",
+    "Round every bubble.",
+    "Keep a dotted background."
+  ],
+  "bestFor": [
+    "Chat and support components",
+    "Minimal UI kits",
+    "Two-tone conversation UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outgoing bubble",
+      "definition": "A message from the user, often dark."
+    },
+    {
+      "term": "Incoming bubble",
+      "definition": "A reply, often light grey."
+    },
+    {
+      "term": "Avatar",
+      "definition": "A small round profile image."
+    },
+    {
+      "term": "Dotted ground",
+      "definition": "A faint dot grid as background."
+    }
+  ]
+}

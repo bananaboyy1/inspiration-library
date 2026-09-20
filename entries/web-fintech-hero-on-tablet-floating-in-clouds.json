@@ -1,0 +1,48 @@
+{
+  "name": "web-fintech-hero-on-tablet-floating-in-clouds",
+  "image": "images/web-fintech-hero-on-tablet-floating-in-clouds.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Banking site on a huge tablet on a post amid clouds with pill tags across the top",
+  "tags": [
+    "mockup",
+    "tablet",
+    "sky",
+    "clouds",
+    "fintech",
+    "light-blue",
+    "navy",
+    "tags"
+  ],
+  "whatItIs": "A pale-blue sky with a giant tablet on a thin stand showing a cloud-backdrop site, with a hand holding a phone and floating stat cards. Outlined pill tags (Fintech, Dashboard, Behance, Mobile App, Landing Page, UI/UX, Case Study) sit across the top.",
+  "whatItMeans": "Airy and clever; the tablet on a pole reads like a billboard in the sky.",
+  "techniques": [
+    "Place the device in a sky scene matching the site's backdrop.",
+    "Line pill tags across the top as project metadata.",
+    "Overlap a phone and cards on the screen.",
+    "Stay in one light blue palette."
+  ],
+  "bestFor": [
+    "Fintech case-study covers",
+    "Portfolio project heroes",
+    "Sky-themed presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Billboard mockup",
+      "definition": "A device shown like an outdoor sign."
+    },
+    {
+      "term": "Project tags",
+      "definition": "Pills listing discipline and platform."
+    },
+    {
+      "term": "Cloud backdrop",
+      "definition": "A sky photo used as background."
+    },
+    {
+      "term": "Nested mockup",
+      "definition": "A phone shown inside a tablet screen."
+    }
+  ]
+}

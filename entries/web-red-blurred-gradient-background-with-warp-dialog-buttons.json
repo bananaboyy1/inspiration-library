@@ -1,0 +1,48 @@
+{
+  "name": "web-red-blurred-gradient-background-with-warp-dialog-buttons",
+  "image": "images/web-red-blurred-gradient-background-with-warp-dialog-buttons.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Deep red mesh of blurred blobs with a small 'Welcome to Warp Dialog' title and three buttons in the centre",
+  "tags": [
+    "background",
+    "gradient",
+    "red",
+    "mesh",
+    "blur",
+    "dialog-trigger",
+    "buttons",
+    "dark"
+  ],
+  "whatItIs": "A screen of dark maroon with large blurred bright red blobs at the upper left and lower right, a white 'Welcome to Warp Dialog' heading at the centre, an outlined Open Dialog button and two buttons (light Get Started, black Learn More), and a small file name in the corner.",
+  "whatItMeans": "Warm and dramatic; blurred red light gives plain buttons a stage.",
+  "techniques": [
+    "Use a blurred red mesh as the backdrop.",
+    "Keep the foreground minimal.",
+    "Contrast a light and a dark button.",
+    "Add a code-file label in the corner."
+  ],
+  "bestFor": [
+    "Hero and demo backgrounds",
+    "Red gradient brands",
+    "Dialog component demos"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mesh gradient",
+      "definition": "A blend of blurred colour blobs."
+    },
+    {
+      "term": "Blob glow",
+      "definition": "A large soft-edged light shape."
+    },
+    {
+      "term": "Demo stage",
+      "definition": "A background used to present a component."
+    },
+    {
+      "term": "Button pair",
+      "definition": "A light and a dark button beside each other."
+    }
+  ]
+}

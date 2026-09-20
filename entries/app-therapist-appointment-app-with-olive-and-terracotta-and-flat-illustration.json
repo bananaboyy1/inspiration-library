@@ -1,0 +1,48 @@
+{
+  "name": "app-therapist-appointment-app-with-olive-and-terracotta-and-flat-illustration",
+  "image": "images/app-therapist-appointment-app-with-olive-and-terracotta-and-flat-illustration.webp",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Four warm-neutral screens: therapist schedule, empty-state illustration, video call and chat, with olive and brown accents",
+  "tags": [
+    "mental-health",
+    "warm-neutral",
+    "olive",
+    "brown",
+    "empty-state",
+    "video-call",
+    "chat",
+    "phones"
+  ],
+  "whatItIs": "Four black-bezel phones on greige: an appointment timeline with a week strip, doctor cards with ratings, reschedule and cancel links and a brown plus button; an empty state with a flat illustration of a therapist and patient and 'You don't have any appointment for today.' with a brown button; a video call with a full-screen portrait, a self-view tile and a large olive call button; and a chat with brown and white bubbles.",
+  "whatItMeans": "Calm and humane; warm neutrals with olive feel safe for mental-health care.",
+  "techniques": [
+    "Use olive and brown instead of clinical blue.",
+    "Add a flat illustration to an empty state.",
+    "Round every card and bubble.",
+    "Use a big circular action button in calls."
+  ],
+  "bestFor": [
+    "Mental health and telehealth apps",
+    "Warm neutral palettes",
+    "Appointment and chat flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Empty-state illustration",
+      "definition": "A drawing shown when a list has no items."
+    },
+    {
+      "term": "Week strip",
+      "definition": "A row of day pills at the top."
+    },
+    {
+      "term": "Self-view tile",
+      "definition": "A small video of yourself during a call."
+    },
+    {
+      "term": "Chat bubble",
+      "definition": "A rounded message container."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-sunny-blue-cold-coffee-site-with-floating-cups-and-pastel-flavour-cards",
+  "image": "images/web-sunny-blue-cold-coffee-site-with-floating-cups-and-pastel-flavour-cards.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Cold-brew coffee site with a sky-blue cloud hero and floating cups, pastel flavour cards with cans, a story section and giant 'machi' footer",
+  "tags": [
+    "coffee",
+    "sky-blue",
+    "clouds",
+    "pastel-cards",
+    "product-can",
+    "giant-wordmark",
+    "photography",
+    "rounded"
+  ],
+  "whatItIs": "Two page columns over a sky-cloud backdrop: a hero with floating iced coffees and 'Bold coffee. Better moments.' with a black button, a 'fan favorites' section with rounded pastel cards (peach, mint, yellow, pink) holding cans and white buttons; a story block with an iced latte splash photo and stats, a table photo with two iced drinks and a giant black lowercase 'machi' footer wordmark.",
+  "whatItMeans": "Fresh and sunny; sky and pastel cards make cold coffee feel bright.",
+  "techniques": [
+    "Float products in a sky hero.",
+    "Tint each flavour card in its own pastel.",
+    "Use a giant lowercase footer wordmark.",
+    "Pair sky photos with warm table photos."
+  ],
+  "bestFor": [
+    "Beverage and coffee brands",
+    "Pastel product-card sites",
+    "Sky-themed heroes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating product hero",
+      "definition": "Products suspended in a sky scene."
+    },
+    {
+      "term": "Flavour card",
+      "definition": "A tinted card for one variant."
+    },
+    {
+      "term": "Giant footer wordmark",
+      "definition": "A huge brand name at the page end."
+    },
+    {
+      "term": "Sky backdrop",
+      "definition": "A photo of sky and clouds."
+    }
+  ]
+}

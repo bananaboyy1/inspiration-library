@@ -1,0 +1,47 @@
+{
+  "name": "app-dark-problem-and-solution-cards-slide",
+  "image": "images/app-dark-problem-and-solution-cards-slide.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Black challenge and approach slide with two dark grey cards and dimmed text",
+  "tags": [
+    "case-study",
+    "problem-solution",
+    "black",
+    "dark-cards",
+    "dimmed-text",
+    "minimal",
+    "two-tone-type"
+  ],
+  "whatItIs": "A black slide with a small bracket-like logo at the top, tiny corner labels, a large two-tone headline 'Challenge & Approach', and two rounded dark grey cards labelled Problem and Solution with icons and paragraphs where some sentences are dimmed.",
+  "whatItMeans": "Serious and structured; the dimmed lines build hierarchy without colour.",
+  "techniques": [
+    "Split a slide into two matched dark cards for problem and solution.",
+    "Dim secondary sentences to grey inside a paragraph.",
+    "Use huge white then grey headline text.",
+    "Place labels and icons in the card top corners."
+  ],
+  "bestFor": [
+    "Case-study challenge and solution slides",
+    "Dark, monochrome presentations",
+    "Explaining before and after"
+  ],
+  "vocabulary": [
+    {
+      "term": "Two-tone headline",
+      "definition": "A heading where the second line is dimmed."
+    },
+    {
+      "term": "Problem/solution pair",
+      "definition": "Two cards contrasting an issue with its answer."
+    },
+    {
+      "term": "Dimmed sentence",
+      "definition": "Grey text inside white text to show lower priority."
+    },
+    {
+      "term": "Corner labels",
+      "definition": "Tiny caps text in corners as framing."
+    }
+  ]
+}

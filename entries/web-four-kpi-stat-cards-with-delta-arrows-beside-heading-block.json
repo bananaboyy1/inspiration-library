@@ -1,0 +1,48 @@
+{
+  "name": "web-four-kpi-stat-cards-with-delta-arrows-beside-heading-block",
+  "image": "images/web-four-kpi-stat-cards-with-delta-arrows-beside-heading-block.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Section with a dark 'Platform' pill and headline beside a 2x2 grid of KPI cards showing values, deltas and arrows",
+  "tags": [
+    "component",
+    "kpi",
+    "stats",
+    "white",
+    "arrows",
+    "tight-headline",
+    "cards",
+    "saas"
+  ],
+  "whatItIs": "A white page with a dark pill 'Platform', a tightly tracked headline 'This is the start of something new', a grey paragraph and a 2x2 grid of soft-shadow cards, each with a small arrow (dark up, red down), a big figure (500.000, 20.105, $523.520, $1052), a green or red delta and a grey label.",
+  "whatItMeans": "Confident and clean; large numbers with small deltas read as a quick pulse of the business.",
+  "techniques": [
+    "Use a tight negative-tracked headline.",
+    "Show KPIs as large numerals with small deltas.",
+    "Encode direction with arrow colour.",
+    "Use soft-shadow white cards."
+  ],
+  "bestFor": [
+    "SaaS metric sections",
+    "Investor and product pages",
+    "KPI card components"
+  ],
+  "vocabulary": [
+    {
+      "term": "KPI card",
+      "definition": "A card presenting one metric."
+    },
+    {
+      "term": "Delta",
+      "definition": "A small change indicator such as +8%."
+    },
+    {
+      "term": "Tight tracking",
+      "definition": "Letter spacing reduced for a dense headline."
+    },
+    {
+      "term": "Category pill",
+      "definition": "A small dark capsule labelling a section."
+    }
+  ]
+}

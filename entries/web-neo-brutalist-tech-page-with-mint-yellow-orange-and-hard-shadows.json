@@ -1,0 +1,48 @@
+{
+  "name": "web-neo-brutalist-tech-page-with-mint-yellow-orange-and-hard-shadows",
+  "image": "images/web-neo-brutalist-tech-page-with-mint-yellow-orange-and-hard-shadows.jpg",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Long neo-brutalist infrastructure site in mint, yellow, orange and black with monospace headings, hard-shadow cards and ticker",
+  "tags": [
+    "neo-brutalism",
+    "mint",
+    "yellow",
+    "orange",
+    "monospace",
+    "hard-shadow",
+    "ticker",
+    "pricing"
+  ],
+  "whatItIs": "A tall page with a black-outlined nav, hero 'ENGINEERED FOR THE EXTREME' with an orange keyword and a mint panel with a tilted yellow square '0101', a black scrolling ticker, three hard-shadow spec cards, highlighted headings, orange and grey blocks, an orange stat strip, testimonial cards, three-tier pricing with a yellow middle plan, a mint email footer and a black footer.",
+  "whatItMeans": "Loud and playful; hard shadows, bright fills and underscore headings feel like a developer zine.",
+  "techniques": [
+    "Give every card a thick border and hard offset shadow.",
+    "Use underscore headings in monospace.",
+    "Alternate mint, yellow and orange blocks.",
+    "Highlight the recommended plan in yellow."
+  ],
+  "bestFor": [
+    "Developer tools and infra brands",
+    "Neo-brutalist sites",
+    "Bright block palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hard offset shadow",
+      "definition": "A solid unblurred shadow beside an element."
+    },
+    {
+      "term": "Underscore heading",
+      "definition": "A heading with underscores between words."
+    },
+    {
+      "term": "Ticker strip",
+      "definition": "A scrolling band of text."
+    },
+    {
+      "term": "Block palette",
+      "definition": "Flat bright fills used as sections."
+    }
+  ]
+}

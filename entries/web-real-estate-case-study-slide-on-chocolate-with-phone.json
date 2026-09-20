@@ -1,0 +1,48 @@
+{
+  "name": "web-real-estate-case-study-slide-on-chocolate-with-phone",
+  "image": "images/web-real-estate-case-study-slide-on-chocolate-with-phone.png",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "title": "'real estate' project slide with goal and solution text, mobile screen and flower sticker",
+  "tags": [
+    "case-study",
+    "chocolate-brown",
+    "cream",
+    "phone-mockup",
+    "sticker",
+    "script",
+    "real-estate",
+    "bold-lead-in"
+  ],
+  "whatItIs": "A deep brown slide with a huge cream 'real estate' title, Goal and Solution paragraphs with bold lead-ins, a phone showing the Elysium sunset hero, a cream-outline flower sticker on its corner and a script 'project 1' sticker.",
+  "whatItMeans": "Warm and consistent; the same template across projects builds a series.",
+  "techniques": [
+    "Repeat one slide template for every project.",
+    "Overlap outline stickers on the device.",
+    "Bold the lead-ins.",
+    "Use cream on chocolate."
+  ],
+  "bestFor": [
+    "Web-design case study decks",
+    "Portfolio project slides",
+    "Real-estate UI projects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Slide template",
+      "definition": "A reusable layout across projects."
+    },
+    {
+      "term": "Outline sticker",
+      "definition": "Shapes with a thick contrasting border."
+    },
+    {
+      "term": "Bold lead-in",
+      "definition": "A bold phrase opening a paragraph."
+    },
+    {
+      "term": "Project counter",
+      "definition": "A script label numbering a project."
+    }
+  ]
+}

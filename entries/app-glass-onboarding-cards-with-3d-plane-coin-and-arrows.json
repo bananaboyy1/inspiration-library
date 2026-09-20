@@ -1,0 +1,48 @@
+{
+  "name": "app-glass-onboarding-cards-with-3d-plane-coin-and-arrows",
+  "image": "images/app-glass-onboarding-cards-with-3d-plane-coin-and-arrows.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Frosted glass cards on a pearl gradient with a 3D paper plane and coins, and a coin between cycle arrows",
+  "tags": [
+    "fintech",
+    "glass-cards",
+    "pearl",
+    "3d-objects",
+    "carousel",
+    "white-buttons",
+    "onboarding",
+    "coins"
+  ],
+  "whatItIs": "A pearl blue-lilac gradient with a carousel of tall frosted glass cards: one with a 3D paper plane, silver coins and an R coin under 'No loan offer is available right now.', another with a bronze bitcoin between blue cycle arrows under 'Smart money insights', each with a white pill 'Let's go' and cropped neighbours.",
+  "whatItMeans": "Soft and futuristic; glass and 3D objects make finance feel light.",
+  "techniques": [
+    "Frost tall cards over a pearl gradient.",
+    "Place a single 3D object at the top of each card.",
+    "Use one big white pill button.",
+    "Crop neighbouring cards to suggest a carousel."
+  ],
+  "bestFor": [
+    "Fintech onboarding and feature cards",
+    "Glassmorphism carousels",
+    "Pearl-gradient UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass carousel",
+      "definition": "A row of translucent cards that scrolls."
+    },
+    {
+      "term": "3D hero object",
+      "definition": "A rendered object leading each card."
+    },
+    {
+      "term": "Pearl gradient",
+      "definition": "A soft iridescent pastel blend."
+    },
+    {
+      "term": "White pill CTA",
+      "definition": "A white capsule button."
+    }
+  ]
+}

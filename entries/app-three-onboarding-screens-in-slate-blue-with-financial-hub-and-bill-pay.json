@@ -1,0 +1,48 @@
+{
+  "name": "app-three-onboarding-screens-in-slate-blue-with-financial-hub-and-bill-pay",
+  "image": "images/app-three-onboarding-screens-in-slate-blue-with-financial-hub-and-bill-pay.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Three light-to-slate-blue onboarding screens: banking simplified, growth hub and bill pay, with an italic serif headline",
+  "tags": [
+    "onboarding",
+    "fintech",
+    "slate-blue",
+    "italic-serif",
+    "progress",
+    "skip-next",
+    "white-cards",
+    "phones"
+  ],
+  "whatItIs": "An off-white board with a pill label, a headline mixing light sans and bold italic serif 'Banking Experience.' and three phones on a stepped layout: a transfer card with amount, a growth hub with a weekly bar and stats, and a bill-pay arc of icons with a receipt, each with a progress line and Skip and Next buttons.",
+  "whatItMeans": "Calm and reassuring; white cards over a slate gradient guide the user step by step.",
+  "techniques": [
+    "Fade screens from white to slate at the bottom.",
+    "Use two bottom buttons: Skip and a navy Next.",
+    "Show a preview card in each step.",
+    "Stagger phones diagonally."
+  ],
+  "bestFor": [
+    "Fintech onboarding flows",
+    "Slate-blue app systems",
+    "Feature-tour screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Feature tour",
+      "definition": "Onboarding screens each showing a benefit."
+    },
+    {
+      "term": "Skip/Next pair",
+      "definition": "A secondary and a primary button together."
+    },
+    {
+      "term": "Progress line",
+      "definition": "A thin line showing steps."
+    },
+    {
+      "term": "Preview card",
+      "definition": "A small card showing the feature."
+    }
+  ]
+}

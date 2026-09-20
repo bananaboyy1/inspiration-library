@@ -1,0 +1,48 @@
+{
+  "name": "web-illustrated-farm-tech-hero-with-monitor-and-phone-over-landscape",
+  "image": "images/web-illustrated-farm-tech-hero-with-monitor-and-phone-over-landscape.jpg",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Flat-illustrated farm landscape with a blue app hero on a monitor and a phone overlapping it",
+  "tags": [
+    "illustration",
+    "farming",
+    "blue",
+    "green",
+    "landscape",
+    "monitor",
+    "phone",
+    "drone"
+  ],
+  "whatItIs": "A bright flat-vector scene of hills, clouds, wind turbines and farmers. A monitor shows a blue hero 'Farming Made Simple, Smart & Fully Connected' with a floating drone and a pill nav, and a phone overlaps it with a farm dashboard.",
+  "whatItMeans": "Friendly and optimistic; the illustrated world flows straight into the UI.",
+  "techniques": [
+    "Continue an illustrated landscape into the screen.",
+    "Let a phone overlap the monitor.",
+    "Use one blue hero with a drone illustration.",
+    "Keep the UI pill nav clean."
+  ],
+  "bestFor": [
+    "Agritech and eco apps",
+    "Illustration-led site presentations",
+    "Friendly explainer heroes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flat vector scene",
+      "definition": "An illustration in flat shapes without outlines."
+    },
+    {
+      "term": "Scene continuity",
+      "definition": "A backdrop that matches the screen imagery."
+    },
+    {
+      "term": "Overlapping devices",
+      "definition": "A phone placed over a monitor."
+    },
+    {
+      "term": "Illustrated hero",
+      "definition": "A hero built from drawings."
+    }
+  ]
+}

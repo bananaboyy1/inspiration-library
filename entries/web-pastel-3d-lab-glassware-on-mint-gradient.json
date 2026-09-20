@@ -1,0 +1,48 @@
+{
+  "name": "web-pastel-3d-lab-glassware-on-mint-gradient",
+  "image": "images/web-pastel-3d-lab-glassware-on-mint-gradient.png",
+  "discipline": "web",
+  "designType": "3D illustration",
+  "title": "Soft 3D flask, stand and test-tube rack with pale green liquids on a mint table",
+  "tags": [
+    "3d-render",
+    "lab",
+    "glassware",
+    "mint",
+    "green",
+    "reflection",
+    "hero-asset",
+    "science"
+  ],
+  "whatItIs": "A wide render of an Erlenmeyer flask, a round flask on a metal stand and a rack of four test tubes filled with light green liquids, standing on a reflective mint surface against a white-to-lime gradient.",
+  "whatItMeans": "Calm and clean; pale tints make lab equipment feel nourishing and natural.",
+  "techniques": [
+    "Render glassware with subtle reflections on a glossy floor.",
+    "Keep liquids in soft green tints.",
+    "Use a vertical gradient wall behind.",
+    "Space objects evenly across a wide banner."
+  ],
+  "bestFor": [
+    "Biotech and skincare heroes",
+    "Section banners",
+    "Science visuals with a soft tone"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glossy floor",
+      "definition": "A reflective surface in a render."
+    },
+    {
+      "term": "Tinted liquid",
+      "definition": "Coloured fluid in glass."
+    },
+    {
+      "term": "Gradient wall",
+      "definition": "A background fading in colour."
+    },
+    {
+      "term": "Banner render",
+      "definition": "A wide 3D scene used as a header."
+    }
+  ]
+}

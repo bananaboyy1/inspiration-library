@@ -1,0 +1,47 @@
+{
+  "name": "app-mobility-app-on-bike-handlebar-lime",
+  "image": "images/app-mobility-app-on-bike-handlebar-lime.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Mobility app mounted on a bike handlebar over giant lime wordmark",
+  "tags": [
+    "mobility",
+    "lime",
+    "mockup",
+    "handlebar",
+    "map",
+    "giant-wordmark",
+    "photographic"
+  ],
+  "whatItIs": "A phone mounted on a black bike handlebar, filling a lime background with a huge faint wordmark behind. The screen shows a map with green pins and a bottom sheet offering Cars and Scooters and a search bar.",
+  "whatItMeans": "Energetic and street-smart; putting the phone in its real use context sells the product.",
+  "techniques": [
+    "Place the device in its real environment (bike) to tell the use story.",
+    "Fill the backdrop with a lime tint and a giant faint wordmark.",
+    "Use bright green map pins to echo the brand colour.",
+    "Crop the frame so the phone is centred with symmetrical hardware."
+  ],
+  "bestFor": [
+    "Micromobility, delivery and ride apps",
+    "Case-study covers",
+    "Brands with a neon identity"
+  ],
+  "vocabulary": [
+    {
+      "term": "Context mockup",
+      "definition": "A device shown in the environment where it will be used."
+    },
+    {
+      "term": "Ghost wordmark",
+      "definition": "An oversized low-contrast brand name behind content."
+    },
+    {
+      "term": "Map pin accent",
+      "definition": "Brand-coloured markers on a neutral map."
+    },
+    {
+      "term": "Bottom sheet",
+      "definition": "A pull-up panel with choices."
+    }
+  ]
+}

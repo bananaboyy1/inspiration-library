@@ -1,0 +1,48 @@
+{
+  "name": "web-mega-menu-with-brand-preview-card-and-titled-link-list",
+  "image": "images/web-mega-menu-with-brand-preview-card-and-titled-link-list.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Top nav 'Home, Components, Docs, List, Simple, With Icon' with an open mega menu: a grey preview card and three titled links",
+  "tags": [
+    "component",
+    "navigation",
+    "mega-menu",
+    "dropdown",
+    "white",
+    "grey",
+    "hover",
+    "minimal"
+  ],
+  "whatItIs": "A white page with a text nav where 'Home' is active with an up chevron under a cursor, and a bordered white dropdown panel with a soft grey card at the left titled 'ReUI' with a description and, at the right, three items (Introduction, Installation, Typography), each with a bold title and a grey description.",
+  "whatItMeans": "Organised and quiet; a preview card plus descriptive links helps choose a destination.",
+  "techniques": [
+    "Open a panel with a preview card and link list.",
+    "Give each link a title and description.",
+    "Mark the active nav item with a chevron.",
+    "Keep it monochrome."
+  ],
+  "bestFor": [
+    "Documentation navigation",
+    "Mega menu components",
+    "Minimal site headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mega menu",
+      "definition": "A large dropdown with multiple links and a preview."
+    },
+    {
+      "term": "Preview card",
+      "definition": "A card in a menu summarising the section."
+    },
+    {
+      "term": "Descriptive link",
+      "definition": "A link with a title and explanatory line."
+    },
+    {
+      "term": "Active chevron",
+      "definition": "An arrow showing the open state."
+    }
+  ]
+}

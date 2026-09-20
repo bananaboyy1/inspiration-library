@@ -1,0 +1,48 @@
+{
+  "name": "app-conversational-onboarding-with-sunset-arc-gradient",
+  "image": "images/app-conversational-onboarding-with-sunset-arc-gradient.gif",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Question screen with pale blue background and a blurred sunset arc at the bottom",
+  "tags": [
+    "onboarding",
+    "conversational",
+    "blue",
+    "gradient-arc",
+    "pill-buttons",
+    "progress-dots",
+    "large-question",
+    "ai"
+  ],
+  "whatItIs": "A single phone with a lavender-blue screen, a slim progress indicator with '02', a small intro line and a larger question in navy, and a blurred blue, orange and cream arc rising from the bottom behind two pill buttons: a white 'Write' and a blue voice button, plus a Skip link.",
+  "whatItMeans": "Warm and human; the glowing arc feels like a friendly presence asking the question.",
+  "techniques": [
+    "Use a blurred multi-colour arc as an ambient AI visual.",
+    "Put a small intro line above a large question.",
+    "Offer two answer modes (write or speak) as pills.",
+    "Use tiny dot progress with a bold current segment."
+  ],
+  "bestFor": [
+    "Conversational and AI onboarding",
+    "Wellness and family apps",
+    "Single-question screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ambient gradient",
+      "definition": "A soft colour glow used as decoration."
+    },
+    {
+      "term": "Dual input pills",
+      "definition": "Two buttons offering different ways to answer."
+    },
+    {
+      "term": "Progress dots",
+      "definition": "Small markers showing step position."
+    },
+    {
+      "term": "Skip link",
+      "definition": "An underlined low-priority text action."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-multi-level-accordion-faq-component-on-dotted-white",
+  "image": "images/web-multi-level-accordion-faq-component-on-dotted-white.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Bordered FAQ accordion with nested sub-questions in a grey inset, on a dotted white ground",
+  "tags": [
+    "component",
+    "accordion",
+    "faq",
+    "white",
+    "dotted",
+    "nested",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white component card titled 'Multi-level' with six question rows separated by hairlines and chevrons, where one open row reveals a nested question list in a grey inset with its own chevrons and a short answer.",
+  "whatItMeans": "Clear and quiet; grey insets show hierarchy without extra colour.",
+  "techniques": [
+    "Nest sub-accordions inside an open item.",
+    "Tint the nested area grey.",
+    "Use chevrons that flip when open.",
+    "Separate rows with hairlines."
+  ],
+  "bestFor": [
+    "FAQ and documentation components",
+    "UI kit showcases",
+    "Minimal interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Accordion",
+      "definition": "A list of items that expand and collapse."
+    },
+    {
+      "term": "Nested accordion",
+      "definition": "An accordion inside an open item."
+    },
+    {
+      "term": "Grey inset",
+      "definition": "A tinted area marking a sub-level."
+    },
+    {
+      "term": "Chevron toggle",
+      "definition": "An arrow icon showing open or closed."
+    }
+  ]
+}

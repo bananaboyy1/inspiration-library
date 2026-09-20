@@ -1,0 +1,43 @@
+{
+  "name": "print-social-gradient-glow-portfolio-site-promo",
+  "image": "images/print-social-gradient-glow-portfolio-site-promo.webp",
+  "discipline": "print-social",
+  "designType": "Product UI promo card",
+  "title": "Portfolio Site and Mobile View on Neon Gradient",
+  "tags": [
+    "gradient",
+    "device",
+    "portfolio",
+    "promo",
+    "dark",
+    "responsive"
+  ],
+  "whatItIs": "A promo graphic showing a photographer's portfolio website on desktop with a phone view overlapping its edge, a black app-icon tile at the left, on a black background with blue and magenta glows.",
+  "whatItMeans": "Showing the same site at two sizes proves responsiveness without saying it, and the vivid photography brings color to a mostly monochrome frame. The icon tile anchors the brand.",
+  "techniques": [
+    "Cropped browser window running off the bottom edge to imply more content",
+    "Overlapping a phone frame over the desktop frame to show responsive behavior",
+    "Photography as the color payload against neutral UI and a dark surround",
+    "Placing a bold brand tile at the left edge to sign the composition",
+    "Blue and magenta glows in opposite corners to balance the frame"
+  ],
+  "bestFor": [
+    "Announcing a portfolio or website-builder feature",
+    "Showcasing customer work in social carousels",
+    "Template marketplace promotions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Device pairing",
+      "definition": "Showing desktop and mobile versions together in one composition."
+    },
+    {
+      "term": "Bleed crop",
+      "definition": "Letting a screenshot run off the edge of the canvas to imply continuation."
+    },
+    {
+      "term": "Brand tile",
+      "definition": "A square rounded app-icon shape used as a compact logo stamp."
+    }
+  ]
+}

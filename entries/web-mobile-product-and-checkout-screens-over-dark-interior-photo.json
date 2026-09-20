@@ -1,0 +1,48 @@
+{
+  "name": "web-mobile-product-and-checkout-screens-over-dark-interior-photo",
+  "image": "images/web-mobile-product-and-checkout-screens-over-dark-interior-photo.png",
+  "discipline": "web",
+  "designType": "Responsive mobile web",
+  "title": "Two white phone screens (product details and checkout) over a moody dark interior photo of a man on a sofa",
+  "tags": [
+    "mobile-web",
+    "product-page",
+    "checkout",
+    "dark-photo",
+    "black-button",
+    "violet",
+    "express-pay",
+    "fashion"
+  ],
+  "whatItIs": "A dark warm-toned photo of a man reading in an armchair with a milkshake beside him, overlaid with two staggered white mobile screens: a product detail with a violet-backdrop model, thumbnail strip, price, colour and size selectors and a black Add to cart, and a checkout with two items, discount code, cost lines, benefit list, violet and yellow express buttons and a black Others Pay button.",
+  "whatItMeans": "Warm and cinematic; bright UI over a dim lifestyle scene draws attention to the flow.",
+  "techniques": [
+    "Overlay white screens on a dark editorial photo.",
+    "Stagger the two phones.",
+    "Keep buttons black with brand-coloured express pay.",
+    "Use a violet product backdrop as accent."
+  ],
+  "bestFor": [
+    "Fashion app flow showcases",
+    "Product and checkout screens",
+    "Lifestyle-photo presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen over photo",
+      "definition": "UI screens placed on a full-bleed photo."
+    },
+    {
+      "term": "Thumbnail strip",
+      "definition": "Small product photos below the main image."
+    },
+    {
+      "term": "Express pay",
+      "definition": "Coloured quick-checkout buttons."
+    },
+    {
+      "term": "Staggered screens",
+      "definition": "Screens placed at different heights."
+    }
+  ]
+}

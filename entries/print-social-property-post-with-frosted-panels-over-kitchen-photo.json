@@ -1,0 +1,48 @@
+{
+  "name": "print-social-property-post-with-frosted-panels-over-kitchen-photo",
+  "image": "images/print-social-property-post-with-frosted-panels-over-kitchen-photo.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Warm loft kitchen photo with two frosted glass panels naming the project and price",
+  "tags": [
+    "real-estate",
+    "interior",
+    "frosted-glass",
+    "white-text",
+    "warm",
+    "kitchen",
+    "portrait",
+    "price"
+  ],
+  "whatItIs": "A sunlit modern kitchen with concrete ceiling, wood cabinets and a big window. A frosted rounded panel at the top holds 'NOVA PARK' in bold caps and a two-line descriptor, and a smaller panel at the bottom gives price per square metre and city.",
+  "whatItMeans": "Warm and aspirational; glass panels keep the photo clear while text reads.",
+  "techniques": [
+    "Frame a heading in a frosted panel over a photo.",
+    "Use a smaller panel for facts.",
+    "Choose warm, well-lit interior photos.",
+    "Keep type white and simple."
+  ],
+  "bestFor": [
+    "Property promos",
+    "Interior-led ads",
+    "Frosted-panel layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted panel",
+      "definition": "A blurred translucent box holding text."
+    },
+    {
+      "term": "Interior hero",
+      "definition": "A room photo as the main image."
+    },
+    {
+      "term": "Fact panel",
+      "definition": "A small box with price and location."
+    },
+    {
+      "term": "Warm interior light",
+      "definition": "Golden light in a room photo."
+    }
+  ]
+}

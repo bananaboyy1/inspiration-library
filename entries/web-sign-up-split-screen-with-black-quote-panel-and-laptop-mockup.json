@@ -1,0 +1,48 @@
+{
+  "name": "web-sign-up-split-screen-with-black-quote-panel-and-laptop-mockup",
+  "image": "images/web-sign-up-split-screen-with-black-quote-panel-and-laptop-mockup.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Split sign-up: a white 'Create an account' form with social buttons on the left and a black striped panel with a quote and a cropped laptop on the right",
+  "tags": [
+    "sign-up",
+    "form",
+    "split-screen",
+    "white",
+    "black",
+    "testimonial",
+    "laptop",
+    "social-login"
+  ],
+  "whatItIs": "A two-panel screen: at left a white area with a light title, Google and Apple buttons, an 'or' divider, first and last name fields, email, a masked password with an eye icon, two checkboxes and a wide black Submit; at right a black panel with vertical grey light streaks, a round avatar with name and role, a large white quote and a cropped grey laptop showing an inbox.",
+  "whatItMeans": "Trustworthy and focused; a quote and product peek beside the form add confidence.",
+  "techniques": [
+    "Split the screen into form and story.",
+    "Place social sign-in above the form.",
+    "End with a full-width black button.",
+    "Show a cropped laptop on the dark panel."
+  ],
+  "bestFor": [
+    "Sign-up and login pages",
+    "Split-screen auth layouts",
+    "Testimonial-backed forms"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split-screen auth",
+      "definition": "A form on one side and marketing on the other."
+    },
+    {
+      "term": "Social sign-up",
+      "definition": "Buttons to register via Google or Apple."
+    },
+    {
+      "term": "Quote panel",
+      "definition": "A dark area with a testimonial."
+    },
+    {
+      "term": "Cropped mockup",
+      "definition": "A device cut off by the panel edge."
+    }
+  ]
+}

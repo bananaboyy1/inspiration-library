@@ -1,0 +1,48 @@
+{
+  "name": "app-insight-cards-carousel-stress-levels-in-navy-on-periwinkle",
+  "image": "images/app-insight-cards-carousel-stress-levels-in-navy-on-periwinkle.gif",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Wellbeing insight cards: a tall navy stress card between cream cards on periwinkle",
+  "tags": [
+    "insights",
+    "cards",
+    "navy",
+    "periwinkle",
+    "cream",
+    "large-word",
+    "chart",
+    "cropped-carousel"
+  ],
+  "whatItIs": "A rounded periwinkle panel showing three vertical cards, the middle one solid navy with STRESS LEVELS text and a giant white 'High' at the bottom, flanked by cropped cream cards with a blue gradient orb and an orange line chart.",
+  "whatItMeans": "Clear and calm; one huge word delivers the result immediately.",
+  "techniques": [
+    "Give each insight one huge verdict word.",
+    "Distinguish cards by colour: navy for the focused one, cream for neighbours.",
+    "Crop side cards to imply swiping.",
+    "Use a single orange line for data."
+  ],
+  "bestFor": [
+    "Wellbeing and health insight apps",
+    "Card carousels in mobile UI",
+    "Summarising metrics in plain words"
+  ],
+  "vocabulary": [
+    {
+      "term": "Verdict word",
+      "definition": "A single large word summarising a result."
+    },
+    {
+      "term": "Cropped carousel",
+      "definition": "Side cards cut by the frame to show more exist."
+    },
+    {
+      "term": "Focus card",
+      "definition": "The active card given the strongest colour."
+    },
+    {
+      "term": "Insight card",
+      "definition": "A card giving guidance based on data."
+    }
+  ]
+}

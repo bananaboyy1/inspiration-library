@@ -1,0 +1,48 @@
+{
+  "name": "web-red-skincare-site-with-ink-landscape-and-freckled-portrait",
+  "image": "images/web-red-skincare-site-with-ink-landscape-and-freckled-portrait.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Chinese-ritual skincare site in red and white with ink-wash mountains and a freckled close-up",
+  "tags": [
+    "skincare",
+    "red",
+    "white",
+    "ink-wash",
+    "serif",
+    "chinese",
+    "close-up",
+    "split-hero"
+  ],
+  "whatItIs": "A page over grey ink-wash mountain art: a split hero with a macro photo of a freckled eye and cheek at left and a vivid red panel at right with centred white serif text about Chinese rituals and a jar product, and a white section with red serif 'Designed for real skin' and a faint red glyph background.",
+  "whatItMeans": "Cultural and refined; saturated red and ink wash feel ritualistic and premium.",
+  "techniques": [
+    "Split hero into photo and solid red panel.",
+    "Use ink-wash art as the page backdrop.",
+    "Centre serif copy with product in the line.",
+    "Add faint large characters as texture."
+  ],
+  "bestFor": [
+    "Heritage skincare and beauty brands",
+    "Culture-inspired sites",
+    "Red and white luxury identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ink-wash art",
+      "definition": "Brush landscapes in soft grey."
+    },
+    {
+      "term": "Macro portrait",
+      "definition": "An extreme close-up of skin or eye."
+    },
+    {
+      "term": "Inline product",
+      "definition": "A product image inside a line of text."
+    },
+    {
+      "term": "Ghost glyph",
+      "definition": "A faint large character behind text."
+    }
+  ]
+}

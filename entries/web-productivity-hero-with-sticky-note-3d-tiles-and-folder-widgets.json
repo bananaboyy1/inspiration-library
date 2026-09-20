@@ -1,0 +1,48 @@
+{
+  "name": "web-productivity-hero-with-sticky-note-3d-tiles-and-folder-widgets",
+  "image": "images/web-productivity-hero-with-sticky-note-3d-tiles-and-folder-widgets.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Textured white hero 'Think, plan, and track all in one place' with a pinned sticky note, 3D icon tiles and folder-shaped widgets in the corners",
+  "tags": [
+    "saas",
+    "productivity",
+    "white",
+    "blue",
+    "sticky-note",
+    "3d-icons",
+    "folders",
+    "dot-texture"
+  ],
+  "whatItIs": "A white page with a dotted grey textured field, a centred headline in black and grey, a blue Get free demo button, a logo tile with four dots at the top centre, a yellow pinned note with handwriting and a blue check tile at the left, a stopwatch tile and a reminders folder at the right, and folder-shaped widgets at the bottom for today's tasks and integrations.",
+  "whatItMeans": "Playful yet tidy; tactile desk objects make software feel like a well-organised desk.",
+  "techniques": [
+    "Scatter desk-object widgets around a centred headline.",
+    "Shape widgets like folders.",
+    "Use a two-tone headline in black and grey.",
+    "Keep one blue CTA."
+  ],
+  "bestFor": [
+    "Productivity and task-management heroes",
+    "Skeuomorphic light UI",
+    "Blue single-CTA pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sticky note widget",
+      "definition": "A yellow pinned note as a UI element."
+    },
+    {
+      "term": "Folder widget",
+      "definition": "A card shaped like a folder tab."
+    },
+    {
+      "term": "Two-tone headline",
+      "definition": "A headline in black and lighter grey."
+    },
+    {
+      "term": "Dot texture",
+      "definition": "A fine dot pattern on the background."
+    }
+  ]
+}

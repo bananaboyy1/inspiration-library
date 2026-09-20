@@ -1,0 +1,48 @@
+{
+  "name": "print-social-desktop-folders-social-media-portfolio-title-slide",
+  "image": "images/print-social-desktop-folders-social-media-portfolio-title-slide.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Cream title slide with huge heavy 'social media', cursor and three blue folders",
+  "tags": [
+    "title-slide",
+    "cream",
+    "brown",
+    "folders",
+    "cursor",
+    "heavy-sans",
+    "desktop-metaphor",
+    "portfolio"
+  ],
+  "whatItIs": "A cream slide with a giant chocolate heavy sans 'social media', a pixel-outlined cursor at its end, a small subline, and three blue folders labelled 'social media', 'instagram' and 'posts' scattered around.",
+  "whatItMeans": "Simple and friendly; folders turn a title into a computer desktop.",
+  "techniques": [
+    "Set one huge heavy word as the title.",
+    "Scatter labelled folders around it.",
+    "Add a cursor as a call to click.",
+    "Use only cream, brown and blue."
+  ],
+  "bestFor": [
+    "Portfolio section dividers",
+    "Desktop-themed presentations",
+    "Title slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Desktop scatter",
+      "definition": "Icons placed randomly like a desktop."
+    },
+    {
+      "term": "Heavy sans title",
+      "definition": "A very bold sans-serif headline."
+    },
+    {
+      "term": "Cursor accent",
+      "definition": "A pointer used as an ornament."
+    },
+    {
+      "term": "Section divider",
+      "definition": "A slide introducing a new section."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-transactions-table-dashboard-on-tilted-tablet",
+  "image": "images/app-transactions-table-dashboard-on-tilted-tablet.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Full-size tilted tablet with transactions table, gradient summary cards and glass coins",
+  "tags": [
+    "dashboard",
+    "fintech",
+    "tablet",
+    "table",
+    "status-pills",
+    "gradient-cards",
+    "3d-coins",
+    "monogram-logo"
+  ],
+  "whatItIs": "A large tilted tablet on pale blue sky with a sidebar (Home, Tasks, Transactions selected, Payments...), three gradient cards for net change, money in and money out, a table with Google entries, status pills and method chips, and a black 'M' logo at the corner.",
+  "whatItMeans": "Efficient and friendly; pastel gradients soften a finance table.",
+  "techniques": [
+    "Tilt the device to fill the frame.",
+    "Highlight the active nav item in lilac.",
+    "Use blurred rainbow gradients for summary tiles.",
+    "Add a small logo in the corner."
+  ],
+  "bestFor": [
+    "Fintech and agency dashboard covers",
+    "Table UI showcases",
+    "Light SaaS products"
+  ],
+  "vocabulary": [
+    {
+      "term": "Active nav highlight",
+      "definition": "A tinted row marking the current page."
+    },
+    {
+      "term": "Method chip",
+      "definition": "A small outlined pill naming a payment method."
+    },
+    {
+      "term": "Corner monogram",
+      "definition": "A studio logo in a corner."
+    },
+    {
+      "term": "Tilted tablet",
+      "definition": "A tablet shown at a steep angle."
+    }
+  ]
+}

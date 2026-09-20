@@ -1,0 +1,48 @@
+{
+  "name": "app-real-estate-portfolio-dashboard-on-3d-city-map",
+  "image": "images/app-real-estate-portfolio-dashboard-on-3d-city-map.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Investment property dashboard on a white 3D city model with lime-highlighted building",
+  "tags": [
+    "dashboard",
+    "real-estate",
+    "3d-map",
+    "lime",
+    "white",
+    "perspective",
+    "charts",
+    "glass"
+  ],
+  "whatItIs": "A pale tilted monitor showing a white 3D model of a neighbourhood with one building highlighted in translucent lime. Frosted panels carry property overview, holding stats, yield, a market value line chart and a payments table. Blurred detail crops of expenses bars and a documents list are shown below.",
+  "whatItMeans": "Refined and tangible; the highlighted building ties abstract numbers to a physical asset.",
+  "techniques": [
+    "Use a monochrome white 3D map with one lime-tinted focus object.",
+    "Place frosted panels over the map.",
+    "Show a thin line chart with a lime glow.",
+    "Add blurred zoomed crops to show detail."
+  ],
+  "bestFor": [
+    "Real-estate and asset dashboards",
+    "Spatial data products",
+    "Light premium interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spatial highlight",
+      "definition": "Colouring one object on a map."
+    },
+    {
+      "term": "Frosted panel",
+      "definition": "A blurred translucent data panel."
+    },
+    {
+      "term": "Zoom crop",
+      "definition": "An enlarged detail shown beside the full screen."
+    },
+    {
+      "term": "Monochrome map",
+      "definition": "A map rendered in one neutral colour."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "print-social-grid-poster-with-red-and-white-lines-on-black",
+  "image": "images/print-social-grid-poster-with-red-and-white-lines-on-black.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Rotated 'GRID' word beside a lattice of white and red lines on black with orange border",
+  "tags": [
+    "poster",
+    "grid",
+    "black",
+    "white",
+    "red",
+    "orange",
+    "rotated-type",
+    "lines"
+  ],
+  "whatItIs": "A poster with an orange frame, a black field with a huge grey rotated 'GRID' at the top left with small paragraphs beside it, and below and to the right thick white and red horizontal and vertical lines forming a woven lattice.",
+  "whatItMeans": "Structured and lively; the lines show the idea of a grid literally.",
+  "techniques": [
+    "Illustrate the word with a lattice.",
+    "Use red lines as highlights.",
+    "Rotate the word 90 degrees.",
+    "Frame with orange."
+  ],
+  "bestFor": [
+    "Concept typographic posters",
+    "Swiss and modernist series",
+    "Line-based graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lattice",
+      "definition": "Crossing lines forming a grid."
+    },
+    {
+      "term": "Red accent line",
+      "definition": "A single red line among white ones."
+    },
+    {
+      "term": "Rotated word",
+      "definition": "A word set vertically."
+    },
+    {
+      "term": "Frame colour",
+      "definition": "A coloured border around a poster."
+    }
+  ]
+}

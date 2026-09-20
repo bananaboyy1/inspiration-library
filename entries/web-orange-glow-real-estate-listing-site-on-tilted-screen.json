@@ -1,0 +1,48 @@
+{
+  "name": "web-orange-glow-real-estate-listing-site-on-tilted-screen",
+  "image": "images/web-orange-glow-real-estate-listing-site-on-tilted-screen.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Real-estate investment site on a tilted screen against a black-to-orange glow",
+  "tags": [
+    "real-estate",
+    "dark-orange",
+    "tilted",
+    "listing-cards",
+    "pills",
+    "project-cover",
+    "glow",
+    "perspective"
+  ],
+  "whatItIs": "A close, tilted view of a website on a dark orange-black gradient. Top pills say Website Design, Mobile Responsive and Development; the page has 'Explore Investment Opportunities' with a counter badge, filter chips and cards for houses with status tags.",
+  "whatItMeans": "Bold and warm; the glow makes a clean white site feel dramatic.",
+  "techniques": [
+    "Tilt the browser in perspective on a glowing gradient.",
+    "Add small outlined pills above as service tags.",
+    "Use a counter badge next to the headline.",
+    "Show listing cards with small status chips."
+  ],
+  "bestFor": [
+    "Property and marketplace site covers",
+    "Agency case-study thumbnails",
+    "Warm dark presentation backdrops"
+  ],
+  "vocabulary": [
+    {
+      "term": "Service tags",
+      "definition": "Outlined pills listing what was delivered."
+    },
+    {
+      "term": "Glow gradient",
+      "definition": "A dark background with a warm bloom."
+    },
+    {
+      "term": "Status chip",
+      "definition": "A small label such as Rented on a card."
+    },
+    {
+      "term": "Perspective tilt",
+      "definition": "An angled view of a screen."
+    }
+  ]
+}

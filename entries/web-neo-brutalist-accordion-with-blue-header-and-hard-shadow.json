@@ -1,0 +1,48 @@
+{
+  "name": "web-neo-brutalist-accordion-with-blue-header-and-hard-shadow",
+  "image": "images/web-neo-brutalist-accordion-with-blue-header-and-hard-shadow.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Single open accordion with a cornflower blue header, black outline and hard offset shadow, asking 'Is it accessible?'",
+  "tags": [
+    "component",
+    "accordion",
+    "neo-brutalism",
+    "blue",
+    "hard-shadow",
+    "black-outline",
+    "faq",
+    "ui-kit"
+  ],
+  "whatItIs": "A white frame with one accordion item: a cornflower blue header bar with a bold question and an up chevron, a white body with a one-line answer, a thick black outline and a solid black shadow at the bottom right.",
+  "whatItMeans": "Bold and tactile; thick outlines and a hard shadow make a small component feel like a sticker.",
+  "techniques": [
+    "Use a coloured header and white body.",
+    "Outline in thick black.",
+    "Add a hard offset shadow.",
+    "Keep type bold and simple."
+  ],
+  "bestFor": [
+    "Neo-brutalist component libraries",
+    "Playful FAQ sections",
+    "Bold outlined UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hard offset shadow",
+      "definition": "A solid unblurred shadow beside an element."
+    },
+    {
+      "term": "Coloured header",
+      "definition": "An accordion title bar filled with a colour."
+    },
+    {
+      "term": "Black keyline",
+      "definition": "A thick black outline around a component."
+    },
+    {
+      "term": "Neo-brutalism",
+      "definition": "A style of thick borders, hard shadows and flat colour."
+    }
+  ]
+}

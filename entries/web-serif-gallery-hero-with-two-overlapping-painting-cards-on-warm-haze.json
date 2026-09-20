@@ -1,0 +1,48 @@
+{
+  "name": "web-serif-gallery-hero-with-two-overlapping-painting-cards-on-warm-haze",
+  "image": "images/web-serif-gallery-hero-with-two-overlapping-painting-cards-on-warm-haze.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Hero 'A gallery for the work you are proud of.' in serif with two overlapping painting cards on a warm beige haze",
+  "tags": [
+    "hero",
+    "serif",
+    "gallery",
+    "paintings",
+    "beige",
+    "warm",
+    "cards",
+    "black-button"
+  ],
+  "whatItIs": "A cream page with a soft warm haze band and a left column with a black serif headline, a grey subline, a black Start your gallery pill and a text link See examples, and at the right a tall card of an old seascape painting with a smaller card of a mountain landscape overlapping its lower right corner, both with soft shadows.",
+  "whatItMeans": "Warm and cultured; painterly images with serif type make a tool feel like a gallery.",
+  "techniques": [
+    "Overlap two artwork cards.",
+    "Use serif type and a warm haze.",
+    "Pair a black filled button with a text link.",
+    "Keep copy short."
+  ],
+  "bestFor": [
+    "Art and portfolio platforms",
+    "Serif editorial heroes",
+    "Overlapping image cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overlapping cards",
+      "definition": "One image card partly covering another."
+    },
+    {
+      "term": "Warm haze",
+      "definition": "A soft beige blur behind content."
+    },
+    {
+      "term": "Serif headline",
+      "definition": "A headline in an elegant serif."
+    },
+    {
+      "term": "Text link secondary",
+      "definition": "A plain link beside a primary button."
+    }
+  ]
+}

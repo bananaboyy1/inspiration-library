@@ -1,0 +1,47 @@
+{
+  "name": "print-social-luxury-property-post-with-dusk-tower",
+  "image": "images/print-social-luxury-property-post-with-dusk-tower.png",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "Property post with dusk skyline, centred caps title and glass info card",
+  "tags": [
+    "real-estate",
+    "luxury",
+    "dusk",
+    "photo-overlay",
+    "glass-card",
+    "centered-title",
+    "portrait"
+  ],
+  "whatItIs": "A tall image of a modern apartment building at sunset over a city skyline. A dark bold 'ELYSIUM HILLS' and a light tagline sit in the sky. At the bottom left a frosted brown glass card shows price per square metre and city.",
+  "whatItMeans": "Serene and premium; text in the clear sky and a quiet glass card keep the photo dominant.",
+  "techniques": [
+    "Place headline text in the clear part of the sky for legibility.",
+    "Overlay a translucent card for price and location.",
+    "Use a warm gradient sky against a cool blue-grey top.",
+    "Keep type minimal: bold caps title plus light tagline."
+  ],
+  "bestFor": [
+    "Real-estate and development promos",
+    "Luxury service ads",
+    "Photo-led announcements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sky text",
+      "definition": "Text placed over the clear sky area of a photo."
+    },
+    {
+      "term": "Glass info card",
+      "definition": "A frosted translucent box holding key facts."
+    },
+    {
+      "term": "Golden hour",
+      "definition": "Warm light near sunset."
+    },
+    {
+      "term": "Price line",
+      "definition": "A short line stating cost and place."
+    }
+  ]
+}

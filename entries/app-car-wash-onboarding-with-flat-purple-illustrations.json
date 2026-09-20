@@ -1,0 +1,48 @@
+{
+  "name": "app-car-wash-onboarding-with-flat-purple-illustrations",
+  "image": "images/app-car-wash-onboarding-with-flat-purple-illustrations.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Three white screens with flat purple illustrations: car wash on demand, choose a service and enjoy the journey",
+  "tags": [
+    "onboarding",
+    "illustration",
+    "purple",
+    "white",
+    "flat",
+    "car",
+    "swipe-button",
+    "three-screens"
+  ],
+  "whatItIs": "Three phones on grey tilted at angles, each with a flat isometric illustration in magenta and purple (a woman by a car, a mechanic with an open hood, friends in a convertible), a bold black title, a grey description, pager dots and a purple Next pill with a swipe arrow.",
+  "whatItMeans": "Simple and friendly; consistent flat illustrations make services approachable.",
+  "techniques": [
+    "Use one purple illustration style.",
+    "Place a bold title and short line under each.",
+    "Use a pill Next with a swipe track.",
+    "Tilt phones for energy."
+  ],
+  "bestFor": [
+    "Service booking app onboarding",
+    "Illustration-led screens",
+    "Purple brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Isometric flat illustration",
+      "definition": "A flat drawing in angled 3D view."
+    },
+    {
+      "term": "Swipe pill",
+      "definition": "A button with a slider hint."
+    },
+    {
+      "term": "Pager dots",
+      "definition": "Small dots showing steps."
+    },
+    {
+      "term": "Tilted phones",
+      "definition": "Phones angled on a board."
+    }
+  ]
+}

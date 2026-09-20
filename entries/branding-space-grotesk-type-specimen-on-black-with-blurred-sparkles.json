@@ -1,0 +1,48 @@
+{
+  "name": "branding-space-grotesk-type-specimen-on-black-with-blurred-sparkles",
+  "image": "images/branding-space-grotesk-type-specimen-on-black-with-blurred-sparkles.jpg",
+  "discipline": "branding",
+  "designType": "Typography and colour guide",
+  "title": "Space Grotesk specimen in violet and white with blurred sparkle shapes",
+  "tags": [
+    "typography",
+    "specimen",
+    "dark",
+    "violet",
+    "sparkle",
+    "weights",
+    "brand-guidelines",
+    "ai"
+  ],
+  "whatItIs": "A near-black slide titled 'Typography' with the typeface name in violet, two blurred four-point sparkles at upper right, and three columns showing Aa in Bold, Medium and Regular with full alphabets and numerals.",
+  "whatItMeans": "Techy and clean; sparkles signal AI while the specimen stays clear and orderly.",
+  "techniques": [
+    "Colour the type name in the brand accent.",
+    "Show three weights side by side with alphabet lines.",
+    "Use blurred sparkle shapes as an AI motif.",
+    "Keep everything on a flat near-black canvas."
+  ],
+  "bestFor": [
+    "Brand guidelines for AI and tech products",
+    "Type specimen pages",
+    "Dark-mode design systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Specimen",
+      "definition": "A display of a typeface showing its characters."
+    },
+    {
+      "term": "Weight set",
+      "definition": "Regular, medium and bold versions of one family."
+    },
+    {
+      "term": "Sparkle motif",
+      "definition": "A four-point star used to suggest AI."
+    },
+    {
+      "term": "Accent name",
+      "definition": "The font name coloured in the brand hue."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-watch-strap-shop-with-lime-outlined-headline-and-lime-testimonial",
+  "image": "images/web-watch-strap-shop-with-lime-outlined-headline-and-lime-testimonial.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Watch-strap store in white, grey and electric lime: outlined keyword headline, product card, best-seller grid and a lime quote block",
+  "tags": [
+    "e-commerce",
+    "watch",
+    "white",
+    "lime",
+    "lowercase",
+    "outlined-keyword",
+    "product-grid",
+    "mobile"
+  ],
+  "whatItIs": "Three views: a desktop page with a lowercase headline 'legacy steel black sport pro strap' where words are wrapped in lime outlined pills, a price and lime add-to-cart, a large product card with a black watch and colour and size selectors, a 'shop by' tab row, a three-product grid with stars, and a 'why milanese loop?' section with a lime testimonial card; a long mobile version and a second mobile screen with text and lime quote block.",
+  "whatItMeans": "Clean and fresh; lime accents on a quiet white grid give a tech-accessory feel.",
+  "techniques": [
+    "Wrap headline words in thin lime outlines.",
+    "Use one lime for buttons and quote block.",
+    "Round product tiles in light grey.",
+    "Keep type lowercase and light."
+  ],
+  "bestFor": [
+    "Tech accessory and wearable stores",
+    "Lime and white e-commerce",
+    "Lowercase minimal sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outlined keyword",
+      "definition": "A word inside a thin coloured outline."
+    },
+    {
+      "term": "Lime quote block",
+      "definition": "A bright green card holding a testimonial."
+    },
+    {
+      "term": "Selector pill",
+      "definition": "A capsule for size or colour choice."
+    },
+    {
+      "term": "Lowercase voice",
+      "definition": "All text set in lowercase."
+    }
+  ]
+}

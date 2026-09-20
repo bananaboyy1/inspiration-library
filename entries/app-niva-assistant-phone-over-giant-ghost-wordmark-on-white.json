@@ -1,0 +1,48 @@
+{
+  "name": "app-niva-assistant-phone-over-giant-ghost-wordmark-on-white",
+  "image": "images/app-niva-assistant-phone-over-giant-ghost-wordmark-on-white.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Assistant home screen on a phone over a giant pale 'Niva' wordmark that fades into white",
+  "tags": [
+    "assistant",
+    "ai",
+    "white",
+    "ghost-wordmark",
+    "gradient-arc",
+    "chips",
+    "project-cover",
+    "rounded"
+  ],
+  "whatItIs": "A white rounded frame with a huge pale-grey 'Niva' fading downward behind a centred phone showing the family assistant screen: greeting, question, three action chips, a gradient arc and an Ask Niva input with a blue mic, plus upcoming activity cards at the base.",
+  "whatItMeans": "Clean and calm; the ghost name gives brand presence without clutter.",
+  "techniques": [
+    "Set a faded giant name behind a phone.",
+    "Fade the backdrop to white.",
+    "Crop the phone at the bottom.",
+    "Use a warm gradient arc as the AI glow."
+  ],
+  "bestFor": [
+    "Assistant app covers",
+    "White minimal presentations",
+    "Family and productivity apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost wordmark",
+      "definition": "A giant faint brand name behind content."
+    },
+    {
+      "term": "Vertical fade",
+      "definition": "A gradient fading toward white."
+    },
+    {
+      "term": "Action chip",
+      "definition": "A small pill for a quick action."
+    },
+    {
+      "term": "Bottom crop",
+      "definition": "A device cut by the frame's lower edge."
+    }
+  ]
+}

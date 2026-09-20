@@ -1,0 +1,48 @@
+{
+  "name": "web-industrial-home-page-on-tilted-tablet-in-hand",
+  "image": "images/web-industrial-home-page-on-tilted-tablet-in-hand.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Metal-supplier homepage on a tablet tilted in a hand against neutral grey",
+  "tags": [
+    "tablet",
+    "mockup",
+    "hand",
+    "blue",
+    "grey",
+    "industrial",
+    "hero-banner",
+    "cyrillic"
+  ],
+  "whatItIs": "A hand holds a tablet at a steep angle in front of a mid-grey rounded panel; the screen shows a blue hero with steel bars, promo tiles for discounts, returns and delivery, and a category list.",
+  "whatItMeans": "Practical and confident; the tilt gives dynamism to a plain catalogue.",
+  "techniques": [
+    "Tilt the device sharply for energy.",
+    "Use a flat grey backdrop.",
+    "Show hero banner plus promo tiles.",
+    "Let the hand overlap the bottom edge."
+  ],
+  "bestFor": [
+    "B2B catalogue showcases",
+    "Device-in-hand covers",
+    "Neutral mockup scenes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Steep tilt",
+      "definition": "A device angled strongly in frame."
+    },
+    {
+      "term": "Flat grey stage",
+      "definition": "A plain neutral backdrop."
+    },
+    {
+      "term": "Promo tile",
+      "definition": "A small banner for an offer."
+    },
+    {
+      "term": "Category list",
+      "definition": "A vertical menu of product groups."
+    }
+  ]
+}

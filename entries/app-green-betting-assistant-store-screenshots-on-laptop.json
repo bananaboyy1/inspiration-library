@@ -1,0 +1,48 @@
+{
+  "name": "app-green-betting-assistant-store-screenshots-on-laptop",
+  "image": "images/app-green-betting-assistant-store-screenshots-on-laptop.jpg",
+  "discipline": "app",
+  "designType": "App store presentation",
+  "title": "Four green store screenshots for an AI betting assistant, photographed on a laptop screen",
+  "tags": [
+    "app-store",
+    "screenshots",
+    "green",
+    "dark-ui",
+    "chat",
+    "bold-headline",
+    "laptop-photo",
+    "sports"
+  ],
+  "whatItIs": "A slightly angled photo of a laptop showing four tall green screenshots: 'Your AI Betting Sidekick' with a bubble icon, 'Ask AI Before You Bet First', and two more, each with a bold white headline over a dark phone UI.",
+  "whatItMeans": "Punchy and confident; green and black suit a sports and money product.",
+  "techniques": [
+    "Use huge bold headlines above the phone.",
+    "Keep one green across all screenshots.",
+    "Crop phones at the bottom edge.",
+    "Show screenshots as a horizontal strip."
+  ],
+  "bestFor": [
+    "Store listing screenshots",
+    "Sports and gaming apps",
+    "Single-colour app marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screenshot strip",
+      "definition": "A row of store screenshots."
+    },
+    {
+      "term": "Headline-over-phone",
+      "definition": "Bold text above a cropped phone."
+    },
+    {
+      "term": "Single-hue set",
+      "definition": "All screenshots in one brand colour."
+    },
+    {
+      "term": "Screen photo",
+      "definition": "A photo of a design on a monitor."
+    }
+  ]
+}

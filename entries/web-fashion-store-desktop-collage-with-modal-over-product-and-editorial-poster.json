@@ -1,0 +1,48 @@
+{
+  "name": "web-fashion-store-desktop-collage-with-modal-over-product-and-editorial-poster",
+  "image": "images/web-fashion-store-desktop-collage-with-modal-over-product-and-editorial-poster.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Store overview: a white 'OFF-WHITE EVERYDAY' page over dimmed screens, and an editorial poster with a hat portrait, product frame and white text card",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "white-modal",
+    "pastel-photos",
+    "editorial",
+    "brown",
+    "text-card",
+    "shop-now"
+  ],
+  "whatItIs": "A top panel shows a bright white desktop page overlaying dimmed pages, with a centred logo and nav, an uppercase title and a mosaic of models in hoodies on pastel backdrops (green, pink, red, mauve, grey). Below is a brown editorial poster of a man in a black cowboy hat with a white-framed product photo of a violet fleece with a Shop Now disc and a white text card 'off-white redefine modern dressing —intellectual.'",
+  "whatItMeans": "Confident and editorial; the pastel product mosaic contrasts with a moody brand poster.",
+  "techniques": [
+    "Lift one page above dimmed screens.",
+    "Give each product its own pastel backdrop.",
+    "Pair a poster with a framed product photo.",
+    "Use a white text card at the edge."
+  ],
+  "bestFor": [
+    "Fashion store overviews",
+    "Editorial brand posters",
+    "Pastel product mosaics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lifted page",
+      "definition": "One screen brightened above dimmed ones."
+    },
+    {
+      "term": "Pastel mosaic",
+      "definition": "A collage of photos on different soft backdrops."
+    },
+    {
+      "term": "Framed product photo",
+      "definition": "A product image inside a white border."
+    },
+    {
+      "term": "Text card",
+      "definition": "A white block holding a short statement."
+    }
+  ]
+}

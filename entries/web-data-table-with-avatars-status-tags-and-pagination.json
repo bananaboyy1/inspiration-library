@@ -1,0 +1,48 @@
+{
+  "name": "web-data-table-with-avatars-status-tags-and-pagination",
+  "image": "images/web-data-table-with-avatars-status-tags-and-pagination.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Simple table with expand chevrons, avatar names, emails, locations, blue Approved and red Pending tags, rows-per-page and page numbers",
+  "tags": [
+    "component",
+    "table",
+    "avatars",
+    "status-tags",
+    "pagination",
+    "white",
+    "blue",
+    "red"
+  ],
+  "whatItIs": "A white borderless table with columns Name, Email, Location and Status, five rows with a small chevron and round avatar with name, tiny blue Approved or red Pending tags, and a footer with a rows-per-page dropdown and '1 - 5 of 12' with pagination numbers.",
+  "whatItMeans": "Clean and compact; small tags and quiet rows keep data readable.",
+  "techniques": [
+    "Add expand chevrons per row.",
+    "Use small tinted tags for status.",
+    "Pair avatars with names.",
+    "Put pagination in the footer."
+  ],
+  "bestFor": [
+    "Admin data tables",
+    "User lists",
+    "Minimal table components"
+  ],
+  "vocabulary": [
+    {
+      "term": "Row expander",
+      "definition": "A chevron that opens row details."
+    },
+    {
+      "term": "Status tag",
+      "definition": "A tiny tinted label for state."
+    },
+    {
+      "term": "Rows per page",
+      "definition": "A control setting how many rows show."
+    },
+    {
+      "term": "Pagination",
+      "definition": "Numbered controls for pages of results."
+    }
+  ]
+}

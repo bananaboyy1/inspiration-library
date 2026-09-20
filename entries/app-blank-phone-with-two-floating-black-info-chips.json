@@ -1,0 +1,48 @@
+{
+  "name": "app-blank-phone-with-two-floating-black-info-chips",
+  "image": "images/app-blank-phone-with-two-floating-black-info-chips.gif",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Empty white phone flanked by black pickup and trip chips with lime accents",
+  "tags": [
+    "mockup",
+    "blank",
+    "chips",
+    "black",
+    "lime",
+    "white",
+    "shadows",
+    "animation-frame"
+  ],
+  "whatItIs": "A white canvas with a blank white phone at the centre and two floating black rounded chips: a pickup point with a lime target icon at left and a 4-minute trip card with 'live' at right, all with long soft shadows.",
+  "whatItMeans": "Minimal and staged; the empty screen is the start of an animation.",
+  "techniques": [
+    "Float dark chips beside a blank device.",
+    "Use lime only for status.",
+    "Cast long soft shadows.",
+    "Show the frame before content appears."
+  ],
+  "bestFor": [
+    "Animated app reveals",
+    "Feature callouts",
+    "Minimal presentation frames"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floating chip",
+      "definition": "A small UI card outside the device."
+    },
+    {
+      "term": "Blank device",
+      "definition": "A phone without content."
+    },
+    {
+      "term": "Soft long shadow",
+      "definition": "A diffuse shadow extending far from an object."
+    },
+    {
+      "term": "Status accent",
+      "definition": "A colour used to signal live state."
+    }
+  ]
+}

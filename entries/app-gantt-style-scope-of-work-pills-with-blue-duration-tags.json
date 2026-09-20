@@ -1,0 +1,48 @@
+{
+  "name": "app-gantt-style-scope-of-work-pills-with-blue-duration-tags",
+  "image": "images/app-gantt-style-scope-of-work-pills-with-blue-duration-tags.png",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Month-column scope slide with six white pills staggered diagonally, each with a blue week-duration tag",
+  "tags": [
+    "timeline",
+    "gantt",
+    "warm-grey",
+    "white-pills",
+    "blue-tags",
+    "months",
+    "process",
+    "minimal"
+  ],
+  "whatItIs": "A warm grey rounded panel 'Scope of work' with month labels (Sep to Jan) over thin vertical lines and six white pill bars (Research, Ideation, Wireframes, Branding, Prototype & testing, UI design) offset along the months, each ending in a blue capsule with its duration.",
+  "whatItMeans": "Clear and friendly; the pills turn a project plan into a readable staircase.",
+  "techniques": [
+    "Lay pills across month columns as a Gantt.",
+    "Put duration in a blue capsule.",
+    "Keep the background warm grey.",
+    "Use thin vertical guides."
+  ],
+  "bestFor": [
+    "Timeline and scope slides",
+    "Design project plans",
+    "Minimal Gantt visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pill Gantt",
+      "definition": "A schedule shown with rounded bars."
+    },
+    {
+      "term": "Duration tag",
+      "definition": "A capsule stating weeks."
+    },
+    {
+      "term": "Month column",
+      "definition": "A vertical band labelled with a month."
+    },
+    {
+      "term": "Staircase timeline",
+      "definition": "Bars stepping across time."
+    }
+  ]
+}

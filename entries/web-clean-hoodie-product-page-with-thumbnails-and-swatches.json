@@ -1,0 +1,48 @@
+{
+  "name": "web-clean-hoodie-product-page-with-thumbnails-and-swatches",
+  "image": "images/web-clean-hoodie-product-page-with-thumbnails-and-swatches.jpg",
+  "discipline": "web",
+  "designType": "Product detail page",
+  "title": "Minimal hoodie PDP with vertical thumbnails, colour and size selectors, tabs and related grid",
+  "tags": [
+    "pdp",
+    "fashion",
+    "white",
+    "black",
+    "swatches",
+    "size-pills",
+    "tabs",
+    "related-products"
+  ],
+  "whatItIs": "A white page with a top shipping bar, centred logo nav, vertical thumbnail strip with a large model photo, product title, rating, price with discount tag, colour swatches, size pills, a wide black Add to Cart with heart, trust icons, detail tabs with a macro fabric photo and a 'You may also like' row.",
+  "whatItMeans": "Clear and trustworthy; consistent controls and neutral styling suit a clothing store.",
+  "techniques": [
+    "Use a vertical thumbnail strip beside a large photo.",
+    "Round swatches and size pills.",
+    "One wide black CTA.",
+    "Show a macro fabric photo for quality."
+  ],
+  "bestFor": [
+    "Fashion e-commerce PDPs",
+    "Minimal storefronts",
+    "Detail page templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thumbnail strip",
+      "definition": "A vertical column of small product images."
+    },
+    {
+      "term": "Colour swatch",
+      "definition": "A circle showing a colour option."
+    },
+    {
+      "term": "Trust row",
+      "definition": "Small icons for shipping and returns."
+    },
+    {
+      "term": "Fabric macro",
+      "definition": "A close-up showing material detail."
+    }
+  ]
+}

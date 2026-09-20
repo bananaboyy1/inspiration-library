@@ -1,0 +1,48 @@
+{
+  "name": "web-info-badge-pill-with-inner-tag-and-arrow-in-sky-blue",
+  "image": "images/web-info-badge-pill-with-inner-tag-and-arrow-in-sky-blue.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Pale blue pill badge 'Info | Welcome to the platform ↗' with a lighter inner tag and a diagonal arrow",
+  "tags": [
+    "component",
+    "badge",
+    "pill",
+    "blue",
+    "announcement",
+    "arrow",
+    "soft",
+    "ui-kit"
+  ],
+  "whatItIs": "A single sky-blue capsule with a subtle border and soft shadow: an inner lighter pill 'Info', the message 'Welcome to the platform' and a small diagonal arrow, all in mid-blue text.",
+  "whatItMeans": "Gentle and informative; tonal blues make a notice feel calm.",
+  "techniques": [
+    "Nest a lighter tag inside a tinted capsule.",
+    "Colour text and border from the same hue.",
+    "End with a diagonal arrow.",
+    "Add a faint shadow."
+  ],
+  "bestFor": [
+    "Announcement and status badges",
+    "Info banners",
+    "Tonal component sets"
+  ],
+  "vocabulary": [
+    {
+      "term": "Announcement pill",
+      "definition": "A capsule with a short message and arrow."
+    },
+    {
+      "term": "Inner tag",
+      "definition": "A lighter label nested in a pill."
+    },
+    {
+      "term": "Tonal colouring",
+      "definition": "Text, fill and border from one hue."
+    },
+    {
+      "term": "Diagonal arrow",
+      "definition": "An arrow pointing up and right to indicate a link."
+    }
+  ]
+}

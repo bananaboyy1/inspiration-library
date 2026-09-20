@@ -1,0 +1,48 @@
+{
+  "name": "web-collapsible-sidebar-layout-with-icon-nav-and-main-content",
+  "image": "images/web-collapsible-sidebar-layout-with-icon-nav-and-main-content.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Bare app shell: left sidebar with icon-and-label nav (Home, Inbox, Calendar, Search, Settings), a collapse toggle and a main content area",
+  "tags": [
+    "component",
+    "sidebar",
+    "layout",
+    "white",
+    "line-icons",
+    "app-shell",
+    "minimal",
+    "navigation"
+  ],
+  "whatItIs": "A white layout with an 'Application' label and five thin-line icon items in a left column separated by a hairline, a small panel-toggle icon at the top of the main area and a bold 'Main Content' heading with one line of text.",
+  "whatItMeans": "Neutral and functional; nothing but structure so any content can be dropped in.",
+  "techniques": [
+    "Pair line icons with labels in a vertical list.",
+    "Separate sidebar from content with a hairline.",
+    "Add a collapse toggle.",
+    "Keep it monochrome."
+  ],
+  "bestFor": [
+    "Dashboard and app shell templates",
+    "Sidebar navigation patterns",
+    "Minimal admin layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "App shell",
+      "definition": "The persistent frame of navigation around content."
+    },
+    {
+      "term": "Sidebar nav",
+      "definition": "A vertical list of destinations."
+    },
+    {
+      "term": "Collapse toggle",
+      "definition": "A button that hides or shows the sidebar."
+    },
+    {
+      "term": "Line icon",
+      "definition": "An icon drawn with thin strokes."
+    }
+  ]
+}

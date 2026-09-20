@@ -1,0 +1,48 @@
+{
+  "name": "app-nutrition-app-wireframe-to-visual-tilted-screens-on-lilac",
+  "image": "images/app-nutrition-app-wireframe-to-visual-tilted-screens-on-lilac.webp",
+  "discipline": "app",
+  "designType": "Wireframe showcase",
+  "title": "Grey wireframe screens for a meal-planning app with two tilted photo-rich phones on lilac",
+  "tags": [
+    "wireframes",
+    "nutrition",
+    "lilac",
+    "grey",
+    "tilted-phones",
+    "meal-plan",
+    "flow",
+    "photography"
+  ],
+  "whatItIs": "A lilac board with a grid of pale grey wireframe screens (weekly progress, meal plan, recipe detail with macros) and three oversized tilted phones showing the finished recipe screen with a wrap photo, pastel macro rings and orange kcal.",
+  "whatItMeans": "Clear about process; tilted finished screens burst out of the grey wireframes.",
+  "techniques": [
+    "Show grey wireframes as the base grid.",
+    "Break out with oversized tilted high-fidelity phones.",
+    "Use pastel ring charts for macros.",
+    "Keep the background a single lilac."
+  ],
+  "bestFor": [
+    "Wireframe-to-final case studies",
+    "Food and health apps",
+    "UX process boards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lo-fi to hi-fi",
+      "definition": "Showing wireframes beside finished designs."
+    },
+    {
+      "term": "Macro ring",
+      "definition": "A ring chart of protein, carbs or fat."
+    },
+    {
+      "term": "Breakout mockup",
+      "definition": "A phone oversized and tilted out of a grid."
+    },
+    {
+      "term": "Wireframe grid",
+      "definition": "A layout of grey structural screens."
+    }
+  ]
+}

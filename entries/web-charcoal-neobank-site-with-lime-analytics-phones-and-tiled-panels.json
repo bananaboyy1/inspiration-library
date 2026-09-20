@@ -1,0 +1,48 @@
+{
+  "name": "web-charcoal-neobank-site-with-lime-analytics-phones-and-tiled-panels",
+  "image": "images/web-charcoal-neobank-site-with-lime-analytics-phones-and-tiled-panels.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Charcoal neobank site with a huge white 'Your Money, Simplified.', a lime-and-black analytics phone pair and dark tiled feature panels",
+  "tags": [
+    "fintech",
+    "charcoal",
+    "lime",
+    "phones",
+    "tilted",
+    "tiles",
+    "dark-ui",
+    "bento"
+  ],
+  "whatItIs": "A charcoal browser frame with a nav and a Download App link, a big tile with a headline, subline, lime Get Started and grey Showreel buttons and faded logos, beside a tile with two tilted silver phones showing a lime analytics chart and a white transactions list, and below two dark tiles: 'Your Finances, Safe Haven.' with security cards and 'Track Your Money Easily.' with tabs and a lime donut segment.",
+  "whatItMeans": "Bold and high-contrast; lime on charcoal makes a neobank feel sharp and modern.",
+  "techniques": [
+    "Split the page into dark rounded tiles.",
+    "Use lime as the only accent in phone UIs.",
+    "Tilt phones at opposite angles.",
+    "Fade logos to low contrast."
+  ],
+  "bestFor": [
+    "Neobank and fintech sites",
+    "Charcoal and lime brands",
+    "Tiled bento pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dark tile",
+      "definition": "A rounded charcoal panel in a grid."
+    },
+    {
+      "term": "Lime accent",
+      "definition": "A neon green used for actions and charts."
+    },
+    {
+      "term": "Showreel button",
+      "definition": "A secondary button with a play icon."
+    },
+    {
+      "term": "Faded logo row",
+      "definition": "Partner logos at very low contrast."
+    }
+  ]
+}

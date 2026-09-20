@@ -1,0 +1,49 @@
+{
+  "name": "web-dark-indigo-fintech-agent-landing-page",
+  "image": "images/web-dark-indigo-fintech-agent-landing-page.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Dark indigo landing page for an AI payment product with floating cards",
+  "tags": [
+    "saas",
+    "dark-mode",
+    "indigo",
+    "payment",
+    "3d-cards",
+    "pricing",
+    "faq",
+    "long-scroll"
+  ],
+  "whatItIs": "A full-length dark landing page with a big headline and a hero of two tilted 3D payment cards, logo strip, feature cards in a 3x2 grid with one highlighted in indigo, a numbered three-step section with a plug graphic, a three-tier pricing table with the middle plan in bright indigo, testimonials, FAQ accordion and final CTA.",
+  "whatItMeans": "Technical and trustworthy in a nighttime palette; indigo glow shows the featured item in each section.",
+  "techniques": [
+    "Highlight one card in each group with the brand indigo.",
+    "Use a radial glow behind each section to break the black.",
+    "Present steps with giant thin numerals.",
+    "Make the middle pricing card the brightest.",
+    "Use tilted 3D objects as hero art."
+  ],
+  "bestFor": [
+    "Developer tools and AI infrastructure",
+    "Fintech and payment APIs",
+    "Subscription SaaS with tiered pricing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Featured card",
+      "definition": "The one card in a group given the accent colour."
+    },
+    {
+      "term": "Radial glow",
+      "definition": "A soft circular light behind a section."
+    },
+    {
+      "term": "Pricing tiers",
+      "definition": "Side-by-side plans with the recommended one emphasised."
+    },
+    {
+      "term": "FAQ accordion",
+      "definition": "Expandable question rows."
+    }
+  ]
+}

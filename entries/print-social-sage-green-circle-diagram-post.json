@@ -1,0 +1,48 @@
+{
+  "name": "print-social-sage-green-circle-diagram-post",
+  "image": "images/print-social-sage-green-circle-diagram-post.png",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Sage green post with photo in a circle ringed by broken orbit and asterisk labels",
+  "tags": [
+    "wellness",
+    "sage-green",
+    "circle",
+    "orbit",
+    "asterisk",
+    "uppercase-headline",
+    "cyrillic",
+    "infographic"
+  ],
+  "whatItIs": "A 4:5 post on sage green with a giant white uppercase headline. A circular photo of a woman meditating in mountains sits in the middle, surrounded by a thin white ring broken by five asterisk-marked words. A small logo sits at the base.",
+  "whatItMeans": "Serene and thoughtful; the ring suggests connected areas of life around a centre.",
+  "techniques": [
+    "Break a thin outer ring at each label so words sit on the orbit.",
+    "Crop the hero photo to a perfect circle at the centre.",
+    "Use an asterisk as a small bullet glyph.",
+    "Keep the palette to one green plus white for calm."
+  ],
+  "bestFor": [
+    "Wellness and coaching content",
+    "Concept diagrams with a central idea",
+    "Text-led posts with one image"
+  ],
+  "vocabulary": [
+    {
+      "term": "Orbit ring",
+      "definition": "A thin circle around a subject, with labels on it."
+    },
+    {
+      "term": "Circle crop",
+      "definition": "A photo masked to a circle."
+    },
+    {
+      "term": "Asterisk bullet",
+      "definition": "A star-like mark used as a list marker."
+    },
+    {
+      "term": "Radial diagram",
+      "definition": "A layout where topics surround a centre."
+    }
+  ]
+}

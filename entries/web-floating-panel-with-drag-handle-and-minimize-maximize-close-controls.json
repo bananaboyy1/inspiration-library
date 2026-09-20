@@ -1,0 +1,48 @@
+{
+  "name": "web-floating-panel-with-drag-handle-and-minimize-maximize-close-controls",
+  "image": "images/web-floating-panel-with-drag-handle-and-minimize-maximize-close-controls.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White floating panel with a drag handle, title and three window buttons, over an instructional paragraph on a white page",
+  "tags": [
+    "component",
+    "panel",
+    "floating",
+    "draggable",
+    "white",
+    "window-controls",
+    "cursor",
+    "minimal"
+  ],
+  "whatItIs": "A white page with a small bordered rounded panel with a soft shadow: a header with a six-dot drag handle, the title 'Floating Panel' and minimise, maximise and close icons, and a body with a two-part paragraph explaining dragging, resizing and state buttons, with a cursor above.",
+  "whatItMeans": "Tool-like and light; a compact window pattern for secondary content.",
+  "techniques": [
+    "Add a drag handle to the header.",
+    "Include window control icons.",
+    "Use a soft shadow for lift.",
+    "Keep the body text short."
+  ],
+  "bestFor": [
+    "Floating tool windows",
+    "Draggable panel components",
+    "Utility overlays"
+  ],
+  "vocabulary": [
+    {
+      "term": "Drag handle",
+      "definition": "A dotted grip showing an element can be moved."
+    },
+    {
+      "term": "Window controls",
+      "definition": "Minimise, maximise and close buttons."
+    },
+    {
+      "term": "Floating panel",
+      "definition": "A movable panel above the page."
+    },
+    {
+      "term": "Resize edge",
+      "definition": "The border used to resize a panel."
+    }
+  ]
+}

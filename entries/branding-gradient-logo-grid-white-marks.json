@@ -1,0 +1,47 @@
+{
+  "name": "branding-gradient-logo-grid-white-marks",
+  "image": "images/branding-gradient-logo-grid-white-marks.jpg",
+  "discipline": "branding",
+  "designType": "Logo collection",
+  "title": "Twelve white logos on a yellow-to-magenta gradient grid",
+  "tags": [
+    "logo-collection",
+    "gradient",
+    "white-logos",
+    "grid",
+    "tech",
+    "monoline",
+    "icons"
+  ],
+  "whatItIs": "A 3x4 grid of cells whose backgrounds blend from yellow through blue and violet to magenta, each with a white logo and wordmark for a different fictional brand (home, eco, chat, docs, tech).",
+  "whatItMeans": "Modern, variety-rich and energetic; a shared white treatment and gradient make unrelated logos read as one collection.",
+  "techniques": [
+    "Show logos as white on one continuous gradient split into tiles.",
+    "Pair each icon with a wordmark in clean sans, bold and regular weights.",
+    "Keep the same size and alignment in each cell.",
+    "Use white gutters to make a modular sheet."
+  ],
+  "bestFor": [
+    "Logo portfolios and packs",
+    "Comparing marks for tech and startup brands",
+    "Social covers for logo designers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Logo sheet",
+      "definition": "A grid of logos presented together."
+    },
+    {
+      "term": "Gradient tile",
+      "definition": "A cell filled with part of a continuing gradient."
+    },
+    {
+      "term": "Reversed logo",
+      "definition": "A logo in white on colour."
+    },
+    {
+      "term": "Icon-plus-wordmark",
+      "definition": "A lockup of symbol and name."
+    }
+  ]
+}

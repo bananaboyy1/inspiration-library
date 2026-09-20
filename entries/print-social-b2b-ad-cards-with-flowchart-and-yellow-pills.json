@@ -1,0 +1,48 @@
+{
+  "name": "print-social-b2b-ad-cards-with-flowchart-and-yellow-pills",
+  "image": "images/print-social-b2b-ad-cards-with-flowchart-and-yellow-pills.webp",
+  "discipline": "print-social",
+  "designType": "Social ad set",
+  "title": "Blue and yellow B2B ad carousel with flowchart diagrams, floating pills and white cards",
+  "tags": [
+    "b2b",
+    "ads",
+    "blue",
+    "yellow",
+    "flowchart",
+    "white-cards",
+    "carousel",
+    "enterprise"
+  ],
+  "whatItIs": "A blue-and-yellow presentation of square ads: a mock social post beside a large light-blue card with bold headline 'competitive advantage', and five white cards each with a small tag pill, a bold-keyword headline and a diagram (node flowchart, impact map, prompt box, alert) with a yellow CTA pill and a black results card '10x 7x'.",
+  "whatItMeans": "Clear and helpful; diagrams show the product rather than tell.",
+  "techniques": [
+    "Show product diagrams inside ad cards.",
+    "Use tag pills to label each step.",
+    "Bold keywords in headlines.",
+    "End with a dark stat card."
+  ],
+  "bestFor": [
+    "B2B and SaaS ad carousels",
+    "Explaining complex products",
+    "Blue-yellow ad systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Diagram card",
+      "definition": "An ad card built around a product diagram."
+    },
+    {
+      "term": "Tag pill",
+      "definition": "A small label naming a step."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A dark card with big numbers."
+    },
+    {
+      "term": "Swipe CTA",
+      "definition": "A pill inviting the viewer to swipe."
+    }
+  ]
+}

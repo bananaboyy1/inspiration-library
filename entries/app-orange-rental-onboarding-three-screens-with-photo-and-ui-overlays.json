@@ -1,0 +1,48 @@
+{
+  "name": "app-orange-rental-onboarding-three-screens-with-photo-and-ui-overlays",
+  "image": "images/app-orange-rental-onboarding-three-screens-with-photo-and-ui-overlays.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Apartment-rental onboarding on white with orange buttons, room photos and floating UI cards",
+  "tags": [
+    "onboarding",
+    "rental",
+    "orange",
+    "white",
+    "photo",
+    "floating-cards",
+    "dots",
+    "three-screens"
+  ],
+  "whatItIs": "Three phones on blush: each with an orange logo, step dots, a room photo with an overlay UI (steps list, promo chips, calendar with an orange card), a bold headline, a grey line and a full-width orange 'Get started' button.",
+  "whatItMeans": "Friendly and clear; UI overlays on photos explain features in context.",
+  "techniques": [
+    "Overlay a small UI card on a photo.",
+    "Use a single orange button.",
+    "Show a step list in the card.",
+    "Use page dots at top."
+  ],
+  "bestFor": [
+    "Rental and proptech onboarding",
+    "Photo-plus-UI screens",
+    "Orange-brand apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "UI overlay on photo",
+      "definition": "An interface card placed over an image."
+    },
+    {
+      "term": "Step dots",
+      "definition": "Dots showing onboarding position."
+    },
+    {
+      "term": "Orange CTA",
+      "definition": "A full-width orange button."
+    },
+    {
+      "term": "Feature illustration",
+      "definition": "An image explaining one feature."
+    }
+  ]
+}

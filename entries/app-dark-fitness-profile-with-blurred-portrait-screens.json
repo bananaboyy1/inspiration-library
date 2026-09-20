@@ -1,0 +1,49 @@
+{
+  "name": "app-dark-fitness-profile-with-blurred-portrait-screens",
+  "image": "images/app-dark-fitness-profile-with-blurred-portrait-screens.png",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "title": "Fitness profiles with moody purple-blur portraits and grey glass rows",
+  "tags": [
+    "fitness",
+    "profile",
+    "dark",
+    "purple-gradient",
+    "portrait",
+    "glass",
+    "silhouette",
+    "case-study"
+  ],
+  "whatItIs": "A black board titled 'Personal Fitness Profile' with three phones. Each screen is a purple-to-mauve gradient over a dramatic portrait (a face in shadow, hair and headphones, a silhouette of a head) with white text, small tag chips and translucent rows for cost, duration and earnings.",
+  "whatItMeans": "Intimate and cinematic; the fading portrait makes a fitness app feel like a fashion editorial.",
+  "techniques": [
+    "Let a dark portrait fade into a gradient that carries the UI.",
+    "Set text as white on translucent grey glass rows.",
+    "Use small chips for attributes such as role and sport.",
+    "Anchor with a single white button.",
+    "Give the presentation black staging with tiny corner labels."
+  ],
+  "bestFor": [
+    "Premium fitness and coaching apps",
+    "Profile screens with strong photography",
+    "Dark editorial app showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Portrait fade",
+      "definition": "A photo dissolving into a colour gradient."
+    },
+    {
+      "term": "Glass row",
+      "definition": "A translucent list row over an image."
+    },
+    {
+      "term": "Attribute chip",
+      "definition": "A small label listing a trait."
+    },
+    {
+      "term": "Cinematic UI",
+      "definition": "An interface treated like a film still."
+    }
+  ]
+}

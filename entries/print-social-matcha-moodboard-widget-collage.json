@@ -1,0 +1,48 @@
+{
+  "name": "print-social-matcha-moodboard-widget-collage",
+  "image": "images/print-social-matcha-moodboard-widget-collage.png",
+  "discipline": "print-social",
+  "designType": "Moodboard post",
+  "title": "Matcha moodboard with playlist widget, candle and yellow pill",
+  "tags": [
+    "moodboard",
+    "matcha",
+    "green",
+    "yellow",
+    "rounded-cards",
+    "playlist-widget",
+    "product-cutout",
+    "cream"
+  ],
+  "whatItIs": "A cream 4:5 collage with three rounded blocks: a green playlist widget with a Spotify logo and five matcha photos, a full-width photo of frothy matcha with a floating white candle, and a yellow pill holding cut-outs of a whisk bowl, candle and pink cup.",
+  "whatItMeans": "Calm, aesthetic and cosy; the single green palette signals wellness and a soft lifestyle.",
+  "techniques": [
+    "Borrow a familiar UI (music widget) as a layout to frame photos.",
+    "Stack rounded rectangles of different sizes to build a soft modular collage.",
+    "Keep the palette to green, cream and one sunny yellow.",
+    "Isolate objects in a pill strip for a product line-up."
+  ],
+  "bestFor": [
+    "Lifestyle and wellness moodboards",
+    "Candle, ceramic and café brands",
+    "Brand story slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Widget layout",
+      "definition": "Layout imitating a UI component like a music card."
+    },
+    {
+      "term": "Rounded block collage",
+      "definition": "Modular rounded rectangles arranged like a bento."
+    },
+    {
+      "term": "Product strip",
+      "definition": "A row of isolated objects on a colour band."
+    },
+    {
+      "term": "Tonal photography",
+      "definition": "Photos chosen to share one hue."
+    }
+  ]
+}

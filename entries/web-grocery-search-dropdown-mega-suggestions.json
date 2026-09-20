@@ -1,0 +1,44 @@
+{
+  "name": "web-grocery-search-dropdown-mega-suggestions",
+  "image": "images/web-grocery-search-dropdown-mega-suggestions.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Search Suggestion Dropdown over Product Grid",
+  "tags": [
+    "search",
+    "autocomplete",
+    "dropdown",
+    "ecommerce",
+    "dimmed",
+    "teal",
+    "product-grid"
+  ],
+  "whatItIs": "A grocery site with the search bar active: a wide white dropdown over a dimmed page lists suggestions and stores on the left and product results with images and prices on the right, above a grid of large product cards.",
+  "whatItMeans": "Showing products as you type shortens the path to purchase, and the dimmed page focuses attention on the results.",
+  "techniques": [
+    "Two-column dropdown separating text suggestions from rich product results",
+    "Bolding the matched part of each suggestion",
+    "Dim overlay behind the panel",
+    "Tinted rows for product results with thumbnail and price",
+    "View all results link as the exit"
+  ],
+  "bestFor": [
+    "Search-heavy catalogs",
+    "Grocery and marketplace apps",
+    "Any site where discovery drives conversion"
+  ],
+  "vocabulary": [
+    {
+      "term": "Autocomplete",
+      "definition": "Suggestions that appear while typing a query."
+    },
+    {
+      "term": "Rich results",
+      "definition": "Search results that include images and prices, not just text."
+    },
+    {
+      "term": "Match emphasis",
+      "definition": "Highlighting the typed part of a suggestion."
+    }
+  ]
+}

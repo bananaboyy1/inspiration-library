@@ -1,0 +1,48 @@
+{
+  "name": "app-dark-finance-dashboard-over-green-hills-with-donut-and-bar-charts",
+  "image": "images/app-dark-finance-dashboard-over-green-hills-with-donut-and-bar-charts.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Dark banking dashboard floating over a soft-focus green hillside with a lilac donut and stacked capsule bars",
+  "tags": [
+    "dashboard",
+    "dark",
+    "finance",
+    "lilac",
+    "donut",
+    "capsule-bars",
+    "hills",
+    "card"
+  ],
+  "whatItIs": "A dark desktop dashboard with a left icon rail, an Overview heading, a bank card and four stat columns, a Quick Transfer row of avatars, an expenses chart of capsule-shaped bars in blue, lilac and mint, and a right column with a lilac donut with $13,456.29 and a recent transactions list, over a blurred green landscape photo.",
+  "whatItMeans": "Calm and premium; dark glass panels over a natural photo soften data.",
+  "techniques": [
+    "Float a dark dashboard over a landscape photo.",
+    "Draw bars as stacked capsules.",
+    "Use a lilac donut for the balance.",
+    "Keep a slim icon rail."
+  ],
+  "bestFor": [
+    "Finance dashboards",
+    "Dark UI showcases",
+    "Photo-backdrop presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Capsule bar",
+      "definition": "A bar with fully rounded ends."
+    },
+    {
+      "term": "Stacked segment",
+      "definition": "A bar built from coloured parts."
+    },
+    {
+      "term": "Photo backdrop",
+      "definition": "A blurred photo behind a UI."
+    },
+    {
+      "term": "Icon rail",
+      "definition": "A narrow vertical strip of icons."
+    }
+  ]
+}

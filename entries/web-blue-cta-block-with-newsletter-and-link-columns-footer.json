@@ -1,0 +1,48 @@
+{
+  "name": "web-blue-cta-block-with-newsletter-and-link-columns-footer",
+  "image": "images/web-blue-cta-block-with-newsletter-and-link-columns-footer.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Footer with a big royal-blue banner 'Build Tastefully Crafted UIs' over a newsletter field, link columns and social icons",
+  "tags": [
+    "component",
+    "footer",
+    "cta",
+    "blue",
+    "newsletter",
+    "link-columns",
+    "social-icons",
+    "white"
+  ],
+  "whatItIs": "A white page with a large royal-blue rounded rectangle holding a bold white centred headline, and below it a Newsletter block with an email input and black Submit, a row of grey social icons and a copyright, and three link columns (Product, Company, Social).",
+  "whatItMeans": "Bold and tidy; one colour block leads into a plain footer.",
+  "techniques": [
+    "Lead the footer with a large colour CTA block.",
+    "Follow with a newsletter and link columns.",
+    "Keep icons grey.",
+    "Use black for the submit button."
+  ],
+  "bestFor": [
+    "Footer with CTA components",
+    "SaaS templates",
+    "Blue brand footers"
+  ],
+  "vocabulary": [
+    {
+      "term": "CTA banner",
+      "definition": "A colour block with a single headline."
+    },
+    {
+      "term": "Newsletter form",
+      "definition": "An email field with a submit button."
+    },
+    {
+      "term": "Link column",
+      "definition": "A heading and list of footer links."
+    },
+    {
+      "term": "Social icon row",
+      "definition": "A row of small platform icons."
+    }
+  ]
+}

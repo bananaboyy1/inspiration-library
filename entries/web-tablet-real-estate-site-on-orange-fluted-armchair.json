@@ -1,0 +1,47 @@
+{
+  "name": "web-tablet-real-estate-site-on-orange-fluted-armchair",
+  "image": "images/web-tablet-real-estate-site-on-orange-fluted-armchair.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Real-estate site on a tablet resting in an orange ribbed armchair",
+  "tags": [
+    "mockup",
+    "tablet",
+    "real-estate",
+    "orange",
+    "fluted-upholstery",
+    "dark-ui",
+    "project-cover"
+  ],
+  "whatItIs": "A tablet leaning in a deeply ribbed orange armchair. The screen shows a dark hero with a palm and modernist building photo, a headline 'Real Estate Decisions Without Guesswork' and small property cards. A logo and studio tag sit in corners.",
+  "whatItMeans": "Warm and confident; a saturated orange fabric gives a serious dark UI a tactile, luxurious frame.",
+  "techniques": [
+    "Pick a textured, saturated furniture piece as the stage for a dark UI.",
+    "Use ribbed lines of the upholstery as a pattern that leads to the screen.",
+    "Keep corner labels small so the scene leads.",
+    "Photograph at an angle in soft light."
+  ],
+  "bestFor": [
+    "Real-estate and lifestyle site showcases",
+    "Case-study covers",
+    "Dark UI presentations wanting warmth"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fluted upholstery",
+      "definition": "Fabric or leather with vertical ridges."
+    },
+    {
+      "term": "Colour-contrast stage",
+      "definition": "A scene whose colour contrasts strongly with the UI."
+    },
+    {
+      "term": "Tablet mockup",
+      "definition": "A tablet displaying an interface in a scene."
+    },
+    {
+      "term": "Corner tag",
+      "definition": "Small brand labels in frame corners."
+    }
+  ]
+}

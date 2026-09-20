@@ -1,0 +1,47 @@
+{
+  "name": "app-case-study-title-text-with-outlined-service-pills",
+  "image": "images/app-case-study-title-text-with-outlined-service-pills.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "White title slide with a large statement, outlined service pills and team names",
+  "tags": [
+    "case-study",
+    "white",
+    "statement",
+    "outlined-pills",
+    "team",
+    "minimal",
+    "assistant-app"
+  ],
+  "whatItIs": "A white slide with a small caps project label, a large sans statement 'Making the complex simple, so rest can finally happen. Fewer choices. More clarity. No guilt.', five outlined pills for UX disciplines and four team names separated by bars, on the right half.",
+  "whatItMeans": "Quiet and confident; big words and outlined pills set the tone for the project.",
+  "techniques": [
+    "Place text on the right half leaving the left empty.",
+    "Use outlined pills for services.",
+    "Split sentences into short fragments.",
+    "List team names with vertical dividers."
+  ],
+  "bestFor": [
+    "Case-study opening slides",
+    "Minimal white decks",
+    "Project credits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outlined pill",
+      "definition": "A capsule with a border only."
+    },
+    {
+      "term": "Half-page layout",
+      "definition": "Content placed on one half of the slide."
+    },
+    {
+      "term": "Fragment statement",
+      "definition": "Short sentence pieces."
+    },
+    {
+      "term": "Credits line",
+      "definition": "Names separated by thin rules."
+    }
+  ]
+}

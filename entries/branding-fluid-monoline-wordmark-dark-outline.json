@@ -1,0 +1,45 @@
+{
+  "name": "branding-fluid-monoline-wordmark-dark-outline",
+  "image": "images/branding-fluid-monoline-wordmark-dark-outline.webp",
+  "discipline": "branding",
+  "designType": "Wordmarks",
+  "title": "Fluid Wordmark with Outline Letter Backdrop",
+  "tags": [
+    "wordmark",
+    "fluid",
+    "monoline",
+    "dark",
+    "blue",
+    "crypto",
+    "outline",
+    "tagline"
+  ],
+  "whatItIs": "A light-blue rounded wordmark 'Wyse' with a looping, wavy W and descender, centered on a deep navy field, with giant faint outline letterforms behind it and a small tagline near the bottom.",
+  "whatItMeans": "The flowing W suggests currents and movement (of markets) while soft blue on midnight feels trustworthy and calm. The huge outline shapes add depth without clutter.",
+  "techniques": [
+    "Monoline letters with a distinctive looped W",
+    "Oversized hairline outline of the brand letters as background pattern",
+    "Light-blue on navy low-contrast palette with a single bright element",
+    "Small tagline set well below the mark for hierarchy",
+    "Trademark symbol as small superscript"
+  ],
+  "bestFor": [
+    "Crypto, fintech and trading brands",
+    "Modern tech identities that want softness",
+    "Brand reveal slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monoline",
+      "definition": "A lettering style with uniform stroke thickness."
+    },
+    {
+      "term": "Ghost letters",
+      "definition": "Oversized faint outlines of brand letters used as a background."
+    },
+    {
+      "term": "Ligature loop",
+      "definition": "A looping stroke that joins or flourishes a letter."
+    }
+  ]
+}

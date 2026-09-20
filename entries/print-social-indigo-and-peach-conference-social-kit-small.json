@@ -1,0 +1,48 @@
+{
+  "name": "print-social-indigo-and-peach-conference-social-kit-small",
+  "image": "images/print-social-indigo-and-peach-conference-social-kit-small.jpg",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "title": "Small preview of the indigo and peach conference kit",
+  "tags": [
+    "conference",
+    "indigo",
+    "peach",
+    "thumbnail",
+    "blob-pattern",
+    "pills",
+    "kit",
+    "preview"
+  ],
+  "whatItIs": "A tiny pin-size version of the six-tile conference kit on peach, showing the agenda, website, leaflet, countdown, speaker and save-the-date tiles.",
+  "whatItMeans": "Reads clearly even small thanks to strong indigo blocks.",
+  "techniques": [
+    "Use strong dark tiles that survive downsizing.",
+    "Alternate dark and light tiles.",
+    "Keep a peach background.",
+    "Grid tiles evenly."
+  ],
+  "bestFor": [
+    "Pinterest and portfolio thumbnails",
+    "Kit overviews",
+    "Small previews"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thumbnail preview",
+      "definition": "A small image summarising a set."
+    },
+    {
+      "term": "Tile alternation",
+      "definition": "Dark and light tiles interleaved."
+    },
+    {
+      "term": "Overview grid",
+      "definition": "Several assets shown together."
+    },
+    {
+      "term": "Contrast survival",
+      "definition": "Design that stays legible at small size."
+    }
+  ]
+}

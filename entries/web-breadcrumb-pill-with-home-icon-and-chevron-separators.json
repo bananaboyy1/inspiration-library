@@ -1,0 +1,48 @@
+{
+  "name": "web-breadcrumb-pill-with-home-icon-and-chevron-separators",
+  "image": "images/web-breadcrumb-pill-with-home-icon-and-chevron-separators.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Rounded breadcrumb pill 'Home > Profile > Settings' with a house icon, grey parents and a black current page",
+  "tags": [
+    "component",
+    "breadcrumb",
+    "pill",
+    "navigation",
+    "white",
+    "grey",
+    "chevron",
+    "minimal"
+  ],
+  "whatItIs": "A white frame with a thin-bordered capsule containing a house icon, a chevron, a grey 'Profile', another chevron and a black 'Settings'.",
+  "whatItMeans": "Understated and clear; contrast alone marks the current page.",
+  "techniques": [
+    "Put the path in a rounded capsule.",
+    "Use a house icon for the root.",
+    "Grey the parents and black the current.",
+    "Separate with chevrons."
+  ],
+  "bestFor": [
+    "Breadcrumb navigation",
+    "Settings pages",
+    "Minimal UI kits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Breadcrumb",
+      "definition": "A trail showing where you are in a hierarchy."
+    },
+    {
+      "term": "Current page",
+      "definition": "The last crumb, shown in stronger colour."
+    },
+    {
+      "term": "Root icon",
+      "definition": "A house icon standing for Home."
+    },
+    {
+      "term": "Chevron separator",
+      "definition": "A small arrow between crumbs."
+    }
+  ]
+}

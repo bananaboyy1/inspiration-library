@@ -1,0 +1,48 @@
+{
+  "name": "print-social-white-and-blue-tech-services-post-with-blurred-blue-shape",
+  "image": "images/print-social-white-and-blue-tech-services-post-with-blurred-blue-shape.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "title": "White grid post with a blurred blue swoosh, tag pills and a bold blue-and-black service headline",
+  "tags": [
+    "tech",
+    "services",
+    "white",
+    "blue",
+    "blur",
+    "pills",
+    "grid",
+    "logo"
+  ],
+  "whatItIs": "A white portrait with a faint grid, a blurred blue shape at the upper right and lower left, a round logo at the top, a headline 'Still searching for better performance?' in black with blue emphasis surrounded by pills (Digital Marketing, SEO, Graphic Design, Web Development), a short line and an email pill.",
+  "whatItMeans": "Clean and approachable; pills around the headline list services at a glance.",
+  "techniques": [
+    "Surround the headline with service pills.",
+    "Use a blurred blue accent.",
+    "Keep a faint grid.",
+    "Set one line in bold black."
+  ],
+  "bestFor": [
+    "Tech service agency posts",
+    "Simple blue-white sets",
+    "Pill-tag layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Service pill",
+      "definition": "A capsule naming a service."
+    },
+    {
+      "term": "Blur accent",
+      "definition": "A blurred colour shape as decoration."
+    },
+    {
+      "term": "Faint grid",
+      "definition": "A subtle line grid behind."
+    },
+    {
+      "term": "Email pill",
+      "definition": "A capsule with contact info."
+    }
+  ]
+}

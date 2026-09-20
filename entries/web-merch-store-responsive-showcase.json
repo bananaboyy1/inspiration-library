@@ -1,0 +1,47 @@
+{
+  "name": "web-merch-store-responsive-showcase",
+  "image": "images/web-merch-store-responsive-showcase.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Merch store desktop and mobile with pastel product cards",
+  "tags": [
+    "e-commerce",
+    "merch",
+    "responsive",
+    "pastel",
+    "product-photography",
+    "black-footer",
+    "giant-wordmark"
+  ],
+  "whatItIs": "A long preview of a brand store with a cream hero holding a perspective row of coloured product cards, a featured collections grid with white product tiles, a keychain trio on tinted cards, category tiles, and a black footer with a giant spaced 'STORE'. A narrower mobile version sits beside it.",
+  "whatItMeans": "Playful and tidy, like a museum shop; colourful product cards on a neutral page make merchandise feel collectable.",
+  "techniques": [
+    "Give each product a tinted square in a different pastel to create a bright shelf.",
+    "Show the mobile and desktop layouts side by side to prove responsiveness.",
+    "Overlap a centre card larger than its neighbours in trios for focus.",
+    "End with a huge letter-spaced wordmark in the footer."
+  ],
+  "bestFor": [
+    "Brand merchandise stores",
+    "Publisher and community shops",
+    "Responsive design showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tinted product card",
+      "definition": "A product on a soft coloured square."
+    },
+    {
+      "term": "Footer wordmark",
+      "definition": "An oversized brand name closing the page."
+    },
+    {
+      "term": "Responsive pair",
+      "definition": "Desktop and mobile views shown together."
+    },
+    {
+      "term": "Featured collection",
+      "definition": "A curated grid at the top of a store."
+    }
+  ]
+}

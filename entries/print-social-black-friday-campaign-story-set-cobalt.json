@@ -1,0 +1,50 @@
+{
+  "name": "print-social-black-friday-campaign-story-set-cobalt",
+  "image": "images/print-social-black-friday-campaign-story-set-cobalt.png",
+  "discipline": "print-social",
+  "designType": "Campaign social ad set",
+  "title": "Black Friday campaign set in cobalt with tags, starbursts and interface parodies",
+  "tags": [
+    "campaign",
+    "black-friday",
+    "cobalt",
+    "sale",
+    "starburst",
+    "phone-parody",
+    "calendar",
+    "retail",
+    "stories"
+  ],
+  "whatItIs": "A collage of vertical ads for a supplement brand. Elements include a phone with a tag 'Black Friday is calling...' on frosty background, a November calendar covered in sale stickers, folder-tab vitamin lists, iMessage-style chat bubbles, red Target baskets, a 'NEW LAUNCH' calendar square, and orange banner 'BLACK FRIDAY STARTS NOW!' with 'Use code: BFSALE'.",
+  "whatItMeans": "Busy but joyful; familiar interface parodies make a promo feel like fun content rather than an ad.",
+  "techniques": [
+    "Parody everyday interfaces (calendar, phone call, iMessage) to frame sale messages.",
+    "Keep one cobalt base and add green, orange and red badge colours.",
+    "Pile stickers, tags and starbursts on top of mock UI.",
+    "Use a repeatable strip of campaign phases as a header.",
+    "Break the pattern with a real product photo with retail props."
+  ],
+  "bestFor": [
+    "Seasonal sales and retail campaigns",
+    "DTC brands with playful voices",
+    "Multi-format story ad sets"
+  ],
+  "vocabulary": [
+    {
+      "term": "UI parody",
+      "definition": "Mimicking a familiar interface to deliver a message."
+    },
+    {
+      "term": "Campaign phase strip",
+      "definition": "A header showing stages of a campaign."
+    },
+    {
+      "term": "Sale sticker",
+      "definition": "A badge-shaped graphic announcing a discount."
+    },
+    {
+      "term": "Story format",
+      "definition": "A tall 9:16 layout used for stories."
+    }
+  ]
+}

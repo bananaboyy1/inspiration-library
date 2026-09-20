@@ -1,0 +1,48 @@
+{
+  "name": "web-floating-icon-toolbar-with-black-tooltip-and-notification-dots",
+  "image": "images/web-floating-icon-toolbar-with-black-tooltip-and-notification-dots.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White pill toolbar of six line icons with two notification dots and a black 'Feature Flags' tooltip above the hovered icon",
+  "tags": [
+    "component",
+    "toolbar",
+    "tooltip",
+    "pill",
+    "icons",
+    "notification-dot",
+    "white",
+    "black"
+  ],
+  "whatItIs": "A white page with a floating rounded pill with a soft shadow holding six black line icons (chat, inbox with a dot, toggle highlighted in a grey circle, pencil, share, menu with a dot) and a black rounded tooltip 'Feature Flags' above the hovered icon.",
+  "whatItMeans": "Light and helpful; a tooltip names a bare icon exactly when needed.",
+  "techniques": [
+    "Float a pill toolbar with a soft shadow.",
+    "Tint the hovered icon's circle.",
+    "Show a black tooltip above it.",
+    "Use small dots for notifications."
+  ],
+  "bestFor": [
+    "Floating toolbars and docks",
+    "Icon tooltips",
+    "Minimal app UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Toolbar pill",
+      "definition": "A rounded container of icon buttons."
+    },
+    {
+      "term": "Tooltip",
+      "definition": "A small label shown on hover."
+    },
+    {
+      "term": "Notification dot",
+      "definition": "A small filled dot on an icon."
+    },
+    {
+      "term": "Hover highlight",
+      "definition": "A tint behind the icon under the cursor."
+    }
+  ]
+}

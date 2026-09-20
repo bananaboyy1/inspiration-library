@@ -1,0 +1,45 @@
+{
+  "name": "web-earthy-home-decor-bento-landing",
+  "image": "images/web-earthy-home-decor-bento-landing.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Earthy Home Decor Bento Hero",
+  "tags": [
+    "earthy",
+    "brown",
+    "beige",
+    "bento",
+    "interior",
+    "photography",
+    "lotus",
+    "warm"
+  ],
+  "whatItIs": "A warm greige landing hero with a large brown 'flowE.co' wordmark headline, tagline, phone CTA, lotus line icon and paragraph on the left, and a bento grid on the right mixing interior photographs with solid beige and dark brown text tiles.",
+  "whatItMeans": "Chocolate brown on greige with natural wood photography feels calm, crafted and expensive. The bento mix of photo and color tiles adds rhythm without noise.",
+  "techniques": [
+    "Bento grid alternating photos and flat color tiles",
+    "Brown-only text palette instead of black for warmth",
+    "Big soft rounded sans wordmark as the headline",
+    "Single-line lotus icon as a gentle brand accent",
+    "Ample margin and left-aligned copy for a quiet reading flow"
+  ],
+  "bestFor": [
+    "Interior, furniture and lifestyle brands",
+    "Wellness and boutique services",
+    "Craft-focused portfolios"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento grid",
+      "definition": "A modular layout of uneven rectangular tiles."
+    },
+    {
+      "term": "Tonal palette",
+      "definition": "A palette built from close shades of one hue family."
+    },
+    {
+      "term": "Line icon",
+      "definition": "A simple icon drawn with a thin uniform stroke."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-lime-subscription-plans-screen-and-in-car-ride-screen",
+  "image": "images/app-lime-subscription-plans-screen-and-in-car-ride-screen.png",
+  "discipline": "app",
+  "designType": "Ride-hailing app",
+  "title": "Black-and-white pricing drawer with lime button beside an in-car hand-held active ride screen",
+  "tags": [
+    "subscription",
+    "pricing",
+    "lime",
+    "black",
+    "white",
+    "in-car",
+    "photography",
+    "split"
+  ],
+  "whatItIs": "Two dark panels: left a phone with a black header 'Premium Plan' and a white drawer listing three plans with the middle plan black with lime price, and a wide lime Subscribe button; right a photo of a hand holding a phone inside a car with a dark road screen, a white ETA sheet with lime stats and a lime progress pill.",
+  "whatItMeans": "Confident and clear; one active tier and one lime button make the choice simple.",
+  "techniques": [
+    "Split screen into black hero and white drawer.",
+    "Invert the selected plan to black.",
+    "Use one lime CTA.",
+    "Show the app in its real context (inside a car)."
+  ],
+  "bestFor": [
+    "Subscription and pricing screens",
+    "Mobility apps",
+    "Black and lime brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pricing drawer",
+      "definition": "A white sheet listing plans."
+    },
+    {
+      "term": "Inverted selection",
+      "definition": "The selected item shown black."
+    },
+    {
+      "term": "Context photo",
+      "definition": "A device photographed in its use setting."
+    },
+    {
+      "term": "Progress pill",
+      "definition": "A small bar showing trip progress."
+    }
+  ]
+}

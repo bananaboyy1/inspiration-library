@@ -1,0 +1,49 @@
+{
+  "name": "web-warm-earthy-decor-product-listing",
+  "image": "images/web-warm-earthy-decor-product-listing.webp",
+  "discipline": "web",
+  "designType": "E-commerce product listing",
+  "title": "Earthy home-decor product grid with acid-yellow feature band",
+  "tags": [
+    "e-commerce",
+    "product-grid",
+    "earthy",
+    "brown",
+    "serif-italic",
+    "acid-yellow",
+    "editorial",
+    "home-decor"
+  ],
+  "whatItIs": "A product list page presented over a dark rust backdrop with a mixed serif headline. The store shows a filter bar, a masonry grid of warm-lit product photos with names and prices, an acid-yellow feature block with a craftsperson photo, pagination, and a deep brown footer with a large wordmark.",
+  "whatItMeans": "Handmade, warm and considered; the yellow band adds a jolt of energy to an otherwise tonal palette.",
+  "techniques": [
+    "Vary tile sizes so one hero product spans two rows and creates rhythm in the grid.",
+    "Pair a light sans body with italic serif category names for boutique elegance.",
+    "Interrupt the grid with one full-width acid-yellow storytelling band.",
+    "Tint photography toward one warm palette so products feel like a set.",
+    "Use small metadata (material icons, tags) under prices as quiet detail."
+  ],
+  "bestFor": [
+    "Home, craft and lifestyle e-commerce",
+    "Boutique brands with strong photography",
+    "Marketplace category pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Masonry grid",
+      "definition": "A grid whose tiles differ in size and interlock without gaps."
+    },
+    {
+      "term": "Feature band",
+      "definition": "A full-width block that breaks up repeated content."
+    },
+    {
+      "term": "Tonal palette",
+      "definition": "A palette of one hue family in varying values."
+    },
+    {
+      "term": "Italic serif accent",
+      "definition": "Using italic serif for labels to add elegance."
+    }
+  ]
+}

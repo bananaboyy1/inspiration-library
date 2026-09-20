@@ -1,0 +1,48 @@
+{
+  "name": "branding-off-white-palette-cards-over-dimmed-menswear-store-photo",
+  "image": "images/branding-off-white-palette-cards-over-dimmed-menswear-store-photo.png",
+  "discipline": "branding",
+  "designType": "Colour palette",
+  "title": "Three swatch cards (Portage Blue, Errigal white, Cool Gray) with RGB, CMYK and hex over a dark menswear store photo",
+  "tags": [
+    "colour-palette",
+    "blue",
+    "white",
+    "grey",
+    "store-photo",
+    "navy",
+    "uppercase-headline",
+    "specs"
+  ],
+  "whatItIs": "A navy-tinted photo of a menswear store with a light uppercase headline about an urban-edge and minimalist-luxury palette and three staggered swatch cards each with a name, three spec rows (RGB, CMYK, Hex) and the brand name.",
+  "whatItMeans": "Refined and grounded; placing swatches over the real store links colour to context.",
+  "techniques": [
+    "Stagger swatch cards over a real-world photo.",
+    "Tint the photo navy.",
+    "List three colour specs on each card.",
+    "Set an uppercase light headline."
+  ],
+  "bestFor": [
+    "Retail brand palette pages",
+    "Palettes shown in context",
+    "Fashion identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Swatch card",
+      "definition": "A card showing a colour with its specs."
+    },
+    {
+      "term": "Contextual palette",
+      "definition": "Swatches placed over a real environment."
+    },
+    {
+      "term": "Stagger",
+      "definition": "Cards offset at different heights."
+    },
+    {
+      "term": "Tinted photo",
+      "definition": "A photo overlaid with a colour."
+    }
+  ]
+}

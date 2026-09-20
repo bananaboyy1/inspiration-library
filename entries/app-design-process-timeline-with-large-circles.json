@@ -1,0 +1,48 @@
+{
+  "name": "app-design-process-timeline-with-large-circles",
+  "image": "images/app-design-process-timeline-with-large-circles.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Four-week design process shown with big overlapping hairline circles",
+  "tags": [
+    "process",
+    "timeline",
+    "white",
+    "hairline",
+    "circles",
+    "italic-serif",
+    "minimal",
+    "case-study"
+  ],
+  "whatItIs": "A near-white slide with a headline mixing regular sans and bold italic serif. Four huge thin-outlined circles overlap across the page, each holding a small week tag, a phase title (Discover, Define, Structure, Design) and a two-line description, with small square nodes on the outlines.",
+  "whatItMeans": "Elegant and airy; oversized circles suggest an ongoing cycle rather than a rigid list.",
+  "techniques": [
+    "Use giant hairline circles as containers for phases.",
+    "Mark connection points with small square nodes.",
+    "Tag each phase with a tiny week pill.",
+    "Mix regular and italic serif in the headline."
+  ],
+  "bestFor": [
+    "Process and methodology slides",
+    "Case-study timelines",
+    "Elegant fintech presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hairline circle",
+      "definition": "A very thin circular outline used as a container."
+    },
+    {
+      "term": "Node marker",
+      "definition": "A small square or dot on a line."
+    },
+    {
+      "term": "Phase tag",
+      "definition": "A small label naming a stage or week."
+    },
+    {
+      "term": "Overlapping cycle",
+      "definition": "Circles that intersect to imply flow."
+    }
+  ]
+}

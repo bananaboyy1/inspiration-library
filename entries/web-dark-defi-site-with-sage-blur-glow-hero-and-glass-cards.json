@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-defi-site-with-sage-blur-glow-hero-and-glass-cards",
+  "image": "images/web-dark-defi-site-with-sage-blur-glow-hero-and-glass-cards.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Black DeFi site with a sage-grey blurred glow, thin white 'One-click for Asset Defense', orbit wallet diagram and bar-chart cards",
+  "tags": [
+    "defi",
+    "dark",
+    "sage-glow",
+    "blur",
+    "glass-cards",
+    "bar-chart",
+    "logo-strip",
+    "orbit"
+  ],
+  "whatItIs": "A board of four dark screens: a hero with a huge blurred sage-grey light shape behind a thin white headline and small floating labels, a black 'Meet Marvellous Insights' page with rounded glass cards (98.2% orbit diagram, bar chart, growth stats), a 'DeFi Wallet' page with a circular dial and transaction chips, and a repeated hero.",
+  "whatItMeans": "Moody and ethereal; blurred grey-green light gives a technical product a soft mystery.",
+  "techniques": [
+    "Use big blurred light shapes as hero art.",
+    "Set thin white headlines on black.",
+    "Present data on dark glass cards with soft bars.",
+    "Add orbit and dial diagrams."
+  ],
+  "bestFor": [
+    "Crypto and DeFi sites",
+    "Dark ambient heroes",
+    "Glass data cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ambient blur",
+      "definition": "Large blurred light shapes as a background."
+    },
+    {
+      "term": "Orbit diagram",
+      "definition": "A globe with an elliptical path and nodes."
+    },
+    {
+      "term": "Dial control",
+      "definition": "A circular step selector."
+    },
+    {
+      "term": "Glass data card",
+      "definition": "A dark translucent card holding a chart."
+    }
+  ]
+}

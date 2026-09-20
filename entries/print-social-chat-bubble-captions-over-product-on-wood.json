@@ -1,0 +1,48 @@
+{
+  "name": "print-social-chat-bubble-captions-over-product-on-wood",
+  "image": "images/print-social-chat-bubble-captions-over-product-on-wood.png",
+  "discipline": "print-social",
+  "designType": "Social product post",
+  "title": "Product photo on wood with three chat-bubble captions in pink, blue and cream",
+  "tags": [
+    "product",
+    "chat-bubbles",
+    "pastel",
+    "wood",
+    "hair-clips",
+    "ceramic-dish",
+    "minimal",
+    "cyrillic"
+  ],
+  "whatItIs": "A top-down photo of a white stone dish holding a pink squiggle hair claw and a white flower claw on wooden planks. Three iMessage-style speech bubbles in pink, dusty blue and cream stack across the top carrying the caption text.",
+  "whatItMeans": "Casual, intimate and conversational; the product feels described by a friend.",
+  "techniques": [
+    "Set captions as offset chat bubbles instead of headlines.",
+    "Use pastel bubble colours that echo the product.",
+    "Keep the photograph unretouched and warm.",
+    "Alternate bubbles left and right for a dialogue rhythm."
+  ],
+  "bestFor": [
+    "Handmade and accessory brands",
+    "Product story posts",
+    "Minimal captions over photography"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chat-bubble caption",
+      "definition": "Text set in message-app speech bubbles."
+    },
+    {
+      "term": "Dialogue rhythm",
+      "definition": "Bubbles alternating sides like a conversation."
+    },
+    {
+      "term": "Colour echo",
+      "definition": "UI colours picked from the product."
+    },
+    {
+      "term": "Flat lay",
+      "definition": "A product photographed from directly above."
+    }
+  ]
+}

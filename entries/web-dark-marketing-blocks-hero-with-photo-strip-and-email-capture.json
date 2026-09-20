@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-marketing-blocks-hero-with-photo-strip-and-email-capture",
+  "image": "images/web-dark-marketing-blocks-hero-with-photo-strip-and-email-capture.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Dark hero 'Production Ready Digital Marketing blocks' with a new-badge pill, a bordered email field, bullet list and blurred photo strip",
+  "tags": [
+    "hero",
+    "dark",
+    "black",
+    "white",
+    "email-capture",
+    "photo-strip",
+    "badge",
+    "minimal"
+  ],
+  "whatItIs": "A near-black page with a logo and nav plus outlined and white Login buttons, a pill badge 'New Introduction Tailark Html', a large bold white headline, a grey paragraph, an outlined email input with a white Get Started button, a three-item bullet list, and a row of dark photo cards (a woman, a saxophonist, a busker) fading at the edges.",
+  "whatItMeans": "Sleek and professional; a faded photo strip adds depth to a text-driven hero.",
+  "techniques": [
+    "Use a badge pill with an arrow above the headline.",
+    "Embed an email field with a button in one bordered bar.",
+    "Fade a photo strip at the sides.",
+    "Keep everything black and white."
+  ],
+  "bestFor": [
+    "Dark SaaS and template heroes",
+    "Email-capture heroes",
+    "Minimal monochrome pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "New badge",
+      "definition": "A pill announcing a feature with an arrow."
+    },
+    {
+      "term": "Email capture bar",
+      "definition": "An input and button in one bordered container."
+    },
+    {
+      "term": "Faded photo strip",
+      "definition": "A row of photos dimmed at the edges."
+    },
+    {
+      "term": "Monochrome hero",
+      "definition": "A hero in black and white only."
+    }
+  ]
+}

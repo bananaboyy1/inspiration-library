@@ -1,0 +1,48 @@
+{
+  "name": "print-social-geometric-tulip-poster-with-heavy-grotesque",
+  "image": "images/print-social-geometric-tulip-poster-with-heavy-grotesque.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Tulip built from two shapes in hot pink with giant black grotesque title",
+  "tags": [
+    "poster",
+    "geometric",
+    "flower",
+    "hot-pink",
+    "black-frame",
+    "heavy-type",
+    "swiss",
+    "minimal"
+  ],
+  "whatItIs": "A pale pink poster in a black frame. A giant black 'Flower' fills the top, a rule sits beneath, then a huge tulip made of overlapping rounded pink shapes with a lime green stem crossing the text below. Small body copy sits in columns.",
+  "whatItMeans": "Bold, playful and modernist; simple shapes say flower without any detail.",
+  "techniques": [
+    "Reduce a subject to two or three flat overlapping shapes.",
+    "Set the title in an ultra-heavy face across the full width.",
+    "Let the stem overlap body text for depth.",
+    "Use hairline rules to organise the grid."
+  ],
+  "bestFor": [
+    "Poster series and posters with a single symbol",
+    "Swiss-style graphics",
+    "Bold editorial layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Shape reduction",
+      "definition": "Simplifying an object into basic geometric forms."
+    },
+    {
+      "term": "Ultra-heavy type",
+      "definition": "A very bold typeface weight."
+    },
+    {
+      "term": "Overlap layering",
+      "definition": "Shapes placed over each other in different tints."
+    },
+    {
+      "term": "Hairline rule",
+      "definition": "A thin line dividing sections."
+    }
+  ]
+}

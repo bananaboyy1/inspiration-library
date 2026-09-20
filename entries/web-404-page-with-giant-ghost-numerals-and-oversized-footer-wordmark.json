@@ -1,0 +1,48 @@
+{
+  "name": "web-404-page-with-giant-ghost-numerals-and-oversized-footer-wordmark",
+  "image": "images/web-404-page-with-giant-ghost-numerals-and-oversized-footer-wordmark.jpg",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Page-not-found screen with ghost 404, coral button and enormous cropped wordmark",
+  "tags": [
+    "404",
+    "error-page",
+    "light-grey",
+    "coral",
+    "ghost-numerals",
+    "footer",
+    "giant-wordmark",
+    "blurred-photo"
+  ],
+  "whatItIs": "A white card on a blurred photo backdrop. A small nav sits at the top, a centred 'Page not found' headline with a short line and coral pill button, huge faint '404' numerals cropped behind, a footer with email signup and link columns, and a giant black 'sonora.' wordmark with a coral dot.",
+  "whatItMeans": "Friendly and polished; even an error page feels on-brand.",
+  "techniques": [
+    "Set faint giant numerals behind an error message.",
+    "Use one coral accent for the button and the wordmark dot.",
+    "Combine an email capture with the footer links.",
+    "End with a huge lowercase wordmark cropped at the bottom."
+  ],
+  "bestFor": [
+    "Error and utility pages",
+    "Product landing footers",
+    "Minimal hardware and consumer brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ghost numerals",
+      "definition": "Huge low-contrast digits behind content."
+    },
+    {
+      "term": "Accent dot",
+      "definition": "A single coloured full stop in a wordmark."
+    },
+    {
+      "term": "Footer wordmark",
+      "definition": "An oversized brand name closing the page."
+    },
+    {
+      "term": "Error state",
+      "definition": "A screen shown when something is missing or fails."
+    }
+  ]
+}

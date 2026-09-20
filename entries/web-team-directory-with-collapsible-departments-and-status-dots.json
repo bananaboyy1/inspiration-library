@@ -1,0 +1,48 @@
+{
+  "name": "web-team-directory-with-collapsible-departments-and-status-dots",
+  "image": "images/web-team-directory-with-collapsible-departments-and-status-dots.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "'Team directory' with collapsible Design, Engineering and Marketing groups, counts, a vertical guide line and green, amber and grey status dots",
+  "tags": [
+    "component",
+    "directory",
+    "collapsible",
+    "status-dots",
+    "white",
+    "green",
+    "amber",
+    "list"
+  ],
+  "whatItIs": "A white column with a bold title and three groups, each with a person icon, a bold department name, a small grey count pill and an up chevron, followed by an indented list on a thin vertical line of names with roles and small green, amber or grey dots.",
+  "whatItMeans": "Clear and calm; nesting and dots show structure and presence together.",
+  "techniques": [
+    "Group people under collapsible headings.",
+    "Show counts in pills.",
+    "Indent lists on a thin guide line.",
+    "Use dots for availability."
+  ],
+  "bestFor": [
+    "Team directories",
+    "Grouped list components",
+    "Presence indicators"
+  ],
+  "vocabulary": [
+    {
+      "term": "Collapsible group",
+      "definition": "A heading that expands to show its items."
+    },
+    {
+      "term": "Count pill",
+      "definition": "A small capsule with a number."
+    },
+    {
+      "term": "Guide line",
+      "definition": "A thin vertical line marking indentation."
+    },
+    {
+      "term": "Status dot",
+      "definition": "A small dot showing availability."
+    }
+  ]
+}

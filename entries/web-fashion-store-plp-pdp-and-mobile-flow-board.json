@@ -1,0 +1,49 @@
+{
+  "name": "web-fashion-store-plp-pdp-and-mobile-flow-board",
+  "image": "images/web-fashion-store-plp-pdp-and-mobile-flow-board.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Fashion store listing, detail and mobile views laid over a blurred editorial portrait",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "plp",
+    "pdp",
+    "black-and-white",
+    "product-grid",
+    "reviews",
+    "giant-footer-wordmark"
+  ],
+  "whatItIs": "A board with a large uppercase statement at top and four tall screens over a dark, blurred portrait: product detail with an inline outfit gallery and reviews, a mobile version, a hoodie listing grid with filters, and a mobile listing. Each ends in a black footer with an enormous cropped 'off-white' wordmark.",
+  "whatItMeans": "Clean and dependable; white pages and vivid clothing photos keep the focus on products.",
+  "techniques": [
+    "Use a neutral white shell with plain type so product colours lead.",
+    "Present listing, detail and mobile flows side by side.",
+    "End every page with a giant cropped wordmark on black.",
+    "Use colourful backdrops behind each model photo.",
+    "Place a large uppercase statement above the screens."
+  ],
+  "bestFor": [
+    "Fashion and apparel e-commerce",
+    "Design-language and flow presentations",
+    "Listing and product page systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "PLP",
+      "definition": "Product listing page."
+    },
+    {
+      "term": "PDP",
+      "definition": "Product detail page."
+    },
+    {
+      "term": "Cropped footer wordmark",
+      "definition": "An oversized brand name cut off at the page bottom."
+    },
+    {
+      "term": "Flow board",
+      "definition": "A presentation showing several connected screens."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "app-banking-research-insight-cards",
+  "image": "images/app-banking-research-insight-cards.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "Banking research insights as floating stat cards",
+  "tags": [
+    "research",
+    "case-study",
+    "navy",
+    "stat-cards",
+    "italic-serif",
+    "progress-bar",
+    "hatching"
+  ],
+  "whatItIs": "A pale slide with a two-tone headline where 'Banking Experience.' is set in bold italic serif. Three white rounded cards at staggered positions carry a question, a big thin percentage and a hatched progress bar or weekday bar.",
+  "whatItMeans": "Clear, analytical and refined; stagger and whitespace keep the data light.",
+  "techniques": [
+    "Set one phrase of a headline in italic serif for emphasis within a sans title.",
+    "Show stats as huge thin numerals with tiny labels.",
+    "Fill progress bars with fine diagonal hatching instead of solid colour.",
+    "Stagger cards diagonally down the page to create a reading path."
+  ],
+  "bestFor": [
+    "UX research summaries",
+    "Fintech case studies",
+    "Report or deck stat slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hatched fill",
+      "definition": "A pattern of thin diagonal lines used as a fill."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card with a question and one key figure."
+    },
+    {
+      "term": "Staggered layout",
+      "definition": "Elements offset diagonally instead of aligned."
+    },
+    {
+      "term": "Italic serif accent",
+      "definition": "An italic serif phrase inside sans text."
+    }
+  ]
+}

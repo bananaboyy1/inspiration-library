@@ -1,0 +1,48 @@
+{
+  "name": "web-scroll-hero-with-photographed-space-airlock-and-white-caps-title",
+  "image": "images/web-scroll-hero-with-photographed-space-airlock-and-white-caps-title.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Full-bleed photo of a space-station airlock hatch with a white caps title 'THE AIRLOCK OPENS' and a small scroll cue",
+  "tags": [
+    "hero",
+    "photography",
+    "space",
+    "airlock",
+    "white-type",
+    "scroll",
+    "cinematic",
+    "symmetry"
+  ],
+  "whatItIs": "A symmetrical photograph of a grey space-station module with a large round hatch at the centre, yellow handrails and warning labels, and a bold white caps title 'THE AIRLOCK OPENS' across the middle with a tiny 'SCROLL' marker at the bottom.",
+  "whatItMeans": "Dramatic and cinematic; the hatch sets up a reveal as the user scrolls.",
+  "techniques": [
+    "Centre a symmetric photo.",
+    "Place a bold title over the focal object.",
+    "Add a small scroll cue.",
+    "Use the image as a scroll-triggered opening."
+  ],
+  "bestFor": [
+    "Scroll storytelling heroes",
+    "Space and tech landing pages",
+    "Cinematic photo openings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Symmetric hero",
+      "definition": "A hero composed around a centre axis."
+    },
+    {
+      "term": "Scroll reveal",
+      "definition": "An animation triggered by scrolling."
+    },
+    {
+      "term": "Focal hatch",
+      "definition": "A central object drawing the eye."
+    },
+    {
+      "term": "Overlay title",
+      "definition": "Text placed over a photograph."
+    }
+  ]
+}

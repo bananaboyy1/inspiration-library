@@ -1,0 +1,48 @@
+{
+  "name": "app-scope-of-work-sprint-timeline-in-light-grey",
+  "image": "images/app-scope-of-work-sprint-timeline-in-light-grey.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Scope-of-work slide with stepped sprint pills and task lists descending to the right",
+  "tags": [
+    "process",
+    "timeline",
+    "light-grey",
+    "sprints",
+    "icons",
+    "stepped",
+    "minimal",
+    "case-study"
+  ],
+  "whatItIs": "A light grey slide with '01', 'Scope of work', a short paragraph and four stepped sprint capsules (Research, Strategy, UI Design, Delivery) each with an icon in a white circle, faint tick lines and a short list of tasks under a bold title, descending diagonally.",
+  "whatItMeans": "Clear and calm; the staircase shows progress without clutter.",
+  "techniques": [
+    "Step phases diagonally downward.",
+    "Use pills with an icon circle as phase labels.",
+    "List tasks as plain lines with a thin vertical rule.",
+    "Keep the palette to grey and black."
+  ],
+  "bestFor": [
+    "Scope and methodology slides",
+    "Agency process pages",
+    "Minimal grey decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sprint pill",
+      "definition": "A capsule labelling a phase with an icon."
+    },
+    {
+      "term": "Staircase layout",
+      "definition": "Items stepped diagonally."
+    },
+    {
+      "term": "Fade ticks",
+      "definition": "Dotted lines fading at the ends of a pill."
+    },
+    {
+      "term": "Task list",
+      "definition": "Short lines under a phase title."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-orange-gradient-monospace-product-page-headphones",
+  "image": "images/web-orange-gradient-monospace-product-page-headphones.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Ring Headphones Product Page",
+  "tags": [
+    "product-page",
+    "orange",
+    "monospace",
+    "3d-render",
+    "grayscale",
+    "specs",
+    "modular"
+  ],
+  "whatItIs": "A product page presented on an orange-red gradient: a light gray window with a huge grayscale render of ring-shaped headphones in the center, left panel with description, specs and gallery, right panel with price, rating, colors, edition and availability, and an orange CTA.",
+  "whatItMeans": "A neutral gray interface lets the product and one hot orange accent dominate. Monospace headings with periods feel like a technical spec sheet.",
+  "techniques": [
+    "Oversized central product render breaking into the side panels",
+    "Monospace headings ending in periods for a spec-sheet voice",
+    "Single orange accent for CTAs, selected states and progress",
+    "Modular side panels split by hairlines",
+    "Gradient backdrop framing the window"
+  ],
+  "bestFor": [
+    "Hardware and audio product launches",
+    "Concept product pages",
+    "Design-forward e-commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spec sheet layout",
+      "definition": "A structured list of attributes in a compact, labeled format."
+    },
+    {
+      "term": "Hero render",
+      "definition": "A large 3D image of the product as the page's centerpiece."
+    },
+    {
+      "term": "Accent-only color",
+      "definition": "Restricting saturated color to interactive and selected elements."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-blurred-skeleton-dashboard-with-sidebar-cards-and-list-rows",
+  "image": "images/web-blurred-skeleton-dashboard-with-sidebar-cards-and-list-rows.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Ghosted dashboard skeleton: a blurred sidebar, header bar, three stat cards and list rows in pale grey shapes",
+  "tags": [
+    "skeleton",
+    "dashboard",
+    "blur",
+    "grey",
+    "white",
+    "loading",
+    "layout",
+    "placeholder"
+  ],
+  "whatItIs": "A white frame containing a very pale, blurred wireframe of an app: a left sidebar with items and a profile, a top bar with title and buttons, three stat cards and several list rows with rounded thumbnails and pills, all as soft grey blocks.",
+  "whatItMeans": "Quiet and structural; a blurred skeleton shows layout without content.",
+  "techniques": [
+    "Replace content with pale grey blocks.",
+    "Blur the shapes.",
+    "Keep card and row structure.",
+    "Use as a loading or preview state."
+  ],
+  "bestFor": [
+    "Loading skeletons",
+    "Dashboard preview illustrations",
+    "Wireframe-like graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Skeleton screen",
+      "definition": "A placeholder showing layout while content loads."
+    },
+    {
+      "term": "Blurred wireframe",
+      "definition": "A softened outline of an interface."
+    },
+    {
+      "term": "Grey block",
+      "definition": "A placeholder rectangle for text or image."
+    },
+    {
+      "term": "Stat card placeholder",
+      "definition": "A skeleton for a metric card."
+    }
+  ]
+}

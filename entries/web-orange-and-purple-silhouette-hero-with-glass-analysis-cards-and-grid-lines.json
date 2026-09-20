@@ -1,0 +1,48 @@
+{
+  "name": "web-orange-and-purple-silhouette-hero-with-glass-analysis-cards-and-grid-lines",
+  "image": "images/web-orange-and-purple-silhouette-hero-with-glass-analysis-cards-and-grid-lines.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Orange-to-plum blurred profile silhouette hero with white headline, yellow CTAs, glass report cards and crossing guide lines",
+  "tags": [
+    "ai-detection",
+    "orange",
+    "plum",
+    "silhouette",
+    "glass-cards",
+    "guide-lines",
+    "yellow",
+    "hero"
+  ],
+  "whatItIs": "A framed hero filled with a warm orange to deep plum gradient photo of a profile silhouette with flowing hair, a white 'Detection System Advanced AI Content' headline, yellow and white buttons, translucent report cards (AI Probability Score bars, Origin Report thumbnails, flagged patterns) tied together with thin white guide lines and dots, and a lower right glass panel with badges.",
+  "whatItMeans": "Warm and analytic; the silhouette and glow keep an AI tool human.",
+  "techniques": [
+    "Use a gradient portrait as the backdrop.",
+    "Overlay glass cards joined by thin guide lines.",
+    "Show segmented bars for scores.",
+    "Use yellow for the primary button."
+  ],
+  "bestFor": [
+    "AI detection and analysis tools",
+    "Warm gradient heroes",
+    "Glass report UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Guide-line overlay",
+      "definition": "Thin lines and dots linking overlay cards."
+    },
+    {
+      "term": "Segmented score bar",
+      "definition": "A bar made of small blocks."
+    },
+    {
+      "term": "Silhouette backdrop",
+      "definition": "A dark figure shape behind UI."
+    },
+    {
+      "term": "Warm gradient hero",
+      "definition": "A hero in orange-to-plum tones."
+    }
+  ]
+}

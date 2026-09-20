@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-intelligence-mobile-site-on-glass-tiles",
+  "image": "images/web-dark-intelligence-mobile-site-on-glass-tiles.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Dark mobile site with a glowing dotted globe and blue gradient 'Intelligence.' on a phone lying on blue glass blocks",
+  "tags": [
+    "mobile-web",
+    "dark",
+    "globe",
+    "blue",
+    "glass-blocks",
+    "gradient-type",
+    "phone",
+    "consulting"
+  ],
+  "whatItIs": "A phone lies on translucent blue glass cubes against a pale background showing a dark page with a small logo, a dotted glowing globe and a big blue-gradient word 'Intelligence.' with a paragraph and a scroll-now mouse icon.",
+  "whatItMeans": "Secretive and global; a dark globe screen on bright glass gives cool contrast.",
+  "techniques": [
+    "Place a dark UI on bright glass blocks.",
+    "Use a dotted globe as hero art.",
+    "Fill a heading with a blue gradient.",
+    "Add a scroll cue."
+  ],
+  "bestFor": [
+    "Intelligence and consulting sites",
+    "Dark mobile heroes",
+    "Glass-block mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dotted globe",
+      "definition": "A globe drawn with dots."
+    },
+    {
+      "term": "Gradient heading",
+      "definition": "A heading filled with a colour gradient."
+    },
+    {
+      "term": "Glass blocks",
+      "definition": "Translucent cubes used as a stage."
+    },
+    {
+      "term": "Scroll cue",
+      "definition": "An icon inviting scrolling."
+    }
+  ]
+}

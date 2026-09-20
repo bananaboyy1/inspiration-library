@@ -1,0 +1,48 @@
+{
+  "name": "app-strength-coach-app-on-lilac-to-black-gradient",
+  "image": "images/app-strength-coach-app-on-lilac-to-black-gradient.png",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "title": "Coach app on a lilac-to-black floor with reflective gradient",
+  "tags": [
+    "fitness",
+    "coach",
+    "lilac",
+    "black",
+    "gradient",
+    "reflection",
+    "white-ui",
+    "large-numerals"
+  ],
+  "whatItIs": "A tilted purple phone on a glossy surface reflecting it, against a lilac to black gradient. The screen is light grey with a heading, big '01' and '06' counters, a card for a virtual coach with a pink-red 3D glove, session times, and a pale purple start button.",
+  "whatItMeans": "Sleek and athletic; the reflection and gradient make the app feel like a premium product.",
+  "techniques": [
+    "Place the device on a glossy floor with a mirror reflection.",
+    "Blend from lilac to black behind the device.",
+    "Show counters as huge light numerals with tiny captions.",
+    "Use a pastel gradient button as the primary action."
+  ],
+  "bestFor": [
+    "Fitness and coaching apps",
+    "Premium product shots",
+    "Dark-to-light gradient presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Floor reflection",
+      "definition": "A mirrored copy of an object on a shiny surface."
+    },
+    {
+      "term": "Counter numerals",
+      "definition": "Very large numbers used as key indicators."
+    },
+    {
+      "term": "Gradient CTA",
+      "definition": "A button filled with a soft gradient."
+    },
+    {
+      "term": "Virtual coach card",
+      "definition": "A card presenting an AI or digital trainer."
+    }
+  ]
+}

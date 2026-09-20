@@ -1,0 +1,48 @@
+{
+  "name": "app-problem-and-solution-map-with-tick-ruler-and-central-circle",
+  "image": "images/app-problem-and-solution-map-with-tick-ruler-and-central-circle.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Problem and solution slide with tick ruler, two problem cards and a central solution card in a circle",
+  "tags": [
+    "problem-solution",
+    "diagram",
+    "white",
+    "italic-serif",
+    "ruler",
+    "dashed-connectors",
+    "quote",
+    "fintech"
+  ],
+  "whatItIs": "A white slide with an outlined pill label, a headline with an italic serif phrase, a horizontal ruler of ticks, dashed connectors dropping to two grey Problem cards, and a central Solution card inside a huge thin circle that ends with a quote and CEO avatar.",
+  "whatItMeans": "Structured and elegant; dashed lines and circle suggest a system converging on one answer.",
+  "techniques": [
+    "Drop dashed connectors from a tick ruler to cards.",
+    "Place the solution card inside a giant thin circle.",
+    "Mark problems with red squares and solution with green.",
+    "End with a quote and small avatar."
+  ],
+  "bestFor": [
+    "Problem and solution case-study slides",
+    "Fintech strategy presentations",
+    "Minimal light decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tick ruler",
+      "definition": "A line of small vertical ticks used as a decorative scale."
+    },
+    {
+      "term": "Status square",
+      "definition": "A small coloured square marking a category."
+    },
+    {
+      "term": "Converging layout",
+      "definition": "Elements arranged to lead to one central answer."
+    },
+    {
+      "term": "Avatar quote",
+      "definition": "A quote with a small portrait and name."
+    }
+  ]
+}

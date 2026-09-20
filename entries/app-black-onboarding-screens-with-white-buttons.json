@@ -1,0 +1,49 @@
+{
+  "name": "app-black-onboarding-screens-with-white-buttons",
+  "image": "images/app-black-onboarding-screens-with-white-buttons.png",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "title": "Pure black onboarding flow with white selection cards and buttons",
+  "tags": [
+    "onboarding",
+    "black",
+    "minimal",
+    "selection-cards",
+    "checkboxes",
+    "subscription",
+    "stepper",
+    "case-study"
+  ],
+  "whatItIs": "A black case-study board headed 'Onboarding Experience' with staggered phones: a gender choice with two large dark cards, a goal picker with checkbox rows, a subscription paywall with a gradient orb icon and monthly/yearly options, and a numeric daily goal stepper. Every screen ends with a white full-width button and a plain Back link.",
+  "whatItMeans": "Serious, focused and premium; removing colour makes every choice feel deliberate.",
+  "techniques": [
+    "Use only black, near-black and white with one single white primary button per screen.",
+    "Show progress as a short segmented line at the top with one segment tinted.",
+    "Make options large dark cards or rows with tiny checkboxes.",
+    "Give the paywall one glowing gradient icon as its only colour.",
+    "Stagger phones diagonally with tiny caption labels."
+  ],
+  "bestFor": [
+    "Fitness, wellness and subscription apps",
+    "Dark-mode onboarding flows",
+    "Case studies about flow logic"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented progress",
+      "definition": "A short bar split into steps showing onboarding position."
+    },
+    {
+      "term": "Selection card",
+      "definition": "A large tappable block representing one option."
+    },
+    {
+      "term": "Paywall",
+      "definition": "A screen offering subscription plans."
+    },
+    {
+      "term": "Stepper",
+      "definition": "A control with plus and minus buttons around a number."
+    }
+  ]
+}

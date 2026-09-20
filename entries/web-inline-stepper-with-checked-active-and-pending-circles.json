@@ -1,0 +1,48 @@
+{
+  "name": "web-inline-stepper-with-checked-active-and-pending-circles",
+  "image": "images/web-inline-stepper-with-checked-active-and-pending-circles.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Three-step stepper with a checked black circle, an active numbered circle and a pale pending circle, titles and descriptions inline",
+  "tags": [
+    "component",
+    "stepper",
+    "progress",
+    "black",
+    "grey",
+    "white",
+    "minimal",
+    "inline-labels"
+  ],
+  "whatItIs": "A white frame with three steps in a row, each a circle followed by a title and a grey description: Step One with a black check, Step Two with a black '2', Step Three with a pale grey '3', joined by short dashes, with a small caption 'Stepper with inline titles and descriptions'.",
+  "whatItMeans": "Clear and lightweight; contrast alone shows done, current and pending.",
+  "techniques": [
+    "Show done as a filled check.",
+    "Show current as a filled number.",
+    "Fade pending steps.",
+    "Keep labels inline beside circles."
+  ],
+  "bestFor": [
+    "Onboarding and checkout steppers",
+    "Progress indicators",
+    "Minimal form flows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stepper",
+      "definition": "A control showing progress through steps."
+    },
+    {
+      "term": "Completed state",
+      "definition": "A step marked with a check."
+    },
+    {
+      "term": "Pending state",
+      "definition": "A step shown in pale grey."
+    },
+    {
+      "term": "Inline label",
+      "definition": "A title and description beside its marker."
+    }
+  ]
+}

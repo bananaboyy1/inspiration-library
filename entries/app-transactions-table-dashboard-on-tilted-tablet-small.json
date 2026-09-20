@@ -1,0 +1,48 @@
+{
+  "name": "app-transactions-table-dashboard-on-tilted-tablet-small",
+  "image": "images/app-transactions-table-dashboard-on-tilted-tablet-small.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Fintech transactions table on a tilted tablet held before pastel glass coins, small crop",
+  "tags": [
+    "dashboard",
+    "fintech",
+    "tablet",
+    "table",
+    "status-pills",
+    "gradient-cards",
+    "3d-coins",
+    "light-ui"
+  ],
+  "whatItIs": "A cropped view of a tablet held in a dark hand showing a light transactions dashboard with three gradient summary cards, a filterable table with coloured status pills, against a pale blue sky and translucent lime and clear discs.",
+  "whatItMeans": "Clear and modern; glass coins in the sky turn a dense table into something light.",
+  "techniques": [
+    "Tilt a dense dashboard in perspective.",
+    "Use gradient summary cards on top.",
+    "Colour status as soft pills.",
+    "Place translucent 3D discs behind."
+  ],
+  "bestFor": [
+    "Fintech dashboard showcases",
+    "Table-heavy UI presentations",
+    "Pastel glass 3D backdrops"
+  ],
+  "vocabulary": [
+    {
+      "term": "Status pill",
+      "definition": "A soft-coloured capsule showing state."
+    },
+    {
+      "term": "Gradient summary card",
+      "definition": "A card with a blurred colour fill and one metric."
+    },
+    {
+      "term": "Glass disc",
+      "definition": "A translucent 3D coin used as decoration."
+    },
+    {
+      "term": "Filter bar",
+      "definition": "A row of dropdown filters above a table."
+    }
+  ]
+}

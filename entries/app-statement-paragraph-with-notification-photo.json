@@ -1,0 +1,47 @@
+{
+  "name": "app-statement-paragraph-with-notification-photo",
+  "image": "images/app-statement-paragraph-with-notification-photo.png",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "title": "Dark manifesto paragraph with lime highlights beside a portrait and notification",
+  "tags": [
+    "case-study",
+    "dark",
+    "lime",
+    "manifesto",
+    "notification",
+    "portrait",
+    "variable-emphasis"
+  ],
+  "whatItIs": "A split slide: left, a black panel with a centred paragraph in large rounded type where key phrases are lime and some are dimmed grey; right, a rounded photo of a man leaning on a wall with a phone, a frosted notification card 'Your Pilo is 2 min away' and the logo.",
+  "whatItMeans": "Confident and narrative; the alternating emphasis guides how the paragraph is read.",
+  "techniques": [
+    "Vary text opacity and colour within one paragraph to create emphasis and rhythm.",
+    "Embed tiny pill badges inside the text as inline illustrations.",
+    "Overlay a frosted notification card on a photo to show the product moment.",
+    "Split the layout into a text side and a photo side with a rounded image."
+  ],
+  "bestFor": [
+    "Project intros in case studies",
+    "Mission or manifesto slides",
+    "Brands with a bold tech voice"
+  ],
+  "vocabulary": [
+    {
+      "term": "Emphasis gradient",
+      "definition": "Text where some words are bright and others dimmed."
+    },
+    {
+      "term": "Inline badge",
+      "definition": "A small pill placed within a line of text."
+    },
+    {
+      "term": "Notification card",
+      "definition": "A frosted rectangle mimicking a phone alert."
+    },
+    {
+      "term": "Manifesto paragraph",
+      "definition": "A long statement of purpose set as a graphic."
+    }
+  ]
+}

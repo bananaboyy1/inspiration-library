@@ -1,0 +1,48 @@
+{
+  "name": "web-testimonial-and-portrait-card-pair-with-white-scribble-arc",
+  "image": "images/web-testimonial-and-portrait-card-pair-with-white-scribble-arc.jpg",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Rounded portrait card with a white scribble loop and floating receipt beside a pale quote card with a big quotation mark",
+  "tags": [
+    "testimonial",
+    "fintech",
+    "quote",
+    "portrait",
+    "navy",
+    "grey",
+    "rounded-cards",
+    "receipt"
+  ],
+  "whatItIs": "Two rounded cards: left a blue-grey gradient with a woman with braids smiling at her phone over a huge white looped scribble and a white transaction card 'Starbucks $1.99'; right a pale grey card with a 'Customer Request' pill, a big grey quotation mark, a large navy quote about a smarter unified wallet and an avatar with name and role.",
+  "whatItMeans": "Human and clear; a real person plus a UI receipt makes the quote feel lived.",
+  "techniques": [
+    "Pair a portrait card with a quote card.",
+    "Overlay a UI receipt on the photo.",
+    "Use a giant faint quotation mark.",
+    "Add a huge white loop behind the person."
+  ],
+  "bestFor": [
+    "Testimonial sections",
+    "Fintech user-voice blocks",
+    "Paired card layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Quote card",
+      "definition": "A card with a big quote and attribution."
+    },
+    {
+      "term": "Receipt overlay",
+      "definition": "A transaction card laid on a photo."
+    },
+    {
+      "term": "Scribble loop",
+      "definition": "A huge white looped stroke as a backdrop."
+    },
+    {
+      "term": "Customer request tag",
+      "definition": "A pill labelling where the quote came from."
+    }
+  ]
+}

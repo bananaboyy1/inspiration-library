@@ -1,0 +1,48 @@
+{
+  "name": "branding-modular-s-symbol-white-on-violet",
+  "image": "images/branding-modular-s-symbol-white-on-violet.jpg",
+  "discipline": "branding",
+  "designType": "Logo with symbol",
+  "title": "White modular S made of two mirrored rounded L-shapes beside a wide sans wordmark on violet",
+  "tags": [
+    "logo",
+    "symbol",
+    "violet",
+    "white",
+    "modular",
+    "rounded",
+    "tech",
+    "wordmark"
+  ],
+  "whatItIs": "A flat violet field with a white symbol of two interlocking rounded L or S shapes with a cross-shaped gap and a wide round sans wordmark 'Sovrix'.",
+  "whatItMeans": "Friendly and technical; rounded modular geometry feels dependable.",
+  "techniques": [
+    "Build an initial from mirrored modules.",
+    "Leave a cross of negative space.",
+    "Pair with a wide round sans.",
+    "Present as white on flat colour."
+  ],
+  "bestFor": [
+    "Software and infrastructure brands",
+    "Initial-based symbols",
+    "Flat colour logo presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mirrored module",
+      "definition": "A shape repeated in reverse to form a symbol."
+    },
+    {
+      "term": "Negative-space cross",
+      "definition": "A plus formed by gaps."
+    },
+    {
+      "term": "Flat colour presentation",
+      "definition": "A logo on a single solid colour."
+    },
+    {
+      "term": "Wide sans",
+      "definition": "A sans-serif with extended letter width."
+    }
+  ]
+}

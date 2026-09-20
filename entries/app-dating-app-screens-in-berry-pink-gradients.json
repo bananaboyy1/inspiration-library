@@ -1,0 +1,48 @@
+{
+  "name": "app-dating-app-screens-in-berry-pink-gradients",
+  "image": "images/app-dating-app-screens-in-berry-pink-gradients.webp",
+  "discipline": "app",
+  "designType": "Dating app screens",
+  "title": "Six dating app screens in raspberry gradients: streaks, premium plans, match compatibility and voice memo",
+  "tags": [
+    "dating",
+    "pink",
+    "raspberry",
+    "gradient",
+    "subscriptions",
+    "checkmarks",
+    "compatibility",
+    "white-ui"
+  ],
+  "whatItIs": "Six phones on white with soft berry swooshes. Screens include a flame streak card with daily reward rows, a profile with premium cards, a match result with a compatibility bar and 'this or that' answers, a voice memo profile, a like-limit modal and a plan picker with selectable pricing rows.",
+  "whatItMeans": "Warm and playful; berry gradients on white feel romantic without clutter.",
+  "techniques": [
+    "Use one berry gradient for premium elements.",
+    "Show rewards as check rows for a streak.",
+    "Present pricing as selectable rows with save badges.",
+    "Add a waveform for voice memos."
+  ],
+  "bestFor": [
+    "Dating and social apps",
+    "Subscription and paywall screens",
+    "Gamified reward streaks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Streak card",
+      "definition": "A card showing consecutive days."
+    },
+    {
+      "term": "Compatibility bar",
+      "definition": "A bar showing percent match."
+    },
+    {
+      "term": "Plan row",
+      "definition": "A selectable pricing option."
+    },
+    {
+      "term": "Premium gradient",
+      "definition": "A special gradient marking paid features."
+    }
+  ]
+}

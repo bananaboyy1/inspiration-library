@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-voice-mode-invitation-card-with-blue-icon-tiles-and-pill-button",
+  "image": "images/web-dark-voice-mode-invitation-card-with-blue-icon-tiles-and-pill-button.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Dark rounded card inviting to 'advanced AI Voice Mode' with two blue icon-tile features, a disclaimer and a big blue Start chatting pill",
+  "tags": [
+    "component",
+    "modal",
+    "dark",
+    "blue",
+    "icon-tiles",
+    "ai",
+    "invitation",
+    "pill-button"
+  ],
+  "whatItIs": "A charcoal rounded card on black with a centred bold white title, two rows each with a bright blue rounded-square icon (chat bubble, smile) and a bold feature name with a grey description, a small centred disclaimer with an underlined Learn more link, a full-width blue Start chatting pill and a plain white 'Maybe later'.",
+  "whatItMeans": "Confident and friendly; one bright blue action on charcoal guides the choice.",
+  "techniques": [
+    "List features with bright icon tiles.",
+    "Use a full-width blue pill for the primary action.",
+    "Give the secondary action as plain text.",
+    "Keep a small disclaimer."
+  ],
+  "bestFor": [
+    "Feature invitation modals",
+    "AI product onboarding",
+    "Dark cards with a single accent"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon tile",
+      "definition": "A rounded square holding an icon."
+    },
+    {
+      "term": "Primary pill",
+      "definition": "A full-width fully rounded button."
+    },
+    {
+      "term": "Text secondary",
+      "definition": "A low-emphasis action styled as plain text."
+    },
+    {
+      "term": "Disclaimer line",
+      "definition": "Small grey text stating limits."
+    }
+  ]
+}

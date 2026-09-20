@@ -1,0 +1,48 @@
+{
+  "name": "web-project-management-landing-sections-with-cyan-frame-and-feature-bento",
+  "image": "images/web-project-management-landing-sections-with-cyan-frame-and-feature-bento.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Task-manager landing sections: three icon columns, a dashboard in a cyan frame, and a bento of feature cards",
+  "tags": [
+    "saas",
+    "productivity",
+    "white",
+    "cyan",
+    "orange",
+    "bento",
+    "dashboard",
+    "icons"
+  ],
+  "whatItIs": "A white page with a 'Solutions' pill and 'Solve your team's biggest challenges', three columns with orange line icons and short copy, a large dashboard in a cyan rounded frame with a floating green check tile and a date tile, then a 'Features' section 'Keep everything in one place' with a bento of cards (collaboration, time management, task tracking, customisable workspaces) each with a UI fragment.",
+  "whatItMeans": "Clear and friendly; a bright frame and UI fragments explain productivity features visually.",
+  "techniques": [
+    "Frame the dashboard in a saturated cyan panel.",
+    "Float small sticker-like tiles beside it.",
+    "Show each feature as a UI fragment in a bento card.",
+    "Use orange line icons."
+  ],
+  "bestFor": [
+    "Productivity and task-management SaaS",
+    "Feature bento sections",
+    "Cyan and orange accents"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dashboard frame",
+      "definition": "A coloured panel holding a product screenshot."
+    },
+    {
+      "term": "UI fragment card",
+      "definition": "A card showing a cropped part of the interface."
+    },
+    {
+      "term": "Floating tile",
+      "definition": "A small sticker-like tile outside the frame."
+    },
+    {
+      "term": "Solutions pill",
+      "definition": "A capsule labelling a section."
+    }
+  ]
+}

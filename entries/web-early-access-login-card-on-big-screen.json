@@ -1,0 +1,48 @@
+{
+  "name": "web-early-access-login-card-on-big-screen",
+  "image": "images/web-early-access-login-card-on-big-screen.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Early-access sign-up page on a wall screen in a glossy dark gallery",
+  "tags": [
+    "sign-up",
+    "login",
+    "serif",
+    "mountains",
+    "white",
+    "card",
+    "screen-mockup",
+    "reflective-floor"
+  ],
+  "whatItIs": "A full-size view of the wall screen with a NeuralFlow logo, a serif 'Get Early Access', desert mountains and a floating white login form, standing on a black plinth over a reflective dark floor with blue-grey walls.",
+  "whatItMeans": "Cinematic and calm; the dark reflective gallery makes a simple page feel valuable.",
+  "techniques": [
+    "Set the screen on a black plinth.",
+    "Use a reflective floor.",
+    "Keep the page mostly white with one photo.",
+    "Blue-grey walls for cool ambience."
+  ],
+  "bestFor": [
+    "Waitlist page presentations",
+    "AI startup launches",
+    "Gallery-style mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reflective floor",
+      "definition": "A glossy surface mirroring the scene."
+    },
+    {
+      "term": "Plinth",
+      "definition": "A block supporting the screen."
+    },
+    {
+      "term": "Cool ambience",
+      "definition": "Blue-grey tones in the room."
+    },
+    {
+      "term": "Waitlist form",
+      "definition": "A form to request access."
+    }
+  ]
+}

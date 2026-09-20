@@ -1,0 +1,48 @@
+{
+  "name": "app-blue-voice-calls-app-with-giant-ghost-title",
+  "image": "images/app-blue-voice-calls-app-with-giant-ghost-title.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blue softphone app held in a low-angle hand shot over a giant outlined wordmark",
+  "tags": [
+    "calls",
+    "blue",
+    "hand",
+    "low-angle",
+    "ghost-type",
+    "gauge",
+    "dashboard",
+    "project-cover"
+  ],
+  "whatItIs": "A cobalt gradient cover with 'SOFTPHONE' in giant thin outlined letters behind, a woman in a black blazer lower right and a phone held toward the camera at a low angle. The screen shows conversations with a semicircle gauge (2,835), stat numbers and a recent call row. A pill 'App Design' and app icon sit in the corners.",
+  "whatItMeans": "Modern and dynamic; the low angle and giant type make a utility app feel bold.",
+  "techniques": [
+    "Set an oversized outlined wordmark behind a person and device.",
+    "Use a single blue gradient throughout, including the screen.",
+    "Shoot the phone from below to add drama.",
+    "Show a gauge as the hero data element."
+  ],
+  "bestFor": [
+    "Communication and productivity app covers",
+    "Case-study thumbnails",
+    "Single-hue blue brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outline ghost type",
+      "definition": "Large letters drawn as thin outlines behind content."
+    },
+    {
+      "term": "Low-angle shot",
+      "definition": "A photo taken from below, looking up."
+    },
+    {
+      "term": "Gauge hero",
+      "definition": "A dial chart used as the main data visual."
+    },
+    {
+      "term": "Gradient cover",
+      "definition": "A cover in one hue with tonal gradient."
+    }
+  ]
+}

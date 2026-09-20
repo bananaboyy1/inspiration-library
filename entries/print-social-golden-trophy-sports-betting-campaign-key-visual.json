@@ -1,0 +1,48 @@
+{
+  "name": "print-social-golden-trophy-sports-betting-campaign-key-visual",
+  "image": "images/print-social-golden-trophy-sports-betting-campaign-key-visual.png",
+  "discipline": "print-social",
+  "designType": "Event key visual",
+  "title": "Gold football trophy ringed by loops in a magenta stadium with a pink label title",
+  "tags": [
+    "sports",
+    "campaign",
+    "gold",
+    "magenta",
+    "stadium",
+    "3d-render",
+    "trophy",
+    "key-visual"
+  ],
+  "whatItIs": "A magenta-lit stadium with beams of light and a large gold football wrapped by looping gold rings on a podium, with a pink skewed label 'MUNDIAL DO MILHÃO' and a small logo at the top left.",
+  "whatItMeans": "Glamorous and thrilling; gold and magenta feel like a jackpot.",
+  "techniques": [
+    "Render a hero object wrapped in gold rings.",
+    "Light the scene in magenta beams.",
+    "Use a skewed pink label title.",
+    "Place a small logo up top."
+  ],
+  "bestFor": [
+    "Sports and betting campaigns",
+    "Prize and contest key visuals",
+    "3D gold objects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gold render",
+      "definition": "A glossy metallic gold 3D object."
+    },
+    {
+      "term": "Light beams",
+      "definition": "Shafts of stage light in the scene."
+    },
+    {
+      "term": "Skewed label",
+      "definition": "A tilted parallelogram title."
+    },
+    {
+      "term": "Prize visual",
+      "definition": "An image centred on a trophy."
+    }
+  ]
+}

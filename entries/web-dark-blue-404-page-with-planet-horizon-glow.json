@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-blue-404-page-with-planet-horizon-glow",
+  "image": "images/web-dark-blue-404-page-with-planet-horizon-glow.webp",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Dark navy 404 page with silver numerals rising from a glowing blue planet horizon in a rounded frame",
+  "tags": [
+    "404",
+    "error-page",
+    "dark",
+    "blue-glow",
+    "planet",
+    "glass-button",
+    "rounded-frame",
+    "saas"
+  ],
+  "whatItIs": "A dark navy canvas with a thick rounded screen frame containing a thin nav, giant pale silver '404' half hidden behind a glowing blue planet curve, a centred explanation and a glowing outlined 'Go to Home Page' pill.",
+  "whatItMeans": "Calm and cosmic; the planet horizon turns an error into a scene.",
+  "techniques": [
+    "Use a glowing arc as a horizon behind big numerals.",
+    "Fade numerals into the glow.",
+    "Outline the button with a soft blue halo.",
+    "Frame the page in a rounded bezel."
+  ],
+  "bestFor": [
+    "Tech and SaaS error pages",
+    "Space-themed dark UI",
+    "Glow-based hero art"
+  ],
+  "vocabulary": [
+    {
+      "term": "Planet horizon",
+      "definition": "A glowing curved edge suggesting a planet."
+    },
+    {
+      "term": "Fade numerals",
+      "definition": "Numbers dissolving into light."
+    },
+    {
+      "term": "Halo button",
+      "definition": "A button with a soft glow outline."
+    },
+    {
+      "term": "Bezel frame",
+      "definition": "A thick rounded border around a screen."
+    }
+  ]
+}

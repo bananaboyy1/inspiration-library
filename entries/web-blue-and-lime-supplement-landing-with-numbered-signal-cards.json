@@ -1,0 +1,48 @@
+{
+  "name": "web-blue-and-lime-supplement-landing-with-numbered-signal-cards",
+  "image": "images/web-blue-and-lime-supplement-landing-with-numbered-signal-cards.webp",
+  "discipline": "web",
+  "designType": "E-commerce landing page",
+  "title": "Men's supplement page in royal blue, electric lime and white with condensed headlines, numbered cards and a giant testimonial",
+  "tags": [
+    "supplements",
+    "royal-blue",
+    "lime",
+    "white",
+    "condensed-type",
+    "numbered-cards",
+    "testimonial",
+    "long-scroll"
+  ],
+  "whatItIs": "A very tall page with a ticker strip, hero 'OWN YOUR ENERGY.' with a blue keyword and a blue box beside a bottle, a white and blue split with a giant '02' and a formula panel, four numbered feature cards in blue, white, lime and white, a swimming-pool photo section with a big white statement, an ingredients photo and list, a dark ritual section, a white 'nothing to hide' section, a full lime testimonial band, a buy box, FAQ, a blue CTA band and a dark footer.",
+  "whatItMeans": "Confident and clinical; blue, lime and white bands give a sports-lab feel.",
+  "techniques": [
+    "Alternate full-width blue, lime, white and dark bands.",
+    "Set giant condensed headlines.",
+    "Use a big numeral as a graphic.",
+    "Give a full-width band to one testimonial."
+  ],
+  "bestFor": [
+    "Performance supplement pages",
+    "Single-product long pages",
+    "Blue-lime brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Colour band",
+      "definition": "A full-width section in one colour."
+    },
+    {
+      "term": "Numbered feature card",
+      "definition": "A card with a big number and a benefit."
+    },
+    {
+      "term": "Testimonial band",
+      "definition": "A section built around one large quote."
+    },
+    {
+      "term": "Ticker strip",
+      "definition": "A scrolling top banner."
+    }
+  ]
+}

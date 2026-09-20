@@ -1,0 +1,48 @@
+{
+  "name": "web-project-intro-slide-with-blue-highlighted-statement-and-stats",
+  "image": "images/web-project-intro-slide-with-blue-highlighted-statement-and-stats.png",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "title": "About-the-project slide with blue highlighted statement and three giant stats",
+  "tags": [
+    "case-study",
+    "intro",
+    "light",
+    "blue",
+    "stats",
+    "centered",
+    "cyrillic",
+    "numbers"
+  ],
+  "whatItIs": "A pale lavender rounded panel labelled 'About the project (01)'. A centred bold statement highlights phrases in blue, a small grey paragraph follows, and three large pale blue numerals (250, 28+, 120+) with tiny captions sit in a row at the bottom.",
+  "whatItMeans": "Clear and factual; blue highlights and big numbers make credentials skimmable.",
+  "techniques": [
+    "Highlight key phrases in brand blue inside a bold centred statement.",
+    "Show project scale with three big light numerals.",
+    "Keep the panel very pale with rounded corners.",
+    "Number the section in the top corner."
+  ],
+  "bestFor": [
+    "Case-study introductions",
+    "Project summary slides",
+    "B2B portfolio pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlighted statement",
+      "definition": "A paragraph with key phrases coloured."
+    },
+    {
+      "term": "Stat row",
+      "definition": "Three or four large numbers in a line."
+    },
+    {
+      "term": "Section counter",
+      "definition": "A number showing slide position."
+    },
+    {
+      "term": "Pale panel",
+      "definition": "A softly tinted container."
+    }
+  ]
+}

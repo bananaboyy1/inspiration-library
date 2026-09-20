@@ -1,0 +1,48 @@
+{
+  "name": "print-social-ai-search-bar-parody-post-on-mustard-grain",
+  "image": "images/print-social-ai-search-bar-parody-post-on-mustard-grain.png",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Mustard grain post with an AI logo tile, search bar and autocomplete list with a cursor",
+  "tags": [
+    "ai",
+    "search-bar",
+    "autocomplete",
+    "mustard",
+    "grain",
+    "ui-parody",
+    "cursor",
+    "cyrillic"
+  ],
+  "whatItIs": "A grainy mustard portrait with a green rounded-square AI logo, a cream search field 'Штучний інтелект...' with a clear icon, and an autocomplete dropdown with three suggestions where the first is highlighted grey with bold underlined words and a cursor pointing at it.",
+  "whatItMeans": "Simple and instantly readable; the search UI makes the benefits feel like suggestions.",
+  "techniques": [
+    "Use a search bar and autocomplete as the layout.",
+    "Highlight the chosen suggestion.",
+    "Add an oversized logo tile above.",
+    "Keep only cream, mustard and one green."
+  ],
+  "bestFor": [
+    "Tool and tip posts",
+    "UI-parody education posts",
+    "Minimal graphic posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Autocomplete list",
+      "definition": "Suggested search completions below a field."
+    },
+    {
+      "term": "Selected suggestion",
+      "definition": "The highlighted row in a list."
+    },
+    {
+      "term": "Logo tile",
+      "definition": "A rounded square holding a logo."
+    },
+    {
+      "term": "Grain field",
+      "definition": "A flat colour with fine noise."
+    }
+  ]
+}

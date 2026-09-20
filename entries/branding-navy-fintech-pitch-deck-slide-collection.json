@@ -1,0 +1,49 @@
+{
+  "name": "branding-navy-fintech-pitch-deck-slide-collection",
+  "image": "images/branding-navy-fintech-pitch-deck-slide-collection.jpg",
+  "discipline": "branding",
+  "designType": "Brand guidelines deck",
+  "title": "Navy and white brand pitch deck with italic serif emphasis and tab-like browser slide",
+  "tags": [
+    "brand-deck",
+    "navy",
+    "white",
+    "italic-serif",
+    "slides",
+    "typography",
+    "colour",
+    "browser-mockup"
+  ],
+  "whatItIs": "A grid of about a dozen slides for a finance-app brand: a title with a large script wordmark, a table of contents, statement slides where one word is bold italic serif, a traction chart with a dotted line, palette swatches, a type specimen ('Aa' with weight list), a logo page and a browser bar mockup on navy.",
+  "whatItMeans": "Refined and trustworthy; white space and a single navy give it institutional calm while italic serif adds personality.",
+  "techniques": [
+    "Set one word per headline in italic serif for emphasis.",
+    "Repeat a thin header with brand keywords across slides.",
+    "Alternate white and navy slides to create rhythm.",
+    "Show type as a giant 'Aa' with a weight list.",
+    "Use a dotted-line chart with a light fill."
+  ],
+  "bestFor": [
+    "Brand guidelines and pitch decks",
+    "Fintech and professional service brands",
+    "Design system introductions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Italic emphasis",
+      "definition": "Setting a key word in italic serif inside sans text."
+    },
+    {
+      "term": "Type specimen",
+      "definition": "A showcase of a typeface's forms and weights."
+    },
+    {
+      "term": "Running header",
+      "definition": "Small repeated text at the top of every slide."
+    },
+    {
+      "term": "Slide rhythm",
+      "definition": "Alternating slide colours to pace a deck."
+    }
+  ]
+}

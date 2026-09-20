@@ -1,0 +1,47 @@
+{
+  "name": "branding-tall-condensed-croissant-wordmark",
+  "image": "images/branding-tall-condensed-croissant-wordmark.jpg",
+  "discipline": "branding",
+  "designType": "Wordmarks",
+  "title": "Tall condensed black MR.CROISSANT wordmark with a round O",
+  "tags": [
+    "wordmark",
+    "condensed",
+    "black-and-white",
+    "bakery",
+    "minimal",
+    "corner-labels",
+    "sans"
+  ],
+  "whatItIs": "A white slide with corner captions and a single black condensed sans wordmark 'MR.CROISSANT' whose O is a round counter contrasting with tall narrow letters.",
+  "whatItMeans": "Strong and simple; a tall narrow face feels like a shop sign.",
+  "techniques": [
+    "Use an ultra-condensed sans.",
+    "Round the O as a small contrast.",
+    "Keep the mark black on white.",
+    "Use small corner captions."
+  ],
+  "bestFor": [
+    "Bakeries and cafés",
+    "Simple type-only logos",
+    "Signage-friendly wordmarks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Condensed sans",
+      "definition": "A narrow, tall sans-serif."
+    },
+    {
+      "term": "Round counter",
+      "definition": "A circular inner shape in a letter."
+    },
+    {
+      "term": "Type-only logo",
+      "definition": "A logo made purely from lettering."
+    },
+    {
+      "term": "Corner captions",
+      "definition": "Small labels in the four corners."
+    }
+  ]
+}

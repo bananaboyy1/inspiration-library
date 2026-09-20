@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-location-card-with-grid-map-live-badge-and-mint-pin",
+  "image": "images/web-dark-location-card-with-grid-map-live-badge-and-mint-pin.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Frosted dark map card with a line grid, translucent blocks, a mint pin, a LIVE badge and San Francisco coordinates in monospace",
+  "tags": [
+    "component",
+    "map",
+    "dark",
+    "mint",
+    "live-badge",
+    "coordinates",
+    "glass",
+    "monospace"
+  ],
+  "whatItIs": "A black page with a small caps label 'CURRENT LOCATION' above a translucent rounded card that shows an abstract street grid with frosted rectangles as buildings, a glowing mint location pin at the centre, a 'LIVE' pill with a green dot at the top right and at the bottom 'San Francisco, CA' with monospace coordinates and a thin mint progress line.",
+  "whatItMeans": "Precise and modern; an abstract grid map with one mint pin is enough to say 'you are here'.",
+  "techniques": [
+    "Abstract a map into grid lines and frosted blocks.",
+    "Use one bright pin.",
+    "Add a live status pill.",
+    "Show coordinates in monospace."
+  ],
+  "bestFor": [
+    "Location and tracking cards",
+    "Dark glass components",
+    "Minimal map visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Abstract map",
+      "definition": "A simplified grid standing in for a map."
+    },
+    {
+      "term": "Live badge",
+      "definition": "A pill with a green dot showing real-time status."
+    },
+    {
+      "term": "Coordinates line",
+      "definition": "Latitude and longitude in monospace."
+    },
+    {
+      "term": "Frosted block",
+      "definition": "A translucent rectangle used as a building."
+    }
+  ]
+}

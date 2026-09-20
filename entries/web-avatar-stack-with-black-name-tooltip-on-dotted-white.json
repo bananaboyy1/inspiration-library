@@ -1,0 +1,48 @@
+{
+  "name": "web-avatar-stack-with-black-name-tooltip-on-dotted-white",
+  "image": "images/web-avatar-stack-with-black-name-tooltip-on-dotted-white.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Overlapping round avatars with a black rounded tooltip 'John Doe, Software Engineer' above the first",
+  "tags": [
+    "component",
+    "avatars",
+    "tooltip",
+    "black",
+    "white",
+    "dotted",
+    "team",
+    "hover"
+  ],
+  "whatItIs": "A dotted white frame with six overlapping circular portraits with white rings and a black rounded rectangle tooltip with bold white name and lighter title above the first avatar.",
+  "whatItMeans": "Friendly and compact; a stack shows a team and the tooltip reveals who on hover.",
+  "techniques": [
+    "Overlap avatars with white rings.",
+    "Reveal identity in a black tooltip.",
+    "Keep the tooltip high-contrast.",
+    "Use a dotted background."
+  ],
+  "bestFor": [
+    "Team and contributor lists",
+    "Hover tooltip components",
+    "Social proof rows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Avatar stack",
+      "definition": "Overlapping round profile images."
+    },
+    {
+      "term": "Tooltip",
+      "definition": "A small label appearing on hover."
+    },
+    {
+      "term": "Ring border",
+      "definition": "A white outline separating overlapping images."
+    },
+    {
+      "term": "Name and role",
+      "definition": "Bold name over a lighter job title."
+    }
+  ]
+}

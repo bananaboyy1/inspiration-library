@@ -1,0 +1,48 @@
+{
+  "name": "app-3d-anatomy-athlete-analytics-dashboard-on-tilted-monitor",
+  "image": "images/app-3d-anatomy-athlete-analytics-dashboard-on-tilted-monitor.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Sports-analytics dashboard with a translucent 3D athlete model, fatigue gauges and a right panel of forecasts, on a tilted blue monitor",
+  "tags": [
+    "dashboard",
+    "sports",
+    "3d-anatomy",
+    "light-ui",
+    "blue",
+    "gauges",
+    "monitor",
+    "health"
+  ],
+  "whatItIs": "A blue monitor tilted in perspective showing a light dashboard with a large glassy anatomical model of a crouching athlete, floating metric cards (840N dynamic fatigue), left tiles with dials and progress bars, and a right 'Detailed analytics' panel with recovery forecast lines, an 87% predictive alert and status chips, with a small logo pill.",
+  "whatItMeans": "Scientific and refined; the glass body model makes data feel physical.",
+  "techniques": [
+    "Place a translucent 3D body at the centre.",
+    "Attach metric callouts to body parts.",
+    "Show dials and lines in side panels.",
+    "Use a pale UI on a dark blue monitor."
+  ],
+  "bestFor": [
+    "Sports science and health analytics",
+    "3D-model-led dashboards",
+    "Medical data UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Anatomical model",
+      "definition": "A 3D figure showing body structures."
+    },
+    {
+      "term": "Metric callout",
+      "definition": "A card linked to a part of an object."
+    },
+    {
+      "term": "Recovery forecast",
+      "definition": "A chart predicting recovery."
+    },
+    {
+      "term": "Predictive alert",
+      "definition": "A high-risk percentage with a status chip."
+    }
+  ]
+}

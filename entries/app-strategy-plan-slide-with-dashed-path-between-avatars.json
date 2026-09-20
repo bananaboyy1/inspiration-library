@@ -1,0 +1,48 @@
+{
+  "name": "app-strategy-plan-slide-with-dashed-path-between-avatars",
+  "image": "images/app-strategy-plan-slide-with-dashed-path-between-avatars.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Strategy plan slide linking round portraits along a dashed path with quoted findings",
+  "tags": [
+    "strategy",
+    "process",
+    "grey",
+    "avatars",
+    "dashed-path",
+    "two-tone-text",
+    "research",
+    "case-study"
+  ],
+  "whatItIs": "A light grey slide numbered 02 with a large title. Three circular portraits sit at staggered points on a faint dashed line that bends between them; beside each, a paragraph with black key phrases and grey secondary text, followed by a name and role.",
+  "whatItMeans": "Human and calm; the path suggests a conversation moving between contributors.",
+  "techniques": [
+    "Connect portraits with a dashed rounded path.",
+    "Highlight key phrases in black inside grey text.",
+    "Stagger blocks left and right to zigzag down the page.",
+    "Keep names and roles small under each paragraph."
+  ],
+  "bestFor": [
+    "Strategy and stakeholder summaries",
+    "Research findings by contributor",
+    "Minimal light case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dashed path",
+      "definition": "A dotted line linking elements in sequence."
+    },
+    {
+      "term": "Key-phrase contrast",
+      "definition": "Dark words within grey text for emphasis."
+    },
+    {
+      "term": "Zigzag layout",
+      "definition": "Alternating left and right placement."
+    },
+    {
+      "term": "Attribution line",
+      "definition": "Name and role below a statement."
+    }
+  ]
+}

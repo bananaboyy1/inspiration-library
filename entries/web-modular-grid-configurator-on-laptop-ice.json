@@ -1,0 +1,48 @@
+{
+  "name": "web-modular-grid-configurator-on-laptop-ice",
+  "image": "images/web-modular-grid-configurator-on-laptop-ice.png",
+  "discipline": "web",
+  "designType": "Interactive site concept",
+  "title": "Grid-based texture configurator site on laptop with ice",
+  "tags": [
+    "grid",
+    "monochrome",
+    "configurator",
+    "laptop-mockup",
+    "ice",
+    "minimal",
+    "monospace",
+    "interactive"
+  ],
+  "whatItIs": "A laptop showing a white site divided by visible grid lines with a nav on top, tiles showing black texture swatches, small pill buttons and monospace text; next to it is a chunky black wordmark and glacial ice in the background.",
+  "whatItMeans": "Precise, cool and experimental; the grid and ice suggest clarity and design engineering.",
+  "techniques": [
+    "Expose the layout grid as visible hairlines that become the main graphic.",
+    "Fill cells with tactile texture swatches for a tool-like interactivity.",
+    "Use monospace and tiny pill buttons for a technical voice.",
+    "Stage the mockup in a cold natural environment that matches the concept."
+  ],
+  "bestFor": [
+    "Design tools and material or pattern libraries",
+    "Experimental studio sites",
+    "Product configurators"
+  ],
+  "vocabulary": [
+    {
+      "term": "Visible grid",
+      "definition": "Layout lines shown as part of the design."
+    },
+    {
+      "term": "Configurator",
+      "definition": "An interface for combining options to build something."
+    },
+    {
+      "term": "Monospace type",
+      "definition": "Type where every character has equal width."
+    },
+    {
+      "term": "Swatch",
+      "definition": "A small sample of colour or texture."
+    }
+  ]
+}

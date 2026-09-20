@@ -1,0 +1,48 @@
+{
+  "name": "print-social-checker-halftone-folder-banner-campaigns",
+  "image": "images/print-social-checker-halftone-folder-banner-campaigns.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Blue checker-pattern banner with a 'campaigns key visuals' folder",
+  "tags": [
+    "banner",
+    "checker",
+    "halftone",
+    "blue",
+    "folder",
+    "scribble",
+    "desktop-metaphor",
+    "series"
+  ],
+  "whatItIs": "A wide banner with a fine blue and white checkerboard texture instead of dots, a manila folder labelled 'campaigns key visuals', a blue scribble at the left edge, a pixel cursor and four tool icons.",
+  "whatItMeans": "Digital and crisp; the checker pattern reads like a screen grid or pixel mesh.",
+  "techniques": [
+    "Swap halftone dots for a fine checkerboard to change the texture but keep the system.",
+    "Keep the folder and cursor composition identical.",
+    "Put a dark blue swoosh across the pattern for depth.",
+    "Use a scribble as a sticker-like accent."
+  ],
+  "bestFor": [
+    "Series banners with variations",
+    "Creative service menus",
+    "Digital-first profiles"
+  ],
+  "vocabulary": [
+    {
+      "term": "Checker texture",
+      "definition": "A fine pattern of alternating squares."
+    },
+    {
+      "term": "System variation",
+      "definition": "Changing one element while keeping the rest."
+    },
+    {
+      "term": "Folder tab title",
+      "definition": "A category label on a folder."
+    },
+    {
+      "term": "Pixel mesh",
+      "definition": "A grid of pixels as decoration."
+    }
+  ]
+}

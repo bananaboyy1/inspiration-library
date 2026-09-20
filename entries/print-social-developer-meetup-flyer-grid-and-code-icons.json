@@ -1,0 +1,48 @@
+{
+  "name": "print-social-developer-meetup-flyer-grid-and-code-icons",
+  "image": "images/print-social-developer-meetup-flyer-grid-and-code-icons.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Developer meetup flyer on mint grid paper with code and lock stickers",
+  "tags": [
+    "event",
+    "meetup",
+    "mint",
+    "grid-paper",
+    "stickers",
+    "pills",
+    "developer",
+    "weekly"
+  ],
+  "whatItIs": "A mint-green square-ruled background with a white logo pill, a small 'Weekly Meetup' tag, giant two-line title 'Beyond Codes' with 'Codes' in blue, blue and green pills for Venue and Date & Time, and 3D-style stickers (code tag, lock, coloured chevrons) at the right edge.",
+  "whatItMeans": "Friendly and techy; the notebook grid says 'learning' and the stickers add playfulness.",
+  "techniques": [
+    "Use graph paper as the background to signal coding and notes.",
+    "Split the title into black and brand-blue words.",
+    "Turn logistics into coloured pills.",
+    "Attach 3D icons partly cropped at the edge."
+  ],
+  "bestFor": [
+    "Developer and student community events",
+    "Workshop and webinar flyers",
+    "Tech club branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Grid-paper background",
+      "definition": "A ruled square pattern like a notebook."
+    },
+    {
+      "term": "Info pills",
+      "definition": "Rounded labels for venue and date."
+    },
+    {
+      "term": "Edge sticker",
+      "definition": "An icon cropped by the frame."
+    },
+    {
+      "term": "Two-tone title",
+      "definition": "A headline with one word coloured."
+    }
+  ]
+}

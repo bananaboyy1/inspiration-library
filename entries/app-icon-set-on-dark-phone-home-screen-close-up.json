@@ -1,0 +1,48 @@
+{
+  "name": "app-icon-set-on-dark-phone-home-screen-close-up",
+  "image": "images/app-icon-set-on-dark-phone-home-screen-close-up.jpg",
+  "discipline": "app",
+  "designType": "App icon showcase",
+  "title": "Colourful gradient app icons on a dark home screen shown in perspective",
+  "tags": [
+    "app-icons",
+    "home-screen",
+    "dark",
+    "gradient",
+    "perspective",
+    "close-up",
+    "phone",
+    "icon-set"
+  ],
+  "whatItIs": "An angled close-up of a black phone whose home screen shows a grid of varied gradient app icons (orbs, faces, spirals, geometric shapes) with white labels.",
+  "whatItMeans": "Vibrant and inventive; each icon is a mini artwork, and the dark screen makes them glow.",
+  "techniques": [
+    "Show icons in context on a real home screen.",
+    "Give each icon its own gradient, shape and personality.",
+    "Use extreme perspective to make the grid dynamic.",
+    "Keep the background dark and unfussy."
+  ],
+  "bestFor": [
+    "App icon design portfolios",
+    "Icon set showcases",
+    "Playful app brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon grid",
+      "definition": "A layout of app icons on a home screen."
+    },
+    {
+      "term": "Gradient icon",
+      "definition": "An icon filled with a colour blend."
+    },
+    {
+      "term": "Perspective crop",
+      "definition": "A close, angled view of a device."
+    },
+    {
+      "term": "Label text",
+      "definition": "The small app name under each icon."
+    }
+  ]
+}

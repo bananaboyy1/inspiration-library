@@ -1,0 +1,48 @@
+{
+  "name": "web-editorial-serif-noise-cancellation-site-with-lime-accents",
+  "image": "images/web-editorial-serif-noise-cancellation-site-with-lime-accents.webp",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Long site mixing large light serif italics, black telemetry panels with lime waves and monospace tags",
+  "tags": [
+    "editorial",
+    "serif-italic",
+    "monospace",
+    "lime",
+    "black",
+    "cream",
+    "technical",
+    "pricing"
+  ],
+  "whatItIs": "A tall page with a cream hero 'Silence is engineered, never accidental.' in light serif and italic beside a greyscale building photo, a black 'Mapping the Decibel Topography' section with a lime wave visualisation on a grid, cream sections with monospace labels, a lime tab, diagrams of waves, a three-tier pricing table with a lime highlight and a giant serif footer name.",
+  "whatItMeans": "Sophisticated and technical; serif italics with monospace data feel like a scientific journal.",
+  "techniques": [
+    "Mix light serif and italic for headings.",
+    "Use monospace micro-labels.",
+    "Draw data waves in lime on black.",
+    "Highlight one pricing tier with lime."
+  ],
+  "bestFor": [
+    "Deep-tech and hardware startups",
+    "Editorial technical sites",
+    "Serif and monospace pairings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Serif-italic heading",
+      "definition": "A heading mixing roman and italic."
+    },
+    {
+      "term": "Telemetry panel",
+      "definition": "A dark section with technical data visuals."
+    },
+    {
+      "term": "Monospace label",
+      "definition": "Small technical tags in monospace."
+    },
+    {
+      "term": "Wave visualisation",
+      "definition": "Lines forming a sine-like wave."
+    }
+  ]
+}

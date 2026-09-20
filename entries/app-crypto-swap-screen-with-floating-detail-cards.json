@@ -1,0 +1,48 @@
+{
+  "name": "app-crypto-swap-screen-with-floating-detail-cards",
+  "image": "images/app-crypto-swap-screen-with-floating-detail-cards.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Coin swap screen with hand and floating enlarged input cards on a pearl gradient",
+  "tags": [
+    "fintech",
+    "crypto",
+    "swap",
+    "pearl-gradient",
+    "exploded-ui",
+    "hand",
+    "light-ui",
+    "serif-numerals"
+  ],
+  "whatItIs": "A pale grey pearl gradient with a large headline whose last words are faded grey. A hand holds a phone showing a swap screen; two large enlarged cards (You Pay BNB, You Receive USDT) float out on thin connector lines, with small captions and glyph icons.",
+  "whatItMeans": "Clear and refined; the enlarged fields make the key interaction easy to understand.",
+  "techniques": [
+    "Enlarge important UI fields as floating cards connected by thin lines.",
+    "Fade part of the headline to grey for emphasis.",
+    "Use a pearly grey gradient background.",
+    "Set numerals in a light serif."
+  ],
+  "bestFor": [
+    "Crypto and finance product explainers",
+    "Feature callout presentations",
+    "Elegant light UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Leader line",
+      "definition": "A thin line linking a callout to its source."
+    },
+    {
+      "term": "Enlarged callout",
+      "definition": "A magnified UI component beside the device."
+    },
+    {
+      "term": "Fade emphasis",
+      "definition": "Dimming words to highlight others."
+    },
+    {
+      "term": "Pearl gradient",
+      "definition": "A soft iridescent grey-white gradient."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-morning-lark-light-schedule-screen-beside-hand-drawn-sketch",
+  "image": "images/app-morning-lark-light-schedule-screen-beside-hand-drawn-sketch.png",
+  "discipline": "app",
+  "designType": "Wireframe showcase",
+  "title": "Butter-yellow board with a 'Morning Lark' schedule phone and a hand-sketched 'Body Clock' wireframe",
+  "tags": [
+    "sketch",
+    "wireframe",
+    "yellow",
+    "health",
+    "circadian",
+    "monospace",
+    "phone",
+    "hand-drawn"
+  ],
+  "whatItIs": "A butter-yellow field with a white phone at left showing 'Light diet for Morning Lark', bed and wake time pills with a sync toggle and a timeline of coloured blocks (Tmin Marker, Wake-Up, Morning Light, Focus, Morning Exercise) with a dark tooltip, and at right a black felt-pen sketch of the same timeline titled 'Body Clock' with hatching and handwritten labels.",
+  "whatItMeans": "Human and process-led; the raw sketch beside the polished screen shows where the idea came from.",
+  "techniques": [
+    "Show the raw sketch beside the final screen.",
+    "Use a flat butter-yellow backdrop.",
+    "Colour time blocks pastel.",
+    "Add a dark monospace tooltip."
+  ],
+  "bestFor": [
+    "Sketch-to-UI case studies",
+    "Health and circadian apps",
+    "Process storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sketch beside screen",
+      "definition": "A hand sketch shown next to the final UI."
+    },
+    {
+      "term": "Time block",
+      "definition": "A coloured bar spanning a time range."
+    },
+    {
+      "term": "Tooltip",
+      "definition": "A small dark note explaining a state."
+    },
+    {
+      "term": "Flat backdrop",
+      "definition": "A single-colour background."
+    }
+  ]
+}

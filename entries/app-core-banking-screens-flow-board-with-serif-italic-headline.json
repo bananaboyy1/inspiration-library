@@ -1,0 +1,48 @@
+{
+  "name": "app-core-banking-screens-flow-board-with-serif-italic-headline",
+  "image": "images/app-core-banking-screens-flow-board-with-serif-italic-headline.jpg",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Board of core banking screens on pearl-slate gradients: home, transactions, send money, confirm, add money, pay bills and payment success",
+  "tags": [
+    "fintech",
+    "slate-blue",
+    "italic-serif",
+    "flow",
+    "keypad",
+    "bottom-sheet",
+    "phones",
+    "pill-tabs"
+  ],
+  "whatItIs": "An off-white board with a pill 'Core Banking', a headline 'One Dashboard, Every Financial Move.' with bold italic serif, a right paragraph, four pill tabs and phones arranged in rows: a home, then transactions, send money and a confirm sheet, then add money and a keypad amount, then pay bills, provider list, payment confirmation and Bill Paid success.",
+  "whatItMeans": "Orderly and calm; a consistent gradient and sheets show a whole payment flow.",
+  "techniques": [
+    "Arrange phones by flow row.",
+    "Fade each screen from white to slate.",
+    "Use bottom sheets for confirmation.",
+    "Set a headline with italic serif emphasis."
+  ],
+  "bestFor": [
+    "Fintech flow presentations",
+    "Payment and bill-pay screens",
+    "Slate-blue app systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flow rows",
+      "definition": "Rows of screens grouped by task."
+    },
+    {
+      "term": "Confirm sheet",
+      "definition": "A bottom sheet showing transfer details."
+    },
+    {
+      "term": "Swipe to continue",
+      "definition": "A slider control confirming an action."
+    },
+    {
+      "term": "Success screen",
+      "definition": "A state confirming a completed payment."
+    }
+  ]
+}

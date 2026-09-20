@@ -1,0 +1,48 @@
+{
+  "name": "web-plus-minus-accordion-tabs-with-bordered-rows",
+  "image": "images/web-plus-minus-accordion-tabs-with-bordered-rows.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Bordered FAQ rows with plus and minus icons; the open row shows a short grey answer",
+  "tags": [
+    "component",
+    "accordion",
+    "plus-minus",
+    "faq",
+    "white",
+    "bordered",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white component 'Tabs w/ plus-minus' with four separate rounded bordered rows of bold questions; three show a plus at the right and the third is open with a minus and a two-line grey answer.",
+  "whatItMeans": "Clean and legible; plus and minus icons make expandability instantly clear.",
+  "techniques": [
+    "Separate each item in its own bordered card.",
+    "Use plus and minus instead of chevrons.",
+    "Show answers in grey under the question.",
+    "Keep bold questions."
+  ],
+  "bestFor": [
+    "FAQ components",
+    "Accordion patterns",
+    "Minimal documentation UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Plus-minus toggle",
+      "definition": "An icon that switches between plus and minus."
+    },
+    {
+      "term": "Bordered row",
+      "definition": "A row inside its own thin border."
+    },
+    {
+      "term": "Answer text",
+      "definition": "Grey supporting text shown when open."
+    },
+    {
+      "term": "Card accordion",
+      "definition": "An accordion whose items are separate cards."
+    }
+  ]
+}

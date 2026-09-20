@@ -1,0 +1,48 @@
+{
+  "name": "app-twelve-glass-metric-tiles-over-blurred-smartwatch-photo",
+  "image": "images/app-twelve-glass-metric-tiles-over-blurred-smartwatch-photo.png",
+  "discipline": "app",
+  "designType": "Health app screens",
+  "title": "Grid of frosted glass metric tiles with serif numerals over a blurred wrist-watch photo",
+  "tags": [
+    "health",
+    "glass",
+    "serif-numerals",
+    "metrics",
+    "blue",
+    "watch",
+    "status-colours",
+    "tiles"
+  ],
+  "whatItIs": "A blurred photo of a wrist with a smartwatch on a blue background overlaid with twelve frosted rounded tiles (HDL-C, ApoB, RHR, HRV, LDL-C, Weight, VO2 Max, Waist:Height, Resting HR, Zone 2, Body Fat), each with a pill label, a serif numeral, a unit and a green or red status word.",
+  "whatItMeans": "Calm and personal; glass tiles turn lab data into a friendly constellation.",
+  "techniques": [
+    "Scatter glass tiles at varied sizes over a photo.",
+    "Set numerals in serif.",
+    "Colour status words green or red.",
+    "Label with a small grey pill."
+  ],
+  "bestFor": [
+    "Health data visuals",
+    "Glass UI showcases",
+    "Wearable app marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass tile",
+      "definition": "A frosted rounded tile with a metric."
+    },
+    {
+      "term": "Status word",
+      "definition": "A green or red word saying in range or high."
+    },
+    {
+      "term": "Label pill",
+      "definition": "A small capsule naming a metric."
+    },
+    {
+      "term": "Photo backdrop",
+      "definition": "A blurred photo behind UI."
+    }
+  ]
+}

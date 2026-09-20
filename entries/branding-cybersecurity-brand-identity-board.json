@@ -1,0 +1,45 @@
+{
+  "name": "branding-cybersecurity-brand-identity-board",
+  "image": "images/branding-cybersecurity-brand-identity-board.png",
+  "discipline": "branding",
+  "designType": "Brand identity board",
+  "title": "Dark Cybersecurity Identity Board",
+  "tags": [
+    "dark",
+    "monospace",
+    "tech",
+    "security",
+    "board",
+    "mockups",
+    "grid",
+    "business-card"
+  ],
+  "whatItIs": "A bento-grid brand presentation for a security company: monospace typography specimen 'Aa', browser tab, phone hero, severity color chips, embossed black business card, dashboard on a monitor beside a satellite dish, a black logo tile with a slashed oval mark and a story-format slide.",
+  "whatItMeans": "Black surfaces, monospace type and a single abstract oval mark feel precise and vigilant. The mixed mockups prove the identity works across product and print.",
+  "techniques": [
+    "Bento grid of unequal tiles combining logo, type, color, mockups",
+    "Monospace typeface as the identity's core voice",
+    "Severity chips (critical, high, medium, low) as a functional color system",
+    "Embossed dot texture on the business card surface",
+    "Faint grid lines behind dark tiles for a technical feel"
+  ],
+  "bestFor": [
+    "Tech, security and infrastructure brands",
+    "Identity case-study presentations",
+    "Systems that must span UI and marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bento board",
+      "definition": "A grid of differently sized tiles presenting a brand's assets."
+    },
+    {
+      "term": "Type specimen tile",
+      "definition": "A tile showing the typeface with 'Aa' and a name."
+    },
+    {
+      "term": "Functional palette",
+      "definition": "Colors assigned to meanings rather than only aesthetics."
+    }
+  ]
+}

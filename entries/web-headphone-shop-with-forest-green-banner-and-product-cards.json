@@ -1,0 +1,48 @@
+{
+  "name": "web-headphone-shop-with-forest-green-banner-and-product-cards",
+  "image": "images/web-headphone-shop-with-forest-green-banner-and-product-cards.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Green-and-cream e-commerce for headphones: peach banner with green button, filter pills, product grid and small checkout and category tiles",
+  "tags": [
+    "e-commerce",
+    "green",
+    "peach",
+    "cream",
+    "product-grid",
+    "filters",
+    "checkout",
+    "categories"
+  ],
+  "whatItIs": "A tan board with a large white store page under a dark green top bar: logo, nav and search, a peach banner 'Grab Upto 50% Off On Selected Headphone' with a green Buy Now and a woman in a lilac hoodie wearing headphones, a row of filter pills, 'Headphones For You!' with a four-column grid of grey product tiles with prices, stars and outlined Add to Cart buttons (one filled green), and at the right smaller screens for checkout, popular categories, a product page and a list view.",
+  "whatItMeans": "Fresh and dependable; forest green and peach feel friendly and trustworthy.",
+  "techniques": [
+    "Use forest green for actions and bars.",
+    "Show filters as grey pills.",
+    "Make Add to Cart outlined with one filled state.",
+    "Present sub-screens in white cards on tan."
+  ],
+  "bestFor": [
+    "General e-commerce templates",
+    "Green and peach brands",
+    "Product grid pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Filter pill row",
+      "definition": "Dropdown pills above a product grid."
+    },
+    {
+      "term": "Outlined add-to-cart",
+      "definition": "A button with border and no fill."
+    },
+    {
+      "term": "Promo banner",
+      "definition": "A wide banner with an offer."
+    },
+    {
+      "term": "Category tile",
+      "definition": "A small card with an item type and count."
+    }
+  ]
+}

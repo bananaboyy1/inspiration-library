@@ -1,0 +1,48 @@
+{
+  "name": "app-nightlife-map-with-story-bubbles",
+  "image": "images/app-nightlife-map-with-story-bubbles.jpg",
+  "discipline": "app",
+  "designType": "Map and discovery app",
+  "title": "Nightlife discovery map with circular story bubbles in neon",
+  "tags": [
+    "map",
+    "nightlife",
+    "dark-mode",
+    "neon",
+    "story-bubbles",
+    "purple",
+    "discovery",
+    "tilted-mockup"
+  ],
+  "whatItIs": "A tilted phone on a purple surface shows a dark map covered by circular photo bubbles with coloured neon rings and venue names, a floating search pill, and small badges.",
+  "whatItMeans": "Vibrant and social; venue photos sit on the map like stories, making discovery feel alive.",
+  "techniques": [
+    "Replace pins with circular photo avatars on the map.",
+    "Ring each avatar in a neon gradient to show activity.",
+    "Use a dark, muted map so imagery pops.",
+    "Float a translucent search pill above the map."
+  ],
+  "bestFor": [
+    "Event, nightlife and local discovery apps",
+    "Social maps",
+    "Dark-themed consumer apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo pin",
+      "definition": "A map marker made of a circular photograph."
+    },
+    {
+      "term": "Story ring",
+      "definition": "A coloured ring around an avatar signalling new content."
+    },
+    {
+      "term": "Dark map",
+      "definition": "A low-contrast night-style base map."
+    },
+    {
+      "term": "Floating search",
+      "definition": "A search field hovering above content."
+    }
+  ]
+}

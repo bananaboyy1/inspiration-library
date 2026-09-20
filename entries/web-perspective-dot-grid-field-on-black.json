@@ -1,0 +1,48 @@
+{
+  "name": "web-perspective-dot-grid-field-on-black",
+  "image": "images/web-perspective-dot-grid-field-on-black.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Black plane of tiny white dots in perspective, waving gently toward the horizon",
+  "tags": [
+    "background",
+    "dots",
+    "dark",
+    "perspective",
+    "wave",
+    "generative",
+    "minimal",
+    "particles"
+  ],
+  "whatItIs": "A pure black canvas covered by a receding grid of tiny grey-white dots that ripples like a fabric sheet, dense near the horizon and sparse at the bottom.",
+  "whatItMeans": "Quiet and spatial; the dot plane gives depth without any imagery.",
+  "techniques": [
+    "Lay a dot grid in perspective.",
+    "Ripple it with a soft wave.",
+    "Fade dots with distance.",
+    "Use only white on black."
+  ],
+  "bestFor": [
+    "Dark hero backgrounds",
+    "Particle-field backdrops",
+    "Minimal tech sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot plane",
+      "definition": "A grid of dots laid in perspective."
+    },
+    {
+      "term": "Particle field",
+      "definition": "Many small points forming a texture."
+    },
+    {
+      "term": "Wave displacement",
+      "definition": "A ripple moving through a grid."
+    },
+    {
+      "term": "Depth fade",
+      "definition": "Elements dimming with distance."
+    }
+  ]
+}

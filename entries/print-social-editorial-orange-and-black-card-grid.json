@@ -1,0 +1,49 @@
+{
+  "name": "print-social-editorial-orange-and-black-card-grid",
+  "image": "images/print-social-editorial-orange-and-black-card-grid.jpg",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "title": "Orange, black and grey editorial cards with serif italics and huge stats",
+  "tags": [
+    "editorial",
+    "cards",
+    "orange",
+    "black",
+    "grey",
+    "serif-italic",
+    "big-numbers",
+    "arrows"
+  ],
+  "whatItIs": "A grid of rounded cards in black, orange and pale grey: a director portrait with name pill, 'Grow Smarter' with an arrow chip, a manifesto paragraph with a hand-drawn circle around 'converts', an orange card in italic serif, '84%' with a starburst, and '2.4K' with an orange K.",
+  "whatItMeans": "Modern, editorial and confident; contrasting sans and italic serif give agency-level polish.",
+  "techniques": [
+    "Mix a clean grotesque with italic serif in one card set.",
+    "Use huge stat numerals with a tiny explanatory caption.",
+    "Put arrow-in-pill icons as navigation chips.",
+    "Circle a key word with a hand-drawn ellipse.",
+    "Limit the palette to orange, black and grey."
+  ],
+  "bestFor": [
+    "Agency and studio social decks",
+    "Thought-leadership carousels",
+    "Brand-voice templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "Arrow chip",
+      "definition": "A small pill containing an arrow."
+    },
+    {
+      "term": "Italic serif accent",
+      "definition": "Italic serif type used to add elegance."
+    },
+    {
+      "term": "Hand-drawn ellipse",
+      "definition": "A scribbled oval around a word."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card built around one large number."
+    }
+  ]
+}

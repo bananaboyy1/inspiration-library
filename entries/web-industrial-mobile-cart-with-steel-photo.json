@@ -1,0 +1,47 @@
+{
+  "name": "web-industrial-mobile-cart-with-steel-photo",
+  "image": "images/web-industrial-mobile-cart-with-steel-photo.png",
+  "discipline": "web",
+  "designType": "Responsive mobile web",
+  "title": "Industrial catalog mobile cart beside moody steel photograph",
+  "tags": [
+    "mobile-web",
+    "empty-state",
+    "cart",
+    "blue",
+    "steel",
+    "photography-pairing",
+    "cyrillic"
+  ],
+  "whatItIs": "A split tile: on the left a dark photo of steel pipes and sparks in a workshop, on the right a phone showing an empty-cart state with a grey icon, a blue button, and a deep blue consultation card.",
+  "whatItMeans": "Practical and trustworthy; the gritty photo grounds the clean interface in real materials.",
+  "techniques": [
+    "Pair a real-world product photo with the matching UI to connect brand and interface.",
+    "Design an empty state with a light icon, one sentence and one blue button.",
+    "Close the page with a saturated blue call-to-action card.",
+    "Keep the interface light and airy against a dark image."
+  ],
+  "bestFor": [
+    "Industrial and B2B e-commerce",
+    "Portfolio slides explaining mobile states",
+    "Empty and error state design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Empty state",
+      "definition": "The screen shown when there is no content yet."
+    },
+    {
+      "term": "Photo-UI pairing",
+      "definition": "Placing photography next to interface to show context."
+    },
+    {
+      "term": "CTA card",
+      "definition": "A coloured block containing a prompt and one button."
+    },
+    {
+      "term": "Material photography",
+      "definition": "Close images of a product's raw materials."
+    }
+  ]
+}

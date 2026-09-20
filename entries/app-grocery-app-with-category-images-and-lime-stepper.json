@@ -1,0 +1,48 @@
+{
+  "name": "app-grocery-app-with-category-images-and-lime-stepper",
+  "image": "images/app-grocery-app-with-category-images-and-lime-stepper.png",
+  "discipline": "app",
+  "designType": "E-commerce app",
+  "title": "Supermarket app on pale green: photo category grid, offer cards and lime quantity stepper",
+  "tags": [
+    "grocery",
+    "light-green",
+    "category-grid",
+    "lime",
+    "offer-badges",
+    "product-cards",
+    "tab-bar",
+    "white-ui"
+  ],
+  "whatItIs": "Two white phones on pale green. The first has a header with a badge, search field, categories as round-cornered product photos (Meat, Fish, Alcohol, Fruits) and offer cards with dark discount tags; the second is a Beauty listing with chips and product cards where a lime stepper replaces the plus button.",
+  "whatItMeans": "Clear and fresh; real product photography and a single lime action colour make shopping easy.",
+  "techniques": [
+    "Use real product cutouts for categories.",
+    "Put discounts in small dark tags.",
+    "Turn add buttons into lime steppers.",
+    "Keep a five-tab bottom bar."
+  ],
+  "bestFor": [
+    "Grocery and retail apps",
+    "Photo-based category grids",
+    "Lime-accent commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Category photo tile",
+      "definition": "A product image acting as category icon."
+    },
+    {
+      "term": "Discount tag",
+      "definition": "A dark label with percentage."
+    },
+    {
+      "term": "Lime stepper",
+      "definition": "A quantity control filled with lime."
+    },
+    {
+      "term": "Tab bar",
+      "definition": "A bottom navigation with icons."
+    }
+  ]
+}

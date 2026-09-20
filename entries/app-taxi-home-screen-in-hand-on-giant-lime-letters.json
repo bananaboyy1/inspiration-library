@@ -1,0 +1,47 @@
+{
+  "name": "app-taxi-home-screen-in-hand-on-giant-lime-letters",
+  "image": "images/app-taxi-home-screen-in-hand-on-giant-lime-letters.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Ride app home screen in a hand over giant lime letterforms",
+  "tags": [
+    "mobility",
+    "lime",
+    "hand",
+    "mockup",
+    "giant-letters",
+    "map-card",
+    "rewards"
+  ],
+  "whatItIs": "A lime cover with big paler rounded letters of the brand name behind a phone held by a dark hand. The screen has a large 'Good morning, Alex', a black map card with route and confirm button, a lime 'Book a ride' bar and a rewards stat.",
+  "whatItMeans": "Friendly and energetic; the greeting adds warmth to a utilitarian app.",
+  "techniques": [
+    "Use oversized tone-on-tone letters as a backdrop.",
+    "Contrast a black map card with lime buttons.",
+    "Start the screen with a personal greeting in huge type.",
+    "Hold the phone in a hand to add life."
+  ],
+  "bestFor": [
+    "Mobility and delivery apps",
+    "Case-study covers with strong colour",
+    "Consumer apps needing warmth"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tone-on-tone type",
+      "definition": "Large letters slightly different in shade from their background."
+    },
+    {
+      "term": "Greeting header",
+      "definition": "A friendly personalised heading at the top of a screen."
+    },
+    {
+      "term": "Map card",
+      "definition": "A dark card showing a route within a screen."
+    },
+    {
+      "term": "Reward chip",
+      "definition": "A small stat showing points."
+    }
+  ]
+}

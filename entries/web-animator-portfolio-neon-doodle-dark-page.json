@@ -1,0 +1,50 @@
+{
+  "name": "web-animator-portfolio-neon-doodle-dark-page",
+  "image": "images/web-animator-portfolio-neon-doodle-dark-page.jpg",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Animator portfolio on black with neon lime, violet blobs and sketchy cartoon character",
+  "tags": [
+    "portfolio",
+    "dark",
+    "neon-lime",
+    "violet",
+    "illustration",
+    "doodles",
+    "cartoon",
+    "showreel",
+    "brush-type"
+  ],
+  "whatItIs": "A tall dark portfolio page: hero with brush-lettered 'Dikshant', lime underline and pills, a waving cartoon character with a speech bubble, blobs of violet and blue, a showreel card, featured project tiles in bright illustrated colours, a skills row of software icons, an about card with a lime portrait and a contact footer with a sticker character. Hand-drawn doodles sit throughout.",
+  "whatItMeans": "Energetic, youthful and fun; illustration and doodles give an animator's personality.",
+  "techniques": [
+    "Set the name in brush-marker lettering with a highlighter underline.",
+    "Use neon lime and violet on near-black for maximum pop.",
+    "Add small doodle marks between sections.",
+    "Use rounded dark cards to hold different content types.",
+    "Let an illustrated character interact with the hero text."
+  ],
+  "bestFor": [
+    "Animators, illustrators and motion designers",
+    "Playful creative portfolios",
+    "Youth-focused personal brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Brush lettering",
+      "definition": "Letters that look painted with a marker or brush."
+    },
+    {
+      "term": "Highlighter underline",
+      "definition": "A thick coloured stroke under text."
+    },
+    {
+      "term": "Doodle scatter",
+      "definition": "Small hand-drawn marks placed around a layout."
+    },
+    {
+      "term": "Dark card stack",
+      "definition": "A page of stacked dark rounded panels."
+    }
+  ]
+}

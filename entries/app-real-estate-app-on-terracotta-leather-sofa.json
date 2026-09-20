@@ -1,0 +1,48 @@
+{
+  "name": "app-real-estate-app-on-terracotta-leather-sofa",
+  "image": "images/app-real-estate-app-on-terracotta-leather-sofa.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Cream real-estate app photographed leaning on a terracotta leather cushion",
+  "tags": [
+    "real-estate",
+    "mockup",
+    "warm",
+    "terracotta",
+    "leather",
+    "cream-ui",
+    "photographic",
+    "gold-phone"
+  ],
+  "whatItIs": "A gold-framed phone leaning on a quilted terracotta leather sofa in soft light. The screen is cream with a greeting, a row of round property avatars, a search field and two property cards with photos.",
+  "whatItMeans": "Cosy, warm and upscale; the material and colour of the setting match the interface palette.",
+  "techniques": [
+    "Pick a real scene whose colour matches the UI (terracotta and cream).",
+    "Use round photo avatars as a horizontal filter.",
+    "Keep the UI light with subtle borders and big photo cards.",
+    "Use natural side lighting and shallow depth."
+  ],
+  "bestFor": [
+    "Real-estate, home and lifestyle apps",
+    "App launch imagery",
+    "Warm neutral palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scene matching",
+      "definition": "Choosing a mockup setting that mirrors the UI palette."
+    },
+    {
+      "term": "Avatar filter row",
+      "definition": "A row of circular images acting as category filters."
+    },
+    {
+      "term": "Property card",
+      "definition": "A card showing a listing photo and key facts."
+    },
+    {
+      "term": "Warm neutral",
+      "definition": "Cream, tan and terracotta tones."
+    }
+  ]
+}

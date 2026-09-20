@@ -1,0 +1,49 @@
+{
+  "name": "web-tablet-cart-page-on-wood-and-grey-knit",
+  "image": "images/web-tablet-cart-page-on-wood-and-grey-knit.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Industrial cart page on a tablet between notched timber and grey knitted fabric",
+  "tags": [
+    "tablet",
+    "mockup",
+    "cart",
+    "wood",
+    "knit",
+    "texture",
+    "white-ui",
+    "blue",
+    "cyrillic"
+  ],
+  "whatItIs": "An angled tablet with a white cart page showing two steel bar products, quantity steppers, totals and a blue checkout button, resting against a dovetailed wooden block and a grey woven textile in dappled light.",
+  "whatItMeans": "Tactile and calm; natural textures make a utilitarian page feel considered.",
+  "techniques": [
+    "Set a functional UI in a scene of natural materials.",
+    "Use dappled shadows for atmosphere.",
+    "Keep the screen white with a single blue action.",
+    "Frame in a rounded card."
+  ],
+  "bestFor": [
+    "E-commerce and cart flow presentations",
+    "B2B web case studies",
+    "Texture-rich mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Material contrast",
+      "definition": "A digital screen against organic textures."
+    },
+    {
+      "term": "Dappled light",
+      "definition": "Shadow patterns from leaves."
+    },
+    {
+      "term": "Cart table",
+      "definition": "A list of items with quantities and prices."
+    },
+    {
+      "term": "Tablet mockup",
+      "definition": "A tablet displaying a UI."
+    }
+  ]
+}

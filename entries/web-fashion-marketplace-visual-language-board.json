@@ -1,0 +1,47 @@
+{
+  "name": "web-fashion-marketplace-visual-language-board",
+  "image": "images/web-fashion-marketplace-visual-language-board.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Fashion store design language shown on a moody portrait with desktop and mobile",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "dark-navy",
+    "photo-backdrop",
+    "product-page",
+    "desktop-mobile",
+    "minimal"
+  ],
+  "whatItIs": "A board with a large dark portrait and a floating white desktop store UI (centred logo, nav row, split hero with a black hoodie and a plain white text panel). Below are two navy panels showing a product detail page in desktop and mobile with a violet fleece.",
+  "whatItMeans": "Refined and confident; plain white UI stays neutral so product colour and portraits carry the drama.",
+  "techniques": [
+    "Float a white UI over a dark editorial portrait.",
+    "Use a split hero with a product photo on one side and a text panel on the other.",
+    "Let a single vivid product colour (violet) be the only saturated element.",
+    "Present breakpoints as separate framed panels with size labels."
+  ],
+  "bestFor": [
+    "Fashion and streetwear e-commerce",
+    "Design-language presentations",
+    "Responsive design showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split hero",
+      "definition": "A hero divided into an image and a text panel."
+    },
+    {
+      "term": "Breakpoint panel",
+      "definition": "A frame showing a specific screen width."
+    },
+    {
+      "term": "Floating UI",
+      "definition": "An interface mockup hovering over a photograph."
+    },
+    {
+      "term": "Neutral shell",
+      "definition": "A plain white interface that lets content stand out."
+    }
+  ]
+}

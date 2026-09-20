@@ -1,0 +1,48 @@
+{
+  "name": "web-typography-scale-and-inter-specimen-cards-in-blue",
+  "image": "images/web-typography-scale-and-inter-specimen-cards-in-blue.png",
+  "discipline": "web",
+  "designType": "Typography and colour guide",
+  "title": "Two rounded white cards with a giant blue Aa and a size ladder in blue Cyrillic",
+  "tags": [
+    "typography",
+    "specimen",
+    "blue",
+    "white",
+    "size-scale",
+    "inter",
+    "cards",
+    "documentation"
+  ],
+  "whatItIs": "A pale grey board with two rounded white cards: one with a huge blue 'Aa' with Inter, Regular and Semibold labels; another '(06)' listing sizes from 64px to 16px with the same word in decreasing blue bold type.",
+  "whatItMeans": "Clear and systematic; a scale ladder shows hierarchy at a glance.",
+  "techniques": [
+    "Set a giant Aa in brand colour.",
+    "List weights beneath.",
+    "Show a ladder of type sizes.",
+    "Use two side-by-side cards."
+  ],
+  "bestFor": [
+    "Design system typography pages",
+    "B2B web guidelines",
+    "Blue-branded systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Size ladder",
+      "definition": "A list of the same text at different sizes."
+    },
+    {
+      "term": "Weight labels",
+      "definition": "Names of the font weights in use."
+    },
+    {
+      "term": "Giant Aa",
+      "definition": "An oversized type sample."
+    },
+    {
+      "term": "Spec card",
+      "definition": "A rounded card documenting a rule."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-health-tiles-with-serif-insight-on-tilted-phone-corner",
+  "image": "images/app-health-tiles-with-serif-insight-on-tilted-phone-corner.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Cropped phone corner with glass health tiles and a serif insight card on a blue-peach gradient",
+  "tags": [
+    "health",
+    "glass",
+    "serif",
+    "sparkline",
+    "gradient",
+    "crop",
+    "tilted",
+    "insight"
+  ],
+  "whatItIs": "A tightly cropped lavender phone corner on a peach-to-periwinkle gradient. The screen shows three glass tiles with dotted sparklines (VO2 Max, RHR, HRV), an insight card in serif 'Your HRV is down 15% this week. Try a recovery day.' with a black arrow, and a floating tab bar.",
+  "whatItMeans": "Calm and editorial; the serif sentence turns data into advice.",
+  "techniques": [
+    "Crop the device tightly to enlarge the UI.",
+    "Set numbers in italic serif on glass tiles.",
+    "Write the insight as a sentence.",
+    "Float the tab bar as a glass pill."
+  ],
+  "bestFor": [
+    "Health and wellness apps",
+    "Corner-crop showcases",
+    "Insight-led interfaces"
+  ],
+  "vocabulary": [
+    {
+      "term": "Corner crop",
+      "definition": "Framing only a corner of a device."
+    },
+    {
+      "term": "Glass tile",
+      "definition": "A translucent rounded tile."
+    },
+    {
+      "term": "Italic serif numerals",
+      "definition": "Numbers set in an italic serif face."
+    },
+    {
+      "term": "Advice sentence",
+      "definition": "A plain sentence interpreting data."
+    }
+  ]
+}

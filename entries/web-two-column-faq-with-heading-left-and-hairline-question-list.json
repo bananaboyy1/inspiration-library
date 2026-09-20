@@ -1,0 +1,48 @@
+{
+  "name": "web-two-column-faq-with-heading-left-and-hairline-question-list",
+  "image": "images/web-two-column-faq-with-heading-left-and-hairline-question-list.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Two-column FAQ: 'FAQs' heading, grey subline and support link at the left, five hairline-separated questions with chevrons at the right",
+  "tags": [
+    "component",
+    "faq",
+    "two-column",
+    "white",
+    "hairline",
+    "chevrons",
+    "minimal",
+    "support-link"
+  ],
+  "whatItIs": "A white page with a bold 'FAQs' and grey lines at the left including a bold link to the support team, and at the right five bold questions separated by hairlines each with a small chevron.",
+  "whatItMeans": "Calm and scannable; the split keeps context left and answers right.",
+  "techniques": [
+    "Split heading and list into two columns.",
+    "Separate questions with hairlines.",
+    "Use small chevrons.",
+    "Keep a support link in the heading text."
+  ],
+  "bestFor": [
+    "FAQ sections",
+    "Help centres",
+    "Minimal documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Two-column FAQ",
+      "definition": "Heading on one side and questions on the other."
+    },
+    {
+      "term": "Hairline list",
+      "definition": "Items divided by thin rules."
+    },
+    {
+      "term": "Support link",
+      "definition": "An inline link to contact help."
+    },
+    {
+      "term": "Chevron",
+      "definition": "A small arrow showing expandability."
+    }
+  ]
+}

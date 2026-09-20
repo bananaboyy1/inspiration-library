@@ -1,0 +1,48 @@
+{
+  "name": "web-brutalist-architecture-site-in-greyscale-with-vertical-title-and-stat-cards",
+  "image": "images/web-brutalist-architecture-site-in-greyscale-with-vertical-title-and-stat-cards.webp",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Greyscale architecture site with a giant vertical 'BRUTALISM', concrete building photos, glass stat cards and boxed layout",
+  "tags": [
+    "architecture",
+    "greyscale",
+    "brutalist",
+    "vertical-title",
+    "glass-cards",
+    "monospace",
+    "grid",
+    "photography"
+  ],
+  "whatItIs": "A charcoal-and-grey boxed layout: a left column with the studio name and nav, a tall black-and-white photo of blocky concrete houses, a huge vertical 'BRUTALISM' with '01' in dark type on a mid-grey column, a copyright block with a second photo, three frosted stat cards (14, 120,000, 5) with line icons in monospace, bottom links and a large 'Axis' with a ruler and tagline.",
+  "whatItMeans": "Stark and architectural; a modular boxed grid and giant rotated type mirror concrete forms.",
+  "techniques": [
+    "Use a giant rotated word as a column.",
+    "Divide the page into boxed panels.",
+    "Use frosted stat cards with monospace numbers.",
+    "Keep everything black, white and grey."
+  ],
+  "bestFor": [
+    "Architecture and design studio sites",
+    "Brutalist greyscale layouts",
+    "Photo-led modular pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Boxed grid",
+      "definition": "A page divided into visible rectangular panels."
+    },
+    {
+      "term": "Vertical title column",
+      "definition": "A rotated giant word filling a column."
+    },
+    {
+      "term": "Frosted stat card",
+      "definition": "A translucent card with a figure."
+    },
+    {
+      "term": "Concrete photography",
+      "definition": "Black-and-white images of brutalist buildings."
+    }
+  ]
+}

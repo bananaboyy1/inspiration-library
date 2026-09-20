@@ -1,0 +1,48 @@
+{
+  "name": "print-social-crypto-meetup-flyer-with-coin-glass-shapes",
+  "image": "images/print-social-crypto-meetup-flyer-with-coin-glass-shapes.jpg",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "title": "Decentralization meetup flyer on pale grid paper with 3D coins and coloured pills",
+  "tags": [
+    "event",
+    "meetup",
+    "grid-paper",
+    "3d-coins",
+    "bitcoin",
+    "pills",
+    "blue",
+    "chevrons"
+  ],
+  "whatItIs": "A light blue squared-paper flyer with a Google developer group logo pill, a small Weekly Meetup label, a large two-tone title 'Decentralization Explained For Technologists.' in blue and black, blue and orange pills for venue and date, and glossy translucent 3D coins with Bitcoin symbols and colourful chevrons at edges.",
+  "whatItMeans": "Friendly and technical; glassy coins give an abstract topic a tangible object.",
+  "techniques": [
+    "Colour the first word blue and the rest black in the title.",
+    "Use translucent 3D coins as topical objects.",
+    "Rest the objects on grid paper.",
+    "Turn details into gradient pills."
+  ],
+  "bestFor": [
+    "Tech community meetups",
+    "Crypto and web3 events",
+    "Weekly series flyers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Two-tone title",
+      "definition": "A headline with part in an accent colour."
+    },
+    {
+      "term": "Glass coin",
+      "definition": "A translucent 3D coin."
+    },
+    {
+      "term": "Series flyer",
+      "definition": "A repeated layout for weekly events."
+    },
+    {
+      "term": "Gradient pill",
+      "definition": "A capsule filled with a gradient."
+    }
+  ]
+}

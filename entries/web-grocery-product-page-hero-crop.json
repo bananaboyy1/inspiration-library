@@ -1,0 +1,44 @@
+{
+  "name": "web-grocery-product-page-hero-crop",
+  "image": "images/web-grocery-product-page-hero-crop.png",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "title": "Product Page with Large Package Tile",
+  "tags": [
+    "ecommerce",
+    "product-page",
+    "teal",
+    "lime",
+    "badges",
+    "gallery",
+    "grocery"
+  ],
+  "whatItIs": "A full-width product page under a teal header: breadcrumb-style title, a big rounded tile showing a flour bag with a 'Free Delivery' tab, five thumbnails, a countdown, title, rating, superscript price, installment strip, add-to-cart and lime Buy now buttons, badges and delivery notes.",
+  "whatItMeans": "Big imagery, a clear price and one bright button guide the user quickly to purchase, while small details support trust.",
+  "techniques": [
+    "Corner tab badge on the image tile",
+    "Thumbnail strip beneath the main image",
+    "Price in bold with small raised decimals",
+    "Secondary neutral button next to the lime primary",
+    "Icon-led reassurance row at the bottom"
+  ],
+  "bestFor": [
+    "Product detail pages",
+    "Grocery and consumer goods shops",
+    "Conversion-focused layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Corner tab",
+      "definition": "A label attached to the corner of an image."
+    },
+    {
+      "term": "Primary/secondary pair",
+      "definition": "A bright main button beside a muted alternative."
+    },
+    {
+      "term": "Trust row",
+      "definition": "Icons and short lines that reassure about delivery or deals."
+    }
+  ]
+}

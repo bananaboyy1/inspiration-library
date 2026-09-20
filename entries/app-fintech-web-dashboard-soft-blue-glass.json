@@ -1,0 +1,48 @@
+{
+  "name": "app-fintech-web-dashboard-soft-blue-glass",
+  "image": "images/app-fintech-web-dashboard-soft-blue-glass.jpg",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Fintech web dashboards with blurred blue-grey glass headers",
+  "tags": [
+    "dashboard",
+    "fintech",
+    "blue-grey",
+    "glass",
+    "cards",
+    "transactions",
+    "bar-chart",
+    "desktop"
+  ],
+  "whatItIs": "Two overlapping desktop dashboards on white, each a pale blue-grey glass surface with a deep blue blurred cloud at the top. Panels hold a monthly limit progress bar, a transactions table, a large gradient credit card with quick actions, a wallet balance with cash-flow bars and upcoming payments.",
+  "whatItMeans": "Calm and trustworthy; the blur cloud adds mood without adding noise.",
+  "techniques": [
+    "Place a soft blue blur cloud at the top of the window as a header background.",
+    "Stack cards with subtle borders and shadows on a pale glass surface.",
+    "Use one hatched bar to highlight the selected month in a chart.",
+    "Show a large gradient credit card as a hero."
+  ],
+  "bestFor": [
+    "Banking and wallet web apps",
+    "Dashboard presentations",
+    "Fintech brands in blue"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glass surface",
+      "definition": "A translucent pale panel with blur."
+    },
+    {
+      "term": "Hatch highlight",
+      "definition": "A striped fill marking the active data bar."
+    },
+    {
+      "term": "Wallet card",
+      "definition": "A large card graphic in a finance UI."
+    },
+    {
+      "term": "Overlapping windows",
+      "definition": "Two UI screens staggered in a presentation."
+    }
+  ]
+}

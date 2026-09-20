@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-flowing-line-field-background-with-theme-and-refresh-buttons",
+  "image": "images/web-dark-flowing-line-field-background-with-theme-and-refresh-buttons.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Black field of thin grey flow lines sweeping from left to lower right, with three small icon buttons at the top right",
+  "tags": [
+    "background",
+    "lines",
+    "dark",
+    "generative",
+    "flow-field",
+    "minimal",
+    "theme-toggle",
+    "abstract"
+  ],
+  "whatItIs": "A near-black canvas with many fine grey curved lines sweeping across like long-exposure star trails, and three small bordered icon buttons (theme, refresh, panel) at the top right.",
+  "whatItMeans": "Calm and generative; thin lines suggest movement and depth.",
+  "techniques": [
+    "Draw many thin lines following one flow.",
+    "Vary line length and brightness.",
+    "Keep only grey on black.",
+    "Add tiny control buttons."
+  ],
+  "bestFor": [
+    "Dark hero backgrounds",
+    "Generative art backdrops",
+    "Minimal tech pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flow field",
+      "definition": "Lines following a common direction."
+    },
+    {
+      "term": "Star-trail lines",
+      "definition": "Long thin arcs like a long exposure."
+    },
+    {
+      "term": "Generative background",
+      "definition": "An image produced by rules or code."
+    },
+    {
+      "term": "Icon button",
+      "definition": "A small square button with an icon."
+    }
+  ]
+}

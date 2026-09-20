@@ -1,0 +1,48 @@
+{
+  "name": "web-space-pitch-slides-with-planets-mars-horizon-and-flow-diagram",
+  "image": "images/web-space-pitch-slides-with-planets-mars-horizon-and-flow-diagram.png",
+  "discipline": "web",
+  "designType": "Presentation slides",
+  "title": "Pitch slides floating over a starfield and Mars horizon: planets over a plant-fibre photo, a process flow and pain points",
+  "tags": [
+    "pitch-deck",
+    "space",
+    "mars",
+    "dark",
+    "planets",
+    "flow-diagram",
+    "sustainability",
+    "monochrome-slides"
+  ],
+  "whatItIs": "A black starfield with a glowing red Mars horizon and three slides stacked over it: a photo slide of insect wings with an Earth globe and a pink cell orb beside 'Tandem Repeat is solving the sustainability problem of the $3T fashion industry', a black flow-diagram slide with small icons and a crop-field photo, and a black slide listing pain points in fashion with a row of icons.",
+  "whatItMeans": "Ambitious and scientific; a planetary backdrop lifts a sustainability pitch to a big-picture story.",
+  "techniques": [
+    "Float slides over a space photograph.",
+    "Use circular photos as planets.",
+    "Show the flow with tiny line icons.",
+    "Keep slides black with white type."
+  ],
+  "bestFor": [
+    "Deep-tech and sustainability pitch decks",
+    "Slide previews on a backdrop",
+    "Space-themed presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Slide over backdrop",
+      "definition": "Slides shown floating over a photograph."
+    },
+    {
+      "term": "Planet circle",
+      "definition": "A round photo used like a planet."
+    },
+    {
+      "term": "Flow diagram",
+      "definition": "Steps connected with lines and icons."
+    },
+    {
+      "term": "Pain-point list",
+      "definition": "A list of problems with icons."
+    }
+  ]
+}

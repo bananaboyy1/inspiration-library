@@ -1,0 +1,48 @@
+{
+  "name": "web-sidebar-with-announcement-card-and-user-account-footer",
+  "image": "images/web-sidebar-with-announcement-card-and-user-account-footer.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Empty sidebar with a bordered 'Simple Announcement' card with a blue dot at the bottom, and a user row with icon, initials, email and up-down chevrons",
+  "tags": [
+    "component",
+    "sidebar",
+    "announcement",
+    "user-menu",
+    "white",
+    "blue-dot",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white screen split by a vertical line; the left sidebar is empty at the top and holds at the bottom a rounded bordered card 'Simple Announcement' with a grey line and a blue notification dot at its corner, then a user row with a person icon, 'KL', 'kl@example.com' and an up-down chevron.",
+  "whatItMeans": "Quiet and useful; announcements and account controls sit low where thumbs and eyes expect them.",
+  "techniques": [
+    "Anchor announcement and user rows at the bottom.",
+    "Mark new content with a blue dot.",
+    "Use a bordered rounded card.",
+    "Show a switcher chevron."
+  ],
+  "bestFor": [
+    "Sidebar footers",
+    "App shells",
+    "Announcement cards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sidebar footer",
+      "definition": "The bottom section of a sidebar with account controls."
+    },
+    {
+      "term": "Announcement card",
+      "definition": "A small card notifying about news."
+    },
+    {
+      "term": "Notification dot",
+      "definition": "A small coloured dot marking something new."
+    },
+    {
+      "term": "Account switcher",
+      "definition": "A row with up-down chevrons to change account."
+    }
+  ]
+}

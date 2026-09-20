@@ -1,0 +1,48 @@
+{
+  "name": "web-minimal-month-calendar-with-black-selected-day-and-event-list",
+  "image": "images/web-minimal-month-calendar-with-black-selected-day-and-event-list.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Event calendar demo: September grid with a black selected day, faded neighbours and a list of events with add field",
+  "tags": [
+    "component",
+    "calendar",
+    "white",
+    "black",
+    "event-list",
+    "input",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white page with a bold title, a month header with chevrons, weekday letters, a grid of dates where the selected 25 is a black rounded square with a dot and out-of-month days are pale, then 'Events on September 25th, 2025' with two bordered rows (Kickoff Meeting, Design Review) each with a red trash icon, and a new event input with a black Add Event button.",
+  "whatItMeans": "Clean and tidy; black selection and pale neighbours make the date obvious.",
+  "techniques": [
+    "Mark the selected day as a black square.",
+    "Pale out neighbouring months.",
+    "List events below in bordered rows.",
+    "Add an inline input and black button."
+  ],
+  "bestFor": [
+    "Calendar and scheduling components",
+    "Minimal date pickers",
+    "Event list UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Selected day",
+      "definition": "The chosen date, highlighted."
+    },
+    {
+      "term": "Out-of-month day",
+      "definition": "A date from an adjacent month shown faded."
+    },
+    {
+      "term": "Event row",
+      "definition": "A bordered list item with a delete icon."
+    },
+    {
+      "term": "Add field",
+      "definition": "An input paired with a primary button."
+    }
+  ]
+}

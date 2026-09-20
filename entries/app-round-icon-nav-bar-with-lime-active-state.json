@@ -1,0 +1,48 @@
+{
+  "name": "app-round-icon-nav-bar-with-lime-active-state",
+  "image": "images/app-round-icon-nav-bar-with-lime-active-state.png",
+  "discipline": "app",
+  "designType": "UI components",
+  "title": "Row of four round nav buttons with the settings one filled lime",
+  "tags": [
+    "components",
+    "navigation",
+    "circles",
+    "lime",
+    "grey",
+    "icons",
+    "white",
+    "minimal"
+  ],
+  "whatItIs": "A wide white strip with four circular buttons in light grey with black icons (home, car, clock, settings), the last in lime, above a faint grey glow.",
+  "whatItMeans": "Simple and tactile; a single lime circle marks the active tab.",
+  "techniques": [
+    "Use separate circles instead of a bar.",
+    "Mark the active state with one lime fill.",
+    "Keep icons solid black.",
+    "Show the component alone on white."
+  ],
+  "bestFor": [
+    "Component libraries",
+    "Navigation patterns",
+    "Neon-accent apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Round nav",
+      "definition": "Navigation made of circular buttons."
+    },
+    {
+      "term": "Active fill",
+      "definition": "Selected state shown by a colour fill."
+    },
+    {
+      "term": "Isolated component",
+      "definition": "A UI piece shown alone."
+    },
+    {
+      "term": "Glow backdrop",
+      "definition": "A soft grey bloom behind."
+    }
+  ]
+}

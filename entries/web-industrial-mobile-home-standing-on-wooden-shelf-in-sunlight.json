@@ -1,0 +1,48 @@
+{
+  "name": "web-industrial-mobile-home-standing-on-wooden-shelf-in-sunlight",
+  "image": "images/web-industrial-mobile-home-standing-on-wooden-shelf-in-sunlight.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Metal-supplier mobile homepage on a phone standing on a wooden shelf against dappled beige light",
+  "tags": [
+    "mobile-web",
+    "mockup",
+    "wood",
+    "beige",
+    "dappled-light",
+    "blue",
+    "industrial",
+    "shelf"
+  ],
+  "whatItIs": "A phone stands upright on the edge of a wooden shelf against a beige wall with soft leaf shadows and a wooden chair back, in a rounded frame. The screen shows a blue hero with metal profiles and offer cards.",
+  "whatItMeans": "Warm and natural; wood and light soften an industrial catalogue.",
+  "techniques": [
+    "Stand the phone on a shelf edge.",
+    "Use dappled light shadows.",
+    "Choose warm neutral surroundings.",
+    "Frame in a rounded card."
+  ],
+  "bestFor": [
+    "Industrial and B2B mobile mockups",
+    "Warm-neutral scenes",
+    "Case study images"
+  ],
+  "vocabulary": [
+    {
+      "term": "Shelf-edge mockup",
+      "definition": "A device standing at a shelf edge."
+    },
+    {
+      "term": "Dappled shadow",
+      "definition": "Leaf-like shadow patterns."
+    },
+    {
+      "term": "Warm neutral",
+      "definition": "Beige and wood tones."
+    },
+    {
+      "term": "Contrast pairing",
+      "definition": "Blue UI against warm surroundings."
+    }
+  ]
+}

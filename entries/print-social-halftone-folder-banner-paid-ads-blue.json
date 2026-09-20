@@ -1,0 +1,48 @@
+{
+  "name": "print-social-halftone-folder-banner-paid-ads-blue",
+  "image": "images/print-social-halftone-folder-banner-paid-ads-blue.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Cyan halftone banner with a 'paid ads' folder and violet scribble",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "cyan",
+    "violet-scribble",
+    "serif-label",
+    "icons",
+    "desktop-metaphor"
+  ],
+  "whatItIs": "A wide cyan and white halftone banner with a manila folder labelled 'paid ads', a bright blue scribble burst behind it, a pixel cursor and six app icons.",
+  "whatItMeans": "Crisp and digital; single-hue halftone feels like a blueprint.",
+  "techniques": [
+    "Limit halftone to a single blue family.",
+    "Use a violet scribble as the accent.",
+    "Keep composition identical to other banners.",
+    "Surround the folder with app icons."
+  ],
+  "bestFor": [
+    "Service menu banners",
+    "Marketing freelancers",
+    "Profile headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monochrome halftone",
+      "definition": "A dot texture in one hue."
+    },
+    {
+      "term": "Scribble accent",
+      "definition": "A rough burst behind an object."
+    },
+    {
+      "term": "Tool icon ring",
+      "definition": "App icons around a central item."
+    },
+    {
+      "term": "Folder label",
+      "definition": "A service name on a folder."
+    }
+  ]
+}

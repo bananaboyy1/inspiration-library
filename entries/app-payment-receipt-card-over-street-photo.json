@@ -1,0 +1,47 @@
+{
+  "name": "app-payment-receipt-card-over-street-photo",
+  "image": "images/app-payment-receipt-card-over-street-photo.jpg",
+  "discipline": "app",
+  "designType": "Status widget",
+  "title": "Frosted transaction card overlaid on a candid street purchase photo",
+  "tags": [
+    "payments",
+    "transaction-card",
+    "photo-overlay",
+    "frosted",
+    "lifestyle",
+    "fintech",
+    "receipt"
+  ],
+  "whatItIs": "A photograph of a barista handing a paper bag to a customer on a bustling street. A large white frosted card at the bottom shows a merchant logo, name, category, price and reference number.",
+  "whatItMeans": "Human and contextual; the receipt card links the number to a real moment.",
+  "techniques": [
+    "Overlay a translucent UI card on a lifestyle photo to connect data with life.",
+    "Use a clean row layout: logo, name and category left, amount right.",
+    "Choose a candid, sunlit street photo with depth.",
+    "Let the card partially cover the photo's lower area."
+  ],
+  "bestFor": [
+    "Fintech marketing and case-study visuals",
+    "Explaining transaction features",
+    "Onboarding illustrations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Overlay card",
+      "definition": "A UI card placed over a photograph."
+    },
+    {
+      "term": "Merchant row",
+      "definition": "A list item showing logo, name and amount."
+    },
+    {
+      "term": "Lifestyle context",
+      "definition": "A photo that shows real use of a product."
+    },
+    {
+      "term": "Frosted glass",
+      "definition": "A translucent blurred panel."
+    }
+  ]
+}

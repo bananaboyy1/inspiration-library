@@ -1,0 +1,48 @@
+{
+  "name": "app-user-flow-tree-with-navy-pill-nodes-and-phone",
+  "image": "images/app-user-flow-tree-with-navy-pill-nodes-and-phone.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "User flow tree of navy and white pills branching from Navigation, beside a phone",
+  "tags": [
+    "user-flow",
+    "diagram",
+    "navy",
+    "pill-nodes",
+    "italic-serif",
+    "fintech",
+    "white",
+    "documentation"
+  ],
+  "whatItIs": "A white slide with a small 'User Flow' pill, a light grey sans headline with 'With Money.' in bold italic serif, a phone with a balance home screen and a horizontal tree of rounded nodes from Sign Up and Log in to Navigation to Discover and Event, with filled navy nodes for main steps and pale white or grey nodes for branches.",
+  "whatItMeans": "Clear and elegant; the tree makes navigation logic readable at a glance.",
+  "techniques": [
+    "Fill main nodes in navy and leave leaves pale.",
+    "Connect with soft rounded elbow lines.",
+    "Place the real screen at the start of the flow.",
+    "Mix light sans with bold italic serif in the headline."
+  ],
+  "bestFor": [
+    "Information architecture slides",
+    "Fintech case studies",
+    "Flow documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flow tree",
+      "definition": "A branching diagram of screens."
+    },
+    {
+      "term": "Primary node",
+      "definition": "A filled pill marking a main destination."
+    },
+    {
+      "term": "Leaf node",
+      "definition": "A pale pill for a sub-step."
+    },
+    {
+      "term": "Elbow connector",
+      "definition": "A line with rounded right-angle bends."
+    }
+  ]
+}

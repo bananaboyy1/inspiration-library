@@ -1,0 +1,30 @@
+# Autonomous ride app in electric lime and black
+
+![](../images/app-lime-and-black-ride-hailing-screens.png)
+
+**Discipline:** app · **Design type:** Ride-hailing app
+**Tags:** mobility, lime, black, map, phone-mockup, large-type, autonomous-vehicle, case-study
+
+## What it is
+A case-study board with two big rounded panels: a lime one with 'The future of urban mobility — available in one tap' and a phone with a dark map and a 'Where to?' sheet; a black one with a phone whose lime screen shows a van arriving, a countdown chip and buttons. Below are a small vehicle render and a dark map tile with a lime route.
+
+## What it means
+Futuristic, precise and confident; the lime on black feels like a high-vis signal.
+
+## Techniques
+- Use a single neon lime as the only colour with black, white and grey.
+- Swap the whole screen colour between states (dark map vs lime arrival).
+- Use a dark, low-detail map so the lime route line is the hero.
+- Float a black chip over the phone to enlarge a key number (2:47).
+- Give big rounded bottom sheets and pill buttons a soft feel.
+
+## Best for
+- Mobility, delivery and travel apps
+- Brands wanting a techy, energetic identity
+- Case-study boards
+
+## Vocabulary
+- **Neon accent** — A very bright colour used sparingly on a dark base.
+- **Bottom sheet** — A panel sliding up from the bottom of the screen.
+- **Floating chip** — A small info card breaking outside the phone frame.
+- **Route line** — A highlighted path on a map.

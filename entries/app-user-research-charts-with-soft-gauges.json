@@ -1,0 +1,48 @@
+{
+  "name": "app-user-research-charts-with-soft-gauges",
+  "image": "images/app-user-research-charts-with-soft-gauges.jpg",
+  "discipline": "app",
+  "designType": "Research insight slide",
+  "title": "User research slide with soft-fade bars, a semicircle gauge and a step chart",
+  "tags": [
+    "research",
+    "charts",
+    "fintech",
+    "light-grey",
+    "gauge",
+    "step-chart",
+    "quote",
+    "case-study"
+  ],
+  "whatItIs": "A light-grey case-study page with question headings and three white chart cards: horizontal bars fading to pink, a semicircle gauge with green, red and grey segments, and a staircase chart. It ends with a user quote and avatar.",
+  "whatItMeans": "Analytical but gentle; the fading gradients make data feel soft rather than harsh.",
+  "techniques": [
+    "Fade chart bars to transparency for a light, airy data look.",
+    "Ask the survey question as a heading above each chart card.",
+    "Use uncommon chart shapes (semicircle, staircase) to add interest.",
+    "Close with a highlighted user quote."
+  ],
+  "bestFor": [
+    "UX case studies",
+    "Research summaries",
+    "Fintech presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gauge chart",
+      "definition": "A semicircular chart with segments."
+    },
+    {
+      "term": "Step chart",
+      "definition": "A chart where values step up or down like stairs."
+    },
+    {
+      "term": "Soft-fade bar",
+      "definition": "A bar with a gradient that fades out."
+    },
+    {
+      "term": "Survey question heading",
+      "definition": "Using the actual question as a chart title."
+    }
+  ]
+}

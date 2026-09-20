@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-ai-writing-site-with-ascii-orange-glyph-art",
+  "image": "images/web-dark-ai-writing-site-with-ascii-orange-glyph-art.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Long black page with orange dotted ASCII glyph art, framed feature cards and greyscale testimonials",
+  "tags": [
+    "saas",
+    "dark",
+    "orange",
+    "ascii-art",
+    "corner-marks",
+    "testimonials",
+    "faq",
+    "giant-wordmark"
+  ],
+  "whatItIs": "A very tall black page: centred headings, three wide framed cards with corner plus marks where an orange dotted icon (magnifier, bar chart, handshake) faces a text block, a testimonial grid with greyscale portraits fading into orange, an FAQ, a dotted hands-on-keyboard graphic and a footer with a giant orange dotted 'Pandawa'.",
+  "whatItMeans": "Technical and warm; dotted orange art gives an engraved, data feel.",
+  "techniques": [
+    "Render icons as orange dot-matrix art.",
+    "Frame cards with corner plus marks.",
+    "Fade greyscale portraits into an orange glow.",
+    "End with a huge dotted wordmark."
+  ],
+  "bestFor": [
+    "AI and content tools",
+    "Dark technical sites",
+    "Dot-art identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-matrix art",
+      "definition": "Images built from a grid of dots."
+    },
+    {
+      "term": "Corner marks",
+      "definition": "Plus signs at frame corners."
+    },
+    {
+      "term": "Glow fade",
+      "definition": "A photo fading into a coloured glow."
+    },
+    {
+      "term": "Dotted wordmark",
+      "definition": "A logo built from dots."
+    }
+  ]
+}

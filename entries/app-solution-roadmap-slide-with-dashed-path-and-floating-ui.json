@@ -1,0 +1,48 @@
+{
+  "name": "app-solution-roadmap-slide-with-dashed-path-and-floating-ui",
+  "image": "images/app-solution-roadmap-slide-with-dashed-path-and-floating-ui.jpg",
+  "discipline": "app",
+  "designType": "Process slide",
+  "title": "Four-step roadmap on lilac with indigo icon nodes and floating calendar, mood and map cards",
+  "tags": [
+    "roadmap",
+    "process",
+    "lilac",
+    "indigo",
+    "dashed-path",
+    "floating-cards",
+    "numerals",
+    "accessibility"
+  ],
+  "whatItIs": "A pale lilac board titled 'The Solution Roadmap' with an S-shaped dashed line linking four round indigo icon nodes, each with a faint giant numeral and label, beside floating UI cards: calendar, meal and hydration reminders, medication donut and mood chart, and a safe-zone map.",
+  "whatItMeans": "Gentle and guided; the winding path turns features into a journey.",
+  "techniques": [
+    "Link nodes with a winding dashed path.",
+    "Fade giant numerals behind labels.",
+    "Alternate UI cards left and right.",
+    "Keep to lilac and indigo."
+  ],
+  "bestFor": [
+    "Solution and roadmap case-study slides",
+    "Health and care apps",
+    "Feature prioritisation stories"
+  ],
+  "vocabulary": [
+    {
+      "term": "Path roadmap",
+      "definition": "Steps joined by a curved line."
+    },
+    {
+      "term": "Icon node",
+      "definition": "A round icon marking a step."
+    },
+    {
+      "term": "Faded numeral",
+      "definition": "A large low-contrast number."
+    },
+    {
+      "term": "Floating card",
+      "definition": "A UI card with a soft shadow."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-icon-tab-bar-above-big-visitors-stat-card",
+  "image": "images/web-icon-tab-bar-above-big-visitors-stat-card.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Segmented tabs Daily, Weekly, Monthly (active) and Yearly with icons above a card '32,156 Visitors this month'",
+  "tags": [
+    "component",
+    "tabs",
+    "segmented",
+    "stat-card",
+    "white",
+    "grey",
+    "icons",
+    "numerals"
+  ],
+  "whatItIs": "A white page with a grey rounded track of four icon tabs where Monthly is a white raised pill, and below a rounded bordered card with a large bold '32,156' and a grey caption 'Visitors this month'.",
+  "whatItMeans": "Simple and tactile; the number swaps with the selected period.",
+  "techniques": [
+    "Pair icons with period labels.",
+    "Raise the active tab.",
+    "Show one big number below.",
+    "Keep captions grey."
+  ],
+  "bestFor": [
+    "Time-range switchers",
+    "Analytics stat cards",
+    "Segmented tab components"
+  ],
+  "vocabulary": [
+    {
+      "term": "Period tabs",
+      "definition": "Tabs switching a metric's time range."
+    },
+    {
+      "term": "Raised pill",
+      "definition": "The active tab shown as a white capsule."
+    },
+    {
+      "term": "Stat card",
+      "definition": "A card with one big metric."
+    },
+    {
+      "term": "Caption",
+      "definition": "A grey line describing a figure."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "print-social-halftone-folder-banner-organic-landscape",
+  "image": "images/print-social-halftone-folder-banner-organic-landscape.png",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "title": "Green hill halftone banner with an 'organic social' folder",
+  "tags": [
+    "banner",
+    "halftone",
+    "folder",
+    "green",
+    "blue",
+    "landscape",
+    "desktop-metaphor"
+  ],
+  "whatItIs": "A wide banner where a halftone photo of green hills under a blue sky forms the backdrop, with a manila folder labelled 'organic social', a blue scribble at the left and tool icons around a cursor.",
+  "whatItMeans": "Fresh and light; the pastoral halftone hints at 'organic' while the folder keeps it digital.",
+  "techniques": [
+    "Choose a halftone background that matches the folder's subject (hills for organic).",
+    "Contrast the warm yellow folder with cool green and blue.",
+    "Overlap the blue brush stroke at the frame edge for energy.",
+    "Keep the folder centered so labels swap easily across a series."
+  ],
+  "bestFor": [
+    "Series of category banners",
+    "Creator and agency service pages",
+    "Content pillar headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Series template",
+      "definition": "A layout reused with only the label changed."
+    },
+    {
+      "term": "Halftone landscape",
+      "definition": "A landscape photo converted to dots."
+    },
+    {
+      "term": "Warm-cool contrast",
+      "definition": "A warm object on a cool background."
+    },
+    {
+      "term": "Pillar banner",
+      "definition": "A header for one content category."
+    }
+  ]
+}

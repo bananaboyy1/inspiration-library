@@ -1,0 +1,48 @@
+{
+  "name": "web-forest-cover-slide-giant-leaf-title",
+  "image": "images/web-forest-cover-slide-giant-leaf-title.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Cosmetics store cover: giant LEAF title on a cream card over dark forest",
+  "tags": [
+    "cover",
+    "e-commerce",
+    "forest",
+    "cream-card",
+    "sage-green",
+    "sans-serif",
+    "sustainable",
+    "cyrillic"
+  ],
+  "whatItIs": "A monochrome forest photograph with a cream rectangle in the centre. Inside, a huge sage-green 'LEAF' in light caps, a row of overlapping circles with tiny landscapes, a short Ukrainian tagline, and metadata labels in the corners.",
+  "whatItMeans": "Calm, organic and premium; the cream card feels like a label set on nature.",
+  "techniques": [
+    "Place a solid cream panel over a darkened photo to create a focused title area.",
+    "Set the brand name in enormous light caps in a muted green.",
+    "Use overlapping circles as a subtle motif.",
+    "Add tiny project metadata at the corners."
+  ],
+  "bestFor": [
+    "Eco and cosmetics brands",
+    "Case-study covers",
+    "Sustainability-oriented sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Label panel",
+      "definition": "A flat coloured rectangle laid over an image for text."
+    },
+    {
+      "term": "Overlapping circles",
+      "definition": "A row of intersecting round shapes as a motif."
+    },
+    {
+      "term": "Muted green",
+      "definition": "A soft grey-green suggesting nature."
+    },
+    {
+      "term": "Title card",
+      "definition": "A slide containing just the project name."
+    }
+  ]
+}

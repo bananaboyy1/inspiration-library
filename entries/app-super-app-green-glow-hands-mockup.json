@@ -1,0 +1,47 @@
+{
+  "name": "app-super-app-green-glow-hands-mockup",
+  "image": "images/app-super-app-green-glow-hands-mockup.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Super-app home screen held in green-lit hands",
+  "tags": [
+    "super-app",
+    "green",
+    "monochrome-photo",
+    "hands",
+    "dark-gradient",
+    "illustration",
+    "service-grid"
+  ],
+  "whatItIs": "Two hands, tinted deep green, hold a phone showing a white super-app home screen with an illustrated city header, a search bar, a balance card and a grid of illustrated service tiles (ride, car, food, send, mart). The background is a green radial gradient into black.",
+  "whatItMeans": "Vibrant and modern; the monochrome green scene makes the bright screen the only light source.",
+  "techniques": [
+    "Tint the photo of hands in the brand colour so the screen glows.",
+    "Use a dark radial gradient to focus attention.",
+    "Give service tiles colourful isometric illustrations.",
+    "Pair a big balance card with quick actions (pay, top up)."
+  ],
+  "bestFor": [
+    "Super-apps, payments and delivery apps",
+    "App launch visuals",
+    "Brand-coloured photographic mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monochrome tint",
+      "definition": "Colouring a photo in one hue."
+    },
+    {
+      "term": "Service grid",
+      "definition": "A grid of illustrated shortcuts."
+    },
+    {
+      "term": "Radial vignette",
+      "definition": "A glow that fades to dark at the edges."
+    },
+    {
+      "term": "Isometric icon",
+      "definition": "An icon drawn from a 3D angle."
+    }
+  ]
+}

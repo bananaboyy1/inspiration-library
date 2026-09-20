@@ -1,0 +1,48 @@
+{
+  "name": "web-product-grid-sections-similar-items-and-recently-viewed-on-yellow",
+  "image": "images/web-product-grid-sections-similar-items-and-recently-viewed-on-yellow.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "White product-card rows 'Similar Items You Might Like' and 'Recently Viewed' on a mustard backdrop with hairline progress",
+  "tags": [
+    "e-commerce",
+    "product-grid",
+    "white",
+    "mustard",
+    "green",
+    "outlined-buttons",
+    "hearts",
+    "carousel"
+  ],
+  "whatItIs": "A mustard backdrop with a white panel holding two headings and rows of four grey product tiles each with a heart button, name and price with superscript cents, a spec line, green stars and an outlined Add to Cart pill (one filled dark green), with a thin progress line under each row.",
+  "whatItMeans": "Clear and dependable; consistent tiles and a hairline progress bar make carousels readable.",
+  "techniques": [
+    "Use soft grey tiles for products.",
+    "Superscript cents in prices.",
+    "Outline buttons with one filled state.",
+    "Add a thin progress line under carousels."
+  ],
+  "bestFor": [
+    "Product recommendation rows",
+    "Retail carousels",
+    "Mustard and green palettes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Superscript price",
+      "definition": "Cents set small and raised."
+    },
+    {
+      "term": "Carousel progress line",
+      "definition": "A thin line showing scroll position."
+    },
+    {
+      "term": "Heart button",
+      "definition": "A round wishlist control on a tile."
+    },
+    {
+      "term": "Filled state",
+      "definition": "The active button shown with a solid fill."
+    }
+  ]
+}

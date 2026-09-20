@@ -1,0 +1,48 @@
+{
+  "name": "web-botanical-site-laptop-on-mossy-rock-in-morning-mist",
+  "image": "images/web-botanical-site-laptop-on-mossy-rock-in-morning-mist.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Botanical biotech site on a laptop resting on a mossy rock in misty light",
+  "tags": [
+    "mockup",
+    "laptop",
+    "nature",
+    "mist",
+    "botanical",
+    "glass-sphere",
+    "project-cover",
+    "golden-light"
+  ],
+  "whatItIs": "A laptop sits on a lichen-covered rock among wildflowers in hazy golden light. Its screen mirrors the scene with a misty meadow hero and a glass sphere holding a plant. Tiny captions in the top corners give date, discipline and author.",
+  "whatItMeans": "Serene, premium and organic; the screen and setting share one landscape so the site feels inseparable from nature.",
+  "techniques": [
+    "Stage the device inside the same environment its hero image depicts.",
+    "Use shallow depth of field and backlight for a dreamy glow.",
+    "Keep credits as tiny centred text at the top.",
+    "Match screen colours to the surrounding palette."
+  ],
+  "bestFor": [
+    "Wellness and biotech site presentations",
+    "Nature-led brand launches",
+    "Case-study covers wanting atmosphere"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scene echo",
+      "definition": "A mockup setting that repeats the imagery on the screen."
+    },
+    {
+      "term": "Backlight haze",
+      "definition": "Soft light from behind that creates a glowing mist."
+    },
+    {
+      "term": "Environmental mockup",
+      "definition": "A device placed in a real or rendered setting."
+    },
+    {
+      "term": "Credit line",
+      "definition": "Tiny text naming date, type and author."
+    }
+  ]
+}

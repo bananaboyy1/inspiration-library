@@ -1,0 +1,48 @@
+{
+  "name": "web-astronaut-404-page-with-earth-horizon-and-wide-tracked-numerals",
+  "image": "images/web-astronaut-404-page-with-earth-horizon-and-wide-tracked-numerals.jpg",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Black space 404 with a floating astronaut, big white numerals, a small message and an outlined home pill",
+  "tags": [
+    "404",
+    "error-page",
+    "space",
+    "black",
+    "white",
+    "astronaut",
+    "earth",
+    "outlined-button"
+  ],
+  "whatItIs": "A black space scene with a real photo of an astronaut floating at left, the Earth's curved edge along the bottom, a white 'Oops!' and giant wide-tracked '404', two lines of message and an outlined 'Back to home' pill.",
+  "whatItMeans": "Vast and witty; being lost in space matches a lost page.",
+  "techniques": [
+    "Use a floating astronaut as a metaphor for lost.",
+    "Curve Earth along the bottom.",
+    "Set numerals in wide light letters.",
+    "Use an outlined pill button."
+  ],
+  "bestFor": [
+    "Error and 404 pages",
+    "Space-themed sites",
+    "Metaphor-led empty states"
+  ],
+  "vocabulary": [
+    {
+      "term": "Lost-in-space metaphor",
+      "definition": "Using space imagery to express being lost."
+    },
+    {
+      "term": "Earth horizon",
+      "definition": "The curved planet edge along the bottom."
+    },
+    {
+      "term": "Tracked numerals",
+      "definition": "Widely spaced large digits."
+    },
+    {
+      "term": "Outlined pill",
+      "definition": "A capsule with a border only."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-vertical-ruler-of-dashes-with-timestamp-tooltip-card",
+  "image": "images/web-vertical-ruler-of-dashes-with-timestamp-tooltip-card.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "Vertical ruler of grey dashes where nearby dashes grow long and black, pointing to a white timestamp note '01:50' with a bold line",
+  "tags": [
+    "component",
+    "ruler",
+    "timeline",
+    "tooltip",
+    "white",
+    "black",
+    "wave",
+    "motion"
+  ],
+  "whatItIs": "A white page with a vertical column of short horizontal dashes; those near the centre extend and turn black like a magnified wave, and a white rounded card with a soft shadow at their right shows '01:50', a bold line 'honor prefers-reduced-motion' and a grey explanation.",
+  "whatItMeans": "Precise and delightful; a magnifying-dock effect makes a scrub bar feel tactile.",
+  "techniques": [
+    "Scale nearby ticks in a wave.",
+    "Turn active ticks black.",
+    "Attach a timestamped note.",
+    "Keep everything monochrome."
+  ],
+  "bestFor": [
+    "Timeline scrubbers",
+    "Changelog and history navigation",
+    "Dock-like interactions"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tick ruler",
+      "definition": "A column of small marks used as an index."
+    },
+    {
+      "term": "Magnify wave",
+      "definition": "Nearby items growing like a dock effect."
+    },
+    {
+      "term": "Timestamp note",
+      "definition": "A card labelled with a time."
+    },
+    {
+      "term": "Reduced motion",
+      "definition": "An accessibility setting that limits animation."
+    }
+  ]
+}

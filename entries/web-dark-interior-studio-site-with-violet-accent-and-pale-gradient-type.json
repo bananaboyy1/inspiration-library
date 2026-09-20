@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-interior-studio-site-with-violet-accent-and-pale-gradient-type",
+  "image": "images/web-dark-interior-studio-site-with-violet-accent-and-pale-gradient-type.webp",
+  "discipline": "web",
+  "designType": "Portfolio site",
+  "title": "Dark interior-design site in black with violet buttons, half-grey giant headlines and bracket labels",
+  "tags": [
+    "interior",
+    "dark",
+    "violet",
+    "monospace",
+    "bracket-labels",
+    "cutout-furniture",
+    "grid-lines",
+    "long-scroll"
+  ],
+  "whatItIs": "Two dark page columns on a violet-to-black backdrop: a left icon rail, giant 'INTERIOR STUDIO' where the second word is grey, bracketed monospace labels on a dotted line, white furniture cutouts in notched tiles, a violet 3D box wireframe for services, a slideshow, and a large faded 'Modulo' logo in the footer.",
+  "whatItMeans": "Technical and elegant; brackets and dotted grids feel like blueprints for interiors.",
+  "techniques": [
+    "Set the headline half white half grey.",
+    "Label sections with bracketed monospace tags.",
+    "Use notched cutout tiles for products.",
+    "Use violet only for actions."
+  ],
+  "bestFor": [
+    "Interior and architecture studios",
+    "Dark blueprint-style sites",
+    "Furniture showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bracket label",
+      "definition": "A monospace tag inside square brackets."
+    },
+    {
+      "term": "Notched tile",
+      "definition": "A tile with a cut corner."
+    },
+    {
+      "term": "Two-tone headline",
+      "definition": "A headline half bright, half dimmed."
+    },
+    {
+      "term": "Icon rail",
+      "definition": "A vertical strip of square icon buttons."
+    }
+  ]
+}

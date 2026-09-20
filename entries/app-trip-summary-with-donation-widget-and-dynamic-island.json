@@ -1,0 +1,48 @@
+{
+  "name": "app-trip-summary-with-donation-widget-and-dynamic-island",
+  "image": "images/app-trip-summary-with-donation-widget-and-dynamic-island.png",
+  "discipline": "app",
+  "designType": "Ride-hailing app",
+  "title": "Black-and-white 'You arrived!' screen with lime stats, donation chips and a completed pill",
+  "tags": [
+    "ride",
+    "trip-summary",
+    "lime",
+    "black",
+    "white",
+    "donation",
+    "dynamic-island",
+    "annotation"
+  ],
+  "whatItIs": "A white board with a centred phone: a black header 'You arrived!', a black stat block with lime distance and total, route rows, donation chips ($1, selected $3, $5) and a lime Done button, flanked by a black donation widget and a black 'You arrived!' pill with a lime check, plus a small explanation text.",
+  "whatItMeans": "Calm and decisive; two numbers and one button end the trip.",
+  "techniques": [
+    "Show the summary as two big lime numbers.",
+    "Offer donation chips instead of ratings.",
+    "Show the same state as a widget and island pill.",
+    "Explain the logic in a caption."
+  ],
+  "bestFor": [
+    "Ride and delivery completion screens",
+    "Micro-donation UI",
+    "Component showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Completion screen",
+      "definition": "A screen confirming a task is done."
+    },
+    {
+      "term": "Donation chips",
+      "definition": "Selectable amounts as pills."
+    },
+    {
+      "term": "Island pill",
+      "definition": "A Dynamic Island activity state."
+    },
+    {
+      "term": "Design rationale",
+      "definition": "A short note explaining a choice."
+    }
+  ]
+}

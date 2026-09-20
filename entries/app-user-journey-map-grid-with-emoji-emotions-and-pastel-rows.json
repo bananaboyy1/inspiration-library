@@ -1,0 +1,48 @@
+{
+  "name": "app-user-journey-map-grid-with-emoji-emotions-and-pastel-rows",
+  "image": "images/app-user-journey-map-grid-with-emoji-emotions-and-pastel-rows.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "User journey map: persona, scenario, goals and an eight-stage grid of activities, pain points, touchpoints and emoji emotions",
+  "tags": [
+    "journey-map",
+    "research",
+    "persona",
+    "pastel",
+    "grid",
+    "emoji",
+    "red",
+    "documentation"
+  ],
+  "whatItIs": "A light grey board '07 User Journey Map' with three frosted cards (Jenny Wilson persona, Scenario, Goals and Expectations) above a grid of eight lilac stage headers (Discover to Support) and rows for Activities (blue), Pain Points (red row header with pink cells), Touch points (blue) and Emotional with emoji faces and words, where the most positive stage is highlighted in lilac.",
+  "whatItMeans": "Clear and humane; colour-coded rows and emojis make a journey scannable.",
+  "techniques": [
+    "Colour-code rows: blue for facts, red for pain.",
+    "Use emoji for emotional state.",
+    "Highlight the best moment in lilac.",
+    "Frost the persona cards on top."
+  ],
+  "bestFor": [
+    "UX journey mapping slides",
+    "Banking case studies",
+    "Research documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Journey map",
+      "definition": "A grid of stages, actions and feelings."
+    },
+    {
+      "term": "Stage header",
+      "definition": "A label at the top of each phase."
+    },
+    {
+      "term": "Emotion row",
+      "definition": "A row showing feeling with emoji."
+    },
+    {
+      "term": "Highlighted stage",
+      "definition": "One column emphasised in a different colour."
+    }
+  ]
+}

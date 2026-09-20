@@ -1,0 +1,48 @@
+{
+  "name": "web-marquee-of-avatar-name-pills-in-three-offset-rows-with-fade-edges",
+  "image": "images/web-marquee-of-avatar-name-pills-in-three-offset-rows-with-fade-edges.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "'Trusted By The Best People' with three rows of avatar-and-name capsules staggered and fading at the edges over a faint diagonal texture",
+  "tags": [
+    "social-proof",
+    "marquee",
+    "pills",
+    "avatars",
+    "white",
+    "fade-edges",
+    "staggered",
+    "testimonial"
+  ],
+  "whatItIs": "A white page with a bold centred heading and three horizontal rows of white capsules, each holding a round photo avatar with a bold name and grey role, the rows offset from each other and fading out at both sides, over a pale hatch texture.",
+  "whatItMeans": "Soft and populous; staggered capsules suggest a crowd of real people.",
+  "techniques": [
+    "Stagger rows of capsules.",
+    "Fade the row edges.",
+    "Use a faint texture behind.",
+    "Keep names bold and roles grey."
+  ],
+  "bestFor": [
+    "Social-proof marquees",
+    "Customer and community sections",
+    "Avatar pill rows"
+  ],
+  "vocabulary": [
+    {
+      "term": "Avatar capsule",
+      "definition": "A pill with a photo, name and role."
+    },
+    {
+      "term": "Staggered rows",
+      "definition": "Rows offset horizontally."
+    },
+    {
+      "term": "Edge fade",
+      "definition": "Content dissolving at the sides."
+    },
+    {
+      "term": "Marquee",
+      "definition": "A continuously scrolling band."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-lavender-savings-site-with-outlined-keyword-and-chart-cards",
+  "image": "images/web-dark-lavender-savings-site-with-outlined-keyword-and-chart-cards.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "title": "Black savings-app page on a lavender field with a hand-drawn ring around 'growing', floating chart cards and a mobile version",
+  "tags": [
+    "fintech",
+    "dark",
+    "lavender",
+    "hand-drawn-ring",
+    "chart",
+    "floating-cards",
+    "mobile",
+    "saas"
+  ],
+  "whatItIs": "A lavender canvas with a black desktop page and a black phone: a pill nav with a lavender button, a headline 'Your money, quietly growing in the background' with an oval outline around 'growing', a lavender CTA, avatars and stars, floating dark cards (round-up saved, total savings with a line chart, vacation fund) and a features section with dark cards.",
+  "whatItMeans": "Quiet and trustworthy; dark UI with one lavender accent feels calm and premium.",
+  "techniques": [
+    "Circle one keyword with an oval outline.",
+    "Float dark cards around a chart.",
+    "Use one lavender accent on black.",
+    "Show desktop and mobile together."
+  ],
+  "bestFor": [
+    "Fintech and savings apps",
+    "Dark UI with one accent",
+    "Floating card heroes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Keyword ring",
+      "definition": "An oval outline around a headline word."
+    },
+    {
+      "term": "Floating dark card",
+      "definition": "A dark card hovering around a hero chart."
+    },
+    {
+      "term": "Single accent",
+      "definition": "One colour used for actions and highlights."
+    },
+    {
+      "term": "Line chart glow",
+      "definition": "A soft glow under a chart line."
+    }
+  ]
+}

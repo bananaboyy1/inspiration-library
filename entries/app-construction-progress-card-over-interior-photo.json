@@ -1,0 +1,47 @@
+{
+  "name": "app-construction-progress-card-over-interior-photo",
+  "image": "images/app-construction-progress-card-over-interior-photo.png",
+  "discipline": "app",
+  "designType": "Status widget",
+  "title": "Dark progress card melting into a warm interior photograph",
+  "tags": [
+    "progress",
+    "real-estate",
+    "dark",
+    "widget",
+    "photo-fade",
+    "warm-neutral",
+    "minimal"
+  ],
+  "whatItIs": "A dark vertical composition. At the top a charcoal rounded card reads 'CONSTRUCTION PROGRESS', 'Completed 75%', with a thin white progress bar; below, a photo of a sunlit beige living room fades upward into the black.",
+  "whatItMeans": "Reassuring and premium; the fade makes data feel connected to the real space it describes.",
+  "techniques": [
+    "Fade a photo into a dark background with a gradient so UI and image share one surface.",
+    "Show progress as a single hairline bar with large numerals.",
+    "Keep the card nearly the same tone as the background.",
+    "Use warm natural photography to soften a technical readout."
+  ],
+  "bestFor": [
+    "Real-estate development and construction apps",
+    "Project status widgets",
+    "Premium dark UIs with photography"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo fade",
+      "definition": "An image dissolving into a solid colour with a gradient mask."
+    },
+    {
+      "term": "Progress hairline",
+      "definition": "A thin bar showing completion."
+    },
+    {
+      "term": "Status widget",
+      "definition": "A compact card summarising one metric."
+    },
+    {
+      "term": "Tonal card",
+      "definition": "A card only slightly lighter than its background."
+    }
+  ]
+}

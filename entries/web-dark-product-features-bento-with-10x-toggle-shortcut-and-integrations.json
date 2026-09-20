@@ -1,0 +1,48 @@
+{
+  "name": "web-dark-product-features-bento-with-10x-toggle-shortcut-and-integrations",
+  "image": "images/web-dark-product-features-bento-with-10x-toggle-shortcut-and-integrations.webp",
+  "discipline": "web",
+  "designType": "Landing page sections",
+  "title": "Black 'Product Features' bento: Zapier integration with a red toggle, connected trackers, a giant 10X, focus analytics with an orange tag and shortcut keys",
+  "tags": [
+    "saas",
+    "dark",
+    "bento",
+    "toggle",
+    "stats",
+    "shortcut-keys",
+    "orange",
+    "cards"
+  ],
+  "whatItIs": "A near-black page with a centred heading and grey subline above bordered dark cards: a tall Zapier Integration card with an orange-green logo, a description, a Configure button and a red toggle; a 'Trackers Connected' card with avatars; a '10X' card with huge grey numerals; a 'Focusing' card with '42%' and an orange Range Ratio pill; a Team's Productivity card; and a wide Shortcut Keys card with keycaps.",
+  "whatItMeans": "Technical and orderly; big numerals and small controls show product depth quickly.",
+  "techniques": [
+    "Use giant numerals as a graphic tile.",
+    "Show real controls (toggle, button) in cards.",
+    "Add one orange tag as an accent.",
+    "Show keyboard shortcuts as keycaps."
+  ],
+  "bestFor": [
+    "Dark SaaS feature bento",
+    "Productivity products",
+    "UI-in-card feature showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Numeral tile",
+      "definition": "A card built around a giant number."
+    },
+    {
+      "term": "Keycap",
+      "definition": "A small key-shaped label for a shortcut."
+    },
+    {
+      "term": "Toggle in card",
+      "definition": "A functional switch shown inside a card."
+    },
+    {
+      "term": "Accent tag",
+      "definition": "A single coloured pill in a dark set."
+    }
+  ]
+}

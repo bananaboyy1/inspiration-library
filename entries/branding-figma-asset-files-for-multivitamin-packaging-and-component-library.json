@@ -1,0 +1,48 @@
+{
+  "name": "branding-figma-asset-files-for-multivitamin-packaging-and-component-library",
+  "image": "images/branding-figma-asset-files-for-multivitamin-packaging-and-component-library.png",
+  "discipline": "branding",
+  "designType": "Packaging and print collateral",
+  "title": "Figma screens showing product asset rows for kids, teens, women and men, and a component library",
+  "tags": [
+    "figma",
+    "assets",
+    "packaging",
+    "teal",
+    "organisation",
+    "design-system",
+    "dark-ui",
+    "components"
+  ],
+  "whatItIs": "Two dark Figma windows: one with a page list and frames of teal and blue vitamin tubs plus hand-holding shots grouped by audience (toddlers, teens, kids, women, men), and one with a component library page showing headers, status chips, checkboxes and annotation notes in blue.",
+  "whatItMeans": "Organised and professional; showing the working file signals a system.",
+  "techniques": [
+    "Group assets by audience in labelled rows.",
+    "Show a page structure sidebar.",
+    "Document components (headers, status, notes) in blue.",
+    "Use the tool's own dark UI as presentation."
+  ],
+  "bestFor": [
+    "Design ops and asset management showcases",
+    "Packaging asset libraries",
+    "Process transparency in case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Asset row",
+      "definition": "A row of product images grouped together."
+    },
+    {
+      "term": "Component library",
+      "definition": "A file of reusable design elements."
+    },
+    {
+      "term": "Annotation card",
+      "definition": "A note component for design comments."
+    },
+    {
+      "term": "Tool screenshot",
+      "definition": "A screenshot of design software used as presentation."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-fashion-site-collage-with-giant-black-caps-and-script-signature",
+  "image": "images/web-fashion-site-collage-with-giant-black-caps-and-script-signature.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "title": "Fashion site shown between giant black grotesque caps with an orange script signature",
+  "tags": [
+    "fashion",
+    "cover",
+    "black-and-white",
+    "orange",
+    "script",
+    "giant-type",
+    "photo-strip",
+    "collage"
+  ],
+  "whatItIs": "A white cover where a fashion brand website sits between two huge cropped black words, 'COLLECTION 26' above and 'BEAUCLAIRE' below. A strip of model photos runs across the top, an orange script name 'Odette' is signed over the hero, and small orange pill buttons and tags dot the layout.",
+  "whatItMeans": "Bold and editorial; monumental type and a hand signature make a store feel like a magazine.",
+  "techniques": [
+    "Sandwich a UI between crop-bled giant heavy caps.",
+    "Sign a script name over the hero photo.",
+    "Use a single orange for buttons and tags.",
+    "Line photos in a strip above the page."
+  ],
+  "bestFor": [
+    "Fashion and lookbook sites",
+    "Project covers with type drama",
+    "Black, white and one-accent brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type sandwich",
+      "definition": "Giant words above and below an image or UI."
+    },
+    {
+      "term": "Script signature",
+      "definition": "Handwritten lettering laid over a photo."
+    },
+    {
+      "term": "Photo strip",
+      "definition": "A row of small images along an edge."
+    },
+    {
+      "term": "Accent pill",
+      "definition": "A small button in the single accent colour."
+    }
+  ]
+}

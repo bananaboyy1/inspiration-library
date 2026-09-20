@@ -1,0 +1,48 @@
+{
+  "name": "app-gamified-recipe-swipe-and-leaderboard-dark",
+  "image": "images/app-gamified-recipe-swipe-and-leaderboard-dark.png",
+  "discipline": "app",
+  "designType": "Gamified app screens",
+  "title": "Dark recipe app with a teal photo card, pill Save button and a coin-league leaderboard",
+  "tags": [
+    "gamification",
+    "recipes",
+    "dark",
+    "teal",
+    "pink",
+    "leaderboard",
+    "coins",
+    "rounded-cards"
+  ],
+  "whatItIs": "Two dark phones: one with a rounded teal-glow card of a poke bowl, a yellow bubbly logo with XP chip and a big teal Save pill next to a dismiss button; and a Leaderboard with a pixel-art coin medal, 'Bronze League' text and ranked avatar rows with XP counts.",
+  "whatItMeans": "Playful and rewarding; food swiping meets a game league.",
+  "techniques": [
+    "Pair a huge food photo card with swipe buttons.",
+    "Use coin medals and 3D avatars for gamification.",
+    "Use one pink accent for active tabs.",
+    "Set bubbly display type for the logo."
+  ],
+  "bestFor": [
+    "Food and habit apps with game loops",
+    "Leaderboard and progress screens",
+    "Dark playful UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "League badge",
+      "definition": "A medal showing a tier."
+    },
+    {
+      "term": "Swipe card",
+      "definition": "A large card decided with save or dismiss."
+    },
+    {
+      "term": "XP chip",
+      "definition": "A small counter of experience points."
+    },
+    {
+      "term": "Rank row",
+      "definition": "A list line with position, avatar and score."
+    }
+  ]
+}

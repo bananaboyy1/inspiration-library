@@ -1,0 +1,48 @@
+{
+  "name": "web-security-panels-pearl-card-in-hand-and-black-bank-vault",
+  "image": "images/web-security-panels-pearl-card-in-hand-and-black-bank-vault.jpg",
+  "discipline": "web",
+  "designType": "Feature illustration",
+  "title": "Iridescent credit card held in a hand, dark security statement with pills, and a black-and-white vault photo with protection pills",
+  "tags": [
+    "security",
+    "fintech",
+    "pearl",
+    "black",
+    "vault",
+    "pills",
+    "emoji",
+    "photography"
+  ],
+  "whatItIs": "Three panels: a pale grey panel with a hand holding a rainbow-sheen glass card with a logo cut-out, a black panel 'Enterprise Grade Security for Everyday Banking' with a money-bag emoji, a grey paragraph and three dark pills (Biometric Login, Secure Banking, Encryption), and a tall black-and-white photo of an open bank vault door with 'Bank-Level Protection' and three pills.",
+  "whatItMeans": "Strong and reassuring; a vault image makes security tangible while pearl cards keep it modern.",
+  "techniques": [
+    "Use a vault photograph as a security metaphor.",
+    "Line feature pills under a heading.",
+    "Put an emoji inside a serious headline.",
+    "Pair a pearl card with black panels."
+  ],
+  "bestFor": [
+    "Security sections of fintech sites",
+    "Monochrome photo panels",
+    "Pill-feature lists"
+  ],
+  "vocabulary": [
+    {
+      "term": "Vault metaphor",
+      "definition": "A bank vault photo standing for safety."
+    },
+    {
+      "term": "Feature pill",
+      "definition": "A capsule naming one feature."
+    },
+    {
+      "term": "Iridescent card",
+      "definition": "A card with rainbow sheen."
+    },
+    {
+      "term": "Inline emoji",
+      "definition": "An emoji within a headline."
+    }
+  ]
+}

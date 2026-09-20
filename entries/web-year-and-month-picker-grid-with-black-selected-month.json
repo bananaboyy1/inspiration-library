@@ -1,0 +1,48 @@
+{
+  "name": "web-year-and-month-picker-grid-with-black-selected-month",
+  "image": "images/web-year-and-month-picker-grid-with-black-selected-month.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "'Better Calendar Demo' month picker: a 3x4 grid of outlined tiles with month and year, a black selected month and a Year/Month toggle",
+  "tags": [
+    "component",
+    "date-picker",
+    "month-grid",
+    "white",
+    "black",
+    "toggle",
+    "minimal",
+    "ui-kit"
+  ],
+  "whatItIs": "A white page with a bold title, a 'Year 1913' label with a two-part toggle (Year, Month active black) and a 3x4 grid of hairline-bordered tiles each showing a month name and the year in grey, with August selected as a black tile.",
+  "whatItMeans": "Simple and precise; the black tile makes selection unmistakable.",
+  "techniques": [
+    "Use tiles with month over year.",
+    "Highlight selection in solid black.",
+    "Add a segmented toggle for view.",
+    "Keep hairline borders."
+  ],
+  "bestFor": [
+    "Date picker components",
+    "Month and year selectors",
+    "Minimal form UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Month grid",
+      "definition": "A grid of month options."
+    },
+    {
+      "term": "Segmented toggle",
+      "definition": "A two-option switch for view type."
+    },
+    {
+      "term": "Selected tile",
+      "definition": "The chosen option shown as solid black."
+    },
+    {
+      "term": "Hairline tile",
+      "definition": "A tile with a thin light border."
+    }
+  ]
+}

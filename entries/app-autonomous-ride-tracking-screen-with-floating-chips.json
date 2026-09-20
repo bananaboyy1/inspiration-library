@@ -1,0 +1,48 @@
+{
+  "name": "app-autonomous-ride-tracking-screen-with-floating-chips",
+  "image": "images/app-autonomous-ride-tracking-screen-with-floating-chips.gif",
+  "discipline": "app",
+  "designType": "Ride-hailing app",
+  "title": "Ride-progress screen with dark road photo, stat panel and floating chips",
+  "tags": [
+    "mobility",
+    "dark-photo",
+    "lime",
+    "black",
+    "stats",
+    "route",
+    "chips",
+    "white-stage"
+  ],
+  "whatItIs": "A white stage with a phone centre: a dark monochrome road photo with a car from behind and 'Heading to TechHub' in white with lime accent; a white bottom sheet with arrival time and route; a black stat block with lime numbers for charge, speed and distance. Two black chips float outside: a lime-bar ride comfort meter and a trip summary with Premium tag.",
+  "whatItMeans": "Sleek and reassuring; lime numerals on black communicate precision and control.",
+  "techniques": [
+    "Use a monochrome photo header with a single lime word.",
+    "Put stats in a black rounded block with lime numerals.",
+    "Float small feature chips beside the phone to explain details.",
+    "Use segmented lime bars as a comfort meter."
+  ],
+  "bestFor": [
+    "Mobility and vehicle apps",
+    "Feature explainers with floating callouts",
+    "Black, white and neon brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented meter",
+      "definition": "A bar divided into small lit segments."
+    },
+    {
+      "term": "Floating chip",
+      "definition": "A small UI card placed outside the device."
+    },
+    {
+      "term": "Stat block",
+      "definition": "A dark container with several figures."
+    },
+    {
+      "term": "Monochrome header",
+      "definition": "A greyscale photo at the top of a screen."
+    }
+  ]
+}

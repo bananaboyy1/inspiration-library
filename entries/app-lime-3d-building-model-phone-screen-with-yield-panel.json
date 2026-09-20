@@ -1,0 +1,48 @@
+{
+  "name": "app-lime-3d-building-model-phone-screen-with-yield-panel",
+  "image": "images/app-lime-3d-building-model-phone-screen-with-yield-panel.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Phone showing a lime-tinted 3D building over a frosted overview panel, with a flat detail card beside it",
+  "tags": [
+    "real-estate",
+    "3d-model",
+    "lime",
+    "frosted",
+    "phone",
+    "yield",
+    "chart",
+    "light-grey"
+  ],
+  "whatItIs": "A light grey board 'UI Design 08' with a lime-green gradient rounded panel holding a phone whose top half is a lime-tinted 3D building on a white city model and a frosted sheet with the property overview, spec pills, ownership share, yield and returns; at the right, the same content flat with a market value line chart.",
+  "whatItMeans": "Tangible and calm; a highlighted 3D building ties numbers to a place.",
+  "techniques": [
+    "Tint one 3D building lime in a white city.",
+    "Slide a frosted info sheet over the model.",
+    "Show the same content flat next to the phone.",
+    "Use a glowing line chart."
+  ],
+  "bestFor": [
+    "Property investment apps",
+    "3D map interfaces",
+    "Light lime fintech"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tinted model",
+      "definition": "A 3D model coloured for emphasis."
+    },
+    {
+      "term": "Frosted sheet",
+      "definition": "A blurred panel over a map."
+    },
+    {
+      "term": "Ownership share",
+      "definition": "A stat showing the user's stake."
+    },
+    {
+      "term": "Flat card",
+      "definition": "A component shown without a device."
+    }
+  ]
+}

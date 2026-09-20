@@ -1,0 +1,49 @@
+{
+  "name": "print-social-kinetic-type-poster-pair",
+  "image": "images/print-social-kinetic-type-poster-pair.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Two type-only posters: broken repeating word and giant red numeral",
+  "tags": [
+    "poster",
+    "typography",
+    "black-and-white",
+    "red",
+    "grotesque",
+    "repetition",
+    "numerals",
+    "orange-backdrop"
+  ],
+  "whatItIs": "Two portrait posters on orange. The left is charcoal with the word 'eraser' repeated and gradually erased or cut, with white angular wedges slicing through. The right is black with 'Finally, I made these 50 posters' in heavy white grotesque over an enormous red '50'.",
+  "whatItMeans": "Loud, editorial and confident; type itself is the image.",
+  "techniques": [
+    "Repeat a word and progressively remove letters to visualise its meaning.",
+    "Cut the composition with sharp white wedges that mask letters.",
+    "Overlay huge numerals in a single red behind the text.",
+    "Bleed letters off the edge for scale.",
+    "Contrast tiny body copy with massive display type."
+  ],
+  "bestFor": [
+    "Poster series and typographic experiments",
+    "Event and exhibition graphics",
+    "Bold social announcements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Type-as-image",
+      "definition": "Using letterforms as the main visual."
+    },
+    {
+      "term": "Erasure effect",
+      "definition": "Progressively hiding letters to depict removal."
+    },
+    {
+      "term": "Bleeding type",
+      "definition": "Letters that extend beyond the canvas edge."
+    },
+    {
+      "term": "Scale contrast",
+      "definition": "Mixing tiny and huge text."
+    }
+  ]
+}

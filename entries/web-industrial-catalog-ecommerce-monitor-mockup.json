@@ -1,0 +1,48 @@
+{
+  "name": "web-industrial-catalog-ecommerce-monitor-mockup",
+  "image": "images/web-industrial-catalog-ecommerce-monitor-mockup.png",
+  "discipline": "web",
+  "designType": "E-commerce catalog",
+  "title": "Industrial catalog site shown on a monitor between dark rocks",
+  "tags": [
+    "e-commerce",
+    "catalog",
+    "industrial",
+    "blue",
+    "3d-icons",
+    "mockup",
+    "cyrillic",
+    "mega-menu"
+  ],
+  "whatItIs": "A metal-supplier website on a tilted monitor against dark grey rocks. The UI has a top bar, search, a left category list, a large blue promo banner with steel pipes, and smaller tiles with glossy 3D icons for discounts, returns and delivery.",
+  "whatItMeans": "Reliable, dense and practical, the kind of interface built for professionals who need to find things fast; the monochrome stage makes the blue pop.",
+  "techniques": [
+    "Show a busy catalog UI in a monochrome stylised scene so the brand blue is the only colour.",
+    "Use glossy 3D icons in benefit tiles to add friendliness to a utilitarian page.",
+    "Keep a left category tree beside a hero banner to balance browsing and promotion.",
+    "Repeat one blue for banner, buttons and links."
+  ],
+  "bestFor": [
+    "B2B catalogs and industrial suppliers",
+    "Marketplaces with deep category trees",
+    "Portfolio presentations of large sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mega catalog",
+      "definition": "A site with a large hierarchical product list."
+    },
+    {
+      "term": "3D icon",
+      "definition": "A glossy rendered pictogram."
+    },
+    {
+      "term": "Promo tile",
+      "definition": "A small banner promoting one offer."
+    },
+    {
+      "term": "Stage mockup",
+      "definition": "Presenting a design in a dramatic set."
+    }
+  ]
+}

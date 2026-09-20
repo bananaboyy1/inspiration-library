@@ -1,0 +1,48 @@
+{
+  "name": "web-blue-industrial-basket-page-desktop-and-mobile",
+  "image": "images/web-blue-industrial-basket-page-desktop-and-mobile.png",
+  "discipline": "web",
+  "designType": "Checkout and forms",
+  "title": "Cart page on a deep blue board, desktop and mobile, with promo box and dark footer",
+  "tags": [
+    "cart",
+    "checkout",
+    "blue",
+    "white-ui",
+    "footer",
+    "mobile",
+    "industrial",
+    "cyrillic"
+  ],
+  "whatItIs": "A deep blue rounded board numbered (11) showing a white basket page with search, nav, promo box, total and blue checkout button, product rows with quantity steppers, a blue consultation banner and dark navy footer, plus a mobile version.",
+  "whatItMeans": "Reliable and clear; large blue frame ties the UI to the brand.",
+  "techniques": [
+    "Frame screens on a solid brand-blue board.",
+    "Group promo, total and CTA in one card.",
+    "Use a dark footer with multiple columns.",
+    "Show desktop and mobile side by side."
+  ],
+  "bestFor": [
+    "B2B cart designs",
+    "Design case-study boards",
+    "Utilitarian commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Quantity stepper",
+      "definition": "Plus and minus controls around a number."
+    },
+    {
+      "term": "Promo box",
+      "definition": "A field for entering a promo code."
+    },
+    {
+      "term": "Consultation banner",
+      "definition": "A blue block inviting a question."
+    },
+    {
+      "term": "Board frame",
+      "definition": "A coloured slide holding screens."
+    }
+  ]
+}

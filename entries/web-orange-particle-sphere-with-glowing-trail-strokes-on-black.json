@@ -1,0 +1,48 @@
+{
+  "name": "web-orange-particle-sphere-with-glowing-trail-strokes-on-black",
+  "image": "images/web-orange-particle-sphere-with-glowing-trail-strokes-on-black.webp",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "title": "Black field with a sphere of tiny orange dots and glowing beaded trails that follow the cursor",
+  "tags": [
+    "particles",
+    "dark",
+    "orange",
+    "sphere",
+    "interactive",
+    "generative",
+    "glow",
+    "cursor"
+  ],
+  "whatItIs": "A near-black canvas holding a loose spherical cloud of small orange dots and several glowing amber chains of larger beads curling through it, with a mouse cursor in the centre.",
+  "whatItMeans": "Alive and organic; the dots and trails suggest energy responding to touch.",
+  "techniques": [
+    "Distribute dots on a sphere.",
+    "Leave glowing trails where the pointer passes.",
+    "Use one warm hue on black.",
+    "Vary bead size along the trail."
+  ],
+  "bestFor": [
+    "Interactive hero backgrounds",
+    "Generative art",
+    "Dark tech and creative sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Particle sphere",
+      "definition": "Dots arranged on a spherical surface."
+    },
+    {
+      "term": "Pointer trail",
+      "definition": "A glowing line left behind the cursor."
+    },
+    {
+      "term": "Bead chain",
+      "definition": "Circles of varying size in a line."
+    },
+    {
+      "term": "Interactive canvas",
+      "definition": "A background reacting to input."
+    }
+  ]
+}

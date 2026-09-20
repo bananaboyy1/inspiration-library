@@ -1,0 +1,48 @@
+{
+  "name": "print-social-newtons-cradle-diagram-post-on-black-with-pink-ball",
+  "image": "images/print-social-newtons-cradle-diagram-post-on-black-with-pink-ball.png",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "title": "Black post with a line-drawn Newton's cradle where one pink ball swings, and a white statement about the first step",
+  "tags": [
+    "metaphor",
+    "black",
+    "pink",
+    "white",
+    "line-art",
+    "circles",
+    "minimal",
+    "cyrillic"
+  ],
+  "whatItIs": "A pure black portrait with a pink horizontal bar and thin pink strings holding four white balls and one pink ball swung out at the left, a white two-line statement 'the first step is always more than a step, it starts movement' and a pink outlined pill with the handle.",
+  "whatItMeans": "Simple and clever; a physical toy illustrates momentum with just circles and lines.",
+  "techniques": [
+    "Illustrate an idea with a simple physical object.",
+    "Colour the moving element pink.",
+    "Use white text on black.",
+    "Keep the handle in an outlined pill."
+  ],
+  "bestFor": [
+    "Motivation and psychology posts",
+    "Minimal metaphor graphics",
+    "Black-and-pink systems"
+  ],
+  "vocabulary": [
+    {
+      "term": "Physical metaphor",
+      "definition": "A real-world object used to explain an idea."
+    },
+    {
+      "term": "Accent element",
+      "definition": "The one part drawn in colour."
+    },
+    {
+      "term": "Line diagram",
+      "definition": "An illustration made of thin lines and circles."
+    },
+    {
+      "term": "Handle pill",
+      "definition": "An outlined capsule with the account name."
+    }
+  ]
+}

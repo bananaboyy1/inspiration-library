@@ -1,0 +1,48 @@
+{
+  "name": "web-swiss-style-landing-page-with-giant-guided-welcome-and-monochrome-mockups",
+  "image": "images/web-swiss-style-landing-page-with-giant-guided-welcome-and-monochrome-mockups.png",
+  "discipline": "web",
+  "designType": "Landing page",
+  "title": "Swiss-style monochrome landing with a giant cropped WELCOME in geometric letters on guide ticks and black showcase panels",
+  "tags": [
+    "swiss-style",
+    "monochrome",
+    "geometric-type",
+    "guide-ticks",
+    "mockups",
+    "portfolio",
+    "black-and-white",
+    "lowercase"
+  ],
+  "whatItIs": "A white and black long page with a lowercase title 'landing page' and 'swiss style', small nav links, a huge cropped geometric 'WELCOME' with vertical tick guides, small grey copy, a black section with a smartwatch mockup on white, a laptop and a logo business card in monochrome, and a 'see more' link.",
+  "whatItMeans": "Precise and confident; visible guide ticks celebrate the grid.",
+  "techniques": [
+    "Show construction ticks around giant letters.",
+    "Crop the word at both edges.",
+    "Use lowercase light text for the rest.",
+    "Switch to a black showcase section."
+  ],
+  "bestFor": [
+    "Swiss and minimalist portfolios",
+    "Monochrome one-pagers",
+    "Type-led designer sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Guide ticks",
+      "definition": "Small vertical lines marking letter boundaries."
+    },
+    {
+      "term": "Cropped word",
+      "definition": "A word cut by both frame edges."
+    },
+    {
+      "term": "Monochrome showcase",
+      "definition": "Mockups in greyscale on black."
+    },
+    {
+      "term": "Lowercase voice",
+      "definition": "Text set in all lowercase."
+    }
+  ]
+}

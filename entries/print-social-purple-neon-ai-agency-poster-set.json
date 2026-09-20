@@ -1,0 +1,48 @@
+{
+  "name": "print-social-purple-neon-ai-agency-poster-set",
+  "image": "images/print-social-purple-neon-ai-agency-poster-set.jpg",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "title": "Six purple neon AI-service posters with robot, lock and glass shapes",
+  "tags": [
+    "ai",
+    "agency",
+    "purple",
+    "neon",
+    "3d-objects",
+    "robot",
+    "lock",
+    "poster-set"
+  ],
+  "whatItIs": "A vertical presentation of six poster-style posts with deep purple gradients and glowing violet accents. Each has a 3D or rendered hero (a lock, a robot head, atomic symbol and hand, glass cubes) plus a bold white headline and small CTA chips.",
+  "whatItMeans": "Techy and premium; glow makes the AI subject feel powerful and high-value.",
+  "techniques": [
+    "Render a single glossy object per post as the metaphor.",
+    "Keep the same purple gradient and glow across the set.",
+    "Use big white headlines with one bright accent word.",
+    "Add a slim CTA pill bar at the bottom of each."
+  ],
+  "bestFor": [
+    "AI and software agency social sets",
+    "Tech B2B posts",
+    "Explaining abstract services with objects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Neon glow",
+      "definition": "A luminous edge or halo in a saturated colour."
+    },
+    {
+      "term": "Hero object",
+      "definition": "A single rendered symbol representing the message."
+    },
+    {
+      "term": "CTA bar",
+      "definition": "A strip at the bottom holding action text."
+    },
+    {
+      "term": "Gradient set",
+      "definition": "Posts sharing the same background gradient."
+    }
+  ]
+}

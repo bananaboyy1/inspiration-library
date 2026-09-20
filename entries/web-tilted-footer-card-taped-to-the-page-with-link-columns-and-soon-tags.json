@@ -1,0 +1,48 @@
+{
+  "name": "web-tilted-footer-card-taped-to-the-page-with-link-columns-and-soon-tags",
+  "image": "images/web-tilted-footer-card-taped-to-the-page-with-link-columns-and-soon-tags.webp",
+  "discipline": "web",
+  "designType": "UI components",
+  "title": "White footer card rotated and held by black tape strips, with link columns and grey 'soon' tags",
+  "tags": [
+    "component",
+    "footer",
+    "white",
+    "tape",
+    "tilted",
+    "links",
+    "soon-tags",
+    "playful"
+  ],
+  "whatItIs": "A pale page where a white rounded footer card is tilted a few degrees and pinned at two corners by black tape, holding a bold logo and short description, three link columns (Resources, Company, Compare) with tiny grey 'soon' pills, and below a copyright line, legal links and two social icons.",
+  "whatItMeans": "Playful and human; tape and tilt turn a standard footer into a pinned note.",
+  "techniques": [
+    "Rotate the footer card slightly.",
+    "Tape it down with black strips.",
+    "Add small 'soon' pills to links.",
+    "Keep the layout in clean columns."
+  ],
+  "bestFor": [
+    "Playful SaaS footers",
+    "Startup sites",
+    "Footer components"
+  ],
+  "vocabulary": [
+    {
+      "term": "Taped card",
+      "definition": "A card that appears attached by tape strips."
+    },
+    {
+      "term": "Soon tag",
+      "definition": "A small pill marking an upcoming link."
+    },
+    {
+      "term": "Link column",
+      "definition": "A vertical list of footer links."
+    },
+    {
+      "term": "Tilted container",
+      "definition": "A container rotated a few degrees."
+    }
+  ]
+}

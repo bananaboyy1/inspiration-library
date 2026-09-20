@@ -1,0 +1,48 @@
+{
+  "name": "print-social-about-me-slide-script-and-sticker",
+  "image": "images/print-social-about-me-slide-script-and-sticker.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "About-me slide with script greeting, sticker title and greyscale portrait",
+  "tags": [
+    "about-me",
+    "presentation",
+    "cream",
+    "brown",
+    "script",
+    "sticker",
+    "greyscale-portrait",
+    "resume"
+  ],
+  "whatItIs": "A cream slide with dark chocolate text. A rounded greyscale portrait has a bubbly 'about me' sticker label overlapping its corner and an asterisk sticker. To the right a flowing script greeting, a paragraph, and star-bulleted specialisations; below are three columns for Experience, Skills and Contacts with icon bullets.",
+  "whatItMeans": "Warm, personal and organised, like a well-designed CV page.",
+  "techniques": [
+    "Use a script font for the greeting and a clean sans for information.",
+    "Overlap a sticker-style label with a portrait corner.",
+    "Use one dark brown on cream for the whole palette.",
+    "Organise details in three tidy columns at the base."
+  ],
+  "bestFor": [
+    "Designer intro and CV slides",
+    "Freelance portfolios",
+    "Personal brand decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sticker label",
+      "definition": "A bubbly title with outline placed like a sticker."
+    },
+    {
+      "term": "Script greeting",
+      "definition": "A handwritten-style hello."
+    },
+    {
+      "term": "Three-column footer",
+      "definition": "A base row splitting info into equal columns."
+    },
+    {
+      "term": "Diamond bullet",
+      "definition": "A four-point star used as a list marker."
+    }
+  ]
+}

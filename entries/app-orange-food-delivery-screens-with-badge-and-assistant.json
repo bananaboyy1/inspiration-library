@@ -1,0 +1,48 @@
+{
+  "name": "app-orange-food-delivery-screens-with-badge-and-assistant",
+  "image": "images/app-orange-food-delivery-screens-with-badge-and-assistant.webp",
+  "discipline": "app",
+  "designType": "Food ordering app",
+  "title": "Orange food delivery app: burger splash, restaurant carousel with assistant chip and map detail",
+  "tags": [
+    "food",
+    "delivery",
+    "orange",
+    "cream",
+    "cutout",
+    "assistant",
+    "map",
+    "pill-nav"
+  ],
+  "whatItIs": "Three phones on beige: an orange onboarding with a cut-out cheeseburger, a scalloped '15% OFF' badge and pill CTA; a home with category chips, tilted restaurant cards and a 'Chips' assistant strip above a black pill nav with an orange active tab; and a pizza detail with rating, time and a route map.",
+  "whatItMeans": "Appetising and friendly; orange and photography make hunger tangible.",
+  "techniques": [
+    "Cut out the hero food over a patterned orange panel.",
+    "Use a scalloped badge for the offer.",
+    "Tilt side cards in a carousel.",
+    "Add an assistant strip in a tinted pill."
+  ],
+  "bestFor": [
+    "Food delivery apps",
+    "Orange brands",
+    "Onboarding with product cutouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Scalloped badge",
+      "definition": "A badge with wavy edges."
+    },
+    {
+      "term": "Assistant strip",
+      "definition": "A tinted bar introducing an AI helper."
+    },
+    {
+      "term": "Tilted carousel",
+      "definition": "Cards rotated at the sides."
+    },
+    {
+      "term": "Route map card",
+      "definition": "A map with a path in a bottom sheet."
+    }
+  ]
+}

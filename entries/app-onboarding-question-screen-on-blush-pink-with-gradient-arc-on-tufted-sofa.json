@@ -1,0 +1,48 @@
+{
+  "name": "app-onboarding-question-screen-on-blush-pink-with-gradient-arc-on-tufted-sofa",
+  "image": "images/app-onboarding-question-screen-on-blush-pink-with-gradient-arc-on-tufted-sofa.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Blush-pink conversational onboarding screen with a rainbow gradient arc on a tufted grey sofa",
+  "tags": [
+    "onboarding",
+    "conversational",
+    "blush",
+    "gradient-arc",
+    "sofa",
+    "top-down",
+    "orange",
+    "pills"
+  ],
+  "whatItIs": "A phone lies on a buttoned taupe leather sofa in raking light, its blush-pink screen showing a step tracker, a thanks line, a larger question in rust-brown text, a rainbow gradient arc and two pills: a white Write and an orange Let's talk, with a Skip link.",
+  "whatItMeans": "Warm and soft; a pink screen and rainbow arc feel gentle on tufted leather.",
+  "techniques": [
+    "Lay the phone on a tufted surface in raking light.",
+    "Use a rainbow arc as the assistant's presence.",
+    "Set the question in a single warm brown.",
+    "Offer dual pills for input."
+  ],
+  "bestFor": [
+    "Conversational and wellbeing onboarding",
+    "Soft lifestyle mockups",
+    "Warm gradient UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tufted texture",
+      "definition": "A buttoned quilted upholstery surface."
+    },
+    {
+      "term": "Rainbow arc",
+      "definition": "A multi-colour curved gradient."
+    },
+    {
+      "term": "Raking light",
+      "definition": "Low-angle light that shows texture."
+    },
+    {
+      "term": "Dual-input pills",
+      "definition": "Two buttons for typing or speaking."
+    }
+  ]
+}

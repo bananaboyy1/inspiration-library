@@ -1,0 +1,49 @@
+{
+  "name": "web-black-and-white-glowing-arch-hero-with-water-reflection",
+  "image": "images/web-black-and-white-glowing-arch-hero-with-water-reflection.webp",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Monochrome hero with a glowing white arch reflected in rippled water and a glass CTA",
+  "tags": [
+    "hero",
+    "dark",
+    "monochrome",
+    "arch",
+    "glow",
+    "reflection",
+    "glass-button",
+    "light-type"
+  ],
+  "whatItIs": "A black hero with a huge glowing white arch whose lower ends dissolve into horizontal ripples. Centred inside are a thin light-weight headline 'Clarity Emerges From Connection', a grey paragraph, a glowing glass 'Start Your Journey' button and a faded logo strip at the bottom.",
+  "whatItMeans": "Calm, majestic and meditative; an arch and reflection suggest a gateway.",
+  "techniques": [
+    "Use one glowing geometric arch as the entire visual.",
+    "Stretch its base into water-like ripples.",
+    "Set light thin headline type inside the arch.",
+    "Make the CTA a glowing glass pill.",
+    "Fade logos into the dark."
+  ],
+  "bestFor": [
+    "AI and productivity landing pages",
+    "Premium dark heroes",
+    "Brands promising clarity"
+  ],
+  "vocabulary": [
+    {
+      "term": "Glow arch",
+      "definition": "A bright curved band used as a portal."
+    },
+    {
+      "term": "Ripple reflection",
+      "definition": "Horizontal streaks mimicking water reflection."
+    },
+    {
+      "term": "Glass button",
+      "definition": "A translucent glowing button."
+    },
+    {
+      "term": "Faded logo strip",
+      "definition": "Low-contrast partner logos."
+    }
+  ]
+}

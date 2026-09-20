@@ -1,0 +1,48 @@
+{
+  "name": "print-social-fifty-poster-experiments-wall",
+  "image": "images/print-social-fifty-poster-experiments-wall.png",
+  "discipline": "print-social",
+  "designType": "Typographic posters",
+  "title": "Wall of fifty geometric poster experiments in primary colours",
+  "tags": [
+    "posters",
+    "grid",
+    "primary-colours",
+    "geometric",
+    "experiments",
+    "type-driven",
+    "modernist",
+    "series"
+  ],
+  "whatItIs": "A black slide with a ten-by-five grid of small poster designs: red, blue, yellow, black and cream, each using a word and simple geometry (circles, stairs, waves, dots, lines, flowers, fish) with type distorted to match. 'Thanks for watching!' ends the slide.",
+  "whatItMeans": "Playful and disciplined; a shared palette of primaries and a one-word-one-shape rule make fifty ideas feel like one family.",
+  "techniques": [
+    "Pair each poster with one word and one visual idea (word-image mapping).",
+    "Use a strict palette of red, blue, yellow, black and cream.",
+    "Bend, crop and repeat type to illustrate its meaning.",
+    "Show many posters in a grid to prove range."
+  ],
+  "bestFor": [
+    "Typography and poster practice series",
+    "Design education and portfolio slides",
+    "Idea-generation exercises"
+  ],
+  "vocabulary": [
+    {
+      "term": "Word-image mapping",
+      "definition": "Making the layout depict the word it shows."
+    },
+    {
+      "term": "Primary palette",
+      "definition": "Red, yellow and blue with black and cream."
+    },
+    {
+      "term": "Poster series",
+      "definition": "A set of designs made under shared constraints."
+    },
+    {
+      "term": "Grid overview",
+      "definition": "Showing many works together at small size."
+    }
+  ]
+}

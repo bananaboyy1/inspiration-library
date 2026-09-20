@@ -1,0 +1,48 @@
+{
+  "name": "web-wine-tourism-site-over-black-and-white-bottle-wall",
+  "image": "images/web-wine-tourism-site-over-black-and-white-bottle-wall.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "title": "Winery search site with a vineyard photo hero over a monochrome wall of wine bottles",
+  "tags": [
+    "travel",
+    "wine",
+    "vineyard",
+    "burgundy",
+    "serif",
+    "search-bar",
+    "monochrome-backdrop",
+    "cyrillic"
+  ],
+  "whatItIs": "A greyscale photo of a wall of bottles behind a white browser-like page. The hero is a green vineyard photo with a serif headline, a search field with a red button, three stats (250+, 4.9, 3 500+) and below a section 'Best wineries' with photo cards.",
+  "whatItMeans": "Warm and refined; the greyscale bottle wall makes the vineyard colour pop.",
+  "techniques": [
+    "Use a monochrome themed backdrop around the UI.",
+    "Overlay a search bar on a photo hero.",
+    "Show three key stats in the hero.",
+    "Use a burgundy accent button."
+  ],
+  "bestFor": [
+    "Wine and travel guides",
+    "Directory sites with search",
+    "Photo-led heroes"
+  ],
+  "vocabulary": [
+    {
+      "term": "Monochrome backdrop",
+      "definition": "A greyscale image behind a UI."
+    },
+    {
+      "term": "Search hero",
+      "definition": "A hero built around a search field."
+    },
+    {
+      "term": "Stat trio",
+      "definition": "Three key numbers in a row."
+    },
+    {
+      "term": "Burgundy accent",
+      "definition": "A deep red used for buttons."
+    }
+  ]
+}

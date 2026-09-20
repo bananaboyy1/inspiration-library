@@ -1,0 +1,48 @@
+{
+  "name": "app-solution-statement-with-soft-yellow-gradient-tile-and-tilted-home-screen",
+  "image": "images/app-solution-statement-with-soft-yellow-gradient-tile-and-tilted-home-screen.png",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "title": "Solution statement card with a soft yellow gradient tile and a tilted dark home screen",
+  "tags": [
+    "case-study",
+    "solution",
+    "warm-grey",
+    "yellow",
+    "gradient",
+    "app-icon",
+    "tilted-phone",
+    "rounded"
+  ],
+  "whatItIs": "A warm grey rounded panel with a small caps label and a large sans statement about an assistant balancing chores and rest, a small side paragraph, and two tiles below: an orange-yellow soft gradient and a black phone corner showing the app icon among Photos, Mail and Notes.",
+  "whatItMeans": "Warm and trustworthy; the sunny gradient stands for calm while the icon proves it exists.",
+  "techniques": [
+    "Pair a big statement with a small right-aligned explainer.",
+    "Show a pure gradient tile as mood.",
+    "Crop the phone home screen to show the icon in context.",
+    "Use warm grey panels."
+  ],
+  "bestFor": [
+    "Solution introduction slides",
+    "App identity in context",
+    "Soft, warm presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mood tile",
+      "definition": "A gradient tile conveying feeling."
+    },
+    {
+      "term": "Icon in context",
+      "definition": "An app icon among real icons."
+    },
+    {
+      "term": "Side explainer",
+      "definition": "A small paragraph at the right of a big statement."
+    },
+    {
+      "term": "Warm grey",
+      "definition": "A greige neutral."
+    }
+  ]
+}

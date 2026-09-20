@@ -1,0 +1,48 @@
+{
+  "name": "web-industrial-home-page-board-on-blue-with-mobile-and-services-grid",
+  "image": "images/web-industrial-home-page-board-on-blue-with-mobile-and-services-grid.png",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Deep blue board with a long metal-supplier home page: category tree, promo banner, services grid, offers and catalog, plus a mobile view",
+  "tags": [
+    "e-commerce",
+    "catalog",
+    "blue",
+    "industrial",
+    "home-page",
+    "mobile",
+    "icons-grid",
+    "cyrillic"
+  ],
+  "whatItIs": "A deep blue rounded board '(07) Home page' with a tall white desktop page: contact bar, logo and search, a left category tree beside a large blue banner with steel pipes, three promo tiles (grey, blue, light blue) with 3D icons, a benefit row, a helper section of six tool tiles and a blue feature tile, three offer photos, a grid of additional services icons, and a catalog of category cards; a mobile hero and a services list overlap the edges.",
+  "whatItMeans": "Dense but orderly; blue and white keep a big catalogue readable.",
+  "techniques": [
+    "Combine a category tree with a large hero banner.",
+    "Use 3D icons in promo tiles.",
+    "Show services as a grid of line-icon tiles.",
+    "Overlap mobile views on the board."
+  ],
+  "bestFor": [
+    "Large B2B catalogue sites",
+    "Industrial supply home pages",
+    "Blue-white e-commerce"
+  ],
+  "vocabulary": [
+    {
+      "term": "Category tree",
+      "definition": "A vertical list of product categories."
+    },
+    {
+      "term": "Promo tile",
+      "definition": "A small banner for an offer."
+    },
+    {
+      "term": "Service icon tile",
+      "definition": "A tile with a line icon and label."
+    },
+    {
+      "term": "Overlapping mobile",
+      "definition": "Phone views placed over a board edge."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-pearl-cards-app-in-hand-with-dark-spending-widget-on-lifestyle-photo",
+  "image": "images/app-pearl-cards-app-in-hand-with-dark-spending-widget-on-lifestyle-photo.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Lifestyle photo with a dark spend widget beside a hand holding a pearl card-management app",
+  "tags": [
+    "fintech",
+    "pearl",
+    "dark-widget",
+    "lifestyle",
+    "hand",
+    "ring-chart",
+    "split",
+    "photography"
+  ],
+  "whatItIs": "A split image: at left a smiling man on a sofa with a phone and a frosted black card 'Monthly Spending Overview' with $4.04k and a ring showing 40,135 transactions; at right a hand holds a pale phone with a serif 'Manage Your Cards' and a fanned pearl card stack.",
+  "whatItMeans": "Human and premium; a dark widget over life and a pale UI in hand show two moods of one brand.",
+  "techniques": [
+    "Overlay a dark glass widget on a lifestyle photo.",
+    "Show a ring chart with a gradient stroke.",
+    "Fan pearl cards in the UI.",
+    "Split dark and light in one image."
+  ],
+  "bestFor": [
+    "Fintech brand imagery",
+    "Widget-over-photo visuals",
+    "Pearl-toned card apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dark glass widget",
+      "definition": "A black translucent card overlaid on a photo."
+    },
+    {
+      "term": "Ring stat",
+      "definition": "A ring chart with a big central number."
+    },
+    {
+      "term": "Mood pair",
+      "definition": "A dark and a light visual side by side."
+    },
+    {
+      "term": "Card stack",
+      "definition": "Overlapping payment cards."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-health-tiles-and-serif-insight-card-cropped-thumbnail",
+  "image": "images/app-health-tiles-and-serif-insight-card-cropped-thumbnail.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Glass health tiles and serif recovery insight on a blue-violet gradient, thumbnail crop",
+  "tags": [
+    "health",
+    "glass",
+    "serif",
+    "gradient",
+    "cropped-phone",
+    "thumbnail",
+    "insight",
+    "tab-bar"
+  ],
+  "whatItIs": "A cropped lower half of a lavender phone on a blue-to-periwinkle gradient showing three glass tiles (38.4 VO2 Max, 62 BPM RHR, 22 ms HRV), a serif insight card 'Your HRV is down 15% this week. Try a recovery day.' with a black arrow and a floating tab bar with a pink Home pill.",
+  "whatItMeans": "Calm and personal; serif sentences turn data into advice.",
+  "techniques": [
+    "Crop a phone to its lower half.",
+    "Use frosted tiles for stats.",
+    "Set insight text in serif.",
+    "Highlight the active tab in a pink pill."
+  ],
+  "bestFor": [
+    "Health app thumbnails",
+    "Insight cards",
+    "Gradient mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Half-phone crop",
+      "definition": "Showing only part of the device."
+    },
+    {
+      "term": "Insight sentence",
+      "definition": "Advice written in plain language."
+    },
+    {
+      "term": "Floating tab bar",
+      "definition": "A detached bottom nav."
+    },
+    {
+      "term": "Glass tile",
+      "definition": "A translucent stat block."
+    }
+  ]
+}

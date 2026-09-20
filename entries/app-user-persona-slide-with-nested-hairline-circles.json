@@ -1,0 +1,48 @@
+{
+  "name": "app-user-persona-slide-with-nested-hairline-circles",
+  "image": "images/app-user-persona-slide-with-nested-hairline-circles.jpg",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "title": "User persona slide with a portrait rising from concentric hairline circles",
+  "tags": [
+    "persona",
+    "research",
+    "white",
+    "hairline-circles",
+    "italic-serif",
+    "quote",
+    "case-study",
+    "navy"
+  ],
+  "whatItIs": "A near-white slide with a headline mixing light sans and bold italic serif. A cut-out portrait emerges from a frosted name badge on top of two nested thin circles; the inner circle holds a quote, the outer holds goals. Pain and Gain notes sit at the left and right, and a small icon dock sits below.",
+  "whatItMeans": "Human and elegant; circles centre the person while research findings orbit around them.",
+  "techniques": [
+    "Nest hairline circles around a portrait to organise persona facts.",
+    "Let the head break above the circle for depth.",
+    "Place opposing notes (Pain, Gain) at both sides.",
+    "Use tiny avatar thumbnails to switch personas."
+  ],
+  "bestFor": [
+    "Persona and research slides",
+    "Fintech case studies",
+    "Elegant light-mode decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Persona",
+      "definition": "A fictional profile representing a user group."
+    },
+    {
+      "term": "Nested circles",
+      "definition": "Concentric outlines that group information."
+    },
+    {
+      "term": "Pain / Gain",
+      "definition": "A pair of notes contrasting frustrations and benefits."
+    },
+    {
+      "term": "Icon dock",
+      "definition": "A small pill of icons used to switch views."
+    }
+  ]
+}

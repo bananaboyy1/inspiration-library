@@ -1,0 +1,48 @@
+{
+  "name": "web-automotive-hero-on-monitor-with-aerial-forest-road-video",
+  "image": "images/web-automotive-hero-on-monitor-with-aerial-forest-road-video.png",
+  "discipline": "web",
+  "designType": "Device mockup scene",
+  "title": "Car-brand site on a monitor: aerial forest road, big white 'Some see what is. We see beyond.' and campaign card",
+  "tags": [
+    "automotive",
+    "monitor",
+    "forest",
+    "white-type",
+    "aerial",
+    "video-hero",
+    "minimal",
+    "campaign-card"
+  ],
+  "whatItIs": "A monitor on a metal stand showing a full-bleed aerial forest road with a car, a minimal nav with a logo square and a white Menu pill, a large white two-line statement, a Watch Video link, Discover Now and a small dark campaign card with a car thumbnail.",
+  "whatItMeans": "Cinematic and premium; sparse type over a moody drive feels like a car film.",
+  "techniques": [
+    "Use a full-bleed aerial video hero.",
+    "Set a big two-line statement in white.",
+    "Add a small dark card in the corner.",
+    "Keep navigation minimal."
+  ],
+  "bestFor": [
+    "Automotive and mobility brands",
+    "Cinematic video heroes",
+    "Minimal luxury sites"
+  ],
+  "vocabulary": [
+    {
+      "term": "Aerial hero",
+      "definition": "A hero using drone footage."
+    },
+    {
+      "term": "Statement headline",
+      "definition": "A two-line contrasting sentence."
+    },
+    {
+      "term": "Campaign card",
+      "definition": "A small card promoting a campaign."
+    },
+    {
+      "term": "Monitor stand",
+      "definition": "A display shown on a stand."
+    }
+  ]
+}

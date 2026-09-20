@@ -1,0 +1,48 @@
+{
+  "name": "app-real-estate-app-flow-with-login-discover-account-and-notification-screens",
+  "image": "images/app-real-estate-app-flow-with-login-discover-account-and-notification-screens.webp",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "title": "Monochrome property app flow: onboarding, log in, discover listings, account, notifications and social sign-in on a dark base",
+  "tags": [
+    "real-estate",
+    "monochrome",
+    "black",
+    "white",
+    "onboarding",
+    "login",
+    "listings",
+    "toggles"
+  ],
+  "whatItIs": "A pale grey board with rows of white and black phones: an onboarding 'UNLOCK OVERSEAS OPPORTUNITIES' with a layered sea photo and a black Get Started, log in with phone or email tabs and a black Continue, a dark social sign-in block, a Discover screen with search, filter pills and photo listing cards with heart buttons and a price, an Account list with sections, a Notification sheet with green toggles and a Good Morning home.",
+  "whatItMeans": "Clean and premium; black buttons and airy photos suit international property.",
+  "techniques": [
+    "Use black pills for primary actions.",
+    "Split login into white form and dark social block.",
+    "Show listings with round heart buttons.",
+    "Use green only for toggles."
+  ],
+  "bestFor": [
+    "Property and travel app UI kits",
+    "Monochrome mobile systems",
+    "Login and account screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Segmented login",
+      "definition": "A toggle switching between phone and email."
+    },
+    {
+      "term": "Listing card",
+      "definition": "A photo card with price and specs."
+    },
+    {
+      "term": "Social sign-in block",
+      "definition": "A dark area of provider buttons."
+    },
+    {
+      "term": "Settings toggle",
+      "definition": "A green switch for a notification type."
+    }
+  ]
+}

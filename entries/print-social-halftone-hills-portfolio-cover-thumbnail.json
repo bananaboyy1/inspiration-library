@@ -1,0 +1,47 @@
+{
+  "name": "print-social-halftone-hills-portfolio-cover-thumbnail",
+  "image": "images/print-social-halftone-hills-portfolio-cover-thumbnail.png",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "title": "Square-cropped ransom-note portfolio cover on halftone sky",
+  "tags": [
+    "portfolio",
+    "thumbnail",
+    "halftone",
+    "ransom-lettering",
+    "sky",
+    "dock",
+    "project-cover"
+  ],
+  "whatItIs": "A tighter crop of the multicolour 'Portfolio 2026' cover with the name tape, a blue scribble and the icon dock, formatted as a project thumbnail.",
+  "whatItMeans": "Reads at small size: colourful letters and a big sky give instant recognition.",
+  "techniques": [
+    "Recompose a hero cover for a thumbnail by enlarging the title.",
+    "Keep the strongest colour contrast at the centre.",
+    "Retain a dock strip as a base line.",
+    "Use halftone dots to keep the sky textured at any scale."
+  ],
+  "bestFor": [
+    "Behance and Dribbble thumbnails",
+    "Social previews of portfolio decks",
+    "Cover images for case study series"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thumbnail recompose",
+      "definition": "Re-cropping a design for small display."
+    },
+    {
+      "term": "Focal title",
+      "definition": "A central word that carries the design."
+    },
+    {
+      "term": "Halftone sky",
+      "definition": "A sky rendered in dots."
+    },
+    {
+      "term": "Dock base",
+      "definition": "A row of icons anchoring the bottom."
+    }
+  ]
+}

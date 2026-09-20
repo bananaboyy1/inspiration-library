@@ -1,0 +1,48 @@
+{
+  "name": "web-home-decor-shop-listing-with-serif-tabs-and-acid-yellow-feature",
+  "image": "images/web-home-decor-shop-listing-with-serif-tabs-and-acid-yellow-feature.webp",
+  "discipline": "web",
+  "designType": "E-commerce storefront",
+  "title": "Home-decor store: serif category tabs, mixed-size product grid and an acid-yellow artisan feature",
+  "tags": [
+    "e-commerce",
+    "home-decor",
+    "serif",
+    "dusty-pink",
+    "acid-yellow",
+    "product-grid",
+    "filters",
+    "feature-block"
+  ],
+  "whatItIs": "On a dusty rose board, a desktop and a mobile view. A centred serif title 'Shop All Home Decor Items', serif tabs (All, Lighting, Furniture, Wall Art), a filter bar, a grid with one tall photo of a dark vase and smaller products with price and material lines and colour chips, and a full-width acid-yellow block 'Artisan Wooden Chair' with a craftsperson photo. The mobile view uses pill tabs and a two-column grid.",
+  "whatItMeans": "Curated and crafted; serif and earthy photos with one acid-yellow jolt feel like a boutique.",
+  "techniques": [
+    "Use big serif category tabs with an underline.",
+    "Make one product photo span two rows.",
+    "Add colour chips beside price lines.",
+    "Break the grid with an acid-yellow feature block."
+  ],
+  "bestFor": [
+    "Boutique home and craft stores",
+    "Editorial e-commerce",
+    "Responsive product grids"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tall feature tile",
+      "definition": "A product photo spanning several rows."
+    },
+    {
+      "term": "Colour chip",
+      "definition": "A small swatch showing product colour."
+    },
+    {
+      "term": "Category tab",
+      "definition": "A large text label switching product groups."
+    },
+    {
+      "term": "Acid-yellow block",
+      "definition": "A bright yellow full-width feature."
+    }
+  ]
+}

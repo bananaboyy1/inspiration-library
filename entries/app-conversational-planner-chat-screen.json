@@ -1,0 +1,47 @@
+{
+  "name": "app-conversational-planner-chat-screen",
+  "image": "images/app-conversational-planner-chat-screen.gif",
+  "discipline": "app",
+  "designType": "Chat interface",
+  "title": "Conversational planner with amber bubbles and suggestion chips",
+  "tags": [
+    "chat",
+    "ai-assistant",
+    "amber",
+    "warm-grey",
+    "suggestion-chips",
+    "voice-input",
+    "case-study-slide"
+  ],
+  "whatItIs": "A rounded warm-grey slide. A phone at left shows a chat where user replies are amber bubbles, the assistant text is plain, six chips (Children, Work...) offer quick answers and a white input has a blue mic button. Copy to the right reads 'Organize your life, just by talking'.",
+  "whatItMeans": "Friendly and effortless; it turns planning into a chat instead of a form.",
+  "techniques": [
+    "Show assistant text without a bubble and user text in colour so the roles are distinct.",
+    "Offer tappable suggestion chips instead of forcing typing.",
+    "Use one warm amber for user actions and one blue for voice.",
+    "Crop the phone off the top and left so the UI feels large and the copy has room."
+  ],
+  "bestFor": [
+    "AI assistant and voice apps",
+    "Family and calendar organisers",
+    "Feature explainer slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Suggestion chip",
+      "definition": "A tappable pill offering a quick reply."
+    },
+    {
+      "term": "Conversational UI",
+      "definition": "An interface that works as a dialogue."
+    },
+    {
+      "term": "Cropped device",
+      "definition": "A phone cut by the frame to enlarge the UI."
+    },
+    {
+      "term": "Voice button",
+      "definition": "A microphone control for speaking input."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "web-botanical-mission-and-team-pages-lime-backdrop",
+  "image": "images/web-botanical-mission-and-team-pages-lime-backdrop.png",
+  "discipline": "web",
+  "designType": "Page section",
+  "title": "Mission, FAQ and team pages of a botanical DNA site on a lime gradient",
+  "tags": [
+    "mission",
+    "faq",
+    "team",
+    "lime",
+    "sage-green",
+    "cards",
+    "glass-sphere",
+    "expert-profile"
+  ],
+  "whatItIs": "A pale lime board with a mobile column and three desktop pages. Pages have uppercase statement paragraphs with green words and inline icons, three cards with glass-sphere renders and a silhouette photo, a numbered FAQ accordion, value cards with a highlighted lime one, a row of cut-out scientists in white coats and a single expert profile.",
+  "whatItMeans": "Warm and credible; scientists on white with green highlights feel clean and human.",
+  "techniques": [
+    "Show team members as cut-out portraits in lab coats standing along the bottom edge.",
+    "Highlight one of a row of cards in lime.",
+    "Combine giant statements with a small side label.",
+    "Use glass-sphere botanicals as consistent illustration."
+  ],
+  "bestFor": [
+    "Mission, FAQ and team sections",
+    "Health and biotech brands",
+    "Pages needing authority without coldness"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cut-out team row",
+      "definition": "Portraits without backgrounds arranged in a line."
+    },
+    {
+      "term": "Highlight card",
+      "definition": "The one card in a row given the accent tint."
+    },
+    {
+      "term": "Side label",
+      "definition": "A small block of text beside a large statement."
+    },
+    {
+      "term": "FAQ accordion",
+      "definition": "Expandable numbered questions."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "app-pearl-card-management-dashboard-on-white-monitor",
+  "image": "images/app-pearl-card-management-dashboard-on-white-monitor.jpg",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "title": "Frosted grey card-management dashboard with a large platinum card, dot-matrix charts and serif figures",
+  "tags": [
+    "dashboard",
+    "fintech",
+    "pearl",
+    "grey",
+    "serif-numerals",
+    "dot-matrix",
+    "card",
+    "monitor"
+  ],
+  "whatItIs": "A white monitor showing a translucent grey dashboard: tile sidebar with a black active tile, a Platinum card carousel with a large pearly card, stat strips with sparklines, dot-matrix and hairline bar charts, spending categories and a Pro upsell card.",
+  "whatItMeans": "Calm and premium; monochrome pearl and serif numbers feel like a private bank.",
+  "techniques": [
+    "Centre a large pearl card as the hero.",
+    "Draw charts as dot matrices and hairlines.",
+    "Use serif for numbers and sans for labels.",
+    "Highlight the active nav tile in black."
+  ],
+  "bestFor": [
+    "Card and wallet dashboards",
+    "Monochrome premium UIs",
+    "Glass-style web apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Dot-matrix chart",
+      "definition": "A chart drawn with a grid of dots."
+    },
+    {
+      "term": "Pearl card",
+      "definition": "A payment card with an iridescent pale finish."
+    },
+    {
+      "term": "Active tile",
+      "definition": "A black nav tile marking the current page."
+    },
+    {
+      "term": "Upsell card",
+      "definition": "A promo tile for a paid plan."
+    }
+  ]
+}

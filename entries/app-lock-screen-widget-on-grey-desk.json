@@ -1,0 +1,47 @@
+{
+  "name": "app-lock-screen-widget-on-grey-desk",
+  "image": "images/app-lock-screen-widget-on-grey-desk.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "title": "Top-down phone on grey desk with a gradient time widget",
+  "tags": [
+    "mockup",
+    "top-down",
+    "lock-screen",
+    "gradient-widget",
+    "neutral",
+    "yellow-accent",
+    "minimal"
+  ],
+  "whatItIs": "A phone lying diagonally on a grey surface beside a yellow object at the top right. The screen shows a greeting, a bold notification headline, a blurred orange-blue gradient orb with the time, and a yellow bottom bar.",
+  "whatItMeans": "Quiet and modern; the neutral desk lets the small gradient widget feel like the only warm spot.",
+  "techniques": [
+    "Shoot from above on a neutral surface with one colour object nearby.",
+    "Use a blurred orange-to-blue orb as a time widget.",
+    "Set headlines in tight grotesque bold.",
+    "Angle the device diagonally in the frame."
+  ],
+  "bestFor": [
+    "Widget and lock-screen concepts",
+    "Minimal app portfolio covers",
+    "Wellness and sleep apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Top-down mockup",
+      "definition": "A device photographed from directly above."
+    },
+    {
+      "term": "Gradient orb widget",
+      "definition": "A blurred colour sphere used as a clock or status."
+    },
+    {
+      "term": "Neutral surface",
+      "definition": "A plain grey or beige background."
+    },
+    {
+      "term": "Accent prop",
+      "definition": "A coloured object placed in the corner of a scene."
+    }
+  ]
+}
