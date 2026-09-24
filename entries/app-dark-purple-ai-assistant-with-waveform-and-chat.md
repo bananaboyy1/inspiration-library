@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-purple-ai-assistant-with-waveform-and-chat.webp)
 
-**Discipline:** app · **Design type:** Chat interface
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** ai, chat, dark, violet, waveform, voice, cards, image-generation
 
 ## What it is

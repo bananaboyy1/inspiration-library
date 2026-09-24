@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-black-bike-rental-ui-elements-board.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** bike, rental, lime, black, components, cards, ui-elements
 
 ## What it is

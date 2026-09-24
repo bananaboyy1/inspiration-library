@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-fitness-dashboard-with-coral-gradient-hero-and-calendar.webp)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** dashboard, fitness, dark, coral, bento, calendar, gradient-bars, widgets
 
 ## What it is

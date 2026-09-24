@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-projects-and-schedule-phone-with-pastel-cards.jpg)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** projects, schedule, pastel, tilted, cutout, serif-free, cards
 
 ## What it is

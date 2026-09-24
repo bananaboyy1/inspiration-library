@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-ux-user-flow-challenge-solution-slide.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** lavender, user-flow, ux, dashed-line, cards, tilted
 
 ## What it is

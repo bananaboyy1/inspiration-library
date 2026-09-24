@@ -2,7 +2,7 @@
 
 ![](../images/print-social-b2b-ad-cards-with-flowchart-and-yellow-pills.webp)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** b2b, ads, blue, yellow, flowchart, white-cards, carousel, enterprise
 
 ## What it is

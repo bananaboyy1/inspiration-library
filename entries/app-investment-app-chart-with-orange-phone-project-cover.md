@@ -2,7 +2,7 @@
 
 ![](../images/app-investment-app-chart-with-orange-phone-project-cover.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** cover, fintech, orange, chart, hand, project-thumbnail, logo-tag
 
 ## What it is

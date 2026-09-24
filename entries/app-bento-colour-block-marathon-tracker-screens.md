@@ -2,7 +2,7 @@
 
 ![](../images/app-bento-colour-block-marathon-tracker-screens.jpg)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** bento, lime, pastel, fitness, cards, timer, rounded
 
 ## What it is

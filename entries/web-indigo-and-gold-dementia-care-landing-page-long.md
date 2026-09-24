@@ -2,7 +2,7 @@
 
 ![](../images/web-indigo-and-gold-dementia-care-landing-page-long.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** care, indigo, gold, long-page, serif, cards, testimonials, tilted-tiles
 
 ## What it is

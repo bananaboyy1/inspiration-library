@@ -2,7 +2,7 @@
 
 ![](../images/print-social-ai-search-bar-parody-post-on-mustard-grain.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** ai, search-bar, autocomplete, mustard, grain, ui-parody, cursor, cyrillic
 
 ## What it is

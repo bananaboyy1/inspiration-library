@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-lime-numbered-pill-list-post-and-purple-shield-post-related-vectors.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** numbered-list, lime, dark, purple, pills, security, template, vector
 
 ## What it is

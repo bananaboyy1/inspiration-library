@@ -2,7 +2,7 @@
 
 ![](../images/app-strategy-plan-zigzag-dotted-path-with-avatars.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** strategy, zigzag, avatars, dotted-line, grey, quotes, tone-shift
 
 ## What it is

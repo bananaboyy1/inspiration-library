@@ -2,7 +2,7 @@
 
 ![](../images/app-black-closing-case-card-with-circular-text-seal.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** closing, black, white, circular-text, seal, monospace, credits, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-carousel-slide-with-yellow-phone-frame-and-round-avatar.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** carousel, indigo, yellow, phone-mockup, avatar-circle, search, product-feature
 
 ## What it is

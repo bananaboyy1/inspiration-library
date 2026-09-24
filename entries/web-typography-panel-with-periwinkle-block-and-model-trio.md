@@ -2,7 +2,7 @@
 
 ![](../images/web-typography-panel-with-periwinkle-block-and-model-trio.png)
 
-**Discipline:** web · **Design type:** Typography and colour guide
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** typography, periwinkle, navy, fashion, helvetica, uppercase, quote, tinted-photos
 
 ## What it is

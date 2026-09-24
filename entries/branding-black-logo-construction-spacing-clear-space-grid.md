@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-logo-construction-spacing-clear-space-grid.jpg)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, clear-space, grid, black, monogram, wordmark, guidelines
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-security-feature-sections-holographic-card-and-vault-door.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** security, monochrome, holographic, vault, black, pills, photography
 
 ## What it is

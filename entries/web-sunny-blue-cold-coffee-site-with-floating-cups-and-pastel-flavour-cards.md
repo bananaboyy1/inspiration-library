@@ -2,7 +2,7 @@
 
 ![](../images/web-sunny-blue-cold-coffee-site-with-floating-cups-and-pastel-flavour-cards.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** coffee, sky-blue, clouds, pastel-cards, product-can, giant-wordmark, photography, rounded
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-fitness-three-screens-with-blue-orange-ring-and-flat-illustrations.webp)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** fitness, blue, orange, ring-chart, flat-illustration, gantt, onboarding
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-story-mockups-of-autonomous-vans-with-light-captions.png)
 
-**Discipline:** print-social · **Design type:** Story mockups
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** stories, mobility, black, photography, city, white-type, mockup, instagram
 
 ## What it is

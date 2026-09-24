@@ -2,7 +2,7 @@
 
 ![](../images/web-cinema-404-page-with-seat-grid-and-one-red-seat.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** 404, error-page, dark, red, seat-map, metaphor, browser-mockup, white-button
 
 ## What it is

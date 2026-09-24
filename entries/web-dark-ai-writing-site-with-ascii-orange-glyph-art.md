@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-ai-writing-site-with-ascii-orange-glyph-art.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, dark, orange, ascii-art, corner-marks, testimonials, faq, giant-wordmark
 
 ## What it is

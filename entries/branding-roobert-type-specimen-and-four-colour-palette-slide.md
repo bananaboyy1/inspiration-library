@@ -2,7 +2,7 @@
 
 ![](../images/branding-roobert-type-specimen-and-four-colour-palette-slide.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** typography, specimen, palette, grey, green, red, gradient-swatches
 
 ## What it is

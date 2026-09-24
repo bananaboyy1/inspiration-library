@@ -2,7 +2,7 @@
 
 ![](../images/web-horizontal-stepper-with-connecting-line-progress-and-step-labels.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, stepper, progress, line, black, grey, white, horizontal
 
 ## What it is

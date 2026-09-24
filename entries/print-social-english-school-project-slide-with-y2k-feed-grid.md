@@ -2,7 +2,7 @@
 
 ![](../images/print-social-english-school-project-slide-with-y2k-feed-grid.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** case-study, social-media, cream, brown-type, feed-grid, y2k, script-sticker, pixel-heart
 
 ## What it is

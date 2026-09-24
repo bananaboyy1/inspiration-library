@@ -2,7 +2,7 @@
 
 ![](../images/app-cream-ai-home-assistant-phone-over-giant-ghost-name.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** ai-assistant, cream, ghost-type, gradient-arc, voice, chips, cover
 
 ## What it is

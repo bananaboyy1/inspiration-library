@@ -2,7 +2,7 @@
 
 ![](../images/web-material-style-ui-kit-with-type-colours-forms-cards-and-lists.webp)
 
-**Discipline:** web · **Design type:** Design system documentation
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ui-kit, material, typography, colours, forms, cards, lists, checkboxes
 
 ## What it is

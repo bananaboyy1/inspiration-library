@@ -2,7 +2,7 @@
 
 ![](../images/branding-teal-and-indigo-colour-block-portraits-with-supplement-tubs.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** photography, portrait, teal, indigo, gummies, split-frame, packaging, studio
 
 ## What it is

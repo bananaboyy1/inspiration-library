@@ -2,7 +2,7 @@
 
 ![](../images/web-multicolour-agency-site-pages-with-flower-mascot-and-blobs.jpg)
 
-**Discipline:** web · **Design type:** Agency site
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** agency, multicolour, pastel, condensed-type, mascot, blob-stickers, rounded-cards, long-scroll
 
 ## What it is

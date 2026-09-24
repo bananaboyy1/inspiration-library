@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-ai-search-saas-laptop-held-in-hands.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** laptop, hands, orange, dots, ai-search, saas, cover
 
 ## What it is

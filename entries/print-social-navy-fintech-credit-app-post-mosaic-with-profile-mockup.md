@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-fintech-credit-app-post-mosaic-with-profile-mockup.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** fintech, navy, white, phones, photo, instagram-profile, templates, arrow-logo
 
 ## What it is

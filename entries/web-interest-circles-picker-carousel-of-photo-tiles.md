@@ -2,7 +2,7 @@
 
 ![](../images/web-interest-circles-picker-carousel-of-photo-tiles.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** picker, carousel, photo-tiles, onboarding, minimal, personalisation, desktop
 
 ## What it is

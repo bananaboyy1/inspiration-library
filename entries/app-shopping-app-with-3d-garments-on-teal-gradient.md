@@ -2,7 +2,7 @@
 
 ![](../images/app-shopping-app-with-3d-garments-on-teal-gradient.webp)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** shopping, fashion, teal, oval-frames, rotate-view, green-buttons, white-ui, three-screens
 
 ## What it is

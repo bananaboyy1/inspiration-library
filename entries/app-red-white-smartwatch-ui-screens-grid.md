@@ -2,7 +2,7 @@
 
 ![](../images/app-red-white-smartwatch-ui-screens-grid.jpg)
 
-**Discipline:** app · **Design type:** Wearable UI
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** smartwatch, grid, red, pink, clock, health, widgets
 
 ## What it is

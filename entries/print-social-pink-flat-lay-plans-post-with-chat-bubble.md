@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-flat-lay-plans-post-with-chat-bubble.png)
 
-**Discipline:** print-social · **Design type:** Social product post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** flat-lay, pink, cream, chat-bubble, self-care, cutouts, candle, cyrillic
 
 ## What it is

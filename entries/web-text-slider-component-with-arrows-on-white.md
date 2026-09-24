@@ -2,7 +2,7 @@
 
 ![](../images/web-text-slider-component-with-arrows-on-white.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, slider, text, white, arrows, minimal, typography, ui-kit
 
 ## What it is

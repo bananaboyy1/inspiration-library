@@ -2,7 +2,7 @@
 
 ![](../images/print-social-royal-blue-sticker-stars-and-pixel-icons-cover.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** cover, cobalt, sticker-portraits, starburst, pixel-icons, bubble-type, yellow-pill, cyrillic
 
 ## What it is

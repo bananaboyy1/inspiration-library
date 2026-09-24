@@ -2,7 +2,7 @@
 
 ![](../images/app-sketch-to-ui-process-showcase.png)
 
-**Discipline:** app · **Design type:** Design process showcase
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** process, wireframes, sketches, phone-mockup, gradient-blur, case-study, health
 
 ## What it is

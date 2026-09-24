@@ -2,7 +2,7 @@
 
 ![](../images/branding-dark-design-language-phone-tablet-laptop-board.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** design-language, dark, devices, rock, blue, progress-bar, tiles
 
 ## What it is

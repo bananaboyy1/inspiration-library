@@ -3,8 +3,19 @@
   "image": "images/print-social-sticker-collage-carousel-cover.png",
   "discipline": "print-social",
   "designType": "Social carousel cover",
+  "designStyle": "Playful & Illustrated",
   "title": "Hot-pink sticker-collage carousel cover",
-  "tags": ["social-media", "carousel", "sticker-collage", "hot-pink", "cutout", "script-and-grotesk", "cyrillic", "portrait-4x5", "playful"],
+  "tags": [
+    "social-media",
+    "carousel",
+    "sticker-collage",
+    "hot-pink",
+    "cutout",
+    "script-and-grotesk",
+    "cyrillic",
+    "portrait-4x5",
+    "playful"
+  ],
   "whatItIs": "A 4:5 portrait Instagram carousel cover on flat hot pink. A huge extended white sans headline stacks over a delicate white script word. Cut-out photos with thick white outlines (cherries, a heart padlock, a woman sipping iced coffee) are scattered like stickers, with white hand-drawn squiggles and a tilted black label. A black footer band holds an outlined handle pill. A faint tiled repeat of the account name sits behind everything.",
   "whatItMeans": "It is loud, flirty and instantly scroll-stopping, with the feel of a teen's scrapbook or a magazine cover. The pink is bold, the black adds punch, and the sticker objects add personality and a little wit. The mix of elegant script and heavy sans says 'soft but confident'.",
   "techniques": [
@@ -24,11 +35,29 @@
     "Posters, event flyers and zine covers that want a sticker-scrapbook feel"
   ],
   "vocabulary": [
-    {"term": "Sticker cutout", "definition": "An image with the background removed and a thick contrasting outline, so it looks like a die-cut sticker."},
-    {"term": "Extended sans", "definition": "A grotesque typeface with wide letterforms, giving a bold, modern feel at large sizes."},
-    {"term": "Script contrast", "definition": "Pairing a flowing calligraphic word with a heavy sans to create hierarchy and personality."},
-    {"term": "Carousel cover", "definition": "The first slide of a swipeable social post, designed to stop the scroll and promise what follows."},
-    {"term": "Doodle accent", "definition": "Hand-drawn lines or shapes added over a layout to make it feel human and informal."},
-    {"term": "Ghost pattern", "definition": "A very low-contrast repeated text or shape in the background, adding texture without competing."}
+    {
+      "term": "Sticker cutout",
+      "definition": "An image with the background removed and a thick contrasting outline, so it looks like a die-cut sticker."
+    },
+    {
+      "term": "Extended sans",
+      "definition": "A grotesque typeface with wide letterforms, giving a bold, modern feel at large sizes."
+    },
+    {
+      "term": "Script contrast",
+      "definition": "Pairing a flowing calligraphic word with a heavy sans to create hierarchy and personality."
+    },
+    {
+      "term": "Carousel cover",
+      "definition": "The first slide of a swipeable social post, designed to stop the scroll and promise what follows."
+    },
+    {
+      "term": "Doodle accent",
+      "definition": "Hand-drawn lines or shapes added over a layout to make it feel human and informal."
+    },
+    {
+      "term": "Ghost pattern",
+      "definition": "A very low-contrast repeated text or shape in the background, adding texture without competing."
+    }
   ]
 }

@@ -2,7 +2,7 @@
 
 ![](../images/app-therapist-appointment-app-with-olive-and-terracotta-and-flat-illustration.webp)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** mental-health, warm-neutral, olive, brown, empty-state, video-call, chat, phones
 
 ## What it is

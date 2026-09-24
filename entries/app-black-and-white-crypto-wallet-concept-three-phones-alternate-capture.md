@@ -2,7 +2,7 @@
 
 ![](../images/app-black-and-white-crypto-wallet-concept-three-phones-alternate-capture.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** crypto, wallet, black-outline, monochrome, periwinkle, analytics, duplicate
 
 ## What it is

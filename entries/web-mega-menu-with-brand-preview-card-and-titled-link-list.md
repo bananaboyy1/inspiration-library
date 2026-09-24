@@ -2,7 +2,7 @@
 
 ![](../images/web-mega-menu-with-brand-preview-card-and-titled-link-list.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, navigation, mega-menu, dropdown, white, grey, hover, minimal
 
 ## What it is

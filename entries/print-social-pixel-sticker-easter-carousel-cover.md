@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pixel-sticker-easter-carousel-cover.png)
 
-**Discipline:** print-social · **Design type:** Social carousel cover
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** social-media, carousel, easter, pixel-art, pastel, pill-labels, cutout, bubble-type, cyrillic
 
 ## What it is

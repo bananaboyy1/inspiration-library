@@ -2,7 +2,7 @@
 
 ![](../images/branding-off-white-palette-cards-over-dimmed-menswear-store-photo.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** colour-palette, blue, white, grey, store-photo, navy, uppercase-headline, specs
 
 ## What it is

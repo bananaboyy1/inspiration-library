@@ -2,7 +2,7 @@
 
 ![](../images/web-info-badge-pill-with-inner-tag-and-arrow-in-sky-blue.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, badge, pill, blue, announcement, arrow, soft, ui-kit
 
 ## What it is

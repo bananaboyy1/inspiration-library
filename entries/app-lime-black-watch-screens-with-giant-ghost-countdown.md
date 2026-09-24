@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-black-watch-screens-with-giant-ghost-countdown.png)
 
-**Discipline:** app · **Design type:** Wearable UI
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** smartwatch, wearable, lime, black, white, ghost-numerals, voice, rides
 
 ## What it is

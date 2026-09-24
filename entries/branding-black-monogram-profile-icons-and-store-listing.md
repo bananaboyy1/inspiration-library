@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-monogram-profile-icons-and-store-listing.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** monogram, black, profile, app-icon, store-listing, cream, metallic
 
 ## What it is

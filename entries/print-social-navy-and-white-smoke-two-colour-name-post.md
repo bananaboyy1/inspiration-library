@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-white-smoke-two-colour-name-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** colour, navy, white, split, hex, minimal, palette
 
 ## What it is

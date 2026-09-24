@@ -2,7 +2,7 @@
 
 ![](../images/web-tilted-footer-card-taped-to-the-page-with-link-columns-and-soon-tags.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, footer, white, tape, tilted, links, soon-tags, playful
 
 ## What it is

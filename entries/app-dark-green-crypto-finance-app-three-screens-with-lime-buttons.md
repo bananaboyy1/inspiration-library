@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-green-crypto-finance-app-three-screens-with-lime-buttons.webp)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** crypto, dark-green, lime, keypad, balance, send, received
 
 ## What it is

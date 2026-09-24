@@ -2,7 +2,7 @@
 
 ![](../images/branding-puzzle-gift-box-and-basket-illustration-for-retail-launch.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** packaging, puzzle, royal-blue, red, illustration, gummies, gift-box, launch-kit
 
 ## What it is

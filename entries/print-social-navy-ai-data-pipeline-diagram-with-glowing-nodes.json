@@ -1,0 +1,40 @@
+{
+  "name": "print-social-navy-ai-data-pipeline-diagram-with-glowing-nodes",
+  "image": "images/print-social-navy-ai-data-pipeline-diagram-with-glowing-nodes.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Dark & Neon",
+  "title": "'AI-Powered Data Pipeline' diagram with outlined pill nodes and one glowing blue node",
+  "tags": [
+    "diagram",
+    "ai",
+    "data-pipeline",
+    "navy",
+    "blue",
+    "flowchart",
+    "tech"
+  ],
+  "whatItIs": "A square navy post showing a flow diagram: pill nodes with circular icons (User, API, Event Streaming Platform, Real Time Inferences, Data Warehouse, Model Training) joined by thin arrows, with 'AI Recommendation System' as a solid glowing blue node, and a large white title bottom-left.",
+  "whatItMeans": "Technical but calm; one lit node shows where the intelligence sits, making architecture easy to scan.",
+  "techniques": [
+    "Draw a system as outlined pills linked by thin arrows.",
+    "Fill and glow the single most important node.",
+    "Label arrows with plain verbs of the data flow.",
+    "Park a big title in empty corner space."
+  ],
+  "bestFor": [
+    "Tech architecture explainers",
+    "AI product education",
+    "Engineering blog visuals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Node",
+      "definition": "A box in a diagram representing one component."
+    },
+    {
+      "term": "Flow diagram",
+      "definition": "A chart showing how data or steps move."
+    }
+  ]
+}

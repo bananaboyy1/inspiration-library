@@ -2,7 +2,7 @@
 
 ![](../images/web-painterly-photo-cards-ai-agent-landing.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** serif, painterly, light, hero-image, testimonial, cards, ai
 
 ## What it is

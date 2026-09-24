@@ -2,7 +2,7 @@
 
 ![](../images/branding-vego-flourish-g-wordmark-over-dewy-tomato-photo.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** wordmark, serif, swash, tomato, photography, white, red, food
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-graphic-design-open-class-post-with-calendar-strip.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** class, announcement, white, black, lime, calendar, condensed, vector
 
 ## What it is

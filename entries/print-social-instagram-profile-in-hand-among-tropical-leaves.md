@@ -2,7 +2,7 @@
 
 ![](../images/print-social-instagram-profile-in-hand-among-tropical-leaves.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** instagram, feed-grid, mockup, plants, cream-frame, multicolour, hand-held, education
 
 ## What it is

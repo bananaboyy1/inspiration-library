@@ -2,7 +2,7 @@
 
 ![](../images/web-split-3d-object-analytics-dashboard.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, split-screen, 3d, security, monospace, data, light-dark
 
 ## What it is

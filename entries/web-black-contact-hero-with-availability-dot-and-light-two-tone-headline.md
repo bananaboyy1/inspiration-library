@@ -2,7 +2,7 @@
 
 ![](../images/web-black-contact-hero-with-availability-dot-and-light-two-tone-headline.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** contact, dark, light-sans, two-tone, availability, arrow-button, minimal, portfolio
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-distorted-music-poster-collage-grid.webp)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** music, posters, pink, black, halftone, grain, grunge, tour
 
 ## What it is

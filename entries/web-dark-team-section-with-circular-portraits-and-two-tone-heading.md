@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-team-section-with-circular-portraits-and-two-tone-heading.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** team, dark, circular-portraits, two-tone-heading, social-icons, minimal, caps, black
 
 ## What it is

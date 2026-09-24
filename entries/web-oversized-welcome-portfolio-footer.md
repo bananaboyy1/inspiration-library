@@ -2,7 +2,7 @@
 
 ![](../images/web-oversized-welcome-portfolio-footer.png)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** portfolio, typography, monochrome, footer, grid-lines, laptop-mockup, link-list
 
 ## What it is

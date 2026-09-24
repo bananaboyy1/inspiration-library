@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-ai-writing-tool-ascii-glow-hero.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** ai, dark-mode, orange, ascii-art, glow, hero, saas, prompt-box
 
 ## What it is

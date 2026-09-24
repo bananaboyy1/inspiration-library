@@ -2,7 +2,7 @@
 
 ![](../images/app-cropped-savings-and-insights-screens-with-flow-map-of-nodes.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** subscriptions, screens, cards, flow-map, white, blue, nodes, fade
 
 ## What it is

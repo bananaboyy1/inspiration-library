@@ -2,7 +2,7 @@
 
 ![](../images/app-black-lime-information-architecture-tree.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** information-architecture, black, lime, tree, nodes, smart-home, ux
 
 ## What it is

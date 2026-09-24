@@ -1,0 +1,38 @@
+{
+  "name": "print-social-thrift-store-posts-with-barcode-tags-and-yellow-starbursts",
+  "image": "images/print-social-thrift-store-posts-with-barcode-tags-and-yellow-starbursts.avif",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "designStyle": "Retro & Pixel",
+  "title": "Thrift store pack with serif headlines, barcode 'Buy now' tags and yellow starbursts",
+  "tags": [
+    "thrift",
+    "secondhand",
+    "fashion",
+    "barcode",
+    "starburst",
+    "serif"
+  ],
+  "whatItIs": "Nine off-white posts with photos of clothing racks and shoppers, black serif headlines ('Find Your Perfect Fit', 'Secondhand to Chic & Luxurious'), price tag labels with barcodes, yellow starbursts, orange sparkles and small wavy lines.",
+  "whatItMeans": "Vintage and friendly; barcodes and starbursts feel like real shop tags.",
+  "techniques": [
+    "Style CTAs as price tags with barcodes.",
+    "Add starbursts for a bargain feel.",
+    "Pair big serif headlines with candid shop photos."
+  ],
+  "bestFor": [
+    "Thrift and vintage stores",
+    "Secondhand marketplaces",
+    "Retail promos"
+  ],
+  "vocabulary": [
+    {
+      "term": "Price tag",
+      "definition": "A label shape used as a CTA."
+    },
+    {
+      "term": "Starburst",
+      "definition": "A spiky star shape for attention."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-indigo-blob-speaker-announcement-card.jpg)
 
-**Discipline:** print-social · **Design type:** Event speaker card
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** speaker, indigo, black, blob, portrait, event, details-bar
 
 ## What it is

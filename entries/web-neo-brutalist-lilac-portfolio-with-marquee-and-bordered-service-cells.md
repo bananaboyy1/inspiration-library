@@ -2,7 +2,7 @@
 
 ![](../images/web-neo-brutalist-lilac-portfolio-with-marquee-and-bordered-service-cells.webp)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, neo-brutalism, lilac, cream, lime, marquee, grid-lines, project-tiles
 
 ## What it is

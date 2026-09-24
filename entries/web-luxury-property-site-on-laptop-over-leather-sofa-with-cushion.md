@@ -2,7 +2,7 @@
 
 ![](../images/web-luxury-property-site-on-laptop-over-leather-sofa-with-cushion.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop-mockup, leather, brown, luxury, real-estate, warm, dark, project-cover
 
 ## What it is

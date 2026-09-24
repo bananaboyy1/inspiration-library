@@ -1,0 +1,39 @@
+{
+  "name": "print-social-novavista-fashion-updates-post-with-outline-echo-headline",
+  "image": "images/print-social-novavista-fashion-updates-post-with-outline-echo-headline.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Minimalist",
+  "title": "Cream 'Be the first to know about the latest fashion updates!' post with outline-echo headline and ruled grid",
+  "tags": [
+    "fashion",
+    "cream",
+    "grid",
+    "outline-type",
+    "minimal",
+    "catalogue"
+  ],
+  "whatItIs": "A square cream post with a bold black uppercase headline over faint outlined repeats of the same text, two close-up photos (watch and rings, green drop pendant) in a thin ruled grid, an arrow icon, justified body copy and a footer row with 'N' logo, 'Our latest catalogue' and URL.",
+  "whatItMeans": "Refined and editorial; the ruled grid and outline echo feel like a modern lookbook.",
+  "techniques": [
+    "Echo the headline in faint outline type behind it.",
+    "Lay out content in a thin ruled grid.",
+    "Use a footer row as a mini nav bar.",
+    "Show accessory close-ups instead of full looks."
+  ],
+  "bestFor": [
+    "Fashion catalogues",
+    "Jewellery brands",
+    "Newsletter sign-ups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Outline echo",
+      "definition": "Repeated outline text behind a solid headline."
+    },
+    {
+      "term": "Lookbook",
+      "definition": "A collection of photos showing a fashion line."
+    }
+  ]
+}

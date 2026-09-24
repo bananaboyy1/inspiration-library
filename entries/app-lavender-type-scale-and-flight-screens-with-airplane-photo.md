@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-type-scale-and-flight-screens-with-airplane-photo.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** typography, flight, airplane, lavender, blue, screens, seat-map
 
 ## What it is

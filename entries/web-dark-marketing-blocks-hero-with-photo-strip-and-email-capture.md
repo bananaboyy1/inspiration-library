@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-marketing-blocks-hero-with-photo-strip-and-email-capture.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** hero, dark, black, white, email-capture, photo-strip, badge, minimal
 
 ## What it is

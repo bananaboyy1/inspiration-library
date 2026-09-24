@@ -2,7 +2,7 @@
 
 ![](../images/app-crypto-swap-screen-with-floating-detail-cards.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fintech, crypto, swap, pearl-gradient, exploded-ui, hand, light-ui, serif-numerals
 
 ## What it is

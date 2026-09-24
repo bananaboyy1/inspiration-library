@@ -2,7 +2,7 @@
 
 ![](../images/app-lock-screen-style-phone-on-grey-with-wooden-chair.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** top-down, grey, yellow, chair, lock-screen, gradient-orb, thumbnail
 
 ## What it is

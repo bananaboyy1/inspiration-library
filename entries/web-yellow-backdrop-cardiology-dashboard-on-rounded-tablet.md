@@ -2,7 +2,7 @@
 
 ![](../images/web-yellow-backdrop-cardiology-dashboard-on-rounded-tablet.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, medical, yellow, grey, timeline, tablet, tabs
 
 ## What it is

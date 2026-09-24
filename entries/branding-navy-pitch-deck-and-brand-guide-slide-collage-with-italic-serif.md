@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-pitch-deck-and-brand-guide-slide-collage-with-italic-serif.jpg)
 
-**Discipline:** branding · **Design type:** Brand guidelines deck
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** pitch-deck, brand-guide, navy, italic-serif, slides, palette, typography, browser
 
 ## What it is

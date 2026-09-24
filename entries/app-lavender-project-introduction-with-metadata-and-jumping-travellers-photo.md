@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-project-introduction-with-metadata-and-jumping-travellers-photo.jpg)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** introduction, lavender, photo, metadata, topic-pills, progress-bar, travel
 
 ## What it is

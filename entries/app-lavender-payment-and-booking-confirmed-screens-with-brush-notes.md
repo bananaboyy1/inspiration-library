@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-payment-and-booking-confirmed-screens-with-brush-notes.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** payment, confirmation, lavender, brush-notes, connectors, plane, blue
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-user-testing-results-table-with-heatmap-screens.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** user-testing, table, heatmap, pills, grey, metrics, banking
 
 ## What it is

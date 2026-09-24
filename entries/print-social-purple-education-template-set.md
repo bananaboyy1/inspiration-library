@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-education-template-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** education, templates, purple, gradient, pills, photo, editable
 
 ## What it is

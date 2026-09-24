@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-thanks-slide-ransom-letters-and-window.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** closing-slide, halftone, ransom-lettering, chrome, window, icons, hills, nostalgia
 
 ## What it is

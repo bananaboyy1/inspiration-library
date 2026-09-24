@@ -2,7 +2,7 @@
 
 ![](../images/web-pastel-3d-microscope-and-dropper-render.png)
 
-**Discipline:** web · **Design type:** 3D illustration
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** 3d-render, microscope, lab, sage-green, cream, clay, botanical, hero-asset
 
 ## What it is

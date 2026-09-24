@@ -2,7 +2,7 @@
 
 ![](../images/app-black-team-quote-circles-with-glow-points.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** quotes, team, black, circles, glow, avatars, minimal
 
 ## What it is

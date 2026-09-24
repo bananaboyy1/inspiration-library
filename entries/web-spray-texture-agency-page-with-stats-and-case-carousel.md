@@ -2,7 +2,7 @@
 
 ![](../images/web-spray-texture-agency-page-with-stats-and-case-carousel.webp)
 
-**Discipline:** web · **Design type:** Agency site
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** agency, spray-texture, pink, blue, red, stats, carousel, rounded
 
 ## What it is

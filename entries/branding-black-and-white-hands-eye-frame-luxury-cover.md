@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-and-white-hands-eye-frame-luxury-cover.png)
 
-**Discipline:** branding · **Design type:** Brand presentation cover
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** luxury, black-and-white, hands, eyes, serif, cover, ui-ux, editorial
 
 ## What it is

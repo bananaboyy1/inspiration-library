@@ -2,7 +2,7 @@
 
 ![](../images/app-white-benefits-cards-on-curved-path-with-app-icon-root.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** benefits, cards, curved-path, dashed-line, checkmarks, app-icon, pale
 
 ## What it is

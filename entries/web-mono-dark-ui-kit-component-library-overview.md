@@ -2,7 +2,7 @@
 
 ![](../images/web-mono-dark-ui-kit-component-library-overview.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** ui-kit, components, dark, monochrome, shadcn, figma, library
 
 ## What it is

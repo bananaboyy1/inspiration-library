@@ -2,7 +2,7 @@
 
 ![](../images/print-social-reeded-glass-blurred-eye-cover-with-light-caps.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** wellness, blur, reeded-glass, eye, white-caps, asterisk, grain, cyrillic
 
 ## What it is

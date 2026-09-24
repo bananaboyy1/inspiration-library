@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-and-lime-agency-post-set-in-phone-and-cards.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** agency, green, lime, pink, condensed-type, mascot, instagram, templates
 
 ## What it is

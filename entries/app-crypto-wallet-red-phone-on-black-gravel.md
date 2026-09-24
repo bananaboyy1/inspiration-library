@@ -2,7 +2,7 @@
 
 ![](../images/app-crypto-wallet-red-phone-on-black-gravel.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** red, black, crypto, 3d, texture, dramatic, phone
 
 ## What it is

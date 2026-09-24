@@ -2,7 +2,7 @@
 
 ![](../images/web-filters-and-mobile-menus-board-on-deep-blue.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** mobile-web, filters, menu, checkboxes, blue, catalog, nav-drawer, cyrillic
 
 ## What it is

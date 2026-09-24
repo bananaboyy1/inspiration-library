@@ -2,7 +2,7 @@
 
 ![](../images/print-social-instagram-profile-in-hand-mockup.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** instagram, feed-grid, mockup, blue, bakery, in-hand, cream-frame
 
 ## What it is

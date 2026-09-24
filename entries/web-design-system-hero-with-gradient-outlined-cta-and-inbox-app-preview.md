@@ -2,7 +2,7 @@
 
 ![](../images/web-design-system-hero-with-gradient-outlined-cta-and-inbox-app-preview.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** hero, dark-navy-text, white, gradient-border, app-preview, logos, saas, email-ui
 
 ## What it is

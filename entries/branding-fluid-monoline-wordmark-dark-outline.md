@@ -2,7 +2,7 @@
 
 ![](../images/branding-fluid-monoline-wordmark-dark-outline.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** wordmark, fluid, monoline, dark, blue, crypto, outline, tagline
 
 ## What it is

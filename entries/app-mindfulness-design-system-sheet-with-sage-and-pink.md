@@ -2,7 +2,7 @@
 
 ![](../images/app-mindfulness-design-system-sheet-with-sage-and-pink.jpg)
 
-**Discipline:** app · **Design type:** Design system documentation
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** design-system, sage, pink, navy, inter, glass, tokens, components
 
 ## What it is

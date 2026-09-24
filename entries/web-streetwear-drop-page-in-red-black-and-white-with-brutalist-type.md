@@ -2,7 +2,7 @@
 
 ![](../images/web-streetwear-drop-page-in-red-black-and-white-with-brutalist-type.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** streetwear, red, black, white, brutalist, condensed-type, product-grid, monospace
 
 ## What it is

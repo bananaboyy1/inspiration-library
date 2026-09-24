@@ -2,7 +2,7 @@
 
 ![](../images/print-social-mirror-in-wheat-field-cover-with-split-headline.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** wellness, photo, field, mirror, white-caps, split-headline, sky, cyrillic
 
 ## What it is

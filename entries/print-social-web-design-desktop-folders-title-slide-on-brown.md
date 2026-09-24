@@ -2,7 +2,7 @@
 
 ![](../images/print-social-web-design-desktop-folders-title-slide-on-brown.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** title-slide, brown, cream, folders, cursor, desktop-metaphor, heavy-sans, portfolio
 
 ## What it is

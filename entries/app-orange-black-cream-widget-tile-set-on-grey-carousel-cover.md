@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-black-cream-widget-tile-set-on-grey-carousel-cover.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** widgets, tiles, orange, black, cream, lime, carousel, rounded-squares
 
 ## What it is

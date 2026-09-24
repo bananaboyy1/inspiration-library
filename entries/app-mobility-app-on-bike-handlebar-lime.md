@@ -2,7 +2,7 @@
 
 ![](../images/app-mobility-app-on-bike-handlebar-lime.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** mobility, lime, mockup, handlebar, map, giant-wordmark, photographic
 
 ## What it is

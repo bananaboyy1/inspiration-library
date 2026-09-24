@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-swoosh-crop-cafe-payment-tap-photo.jpg)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** campaign, photo, white-swoosh, payment, cafe, card, navy-logo
 
 ## What it is

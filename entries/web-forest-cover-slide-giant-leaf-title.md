@@ -2,7 +2,7 @@
 
 ![](../images/web-forest-cover-slide-giant-leaf-title.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** cover, e-commerce, forest, cream-card, sage-green, sans-serif, sustainable, cyrillic
 
 ## What it is

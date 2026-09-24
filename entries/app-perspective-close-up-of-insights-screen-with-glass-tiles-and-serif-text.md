@@ -2,7 +2,7 @@
 
 ![](../images/app-perspective-close-up-of-insights-screen-with-glass-tiles-and-serif-text.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, close-up, serif, glass, lilac, pink, insights, perspective
 
 ## What it is

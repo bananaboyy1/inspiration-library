@@ -2,7 +2,7 @@
 
 ![](../images/app-events-app-on-flower-hill-sky.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** events, mockup, meadow, sky, white-ui, photo-card, tab-bar, surreal
 
 ## What it is

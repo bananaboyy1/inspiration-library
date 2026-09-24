@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lavender-grid-paper-ticket-is-worth-money-today-fading-headline-post.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** fading-headline, lavender, grid-paper, cutout-collage, stressed-man, blue-footer, urgency
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-cute-monster-404-error-page.webp)
 
-**Discipline:** web · **Design type:** Error page
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** 404, mascot, 3d, warm, beige, friendly, empty-state
 
 ## What it is

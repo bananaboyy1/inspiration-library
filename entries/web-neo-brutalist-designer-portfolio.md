@@ -2,7 +2,7 @@
 
 ![](../images/web-neo-brutalist-designer-portfolio.webp)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** portfolio, neo-brutalism, lilac, offset-shadow, stickers, cream-background, testimonials, contact-form
 
 ## What it is

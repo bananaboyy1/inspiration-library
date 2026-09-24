@@ -2,7 +2,7 @@
 
 ![](../images/web-warm-cream-saas-curved-portrait-carousel.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** saas, cream, serif-sans-mix, portrait-carousel, bento, earth-tones, team-collaboration
 
 ## What it is

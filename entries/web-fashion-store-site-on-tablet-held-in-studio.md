@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-store-site-on-tablet-held-in-studio.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** tablet, fashion, hands, studio, minimal, e-commerce, photo-hero
 
 ## What it is

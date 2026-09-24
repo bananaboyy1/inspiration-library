@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-editorial-serif-earbuds-store-bento-hero.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** dark, serif, bento, earbuds, product, glass-nav, premium
 
 ## What it is

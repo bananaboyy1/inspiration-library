@@ -3,6 +3,7 @@
   "image": "images/web-minimal-centered-hero-with-dark-teal-pill-logo-and-icon-button.webp",
   "discipline": "web",
   "designType": "Landing page hero",
+  "designStyle": "Minimalist",
   "title": "White hero with a dark teal rounded wordmark, two-line lorem text, a black camera-icon button and an arrow link",
   "tags": [
     "hero",

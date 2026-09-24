@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-shopping-app-held-by-dark-figure-over-ghost-title.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** shopping, orange, peach, silhouette, ghost-type, hand, cover
 
 ## What it is

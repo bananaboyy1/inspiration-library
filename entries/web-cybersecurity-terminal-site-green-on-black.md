@@ -2,7 +2,7 @@
 
 ![](../images/web-cybersecurity-terminal-site-green-on-black.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** cybersecurity, dark, neon-green, monospace, fingerprint, glitch, bordered-frames, stats
 
 ## What it is

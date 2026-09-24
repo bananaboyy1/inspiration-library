@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-frosted-frame-silhouette-with-neon-atom-awareness-day-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** awareness-day, pink, silhouette, neon-lime, atom, frosted-frame, science, instagram
 
 ## What it is

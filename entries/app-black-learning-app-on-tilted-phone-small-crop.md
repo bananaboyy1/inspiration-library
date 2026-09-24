@@ -2,7 +2,7 @@
 
 ![](../images/app-black-learning-app-on-tilted-phone-small-crop.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** education, phone, black, aqua, course-card, progress, project-thumbnail, tilted
 
 ## What it is

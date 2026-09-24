@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-grid-step-five-poster-tutorial-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** tutorial, cobalt, step, grid, sparkles, poster, swipe
 
 ## What it is

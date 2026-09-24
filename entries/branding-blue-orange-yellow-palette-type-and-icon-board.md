@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-orange-yellow-palette-type-and-icon-board.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** brand-board, bento, blue, orange, yellow, typography, gradient, icon, hex-codes
 
 ## What it is

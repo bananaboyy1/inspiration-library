@@ -2,7 +2,7 @@
 
 ![](../images/app-event-splits-phone-in-flower-meadow.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** meadow, sky, events, split-bills, surreal, phone, white-ui
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-hand-held-phone-real-estate-portfolio-cover-on-rust-gradient.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** project-cover, real-estate, hand, rust, gradient, white-type, mobile-site, caps-title
 
 ## What it is

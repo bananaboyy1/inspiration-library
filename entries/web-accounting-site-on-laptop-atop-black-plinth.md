@@ -2,7 +2,7 @@
 
 ![](../images/web-accounting-site-on-laptop-atop-black-plinth.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop-mockup, dark-background, plinth, blue, accounting, team-photo, product-shot, project-cover
 
 ## What it is

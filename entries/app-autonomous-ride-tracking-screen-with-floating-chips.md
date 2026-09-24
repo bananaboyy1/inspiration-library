@@ -2,7 +2,7 @@
 
 ![](../images/app-autonomous-ride-tracking-screen-with-floating-chips.gif)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** mobility, dark-photo, lime, black, stats, route, chips, white-stage
 
 ## What it is

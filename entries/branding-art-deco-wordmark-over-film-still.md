@@ -2,7 +2,7 @@
 
 ![](../images/branding-art-deco-wordmark-over-film-still.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** art-deco, wordmark, cinematic, dark, bar, condensed, film-grain
 
 ## What it is

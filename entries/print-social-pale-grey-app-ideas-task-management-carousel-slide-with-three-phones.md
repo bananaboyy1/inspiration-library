@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pale-grey-app-ideas-task-management-carousel-slide-with-three-phones.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** carousel, app-ideas, pale-grey, green, phones, serif-underline, productivity
 
 ## What it is

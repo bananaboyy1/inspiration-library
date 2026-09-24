@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-and-peach-conference-social-kit-large.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** conference, indigo, peach, violet, blob-pattern, agenda, pills, icons
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-pale-circles-four-week-design-process-slide.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** process, circles, weeks, minimal, pale, serif-italic, timeline
 
 ## What it is

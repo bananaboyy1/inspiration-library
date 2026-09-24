@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-smart-home-controls-in-hand-over-ghost-name.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** smart-home, lime, glass, hand, ghost-type, grey, cover
 
 ## What it is

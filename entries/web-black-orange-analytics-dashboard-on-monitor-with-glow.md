@@ -2,7 +2,7 @@
 
 ![](../images/web-black-orange-analytics-dashboard-on-monitor-with-glow.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, black, orange, monitor, charts, bento, glow
 
 ## What it is

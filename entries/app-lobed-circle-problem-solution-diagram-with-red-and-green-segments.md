@@ -2,7 +2,7 @@
 
 ![](../images/app-lobed-circle-problem-solution-diagram-with-red-and-green-segments.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** problem-solution, diagram, red, green, white, stats, grey
 
 ## What it is

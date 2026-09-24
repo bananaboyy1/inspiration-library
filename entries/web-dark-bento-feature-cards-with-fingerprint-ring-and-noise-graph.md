@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-bento-feature-cards-with-fingerprint-ring-and-noise-graph.webp)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** saas, dark, bento, hand-drawn-oval, fingerprint, waveform, chart, avatars
 
 ## What it is

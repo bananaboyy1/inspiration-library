@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-project-overview-slide-with-inline-numbers-and-tags.jpg)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** overview, white, lime, metadata, tags, large-text, minimal
 
 ## What it is

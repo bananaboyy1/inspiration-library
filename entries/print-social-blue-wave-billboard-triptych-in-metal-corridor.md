@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-wave-billboard-triptych-in-metal-corridor.jpg)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** billboards, blue, waves, silhouette, 3d-glass, corridor, fintech
 
 ## What it is

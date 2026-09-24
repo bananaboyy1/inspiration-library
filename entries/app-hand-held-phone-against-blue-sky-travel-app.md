@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-phone-against-blue-sky-travel-app.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** sky, hand, travel, light, glass-frame, photo-composite
 
 ## What it is

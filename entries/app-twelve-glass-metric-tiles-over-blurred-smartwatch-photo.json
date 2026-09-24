@@ -3,6 +3,7 @@
   "image": "images/app-twelve-glass-metric-tiles-over-blurred-smartwatch-photo.png",
   "discipline": "app",
   "designType": "Health app screens",
+  "designStyle": "Glassmorphism",
   "title": "Grid of frosted glass metric tiles with serif numerals over a blurred wrist-watch photo",
   "tags": [
     "health",

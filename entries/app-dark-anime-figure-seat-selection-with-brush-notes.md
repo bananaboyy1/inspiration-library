@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-anime-figure-seat-selection-with-brush-notes.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** seat-map, dark, brush-notes, illustration, anime, tablet, travel
 
 ## What it is

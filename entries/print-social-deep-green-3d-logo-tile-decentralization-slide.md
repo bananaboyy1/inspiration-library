@@ -2,7 +2,7 @@
 
 ![](../images/print-social-deep-green-3d-logo-tile-decentralization-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** carousel, deep-green, 3d, logo-tile, zigzag, white-type, blockchain
 
 ## What it is

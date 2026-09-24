@@ -2,7 +2,7 @@
 
 ![](../images/print-social-mint-and-lilac-marketing-studio-poster-with-tilted-strategy-pills-and-bulb.png)
 
-**Discipline:** print-social · **Design type:** Poster
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** poster, marketing, lilac, mint, tilted-pills, line-art, lightbulb, ticker
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-events-brand-post-collage.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** events, ticketing, purple, yellow, cards, photo-crops, portfolio-cover, glow
 
 ## What it is

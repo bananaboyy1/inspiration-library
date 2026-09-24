@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-health-assistant-phone-lying-across-chrome-pipe.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** ai-assistant, orb, chrome, pipe, grey, rounded-panel, chips
 
 ## What it is

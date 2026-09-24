@@ -2,7 +2,7 @@
 
 ![](../images/app-eleven-bottom-navigation-bar-styles-catalog-with-design-tips.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** navigation, tab-bar, styles, catalog, glassmorphism, floating, gradient, tips
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-luxury-property-post-with-dusk-tower.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** real-estate, luxury, dusk, photo-overlay, glass-card, centered-title, portrait
 
 ## What it is

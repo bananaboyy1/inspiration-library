@@ -3,6 +3,7 @@
   "image": "images/web-grid-system-spec-with-blush-columns-and-pill-labels.jpg",
   "discipline": "web",
   "designType": "Design system documentation",
+  "designStyle": "Minimalist",
   "title": "Grid system page with soft blush columns and floating pill measurements",
   "tags": [
     "grid-system",

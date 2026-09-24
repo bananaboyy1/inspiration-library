@@ -2,7 +2,7 @@
 
 ![](../images/branding-condensed-slashed-o-skincare-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** wordmark, condensed-sans, slashed-o, black-and-white, minimal, skincare, corner-labels
 
 ## What it is

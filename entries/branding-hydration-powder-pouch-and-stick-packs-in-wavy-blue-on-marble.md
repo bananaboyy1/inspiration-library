@@ -2,7 +2,7 @@
 
 ![](../images/branding-hydration-powder-pouch-and-stick-packs-in-wavy-blue-on-marble.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** packaging, pouch, stick-pack, blue, marble, wavy-band, lemon-lime, serif-logo
 
 ## What it is

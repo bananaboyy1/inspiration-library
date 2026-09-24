@@ -2,7 +2,7 @@
 
 ![](../images/print-social-barbie-cutout-post-with-blue-banners-and-comment-card.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** language, peach, blue-banners, starburst, cutout, comment-card, yellow-edge, cyrillic
 
 ## What it is

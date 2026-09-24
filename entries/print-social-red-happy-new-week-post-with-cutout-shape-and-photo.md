@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-happy-new-week-post-with-cutout-shape-and-photo.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** greeting, red, photo, rounded-card, white-type, brand-strategy, green-pill, logo
 
 ## What it is

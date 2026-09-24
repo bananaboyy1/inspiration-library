@@ -2,7 +2,7 @@
 
 ![](../images/app-statement-paragraph-with-notification-photo.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** case-study, dark, lime, manifesto, notification, portrait, variable-emphasis
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-watch-strap-shop-with-lime-outlined-headline-and-lime-testimonial.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** e-commerce, watch, white, lime, lowercase, outlined-keyword, product-grid, mobile
 
 ## What it is

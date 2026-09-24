@@ -3,6 +3,7 @@
   "image": "images/web-team-directory-with-collapsible-departments-and-status-dots.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "'Team directory' with collapsible Design, Engineering and Marketing groups, counts, a vertical guide line and green, amber and grey status dots",
   "tags": [
     "component",

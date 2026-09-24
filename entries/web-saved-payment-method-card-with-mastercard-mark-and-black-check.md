@@ -2,7 +2,7 @@
 
 ![](../images/web-saved-payment-method-card-with-mastercard-mark-and-black-check.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, payment-card, selected, white, black-check, mastercard, shadow, minimal
 
 ## What it is

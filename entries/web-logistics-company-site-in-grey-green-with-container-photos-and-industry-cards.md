@@ -2,7 +2,7 @@
 
 ![](../images/web-logistics-company-site-in-grey-green-with-container-photos-and-industry-cards.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** logistics, sage-green, white, containers, photo-cards, industry-cards, black-buttons, minimal
 
 ## What it is

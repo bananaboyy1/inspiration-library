@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-rental-onboarding-three-screens-with-photo-and-ui-overlays.webp)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** onboarding, rental, orange, white, photo, floating-cards, dots, three-screens
 
 ## What it is

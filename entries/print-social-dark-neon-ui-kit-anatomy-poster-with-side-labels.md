@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-neon-ui-kit-anatomy-poster-with-side-labels.jpg)
 
-**Discipline:** print-social · **Design type:** Product infographic set
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** ui-kit, dark, cyan, violet, poster, labels, cyrillic, infographic
 
 ## What it is

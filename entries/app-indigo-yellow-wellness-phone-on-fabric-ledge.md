@@ -2,7 +2,7 @@
 
 ![](../images/app-indigo-yellow-wellness-phone-on-fabric-ledge.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** indigo, yellow, donut-chart, wellness, fabric, stripes, tilted
 
 ## What it is

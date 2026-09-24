@@ -2,7 +2,7 @@
 
 ![](../images/print-social-violet-lime-and-black-marketing-posts-vol-four.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** marketing, templates, violet, lime, black, stats, quote, carousel
 
 ## What it is

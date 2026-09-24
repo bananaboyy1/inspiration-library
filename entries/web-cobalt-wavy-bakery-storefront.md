@@ -2,7 +2,7 @@
 
 ![](../images/web-cobalt-wavy-bakery-storefront.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** e-commerce, bakery, cobalt, wave-divider, condensed-type, pink-section, product-photography, laptop-mockup
 
 ## What it is

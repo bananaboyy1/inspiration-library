@@ -2,7 +2,7 @@
 
 ![](../images/print-social-thin-ring-stat-post-selic-rate-on-gradient.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** finance, news, stat, thin-type, gradient, ring, minimal, portuguese
 
 ## What it is

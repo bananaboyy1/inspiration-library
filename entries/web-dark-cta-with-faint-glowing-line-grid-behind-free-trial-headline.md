@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-cta-with-faint-glowing-line-grid-behind-free-trial-headline.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** cta, dark, grid, glow, minimal, white, button, saas
 
 ## What it is

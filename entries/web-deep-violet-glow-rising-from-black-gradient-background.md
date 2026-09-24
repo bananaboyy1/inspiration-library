@@ -2,7 +2,7 @@
 
 ![](../images/web-deep-violet-glow-rising-from-black-gradient-background.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** background, gradient, violet, black, glow, dark, hero, minimal
 
 ## What it is

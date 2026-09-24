@@ -2,7 +2,7 @@
 
 ![](../images/app-pink-performance-chart-phone-in-black-hands-floating-cards.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** pink, chart, hands, floating-cards, learning, blur, cover
 
 ## What it is

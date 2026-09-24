@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-starburst-quotes-post-pink-outlines.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** quotes, black, white-starburst, pink-outline, vintage-portraits, script, tea, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-black-device-list-toggle-cards-beside-lifestyle-photo.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** smart-home, black, toggle, cards, fade, lifestyle, lime-icon
 
 ## What it is

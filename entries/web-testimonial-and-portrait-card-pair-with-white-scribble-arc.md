@@ -2,7 +2,7 @@
 
 ![](../images/web-testimonial-and-portrait-card-pair-with-white-scribble-arc.jpg)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** testimonial, fintech, quote, portrait, navy, grey, rounded-cards, receipt
 
 ## What it is

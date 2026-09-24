@@ -2,7 +2,7 @@
 
 ![](../images/app-morning-lark-light-schedule-screen-beside-hand-drawn-sketch.png)
 
-**Discipline:** app · **Design type:** Wireframe showcase
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** sketch, wireframe, yellow, health, circadian, monospace, phone, hand-drawn
 
 ## What it is

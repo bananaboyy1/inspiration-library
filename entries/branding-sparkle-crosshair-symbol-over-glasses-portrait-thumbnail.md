@@ -2,7 +2,7 @@
 
 ![](../images/branding-sparkle-crosshair-symbol-over-glasses-portrait-thumbnail.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** logo, symbol, sparkle, violet, dark-photo, portrait, ai, wordmark
 
 ## What it is

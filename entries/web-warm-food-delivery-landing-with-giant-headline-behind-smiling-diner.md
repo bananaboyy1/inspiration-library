@@ -2,7 +2,7 @@
 
 ![](../images/web-warm-food-delivery-landing-with-giant-headline-behind-smiling-diner.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** food, restaurant, brown, yellow, cream, giant-type, photo-cards, rounded
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-minimal-floating-nav-pill-with-cursor-tooltip-on-hatched-white.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** navigation, floating, minimal, white, hatched, tooltip, cursor, monospace
 
 ## What it is

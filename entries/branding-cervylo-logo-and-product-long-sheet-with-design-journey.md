@@ -2,7 +2,7 @@
 
 ![](../images/branding-cervylo-logo-and-product-long-sheet-with-design-journey.png)
 
-**Discipline:** branding · **Design type:** Brand presentation cover
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** logo, shield, pastel, long-scroll, design-journey, phones, grid-lines, teal
 
 ## What it is

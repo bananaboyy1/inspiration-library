@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grid-poster-with-red-and-white-lines-on-black.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** poster, grid, black, white, red, orange, rotated-type, lines
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-light-box-billboard-at-night-with-portrait-ad.png)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** billboard, light-box, red, night, street, portrait, fintech
 
 ## What it is

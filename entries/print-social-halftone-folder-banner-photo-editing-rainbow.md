@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-photo-editing-rainbow.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, rainbow, cream, blue-scribble, retro, serif-label
 
 ## What it is

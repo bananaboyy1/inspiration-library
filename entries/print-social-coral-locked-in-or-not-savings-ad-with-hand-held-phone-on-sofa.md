@@ -2,7 +2,7 @@
 
 ![](../images/print-social-coral-locked-in-or-not-savings-ad-with-hand-held-phone-on-sofa.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** ad, coral, white-type, hand-held-phone, sofa, savings, heavy-caps, pill-cta
 
 ## What it is

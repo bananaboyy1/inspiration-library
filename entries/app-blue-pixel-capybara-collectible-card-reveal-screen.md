@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-pixel-capybara-collectible-card-reveal-screen.png)
 
-**Discipline:** app · **Design type:** Gamified app screens
+**Discipline:** app ·  · **Design style:** Retro & Pixel
 **Tags:** pixel-art, gamification, blue, collectible, card, reveal, retro
 
 ## What it is

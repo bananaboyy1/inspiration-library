@@ -2,7 +2,7 @@
 
 ![](../images/app-grocery-onboarding-in-warm-yellow-with-diet-chips-and-hero-phone.webp)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** onboarding, grocery, yellow, orange, pastel, diet-chips, illustration, three-screens
 
 ## What it is

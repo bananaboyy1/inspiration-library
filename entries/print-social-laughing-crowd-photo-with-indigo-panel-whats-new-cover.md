@@ -2,7 +2,7 @@
 
 ![](../images/print-social-laughing-crowd-photo-with-indigo-panel-whats-new-cover.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** product-update, indigo, photo, panel, swipe, carousel, events-app
 
 ## What it is

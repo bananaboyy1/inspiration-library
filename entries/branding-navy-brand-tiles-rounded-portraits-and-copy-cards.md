@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-brand-tiles-rounded-portraits-and-copy-cards.jpg)
 
-**Discipline:** branding · **Design type:** Brand collage board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** navy, tiles, portraits, copy, script-logo, rounded, fintech
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-car-wash-onboarding-with-flat-purple-illustrations.webp)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** onboarding, illustration, purple, white, flat, car, swipe-button, three-screens
 
 ## What it is

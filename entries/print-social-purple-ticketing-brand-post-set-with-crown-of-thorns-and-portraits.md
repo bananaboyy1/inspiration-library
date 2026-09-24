@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-ticketing-brand-post-set-with-crown-of-thorns-and-portraits.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio-cover, purple, tilted-cards, yellow-pill, stickers, portraits, gradient, event
 
 ## What it is

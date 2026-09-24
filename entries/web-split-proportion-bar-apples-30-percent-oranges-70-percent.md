@@ -2,7 +2,7 @@
 
 ![](../images/web-split-proportion-bar-apples-30-percent-oranges-70-percent.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** chart, proportion, bar, black, grey, labels, minimal, comparison
 
 ## What it is

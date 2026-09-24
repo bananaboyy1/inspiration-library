@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-baseline-grid-lesson-with-fluid-poster-sample.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** baseline-grid, red, yellow, poster-sample, lines, educational, numbers
 
 ## What it is

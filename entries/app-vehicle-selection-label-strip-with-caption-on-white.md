@@ -2,7 +2,7 @@
 
 ![](../images/app-vehicle-selection-label-strip-with-caption-on-white.png)
 
-**Discipline:** app · **Design type:** Case study divider
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** divider, white, outlined-pill, caption, black-frame, two-tone-text, minimal, case-study
 
 ## What it is

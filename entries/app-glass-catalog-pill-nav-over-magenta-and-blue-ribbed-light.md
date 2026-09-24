@@ -2,7 +2,7 @@
 
 ![](../images/app-glass-catalog-pill-nav-over-magenta-and-blue-ribbed-light.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** navigation, pill, glass, ribbed, magenta, blue, dark, catalog
 
 ## What it is

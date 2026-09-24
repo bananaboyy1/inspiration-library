@@ -2,7 +2,7 @@
 
 ![](../images/branding-gradient-logo-grid-white-marks.jpg)
 
-**Discipline:** branding · **Design type:** Logo collection
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo-collection, gradient, white-logos, grid, tech, monoline, icons
 
 ## What it is

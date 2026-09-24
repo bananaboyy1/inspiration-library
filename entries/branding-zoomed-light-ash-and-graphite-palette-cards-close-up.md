@@ -2,7 +2,7 @@
 
 ![](../images/branding-zoomed-light-ash-and-graphite-palette-cards-close-up.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** palette, close-up, ash, graphite, rounded-cards, hex-rgb, zoom
 
 ## What it is

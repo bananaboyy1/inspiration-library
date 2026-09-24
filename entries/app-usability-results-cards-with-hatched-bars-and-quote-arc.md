@@ -2,7 +2,7 @@
 
 ![](../images/app-usability-results-cards-with-hatched-bars-and-quote-arc.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** research, usability, white, italic-serif, hatched-bars, quote, fintech, minimal
 
 ## What it is

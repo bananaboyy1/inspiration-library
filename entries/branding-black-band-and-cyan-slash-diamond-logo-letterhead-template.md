@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-band-and-cyan-slash-diamond-logo-letterhead-template.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** letterhead, stationery, black, cyan, template, diamond-logo, print
 
 ## What it is

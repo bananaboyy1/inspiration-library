@@ -2,7 +2,7 @@
 
 ![](../images/print-social-hand-drawn-marketing-studio-square-flyer-full-view.png)
 
-**Discipline:** print-social · **Design type:** Product flyer
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** flyer, marketing, hand-drawn, lilac, mint, pills, lightbulb, square
 
 ## What it is

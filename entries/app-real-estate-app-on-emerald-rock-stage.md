@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-app-on-emerald-rock-stage.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** real-estate, mockup, emerald, yellow-accent, 3d-rocks, ribbed-glass, phone-tilted
 
 ## What it is

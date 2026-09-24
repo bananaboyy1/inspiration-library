@@ -2,7 +2,7 @@
 
 ![](../images/web-language-school-mobile-site-on-tidy-desk-flat-lay.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** mobile-web, mockup, desk, hand, maroon-sweater, plants, cream-frame, education
 
 ## What it is

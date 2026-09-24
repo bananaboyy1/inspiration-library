@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-and-electric-green-palette-with-manjari-and-inter-specimens.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** colour-palette, typography, black, electric-green, rounded-cards, rounded-sans, specimen, guidelines
 
 ## What it is

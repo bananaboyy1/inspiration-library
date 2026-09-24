@@ -2,7 +2,7 @@
 
 ![](../images/app-frosted-user-persona-slide-with-goals-pain-points-and-insight-charts.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** persona, research, frosted-glass, blue-grey, green, insight-charts, portrait, fintech
 
 ## What it is

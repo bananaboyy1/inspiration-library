@@ -2,7 +2,7 @@
 
 ![](../images/app-mint-scam-protection-app-redesign-thumbnail.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** mint, peach, ghost-type, security, cover, redesign
 
 ## What it is

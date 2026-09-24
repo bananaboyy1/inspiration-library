@@ -2,7 +2,7 @@
 
 ![](../images/app-scope-of-work-gantt-style-staircase-with-blue-day-pills.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** scope, gantt, timeline, blue-pills, weeks, health, tilted-phone
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-wellness-mobile-typography-screens.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** mobile-web, wellness, sage-green, light-weight-type, uppercase, expert-profile, minimal, responsive
 
 ## What it is

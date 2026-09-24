@@ -2,7 +2,7 @@
 
 ![](../images/app-white-project-introduction-text-with-metadata-rows.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** introduction, white, text, metadata, rules, minimal, tone-shift
 
 ## What it is

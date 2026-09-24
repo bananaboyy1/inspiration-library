@@ -2,7 +2,7 @@
 
 ![](../images/app-skincare-uv-index-app-in-dark-hand-over-cherry-blossom-ghost-title.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** skincare, cream, blossom, hand, ghost-type, uv-index, cover
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-brand-card-collage-with-lifestyle-photos.jpg)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** fintech, navy, tiles, lifestyle, slogans, rounded, logo-pill, bento
 
 ## What it is

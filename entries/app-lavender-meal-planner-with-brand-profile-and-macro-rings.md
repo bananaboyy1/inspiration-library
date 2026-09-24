@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-meal-planner-with-brand-profile-and-macro-rings.webp)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** nutrition, lavender, purple, pastel-cards, rings, logo-grid, calendar, phones
 
 ## What it is

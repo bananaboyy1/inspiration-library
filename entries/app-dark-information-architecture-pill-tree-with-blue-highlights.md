@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-information-architecture-pill-tree-with-blue-highlights.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** information-architecture, dark, pills, blue, tree, travel, dense
 
 ## What it is

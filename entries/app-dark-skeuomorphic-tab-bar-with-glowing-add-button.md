@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-skeuomorphic-tab-bar-with-glowing-add-button.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** tab-bar, dark, skeuomorphic, icons, navigation, red-indicator, tactile
 
 ## What it is

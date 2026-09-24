@@ -2,7 +2,7 @@
 
 ![](../images/web-range-calendar-with-black-endpoints-and-grey-selected-band.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, calendar, date-range, white, black, grey, selection, cursor
 
 ## What it is

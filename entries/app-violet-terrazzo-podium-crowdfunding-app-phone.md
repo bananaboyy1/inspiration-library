@@ -2,7 +2,7 @@
 
 ![](../images/app-violet-terrazzo-podium-crowdfunding-app-phone.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** violet, terrazzo, podium, 3d, dark-ui, lime, crowdfunding
 
 ## What it is

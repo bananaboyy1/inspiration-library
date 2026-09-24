@@ -1,0 +1,39 @@
+{
+  "name": "web-mount-fuji-travel-hero-with-red-split-and-booking-bar",
+  "image": "images/web-mount-fuji-travel-hero-with-red-split-and-booking-bar.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "designStyle": "Photographic & Cinematic",
+  "title": "'Discover Beautiful Mount Fuji' hero with red split background and floating booking search bar",
+  "tags": [
+    "travel",
+    "japan",
+    "hero",
+    "red",
+    "booking",
+    "search"
+  ],
+  "whatItIs": "A hero split into cream and crimson halves with a rounded photo of Mount Fuji and a pagoda, a centred white headline with underlined 'Mount Fuji', four checklist perks, a floating white search bar (From, To, Dates) with a red circle search button, and red striped circles and dot grids.",
+  "whatItMeans": "Inviting and cultural; the red nods to Japan while the booking bar makes it actionable.",
+  "techniques": [
+    "Split the background into two colours behind a photo.",
+    "Float a booking bar across the photo's bottom edge.",
+    "List perks as a checklist in the hero.",
+    "Use striped circles as accents."
+  ],
+  "bestFor": [
+    "Travel booking sites",
+    "Destination landing pages",
+    "Tour operators"
+  ],
+  "vocabulary": [
+    {
+      "term": "Booking bar",
+      "definition": "A search form for trips with fields and a button."
+    },
+    {
+      "term": "Split background",
+      "definition": "Two colour blocks side by side."
+    }
+  ]
+}

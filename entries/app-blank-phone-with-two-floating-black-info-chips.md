@@ -2,7 +2,7 @@
 
 ![](../images/app-blank-phone-with-two-floating-black-info-chips.gif)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** mockup, blank, chips, black, lime, white, shadows, animation-frame
 
 ## What it is

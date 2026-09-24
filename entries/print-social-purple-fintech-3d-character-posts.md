@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-fintech-3d-character-posts.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** fintech, social-ads, 3d-character, purple, mobile-app, glass-label, cash, app-store-badges
 
 ## What it is

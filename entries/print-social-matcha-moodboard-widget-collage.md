@@ -2,7 +2,7 @@
 
 ![](../images/print-social-matcha-moodboard-widget-collage.png)
 
-**Discipline:** print-social · **Design type:** Moodboard post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** moodboard, matcha, green, yellow, rounded-cards, playlist-widget, product-cutout, cream
 
 ## What it is

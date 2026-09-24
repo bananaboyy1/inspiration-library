@@ -2,7 +2,7 @@
 
 ![](../images/app-sage-and-olive-nav-bar-variants-in-light-and-dark.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** navigation, sage, olive, green, light-dark, tabs, logo, icons
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-construction-grid-of-p-i-l-o-wordmark-on-electric-lime.png)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, construction, lime, rounded, grid, guides, wordmark, monoline
 
 ## What it is

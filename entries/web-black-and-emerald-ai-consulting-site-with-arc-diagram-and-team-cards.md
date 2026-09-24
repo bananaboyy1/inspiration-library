@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-emerald-ai-consulting-site-with-arc-diagram-and-team-cards.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** ai, consulting, black, emerald, dot-chart, radial-gauge, arcs, testimonials
 
 ## What it is

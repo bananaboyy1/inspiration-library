@@ -2,7 +2,7 @@
 
 ![](../images/app-structured-grid-and-component-library-long-sheet-for-scam-app.png)
 
-**Discipline:** app · **Design type:** Design system documentation
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** grid, components, library, peach, pastel, screens, fade, long-sheet
 
 ## What it is

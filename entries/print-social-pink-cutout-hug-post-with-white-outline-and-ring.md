@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-cutout-hug-post-with-white-outline-and-ring.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** relationships, pink, greyscale, cutout, white-outline, script, stickers, cyrillic
 
 ## What it is

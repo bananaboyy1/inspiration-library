@@ -2,7 +2,7 @@
 
 ![](../images/print-social-laptop-photo-of-ai-expert-marketplace-story-frames.jpg)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** stories, ai, mascot, colourful, laptop-photo, white, gradient-type
 
 ## What it is

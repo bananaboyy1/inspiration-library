@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-product-detail-page-system.png)
 
-**Discipline:** web · **Design type:** Product detail page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** product-page, catalog, blue, tabs, specs-table, mobile, footer, cyrillic
 
 ## What it is

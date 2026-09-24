@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-column-grid-lesson-with-website-sample-and-guides.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** column-grid, red, yellow, website-sample, guides, educational, stats
 
 ## What it is

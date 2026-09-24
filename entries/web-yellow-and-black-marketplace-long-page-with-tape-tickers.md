@@ -2,7 +2,7 @@
 
 ![](../images/web-yellow-and-black-marketplace-long-page-with-tape-tickers.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** marketplace, black, yellow, condensed-type, ticker, forms, phone-mockup, long-scroll
 
 ## What it is

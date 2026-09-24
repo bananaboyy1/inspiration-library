@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-flight-tracker-search-screen-held-with-ghost-title.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** flight, blue, hand, ghost-type, search, white-ui, cover
 
 ## What it is

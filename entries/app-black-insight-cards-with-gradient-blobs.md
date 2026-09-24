@@ -2,7 +2,7 @@
 
 ![](../images/app-black-insight-cards-with-gradient-blobs.gif)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** insights, black, cards, gradient, blue, orange, ring-chart
 
 ## What it is

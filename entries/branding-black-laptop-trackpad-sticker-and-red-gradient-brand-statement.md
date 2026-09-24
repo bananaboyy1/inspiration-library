@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-laptop-trackpad-sticker-and-red-gradient-brand-statement.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** sticker, laptop, logo, red, gradient, statement, dark
 
 ## What it is

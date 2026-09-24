@@ -2,7 +2,7 @@
 
 ![](../images/branding-pixel-f-mark-with-purple-gradient-on-dark-diagonals.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** logo, symbol, pixel, violet, gradient, dark, fintech, diagonal-bands
 
 ## What it is

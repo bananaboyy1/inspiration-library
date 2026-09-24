@@ -3,6 +3,7 @@
   "image": "images/web-avatar-stack-with-black-name-tooltip-on-dotted-white.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Overlapping round avatars with a black rounded tooltip 'John Doe, Software Engineer' above the first",
   "tags": [
     "component",

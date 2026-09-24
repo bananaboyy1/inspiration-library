@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-finance-pitch-and-brand-guide-slide-collage.jpg)
 
-**Discipline:** branding · **Design type:** Brand guidelines deck
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** brand-guide, navy, slides, italic-serif, logo, palette, typography, pitch-deck
 
 ## What it is

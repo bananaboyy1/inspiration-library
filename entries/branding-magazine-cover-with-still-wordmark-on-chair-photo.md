@@ -2,7 +2,7 @@
 
 ![](../images/branding-magazine-cover-with-still-wordmark-on-chair-photo.jpg)
 
-**Discipline:** branding · **Design type:** Editorial branding
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** editorial, magazine, print, white-wordmark, interior, grain, dark, cover
 
 ## What it is

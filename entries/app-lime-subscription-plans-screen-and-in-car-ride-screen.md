@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-subscription-plans-screen-and-in-car-ride-screen.png)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** subscription, pricing, lime, black, white, in-car, photography, split
 
 ## What it is

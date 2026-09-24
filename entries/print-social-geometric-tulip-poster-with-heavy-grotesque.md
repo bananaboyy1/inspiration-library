@@ -2,7 +2,7 @@
 
 ![](../images/print-social-geometric-tulip-poster-with-heavy-grotesque.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** poster, geometric, flower, hot-pink, black-frame, heavy-type, swiss, minimal
 
 ## What it is

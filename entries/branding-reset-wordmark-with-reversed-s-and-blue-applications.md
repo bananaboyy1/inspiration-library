@@ -2,7 +2,7 @@
 
 ![](../images/branding-reset-wordmark-with-reversed-s-and-blue-applications.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** wordmark, italic, electric-blue, black-and-white, laptop, app-icon, typographic-twist, it-company
 
 ## What it is

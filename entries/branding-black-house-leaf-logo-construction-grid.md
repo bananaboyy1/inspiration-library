@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-house-leaf-logo-construction-grid.png)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, construction, grid, circles, black, house, leaf, monoline
 
 ## What it is

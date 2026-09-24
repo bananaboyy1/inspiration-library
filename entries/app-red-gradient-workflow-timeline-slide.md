@@ -2,7 +2,7 @@
 
 ![](../images/app-red-gradient-workflow-timeline-slide.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** red, timeline, process, hatch, dark, stages
 
 ## What it is

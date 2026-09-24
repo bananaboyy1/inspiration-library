@@ -2,7 +2,7 @@
 
 ![](../images/print-social-podcast-promo-post-set-purple-lime.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** podcast, templates, violet, lime, instagram, cutout-shapes, photo-crops, mockup-tiles
 
 ## What it is

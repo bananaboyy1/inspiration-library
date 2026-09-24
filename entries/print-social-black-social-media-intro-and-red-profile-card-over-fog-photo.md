@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-social-media-intro-and-red-profile-card-over-fog-photo.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** social-media, black, red, profile-card, fog, photography, icons
 
 ## What it is

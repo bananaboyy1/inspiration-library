@@ -2,7 +2,7 @@
 
 ![](../images/app-says-thinks-does-feels-persona-quadrant-with-orb.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** persona, empathy-map, quadrant, orb, grey, quotes, health
 
 ## What it is

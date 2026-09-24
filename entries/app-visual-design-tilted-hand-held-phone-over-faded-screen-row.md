@@ -2,7 +2,7 @@
 
 ![](../images/app-visual-design-tilted-hand-held-phone-over-faded-screen-row.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** health, hand, tilted, screens, fade, blue, auth, visual-design
 
 ## What it is

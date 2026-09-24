@@ -2,7 +2,7 @@
 
 ![](../images/branding-urbanist-type-and-lime-palette-with-pill-weights.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** typography, colour-palette, lime, dark-teal, pills, hex-codes, geometric-sans, brand-guidelines
 
 ## What it is

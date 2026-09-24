@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-glass-carousel-wall-with-blurred-silhouette.webp)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** carousel, blue, mist, white-cards, typography, perspective, freelancers, grid
 
 ## What it is

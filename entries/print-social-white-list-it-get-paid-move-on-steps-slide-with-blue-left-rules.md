@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-list-it-get-paid-move-on-steps-slide-with-blue-left-rules.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** carousel, how-it-works, white, blue-rules, steps, bold-caps, ticket-logo
 
 ## What it is

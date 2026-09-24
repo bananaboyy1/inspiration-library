@@ -2,7 +2,7 @@
 
 ![](../images/web-team-members-table-with-black-status-badges-checkboxes-and-pagination.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** component, table, members, black, white, badges, checkboxes, pagination
 
 ## What it is

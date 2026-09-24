@@ -3,6 +3,7 @@
   "image": "images/app-fitness-onboarding-with-photo-splash-and-schedule-dial.png",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Glassmorphism",
   "title": "Athlete-photo splash and sign-in, gym jump-rope welcome and a scheduling dial on a black board",
   "tags": [
     "fitness",

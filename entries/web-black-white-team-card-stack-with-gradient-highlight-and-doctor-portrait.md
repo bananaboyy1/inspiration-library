@@ -2,7 +2,7 @@
 
 ![](../images/web-black-white-team-card-stack-with-gradient-highlight-and-doctor-portrait.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** team, card-stack, gradient, doctor, portrait, black, white, list
 
 ## What it is

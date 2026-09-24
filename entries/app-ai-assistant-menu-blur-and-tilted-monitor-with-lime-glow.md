@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-assistant-menu-blur-and-tilted-monitor-with-lime-glow.png)
 
-**Discipline:** app · **Design type:** Interaction showcase
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** ai, interaction, light-grey, lime, dark-green, blur, monitor, cursor
 
 ## What it is

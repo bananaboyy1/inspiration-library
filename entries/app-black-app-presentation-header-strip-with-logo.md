@@ -2,7 +2,7 @@
 
 ![](../images/app-black-app-presentation-header-strip-with-logo.png)
 
-**Discipline:** app · **Design type:** Case study divider
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** divider, black, pill-tag, logo, minimal, empty-space, case-study
 
 ## What it is

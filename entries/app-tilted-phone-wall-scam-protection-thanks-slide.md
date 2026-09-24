@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-phone-wall-scam-protection-thanks-slide.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** thanks, tilted-phones, pastel, fade, contact, qr, closing
 
 ## What it is

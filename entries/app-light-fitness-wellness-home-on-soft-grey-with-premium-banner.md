@@ -2,7 +2,7 @@
 
 ![](../images/app-light-fitness-wellness-home-on-soft-grey-with-premium-banner.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** fitness, wellness, light, grey, cards, dumbbells, premium, minimal
 
 ## What it is

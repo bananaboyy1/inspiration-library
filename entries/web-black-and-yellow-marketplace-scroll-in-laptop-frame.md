@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-yellow-marketplace-scroll-in-laptop-frame.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** marketplace, black, yellow, condensed-type, tape, laptop, tall-scroll, mockup
 
 ## What it is

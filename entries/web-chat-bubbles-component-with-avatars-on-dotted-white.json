@@ -3,6 +3,7 @@
   "image": "images/web-chat-bubbles-component-with-avatars-on-dotted-white.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Chat component with a black outgoing bubble and a grey incoming bubble, each with a round avatar, on a dotted ground",
   "tags": [
     "component",

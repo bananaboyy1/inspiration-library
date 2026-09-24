@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-black-asterisk-story-trio-for-business-software.jpg)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** stories, lime, black, asterisk, photography, business, brand-mark, trio
 
 ## What it is

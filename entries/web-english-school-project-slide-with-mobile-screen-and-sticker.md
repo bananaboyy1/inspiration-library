@@ -2,7 +2,7 @@
 
 ![](../images/web-english-school-project-slide-with-mobile-screen-and-sticker.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, education, chocolate-brown, cream, phone-mockup, doodle-stickers, script, orange
 
 ## What it is

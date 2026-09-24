@@ -2,7 +2,7 @@
 
 ![](../images/branding-oversized-year-numerals-logo-portfolio-cover.png)
 
-**Discipline:** branding · **Design type:** Logo portfolio cover
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo-portfolio, grey, white-type, giant-numerals, copyright-symbol, minimal, volume-cover
 
 ## What it is

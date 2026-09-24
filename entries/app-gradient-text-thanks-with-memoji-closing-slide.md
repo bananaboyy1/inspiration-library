@@ -2,7 +2,7 @@
 
 ![](../images/app-gradient-text-thanks-with-memoji-closing-slide.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** thanks, gradient-text, memoji, grid, closing, blue-purple, friendly
 
 ## What it is

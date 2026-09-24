@@ -2,7 +2,7 @@
 
 ![](../images/app-pearl-cards-app-in-hand-with-dark-spending-widget-on-lifestyle-photo.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fintech, pearl, dark-widget, lifestyle, hand, ring-chart, split, photography
 
 ## What it is

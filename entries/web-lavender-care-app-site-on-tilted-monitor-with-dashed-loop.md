@@ -2,7 +2,7 @@
 
 ![](../images/web-lavender-care-app-site-on-tilted-monitor-with-dashed-loop.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** monitor, tilted, lavender, dark-ui, yellow, portrait, dashed-line
 
 ## What it is

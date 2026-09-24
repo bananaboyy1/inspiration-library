@@ -2,7 +2,7 @@
 
 ![](../images/branding-cat-face-mooji-wordmark-on-sticker-and-tee.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** wordmark, character, cat, black-and-white, rounded, toy, sticker, apparel
 
 ## What it is

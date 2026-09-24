@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-neon-silhouette-summit-poster-with-grid-and-reflection.jpg)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** summit, purple, neon, silhouettes, grid, reflection, white-glow-type, poster
 
 ## What it is

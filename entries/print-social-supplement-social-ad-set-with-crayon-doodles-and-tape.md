@@ -2,7 +2,7 @@
 
 ![](../images/print-social-supplement-social-ad-set-with-crayon-doodles-and-tape.png)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** ads, supplements, royal-blue, crayon, torn-paper, stats, photography, parenting
 
 ## What it is

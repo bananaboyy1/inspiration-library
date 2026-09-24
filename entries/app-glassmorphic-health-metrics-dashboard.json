@@ -3,6 +3,7 @@
   "image": "images/app-glassmorphic-health-metrics-dashboard.png",
   "discipline": "app",
   "designType": "Health dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Glassmorphic health metrics home with serif numerals",
   "tags": [
     "health",

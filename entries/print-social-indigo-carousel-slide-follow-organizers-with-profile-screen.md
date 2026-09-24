@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-carousel-slide-follow-organizers-with-profile-screen.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** carousel, indigo, yellow, phone-mockup, profile, follow, product-feature
 
 ## What it is

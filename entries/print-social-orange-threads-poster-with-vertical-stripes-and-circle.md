@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-threads-poster-with-vertical-stripes-and-circle.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** poster, orange, black, stripes, circle, giant-type, swiss, minimal
 
 ## What it is

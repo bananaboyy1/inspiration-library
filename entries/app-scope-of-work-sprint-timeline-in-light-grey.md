@@ -2,7 +2,7 @@
 
 ![](../images/app-scope-of-work-sprint-timeline-in-light-grey.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** process, timeline, light-grey, sprints, icons, stepped, minimal, case-study
 
 ## What it is

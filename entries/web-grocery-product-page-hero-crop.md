@@ -2,7 +2,7 @@
 
 ![](../images/web-grocery-product-page-hero-crop.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ecommerce, product-page, teal, lime, badges, gallery, grocery
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-blue-ai-company-post-set-with-glass-pills-and-dot-clusters.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ai, navy, periwinkle, glass-pills, concentric-circles, dot-clusters, templates, brand-mission
 
 ## What it is

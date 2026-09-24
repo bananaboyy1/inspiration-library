@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-two-font-line-height-typography-rule-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** educational, typography, slate, cream, line-height, comparison, rule-2
 
 ## What it is

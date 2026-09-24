@@ -2,7 +2,7 @@
 
 ![](../images/web-medical-care-bento-with-pink-portrait-lime-stat-and-pastel-tags.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** healthcare, bento, pink, lime, portrait, tags, stats, white
 
 ## What it is

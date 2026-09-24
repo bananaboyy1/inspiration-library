@@ -2,7 +2,7 @@
 
 ![](../images/print-social-property-post-mosaic-with-floor-plans-and-landscape-photos.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** real-estate, dark, grey, floor-plans, price-pills, landscape, stats, mosaic
 
 ## What it is

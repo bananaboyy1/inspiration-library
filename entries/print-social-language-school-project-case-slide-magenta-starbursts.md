@@ -2,7 +2,7 @@
 
 ![](../images/print-social-language-school-project-case-slide-magenta-starbursts.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** case-study, social-media, cream, magenta, starburst, script-sticker, feed-grid, brown-type
 
 ## What it is

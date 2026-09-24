@@ -3,6 +3,7 @@
   "image": "images/app-glass-catalog-pill-nav-over-magenta-and-blue-ribbed-light.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Glass Catalog Pill Nav over Ribbed Light",
   "tags": [
     "navigation",

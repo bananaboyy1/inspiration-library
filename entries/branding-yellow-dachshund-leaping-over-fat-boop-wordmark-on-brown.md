@@ -2,7 +2,7 @@
 
 ![](../images/branding-yellow-dachshund-leaping-over-fat-boop-wordmark-on-brown.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** logo, wordmark, dog, yellow, brown, silhouette, rounded, pet
 
 ## What it is

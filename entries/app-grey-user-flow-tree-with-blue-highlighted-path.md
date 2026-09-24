@@ -2,7 +2,7 @@
 
 ![](../images/app-grey-user-flow-tree-with-blue-highlighted-path.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** user-flow, tree, grey, blue, pills, health, two-tone-headline
 
 ## What it is

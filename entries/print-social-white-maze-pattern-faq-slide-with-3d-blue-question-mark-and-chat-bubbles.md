@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-maze-pattern-faq-slide-with-3d-blue-question-mark-and-chat-bubbles.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** carousel, faq, white, maze-pattern, 3d, blue, chat-bubbles, swipe
 
 ## What it is

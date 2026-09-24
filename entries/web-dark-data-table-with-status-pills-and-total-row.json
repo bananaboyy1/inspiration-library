@@ -3,6 +3,7 @@
   "image": "images/web-dark-data-table-with-status-pills-and-total-row.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "Dark bordered card table 'Team Contributors' with name, email, location, status pills and payout, and a total row",
   "tags": [
     "component",

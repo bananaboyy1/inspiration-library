@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pastel-glass-cards-encryption-billboard-triptych.jpg)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** billboards, pastel, glass, encryption, cards, light-boxes, fintech
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-interactive-calendar-grid-with-count-badges-and-view-toggle.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, calendar, dark, tiles, badges, weekday-pills, toggle, grid
 
 ## What it is

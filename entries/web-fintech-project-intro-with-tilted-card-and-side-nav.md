@@ -2,7 +2,7 @@
 
 ![](../images/web-fintech-project-intro-with-tilted-card-and-side-nav.jpg)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** fintech, project-intro, white, navy, italic-serif, floating-card, side-nav, laurel
 
 ## What it is

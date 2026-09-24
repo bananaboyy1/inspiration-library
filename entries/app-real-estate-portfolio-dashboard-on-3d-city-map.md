@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-portfolio-dashboard-on-3d-city-map.png)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, real-estate, 3d-map, lime, white, perspective, charts, glass
 
 ## What it is

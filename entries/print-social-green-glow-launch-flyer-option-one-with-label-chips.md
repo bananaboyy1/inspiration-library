@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-glow-launch-flyer-option-one-with-label-chips.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** launch, green, label-chips, grain, bokeh, option, nigeria
 
 ## What it is

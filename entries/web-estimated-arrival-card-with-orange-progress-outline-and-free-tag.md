@@ -2,7 +2,7 @@
 
 ![](../images/web-estimated-arrival-card-with-orange-progress-outline-and-free-tag.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** component, delivery, card, orange, progress-border, white, free-tag, clock
 
 ## What it is

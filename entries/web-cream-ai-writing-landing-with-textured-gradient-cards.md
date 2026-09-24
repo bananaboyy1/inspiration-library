@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-ai-writing-landing-with-textured-gradient-cards.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** saas, cream, serif, gradient-cards, texture, orange, blue, purple, pill-nav
 
 ## What it is

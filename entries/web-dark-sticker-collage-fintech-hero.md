@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-sticker-collage-fintech-hero.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** dark, yellow, extended-type, collage, stickers, fintech, tilted, grain
 
 ## What it is

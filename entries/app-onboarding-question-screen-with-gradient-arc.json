@@ -3,6 +3,7 @@
   "image": "images/app-onboarding-question-screen-with-gradient-arc.gif",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Gradient & Aurora",
   "title": "Onboarding Question with Warm Gradient Arc",
   "tags": [
     "onboarding",

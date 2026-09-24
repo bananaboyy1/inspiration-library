@@ -2,7 +2,7 @@
 
 ![](../images/app-grid-system-overlay-on-blue-glass-home-screen.jpg)
 
-**Discipline:** app · **Design type:** Design system documentation
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** grid-system, fintech, slate-blue, italic-serif, overlay, documentation, glass, phone
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-peach-and-lime-wellness-flyer-template.jpg)
 
-**Discipline:** print-social · **Design type:** Promo flyer
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** flyer, template, peach, lime, food, coral, square
 
 ## What it is

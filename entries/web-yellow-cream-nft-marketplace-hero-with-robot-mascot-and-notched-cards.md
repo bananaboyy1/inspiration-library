@@ -2,7 +2,7 @@
 
 ![](../images/web-yellow-cream-nft-marketplace-hero-with-robot-mascot-and-notched-cards.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** nft, cream, yellow, robot, 3d, notched-cards, display-type, marketplace
 
 ## What it is

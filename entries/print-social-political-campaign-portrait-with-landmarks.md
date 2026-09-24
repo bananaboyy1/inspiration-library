@@ -2,7 +2,7 @@
 
 ![](../images/print-social-political-campaign-portrait-with-landmarks.png)
 
-**Discipline:** print-social · **Design type:** Campaign poster
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** campaign, political, portrait, sunset-gradient, condensed-type, yellow, red-label, map-outline
 
 ## What it is

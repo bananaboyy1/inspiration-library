@@ -2,7 +2,7 @@
 
 ![](../images/print-social-women-in-tech-speaker-flyer-with-portrait-cards.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** event, flyer, pink, grid-paper, portraits, speakers, pills, chevrons
 
 ## What it is

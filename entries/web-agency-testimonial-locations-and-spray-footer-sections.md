@@ -2,7 +2,7 @@
 
 ![](../images/web-agency-testimonial-locations-and-spray-footer-sections.webp)
 
-**Discipline:** web · **Design type:** Agency site
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** agency, testimonials, tilted-cards, red, pink, spray, locations, inline-images
 
 ## What it is

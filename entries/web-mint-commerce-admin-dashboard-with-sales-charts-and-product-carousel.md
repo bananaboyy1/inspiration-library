@@ -2,7 +2,7 @@
 
 ![](../images/web-mint-commerce-admin-dashboard-with-sales-charts-and-product-carousel.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, mint, commerce, kpi, area-chart, donut, products, sidebar
 
 ## What it is

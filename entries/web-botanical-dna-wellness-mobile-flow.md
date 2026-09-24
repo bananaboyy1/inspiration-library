@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-dna-wellness-mobile-flow.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** mobile-web, wellness, sage-green, accordion, product-3d, statement-type, expert, flow
 
 ## What it is

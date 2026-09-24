@@ -2,7 +2,7 @@
 
 ![](../images/branding-modular-s-symbol-over-silhouette-portrait-with-palette-cards.jpg)
 
-**Discipline:** branding · **Design type:** Brand collage board
+**Discipline:** branding ·  · **Design style:** 3D & Surreal
 **Tags:** logo, brand-board, violet, charcoal, portrait, chrome-gradient, palette, spec
 
 ## What it is

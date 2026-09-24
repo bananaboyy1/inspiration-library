@@ -2,7 +2,7 @@
 
 ![](../images/app-six-phone-wallet-flow-on-slate-blue-gradient-screens.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** fintech, slate-blue, gradient, italic-serif, wallet, qr-scan, success-modal, phones
 
 ## What it is

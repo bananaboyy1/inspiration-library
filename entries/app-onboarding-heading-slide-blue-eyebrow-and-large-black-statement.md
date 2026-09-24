@@ -2,7 +2,7 @@
 
 ![](../images/app-onboarding-heading-slide-blue-eyebrow-and-large-black-statement.png)
 
-**Discipline:** app · **Design type:** Case study divider
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** divider, white, black, blue-eyebrow, minimal, typography, section-title
 
 ## What it is

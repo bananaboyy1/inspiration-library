@@ -2,7 +2,7 @@
 
 ![](../images/app-monochrome-wallet-screen-held-in-dark-hand.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** monochrome, monospace, wallet, hand, black-white, minimal, thumbnail
 
 ## What it is

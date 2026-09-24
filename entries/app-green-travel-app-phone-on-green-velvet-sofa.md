@@ -2,7 +2,7 @@
 
 ![](../images/app-green-travel-app-phone-on-green-velvet-sofa.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** travel, green, velvet, lime, tonal, phone, dubai
 
 ## What it is

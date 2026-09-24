@@ -2,7 +2,7 @@
 
 ![](../images/print-social-duotone-dj-portrait-with-gradient-geometric-tile-mosaic-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** dj, duotone, portrait, geometric, gradient, coral, teal, mosaic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-oval-frame-fv-monogram-with-broken-f.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo, monogram, oval, black-and-white, music-store, vinyl, corner-labels, minimal
 
 ## What it is

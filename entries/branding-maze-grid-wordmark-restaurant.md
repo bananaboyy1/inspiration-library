@@ -2,7 +2,7 @@
 
 ![](../images/branding-maze-grid-wordmark-restaurant.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** wordmark, grid-type, maze, black-and-white, restaurant, packaging, geometric
 
 ## What it is

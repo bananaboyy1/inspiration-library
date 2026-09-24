@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-metal-supplier-signage-and-add-to-cart-modal.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** signage, light-box, blue, modal, mobile, industrial, concrete, cyrillic
 
 ## What it is

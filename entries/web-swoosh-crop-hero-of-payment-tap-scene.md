@@ -2,7 +2,7 @@
 
 ![](../images/web-swoosh-crop-hero-of-payment-tap-scene.jpg)
 
-**Discipline:** web · **Design type:** Brand campaign visual
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** fintech, photography, swoosh, white, payment, logo-pill, lifestyle, blue-card
 
 ## What it is

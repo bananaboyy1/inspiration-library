@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pixel-retro-product-ui-styleguide-poster.jpg)
 
-**Discipline:** print-social · **Design type:** Product infographic set
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** pixel, retro, styleguide, green, cream, monospace, tokens, infographic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-design-process-gantt-with-inline-icon-headline-and-hashtag-strip.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** gantt, process, white, inline-icons, circles, stats, hashtags
 
 ## What it is

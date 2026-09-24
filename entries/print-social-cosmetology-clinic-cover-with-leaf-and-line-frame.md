@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cosmetology-clinic-cover-with-leaf-and-line-frame.png)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** beauty, clinic, leaf, green, white-frame, flared-serif, photography, cyrillic
 
 ## What it is

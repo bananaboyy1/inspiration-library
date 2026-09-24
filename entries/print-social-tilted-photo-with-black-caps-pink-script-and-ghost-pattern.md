@@ -2,7 +2,7 @@
 
 ![](../images/print-social-tilted-photo-with-black-caps-pink-script-and-ghost-pattern.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** cover, pink, black-caps, script, tilted-photo, ghost-pattern, doodles, cyrillic
 
 ## What it is

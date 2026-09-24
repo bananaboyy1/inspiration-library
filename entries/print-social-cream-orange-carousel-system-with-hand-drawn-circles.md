@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-orange-carousel-system-with-hand-drawn-circles.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** carousel, seamless, charcoal, cream, orange, serif, pill-chips, business
 
 ## What it is

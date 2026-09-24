@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-yellow-group-marketplace-desktop-preview.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** marketplace, black, yellow, condensed-type, tape, chips, laptop-screen, form
 
 ## What it is

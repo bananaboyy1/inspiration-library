@@ -2,7 +2,7 @@
 
 ![](../images/branding-tote-bag-with-sparkles-and-vertical-logo-on-dark-slats.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** tote, merch, violet, grey, sparkles, vertical-logo, dark-slats, hard-light
 
 ## What it is

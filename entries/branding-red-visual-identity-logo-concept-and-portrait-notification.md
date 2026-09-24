@@ -2,7 +2,7 @@
 
 ![](../images/branding-red-visual-identity-logo-concept-and-portrait-notification.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** logo, red, wallet, coins, concept, notification, portrait
 
 ## What it is

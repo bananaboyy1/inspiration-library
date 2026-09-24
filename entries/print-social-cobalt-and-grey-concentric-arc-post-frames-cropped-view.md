@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-and-grey-concentric-arc-post-frames-cropped-view.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** instagram-frames, cobalt, grey, concentric-arcs, ring-logo, template, cropped
 
 ## What it is

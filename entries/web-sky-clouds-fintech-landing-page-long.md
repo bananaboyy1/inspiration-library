@@ -2,7 +2,7 @@
 
 ![](../images/web-sky-clouds-fintech-landing-page-long.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** clouds, sky, fintech, light, navy, long-page, pricing
 
 ## What it is

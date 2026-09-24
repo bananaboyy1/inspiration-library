@@ -3,6 +3,7 @@
   "image": "images/app-lime-portfolio-performance-with-glow-curve.png",
   "discipline": "app",
   "designType": "Fintech app screens",
+  "designStyle": "Gradient & Aurora",
   "title": "Investment app with lime-yellow glow curve and quiet grey UI",
   "tags": [
     "fintech",

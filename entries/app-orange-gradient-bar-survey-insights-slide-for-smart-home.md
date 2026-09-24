@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-gradient-bar-survey-insights-slide-for-smart-home.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** research, survey, orange, segmented-bars, beige, questions, legend
 
 ## What it is

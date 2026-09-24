@@ -2,7 +2,7 @@
 
 ![](../images/app-research-slide-black-with-neon-stats-and-insight-cards.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** research, insights, black, neon-lime, stats, cards, pills, case-study
 
 ## What it is

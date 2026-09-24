@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-vertical-collapsible-sidebar-navigation-states-on-gradient.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** sidebar, navigation, dark, collapsible, gradient, purple, mint, states
 
 ## What it is

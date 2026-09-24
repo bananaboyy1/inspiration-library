@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-calendar-month-view-on-tan-leather-sofa.png)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** calendar, month-view, hand, leather, tan, navy, dash-markers
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-lilac-gradient-finance-app-with-ghost-lettering.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** lilac, finance, balance, bar-chart, ghost-type, thumbnail, clean
 
 ## What it is

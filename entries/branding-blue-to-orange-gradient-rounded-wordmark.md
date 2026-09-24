@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-to-orange-gradient-rounded-wordmark.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wordmark, gradient, lowercase, rounded, blue, orange, geometric, white-background
 
 ## What it is

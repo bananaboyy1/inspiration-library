@@ -2,7 +2,7 @@
 
 ![](../images/app-pearl-mobile-app-in-hand-beside-stepped-bar-chart-board.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** mockup, fintech, pearl, hand, poster, truss, bar-chart, grey
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-lime-autonomous-ride-landing-sections.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** black, lime, rounded, bento, cards, ride, pill-highlight, tall-page
 
 ## What it is

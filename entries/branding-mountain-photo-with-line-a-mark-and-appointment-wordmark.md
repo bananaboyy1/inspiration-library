@@ -2,7 +2,7 @@
 
 ![](../images/branding-mountain-photo-with-line-a-mark-and-appointment-wordmark.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wordmark, monogram, mountain, white, dark-photo, ukrainian, nature, geometric
 
 ## What it is

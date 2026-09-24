@@ -2,7 +2,7 @@
 
 ![](../images/web-plus-minus-accordion-tabs-with-bordered-rows.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, accordion, plus-minus, faq, white, bordered, minimal, ui-kit
 
 ## What it is

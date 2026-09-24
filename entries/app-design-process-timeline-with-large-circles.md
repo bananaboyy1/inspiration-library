@@ -2,7 +2,7 @@
 
 ![](../images/app-design-process-timeline-with-large-circles.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** process, timeline, white, hairline, circles, italic-serif, minimal, case-study
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-grotesk-type-scale-spec-page.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** typography, black, grotesk, specimen, fade, scale, white
 
 ## What it is

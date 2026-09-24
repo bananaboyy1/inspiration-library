@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-user-persona-card-board.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** persona, dark, cards, goals, needs, engagement, blue
 
 ## What it is

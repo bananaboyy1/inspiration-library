@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-site-laptop-on-mossy-rock-in-morning-mist.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** mockup, laptop, nature, mist, botanical, glass-sphere, project-cover, golden-light
 
 ## What it is

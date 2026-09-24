@@ -2,7 +2,7 @@
 
 ![](../images/branding-monoline-dog-symbol-with-pet-packaging.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** logo, symbol, monoline, dog, pet-care, packaging, yellow-green, hand-lettering
 
 ## What it is

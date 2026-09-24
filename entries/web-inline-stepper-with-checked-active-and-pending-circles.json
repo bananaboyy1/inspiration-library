@@ -3,6 +3,7 @@
   "image": "images/web-inline-stepper-with-checked-active-and-pending-circles.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Three-step stepper with a checked black circle, an active numbered circle and a pale pending circle, titles and descriptions inline",
   "tags": [
     "component",

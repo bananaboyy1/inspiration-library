@@ -2,7 +2,7 @@
 
 ![](../images/branding-lime-and-forest-green-eco-app-brand-board.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** eco, lime, forest-green, asterisk, billboard, story, palette, bento
 
 ## What it is

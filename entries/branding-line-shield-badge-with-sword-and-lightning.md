@@ -2,7 +2,7 @@
 
 ![](../images/branding-line-shield-badge-with-sword-and-lightning.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** badge, shield, monoline, military, black-and-white, sword, lightning, emblem
 
 ## What it is

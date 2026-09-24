@@ -2,7 +2,7 @@
 
 ![](../images/branding-monogram-logo-embroidered-on-grey-hoodie.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** apparel, hoodie, embroidery, violet, grey, drawstring, logo, street
 
 ## What it is

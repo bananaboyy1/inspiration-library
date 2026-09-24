@@ -2,7 +2,7 @@
 
 ![](../images/app-banking-research-insight-cards.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** research, case-study, navy, stat-cards, italic-serif, progress-bar, hatching
 
 ## What it is

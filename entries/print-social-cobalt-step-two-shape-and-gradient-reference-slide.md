@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-step-two-shape-and-gradient-reference-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** tutorial, cobalt, step-2, gradient, arrows, annotation, swipe
 
 ## What it is

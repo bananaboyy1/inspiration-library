@@ -2,7 +2,7 @@
 
 ![](../images/app-workout-generator-with-scribble-background.jpg)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** fitness, dark, violet-scribble, mint-green, yellow-icons, big-button, case-study-cover
 
 ## What it is

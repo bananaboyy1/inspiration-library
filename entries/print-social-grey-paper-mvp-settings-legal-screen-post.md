@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grey-paper-mvp-settings-legal-screen-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** educational, mvp, grey, condensed, phone, orange, legal
 
 ## What it is

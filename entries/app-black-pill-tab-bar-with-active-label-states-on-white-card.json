@@ -3,6 +3,7 @@
   "image": "images/app-black-pill-tab-bar-with-active-label-states-on-white-card.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Black Pill Tab Bar Active Label States",
   "tags": [
     "tab-bar",

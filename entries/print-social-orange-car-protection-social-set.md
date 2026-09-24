@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-car-protection-social-set.png)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** insurance, automotive, orange, white, photo-cutout, arrow-chart, geometric, portuguese
 
 ## What it is

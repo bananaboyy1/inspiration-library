@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-dna-supplement-desktop-and-mobile-overview.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** biotech, botanical, sage-green, glass-sphere, accordion, ingredient-cards, desktop-mobile, statement-type
 
 ## What it is

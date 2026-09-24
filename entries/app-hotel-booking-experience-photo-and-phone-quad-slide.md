@@ -2,7 +2,7 @@
 
 ![](../images/app-hotel-booking-experience-photo-and-phone-quad-slide.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** hotel, booking, quad-grid, photography, lavender, progress-bar, blue
 
 ## What it is

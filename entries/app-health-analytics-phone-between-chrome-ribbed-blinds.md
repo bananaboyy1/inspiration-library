@@ -2,7 +2,7 @@
 
 ![](../images/app-health-analytics-phone-between-chrome-ribbed-blinds.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, chrome, blinds, white, grey, tilted, analytics
 
 ## What it is

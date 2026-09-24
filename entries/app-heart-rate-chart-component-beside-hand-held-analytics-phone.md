@@ -2,7 +2,7 @@
 
 ![](../images/app-heart-rate-chart-component-beside-hand-held-analytics-phone.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** heart-rate, chart, component, analytics, hand, white, red-line
 
 ## What it is

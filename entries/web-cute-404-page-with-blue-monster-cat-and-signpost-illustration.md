@@ -2,7 +2,7 @@
 
 ![](../images/web-cute-404-page-with-blue-monster-cat-and-signpost-illustration.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** 404, error-page, illustration, cream, indigo, yellow, cute, character
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-yellow-cream-fintech-social-ad-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** fintech, yellow, cream, ads, portraits, store-badges, organic-shapes, africa
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-scam-protection-long-feature-and-persona-sheet.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** security, long-scroll, pastel, persona, features, phones, chrome
 
 ## What it is

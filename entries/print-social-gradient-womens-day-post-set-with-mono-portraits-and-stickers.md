@@ -2,7 +2,7 @@
 
 ![](../images/print-social-gradient-womens-day-post-set-with-mono-portraits-and-stickers.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** womens-day, gradient, purple, lime, pink, greyscale, stickers, template-set
 
 ## What it is

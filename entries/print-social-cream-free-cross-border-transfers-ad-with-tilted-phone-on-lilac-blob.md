@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-free-cross-border-transfers-ad-with-tilted-phone-on-lilac-blob.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** ad, cream, lilac, tilted-phone, fintech, highlight-box, transfers, heavy-sans
 
 ## What it is

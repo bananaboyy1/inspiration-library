@@ -2,7 +2,7 @@
 
 ![](../images/branding-space-grotesk-type-specimen-on-black-with-blurred-sparkles.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** typography, specimen, dark, violet, sparkle, weights, brand-guidelines, ai
 
 ## What it is

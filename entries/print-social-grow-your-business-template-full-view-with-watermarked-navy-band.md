@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grow-your-business-template-full-view-with-watermarked-navy-band.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** business, azure, navy, pill, full-view, square, template, white-card
 
 ## What it is

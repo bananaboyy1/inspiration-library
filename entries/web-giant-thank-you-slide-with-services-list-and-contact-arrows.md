@@ -2,7 +2,7 @@
 
 ![](../images/web-giant-thank-you-slide-with-services-list-and-contact-arrows.jpg)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** thank-you, giant-type, black, white, services, contact, arrows, minimal
 
 ## What it is

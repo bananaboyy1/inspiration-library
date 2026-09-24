@@ -2,7 +2,7 @@
 
 ![](../images/app-warm-beige-smart-home-security-rooms-and-statistics-screens-sheet.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** smart-home, beige, screens, lock, rooms, statistics, captions, rounded-frame
 
 ## What it is

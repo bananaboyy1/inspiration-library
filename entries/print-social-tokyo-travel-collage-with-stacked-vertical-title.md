@@ -2,7 +2,7 @@
 
 ![](../images/print-social-tokyo-travel-collage-with-stacked-vertical-title.jpg)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** travel, collage, tokyo, giant-letters, photo-cutout, sakura, japan, white
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-product-page-on-laptop-with-wood-slats.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** laptop-mockup, product-page, wood, beige, industrial, round-table, warm, rounded-frame
 
 ## What it is

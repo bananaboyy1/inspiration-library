@@ -2,7 +2,7 @@
 
 ![](../images/web-integrations-grid-and-testimonial-bento-with-3d-app-tiles.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** saas, integrations, white, app-icons, testimonials, bento, video-review, light
 
 ## What it is

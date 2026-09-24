@@ -2,7 +2,7 @@
 
 ![](../images/print-social-gradient-glow-portfolio-site-promo.webp)
 
-**Discipline:** print-social · **Design type:** Product UI promo card
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** gradient, device, portfolio, promo, dark, responsive
 
 ## What it is

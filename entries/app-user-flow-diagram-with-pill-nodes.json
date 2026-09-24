@@ -3,6 +3,7 @@
   "image": "images/app-user-flow-diagram-with-pill-nodes.jpg",
   "discipline": "app",
   "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "User flow map with pill nodes branching from an onboarding phone",
   "tags": [
     "user-flow",

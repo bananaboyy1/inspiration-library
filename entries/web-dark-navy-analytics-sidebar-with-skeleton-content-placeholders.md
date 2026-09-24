@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-navy-analytics-sidebar-with-skeleton-content-placeholders.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** sidebar, dark, navy, skeleton, breadcrumb, blue, analytics
 
 ## What it is

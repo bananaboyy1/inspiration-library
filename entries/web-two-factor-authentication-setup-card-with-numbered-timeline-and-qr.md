@@ -2,7 +2,7 @@
 
 ![](../images/web-two-factor-authentication-setup-card-with-numbered-timeline-and-qr.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, two-factor, security, white, timeline, qr-code, code-input, minimal
 
 ## What it is

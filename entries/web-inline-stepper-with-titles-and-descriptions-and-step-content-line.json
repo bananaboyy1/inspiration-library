@@ -3,6 +3,7 @@
   "image": "images/web-inline-stepper-with-titles-and-descriptions-and-step-content-line.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Three-step stepper: check, active '2' and pending '3' with bold titles and grey descriptions, and a content line 'Step Step 2 content'",
   "tags": [
     "component",

@@ -2,7 +2,7 @@
 
 ![](../images/app-black-pill-tab-bar-with-active-label-states-on-white-card.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** tab-bar, black, white, pill, outline-icons, states, minimal
 
 ## What it is

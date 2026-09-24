@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-thank-you-slide-blurred-folders.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** closing-slide, cream, brown, blurred-folders, cursor, contact, sticker, script
 
 ## What it is

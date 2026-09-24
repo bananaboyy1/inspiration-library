@@ -2,7 +2,7 @@
 
 ![](../images/print-social-crimson-navy-cream-geometric-circle-grid-square-post-template.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** geometric, circles, crimson, navy, cream, square, template, bauhaus
 
 ## What it is

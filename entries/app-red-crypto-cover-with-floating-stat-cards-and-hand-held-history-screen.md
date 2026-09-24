@@ -2,7 +2,7 @@
 
 ![](../images/app-red-crypto-cover-with-floating-stat-cards-and-hand-held-history-screen.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** crypto, red, black, hand, stat-cards, striped, cover
 
 ## What it is

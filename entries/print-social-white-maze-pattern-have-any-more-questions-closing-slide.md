@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-maze-pattern-have-any-more-questions-closing-slide.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** carousel, closing, faq, maze-pattern, blue-card, highlight, dm-cta
 
 ## What it is

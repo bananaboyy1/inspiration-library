@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-paid-ads-blue.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, cyan, violet-scribble, serif-label, icons, desktop-metaphor
 
 ## What it is

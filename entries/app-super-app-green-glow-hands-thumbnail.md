@@ -2,7 +2,7 @@
 
 ![](../images/app-super-app-green-glow-hands-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** super-app, green, thumbnail, hands, monochrome-photo, project-cover
 
 ## What it is

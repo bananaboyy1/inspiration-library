@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-glow-flyer-designs-folder-cover-small.jpg)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** portfolio, flyer, black, lime-green, glass-folder, thumbnails, glow, stickers
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-black-discover-feed-phone-behind-cropped-ghost-letters.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** black, discover, hand, ghost-type, travel, cover, white-ui
 
 ## What it is

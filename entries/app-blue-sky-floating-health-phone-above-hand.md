@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-sky-floating-health-phone-above-hand.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** floating, hand, light-blue, ghost-type, health, tilted, minimal
 
 ## What it is

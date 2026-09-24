@@ -3,6 +3,7 @@
   "image": "images/web-button-states-component-sheet-in-black-red-orange-and-grey.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Button state sheet: primary, secondary, tertiary, error, warning, rounded, loading, disabled and with icon",
   "tags": [
     "component",

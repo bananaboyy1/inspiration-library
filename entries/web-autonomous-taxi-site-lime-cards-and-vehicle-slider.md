@@ -2,7 +2,7 @@
 
 ![](../images/web-autonomous-taxi-site-lime-cards-and-vehicle-slider.png)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** landing-page, autonomous, black-and-white, lime, stats-cards, slider, rounded-frame, vehicles
 
 ## What it is

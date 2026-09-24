@@ -2,7 +2,7 @@
 
 ![](../images/app-bottom-navigation-dark-and-light-variants-on-lilac-with-gradient-title.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** bottom-nav, dark-light, violet, lilac, fab, icons, gradient-title
 
 ## What it is

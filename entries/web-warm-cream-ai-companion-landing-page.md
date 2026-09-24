@@ -2,7 +2,7 @@
 
 ![](../images/web-warm-cream-ai-companion-landing-page.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** cream, mascots, ai, browser-mockup, logo-strip, friendly, serif-logo
 
 ## What it is

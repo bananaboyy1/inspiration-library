@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-medical-app-health-score-phone-with-ghost-title.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** medical, orange, ghost-type, health-score, peach, cover, cards
 
 ## What it is

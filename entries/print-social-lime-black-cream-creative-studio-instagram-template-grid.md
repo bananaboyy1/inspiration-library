@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-black-cream-creative-studio-instagram-template-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** templates, lime, black, cream, monospace, highlight-blocks, studio, grayscale-photos
 
 ## What it is

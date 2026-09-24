@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-white-green-instagram-frame-set-with-chevrons-and-geometric-blocks.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** instagram-frames, green, black, blue, chevrons, geometric, template, title-post
 
 ## What it is

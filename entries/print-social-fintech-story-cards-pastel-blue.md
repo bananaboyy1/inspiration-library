@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fintech-story-cards-pastel-blue.jpg)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** stories, fintech, pastel-blue, portrait-photo, 3d-card, glass-orb, app-badges
 
 ## What it is

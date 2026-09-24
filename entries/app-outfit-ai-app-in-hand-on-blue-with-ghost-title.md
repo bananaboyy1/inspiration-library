@@ -2,7 +2,7 @@
 
 ![](../images/app-outfit-ai-app-in-hand-on-blue-with-ghost-title.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** cobalt, blue, hand, ghost-type, fashion, cover, white-ui
 
 ## What it is

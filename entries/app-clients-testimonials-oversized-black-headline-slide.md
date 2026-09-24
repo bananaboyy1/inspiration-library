@@ -2,7 +2,7 @@
 
 ![](../images/app-clients-testimonials-oversized-black-headline-slide.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** testimonial, white, black, oversized-type, avatar, minimal, quote
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-navy-nft-marketplace-two-tilted-phones-with-lavender-accents.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** nft, navy, tilted, lavender, 3d, onboarding, cards
 
 ## What it is

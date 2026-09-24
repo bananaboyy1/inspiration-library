@@ -2,7 +2,7 @@
 
 ![](../images/app-event-splits-phone-in-flower-meadow-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** meadow, sky, events, thumbnail, phone, cover, green
 
 ## What it is

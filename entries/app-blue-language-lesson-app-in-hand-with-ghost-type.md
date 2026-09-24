@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-language-lesson-app-in-hand-with-ghost-type.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** language, blue, hand, ghost-type, lessons, pink, cover
 
 ## What it is

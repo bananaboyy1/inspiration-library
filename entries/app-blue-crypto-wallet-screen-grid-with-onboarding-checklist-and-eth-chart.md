@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-crypto-wallet-screen-grid-with-onboarding-checklist-and-eth-chart.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** crypto, wallet, blue, grid, checklist, eth, chart, fade
 
 ## What it is

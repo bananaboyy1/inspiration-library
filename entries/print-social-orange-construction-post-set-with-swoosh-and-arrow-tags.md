@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-construction-post-set-with-swoosh-and-arrow-tags.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** construction, orange, black, white, swoosh, arrows, photo, turkish
 
 ## What it is

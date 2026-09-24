@@ -2,7 +2,7 @@
 
 ![](../images/print-social-school-for-women-project-slide-with-pink-and-black-feed.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, social-media, cream, pink, black, feed-grid, crown-doodle, script-sticker
 
 ## What it is

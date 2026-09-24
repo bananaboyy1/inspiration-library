@@ -2,7 +2,7 @@
 
 ![](../images/branding-grid-system-columns-and-margins-spec-slide.jpg)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** grid, columns, spec, desktop, mobile, pink-glow, pills
 
 ## What it is

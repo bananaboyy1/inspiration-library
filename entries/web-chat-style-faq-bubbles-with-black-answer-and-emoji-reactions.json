@@ -3,6 +3,7 @@
   "image": "images/web-chat-style-faq-bubbles-with-black-answer-and-emoji-reactions.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Playful & Illustrated",
   "title": "FAQ shown as iMessage-like bubbles: grey questions with plus icons, an open one with a black answer bubble, and emoji reactions",
   "tags": [
     "component",

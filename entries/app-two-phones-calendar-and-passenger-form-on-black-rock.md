@@ -2,7 +2,7 @@
 
 ![](../images/app-two-phones-calendar-and-passenger-form-on-black-rock.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** calendar, form, booking, rock, lavender, blue, two-phones
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-language-learning-dashboard-laptop-on-orange-felt.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** laptop, orange, dark-ui, felt, education, dashboard, tilted
 
 ## What it is

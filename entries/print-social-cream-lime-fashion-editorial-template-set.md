@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-lime-fashion-editorial-template-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** fashion, cream, lime, editorial, serif-script, grain, templates
 
 ## What it is

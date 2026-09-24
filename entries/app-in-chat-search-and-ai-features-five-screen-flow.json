@@ -1,0 +1,39 @@
+{
+  "name": "app-in-chat-search-and-ai-features-five-screen-flow",
+  "image": "images/app-in-chat-search-and-ai-features-five-screen-flow.jpg",
+  "discipline": "app",
+  "designType": "Chat interface",
+  "designStyle": "Minimalist",
+  "title": "Five chat screens: search default, results, no results, AI features and mentions",
+  "tags": [
+    "chat",
+    "search",
+    "ai",
+    "filters",
+    "mobile",
+    "ui-kit"
+  ],
+  "whatItIs": "Five phones titled 'Chat Screens — In-Chat Search & AI': a search with filter chips (Messages, Groups, Photos, Links) and a 'No Results' empty state, a results list with the term highlighted, a skeleton loading state, a thread with an AI-highlighted purple message, and a thread showing mentions and tags.",
+  "whatItMeans": "Thorough and systematic; covering every search state shows a production-ready flow.",
+  "techniques": [
+    "Show default, results, loading and empty states side by side.",
+    "Use filter chips under the search field.",
+    "Highlight the matched term in results.",
+    "Use skeleton rows for loading."
+  ],
+  "bestFor": [
+    "Chat apps",
+    "Search UX documentation",
+    "AI feature design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Skeleton screen",
+      "definition": "Grey placeholder shapes shown while loading."
+    },
+    {
+      "term": "Filter chip",
+      "definition": "A small toggle button narrowing results."
+    }
+  ]
+}

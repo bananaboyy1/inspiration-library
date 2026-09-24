@@ -2,7 +2,7 @@
 
 ![](../images/branding-agritech-green-yellow-identity-grid.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity presentation
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** agriculture, green, yellow, monogram, brand-grid, business-cards, packaging, billboard
 
 ## What it is

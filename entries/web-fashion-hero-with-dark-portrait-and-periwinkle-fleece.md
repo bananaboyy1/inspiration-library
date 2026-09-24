@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-hero-with-dark-portrait-and-periwinkle-fleece.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** fashion, periwinkle, giant-type, cutout, dark-header, navy, nav, hero
 
 ## What it is

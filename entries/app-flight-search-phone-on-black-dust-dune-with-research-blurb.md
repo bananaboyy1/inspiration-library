@@ -2,7 +2,7 @@
 
 ![](../images/app-flight-search-phone-on-black-dust-dune-with-research-blurb.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** flight, dark, dust, particles, dune, blue, research
 
 ## What it is

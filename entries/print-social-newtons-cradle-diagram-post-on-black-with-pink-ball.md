@@ -2,7 +2,7 @@
 
 ![](../images/print-social-newtons-cradle-diagram-post-on-black-with-pink-ball.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** metaphor, black, pink, white, line-art, circles, minimal, cyrillic
 
 ## What it is

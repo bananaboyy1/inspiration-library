@@ -3,6 +3,7 @@
   "image": "images/web-tinted-alert-banners-info-warning-and-error-with-action-buttons.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Three stacked tinted alerts: blue trial notice, amber API-key warning and red payment failure, each with an icon and an action",
   "tags": [
     "component",

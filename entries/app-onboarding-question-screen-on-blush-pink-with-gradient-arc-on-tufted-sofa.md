@@ -2,7 +2,7 @@
 
 ![](../images/app-onboarding-question-screen-on-blush-pink-with-gradient-arc-on-tufted-sofa.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** onboarding, conversational, blush, gradient-arc, sofa, top-down, orange, pills
 
 ## What it is

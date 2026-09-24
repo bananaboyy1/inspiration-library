@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-project-result-stepped-percent-bars-slide.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** results, stats, stepped-bars, lavender, quote-mark, blue, travel
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-typography-and-colours-page-with-glass-weight-card.jpg)
 
-**Discipline:** app · **Design type:** Typography and colour guide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** typography, colour-palette, grey, glass-card, glow-swatches, green, red, fintech
 
 ## What it is

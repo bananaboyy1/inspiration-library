@@ -2,7 +2,7 @@
 
 ![](../images/app-black-smart-home-notes-app-flow-with-side-captions.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** black, notes, smart-home, lavender, yellow, flow, captions
 
 ## What it is

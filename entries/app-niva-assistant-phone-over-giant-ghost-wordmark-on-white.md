@@ -2,7 +2,7 @@
 
 ![](../images/app-niva-assistant-phone-over-giant-ghost-wordmark-on-white.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** assistant, ai, white, ghost-wordmark, gradient-arc, chips, project-cover, rounded
 
 ## What it is

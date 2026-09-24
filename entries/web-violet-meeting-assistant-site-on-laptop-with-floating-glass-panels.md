@@ -2,7 +2,7 @@
 
 ![](../images/web-violet-meeting-assistant-site-on-laptop-with-floating-glass-panels.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** laptop, violet, dark, glass, floating, ai, website, cover
 
 ## What it is

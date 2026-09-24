@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-tee-and-phone-case-with-red-white-mark.png)
 
-**Discipline:** branding · **Design type:** Apparel and merch
+**Discipline:** branding ·  · **Design style:** 3D & Surreal
 **Tags:** merch, t-shirt, phone-case, red, black, logo, stone
 
 ## What it is

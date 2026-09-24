@@ -2,7 +2,7 @@
 
 ![](../images/web-year-and-month-picker-grid-with-black-selected-month.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, date-picker, month-grid, white, black, toggle, minimal, ui-kit
 
 ## What it is

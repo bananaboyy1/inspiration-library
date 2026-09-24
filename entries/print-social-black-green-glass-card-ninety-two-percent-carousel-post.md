@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-green-glass-card-ninety-two-percent-carousel-post.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** carousel, black, green, glass, stat, progress-bar, learn-more, vector
 
 ## What it is

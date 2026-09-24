@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-grid-system-condensed-type-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** red, grid, condensed, yellow, geometric-shapes, educational, portrait
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-research-findings-long-sheet-with-black-bar-charts.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** research, survey, black, segmented-bar, white, groups, long
 
 ## What it is

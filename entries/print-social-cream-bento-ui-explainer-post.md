@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-bento-ui-explainer-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** bento, explainer, cream, black, yellow, grid, educational
 
 ## What it is

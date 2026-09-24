@@ -2,7 +2,7 @@
 
 ![](../images/app-monospace-crypto-wallet-and-swap-screens-with-black-pill-buttons.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** crypto, monospace, white, black, swap, keypad, minimal
 
 ## What it is

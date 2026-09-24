@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-mobile-site-phone-on-steel-frame.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** mobile-web, steel, grey, industrial, blue, isometric, hero
 
 ## What it is

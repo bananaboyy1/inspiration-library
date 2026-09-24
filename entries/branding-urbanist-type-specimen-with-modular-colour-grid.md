@@ -2,7 +2,7 @@
 
 ![](../images/branding-urbanist-type-specimen-with-modular-colour-grid.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** typography, specimen, colour-grid, blue, black, white, grey, hairlines
 
 ## What it is

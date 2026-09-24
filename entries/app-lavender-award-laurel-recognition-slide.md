@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-award-laurel-recognition-slide.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** award, laurel, lavender, serif, recognition, faded-photo, centered
 
 ## What it is

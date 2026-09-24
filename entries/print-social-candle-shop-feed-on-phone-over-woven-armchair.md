@@ -2,7 +2,7 @@
 
 ![](../images/print-social-candle-shop-feed-on-phone-over-woven-armchair.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** instagram, feed-grid, mockup, pastel, taupe, chair, brown-frame, candles
 
 ## What it is

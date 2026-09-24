@@ -2,7 +2,7 @@
 
 ![](../images/print-social-designer-folder-portfolio-cover.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** portfolio, desktop-metaphor, serif-script, cream, folders, file-icons, cursor
 
 ## What it is

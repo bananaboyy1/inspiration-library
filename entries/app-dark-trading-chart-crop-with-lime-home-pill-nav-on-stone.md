@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-trading-chart-crop-with-lime-home-pill-nav-on-stone.webp)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** trading, dark, green, chart, crop, stone, pill-nav
 
 ## What it is

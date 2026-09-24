@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-games-dashboard-with-lime-outline-pills-and-torn-ticket-card.webp)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, gaming, navy, lime, yellow, game-cards, donut, ticket-card
 
 ## What it is

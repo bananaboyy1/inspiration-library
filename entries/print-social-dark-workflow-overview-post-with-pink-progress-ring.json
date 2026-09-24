@@ -1,0 +1,40 @@
+{
+  "name": "print-social-dark-workflow-overview-post-with-pink-progress-ring",
+  "image": "images/print-social-dark-workflow-overview-post-with-pink-progress-ring.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Dark & Neon",
+  "title": "Dark 'Sample workflow overview' post with a pink progress ring carousel of stages",
+  "tags": [
+    "workflow",
+    "process",
+    "dark",
+    "pink",
+    "progress-ring",
+    "saas",
+    "carousel"
+  ],
+  "whatItIs": "A near-black portrait post with a white logo badge, a large 'Sample workflow overview' title, and a central ring gauge with a hot-pink progress stroke around 'Retention and conversion', flanked by faded rings for 'Awareness and reach' and 'Engagement and follow-up', plus avatar social proof at the bottom.",
+  "whatItMeans": "Focused and product-like; the faded neighbours imply a sequence, like a UI carousel frozen mid-swipe.",
+  "techniques": [
+    "Show one step in focus with neighbours faded to the sides.",
+    "Use a progress ring to show stage completion.",
+    "Add a soft colour glow behind the focal element.",
+    "Close with a row of avatars as social proof."
+  ],
+  "bestFor": [
+    "SaaS funnel explainers",
+    "Marketing process posts",
+    "Onboarding steps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Progress ring",
+      "definition": "A circular stroke showing a percentage."
+    },
+    {
+      "term": "Focus carousel",
+      "definition": "A row where the centre item is sharp and neighbours faded."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/branding-orange-stacked-bolt-mark-on-black-with-facade-lines.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, symbol, orange, black, real-estate, arrow, facade, wordmark
 
 ## What it is

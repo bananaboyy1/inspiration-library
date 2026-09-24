@@ -2,7 +2,7 @@
 
 ![](../images/web-black-market-share-tile-with-white-growth-bars-award-and-rating-tiles.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** stats, bento, black, white, grey, bars, star, tiles
 
 ## What it is

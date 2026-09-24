@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-app-long-case-study-with-problem-circles-and-handshake.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** real-estate, long-scroll, circles, problem-solution, handshake, for-sale, white
 
 ## What it is

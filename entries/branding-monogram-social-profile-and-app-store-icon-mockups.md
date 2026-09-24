@@ -2,7 +2,7 @@
 
 ![](../images/branding-monogram-social-profile-and-app-store-icon-mockups.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** monogram, app-icon, social-profile, black-and-white, warm-grey, fintech, digital-application
 
 ## What it is

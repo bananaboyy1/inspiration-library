@@ -2,7 +2,7 @@
 
 ![](../images/print-social-hand-drawn-line-figure-explainer-with-pink-highlights.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** psychology, doodle, line-art, pink, white, timeline, handwritten, ukrainian
 
 ## What it is

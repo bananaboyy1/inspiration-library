@@ -2,7 +2,7 @@
 
 ![](../images/web-figma-ui-kit-with-lime-lilac-cards-on-laptop-photo.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** figma, laptop, photo, lime, lilac, cards, exchange, space-grotesk
 
 ## What it is

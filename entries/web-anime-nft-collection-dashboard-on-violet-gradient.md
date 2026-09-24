@@ -2,7 +2,7 @@
 
 ![](../images/web-anime-nft-collection-dashboard-on-violet-gradient.webp)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** dashboard, nft, anime, pink, white-ui, rounded, violet-gradient, illustration
 
 ## What it is

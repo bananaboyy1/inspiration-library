@@ -2,7 +2,7 @@
 
 ![](../images/print-social-playful-supplement-infographic-set.png)
 
-**Discipline:** print-social · **Design type:** Product infographic set
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** e-commerce, infographic, packaging, illustration, planets, gummies, indigo-green, listing-images
 
 ## What it is

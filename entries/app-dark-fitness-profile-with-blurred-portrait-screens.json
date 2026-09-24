@@ -3,6 +3,7 @@
   "image": "images/app-dark-fitness-profile-with-blurred-portrait-screens.png",
   "discipline": "app",
   "designType": "Fitness app screens",
+  "designStyle": "Glassmorphism",
   "title": "Fitness profiles with moody purple-blur portraits and grey glass rows",
   "tags": [
     "fitness",

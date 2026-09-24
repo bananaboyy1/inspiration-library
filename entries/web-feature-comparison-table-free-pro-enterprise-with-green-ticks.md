@@ -2,7 +2,7 @@
 
 ![](../images/web-feature-comparison-table-free-pro-enterprise-with-green-ticks.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, table, pricing, comparison, green-ticks, white, minimal, plans
 
 ## What it is

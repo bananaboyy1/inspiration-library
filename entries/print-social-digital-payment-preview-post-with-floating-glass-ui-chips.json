@@ -1,0 +1,39 @@
+{
+  "name": "print-social-digital-payment-preview-post-with-floating-glass-ui-chips",
+  "image": "images/print-social-digital-payment-preview-post-with-floating-glass-ui-chips.jpg",
+  "discipline": "print-social",
+  "designType": "Product UI promo card",
+  "designStyle": "Glassmorphism",
+  "title": "'Digital payment preview layout' post with a smiling woman and floating glass UI chips",
+  "tags": [
+    "fintech",
+    "payment",
+    "green",
+    "glass",
+    "portrait",
+    "dark"
+  ],
+  "whatItIs": "A portrait post with a smiling curly-haired woman holding a phone on a dark green gradient, three floating frosted-glass chips ('Quick preview', 'Simple payment', and an outlined 'Preview now' button with a cursor), a green and white headline and a row of three contact buttons (brand logo, phone, handle).",
+  "whatItMeans": "Human and trustworthy; glass UI chips connect a real person to the product's features.",
+  "techniques": [
+    "Float glass UI chips around a portrait.",
+    "Add a cursor on a button to imply action.",
+    "Close with a row of pill contact buttons.",
+    "Glow a dark green gradient behind the subject."
+  ],
+  "bestFor": [
+    "Payment apps",
+    "Fintech ads",
+    "App feature promos"
+  ],
+  "vocabulary": [
+    {
+      "term": "UI chip",
+      "definition": "A small floating interface element."
+    },
+    {
+      "term": "Glassmorphism",
+      "definition": "Frosted translucent panels with blur."
+    }
+  ]
+}

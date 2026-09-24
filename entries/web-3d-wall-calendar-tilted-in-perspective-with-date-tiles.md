@@ -2,7 +2,7 @@
 
 ![](../images/web-3d-wall-calendar-tilted-in-perspective-with-date-tiles.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, calendar, 3d, perspective, white, blue, tiles, form
 
 ## What it is

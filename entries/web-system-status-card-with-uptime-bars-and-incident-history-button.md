@@ -2,7 +2,7 @@
 
 ![](../images/web-system-status-card-with-uptime-bars-and-incident-history-button.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** component, status, uptime, green, red, bars, white, monitoring
 
 ## What it is

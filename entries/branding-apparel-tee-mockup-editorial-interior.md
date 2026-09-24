@@ -2,7 +2,7 @@
 
 ![](../images/branding-apparel-tee-mockup-editorial-interior.png)
 
-**Discipline:** branding · **Design type:** Apparel and merch
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** apparel, t-shirt, mockup, editorial, antique-interior, black-and-cream, graphic-print
 
 ## What it is

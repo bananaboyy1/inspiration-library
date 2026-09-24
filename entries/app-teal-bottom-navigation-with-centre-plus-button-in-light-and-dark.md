@@ -2,7 +2,7 @@
 
 ![](../images/app-teal-bottom-navigation-with-centre-plus-button-in-light-and-dark.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** bottom-nav, teal, light-dark, fab, ai-assistant, gradient-backdrop, icons
 
 ## What it is

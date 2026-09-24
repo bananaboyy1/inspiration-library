@@ -2,7 +2,7 @@
 
 ![](../images/branding-labyrinth-monogram-with-spaced-wordmark.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** 3D & Surreal
 **Tags:** logo, monoline, maze, infinity, black-and-white, wellness, stationery, packaging
 
 ## What it is

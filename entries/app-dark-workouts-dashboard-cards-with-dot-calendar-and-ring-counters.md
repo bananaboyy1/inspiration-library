@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-workouts-dashboard-cards-with-dot-calendar-and-ring-counters.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** workouts, dark, cards, dot-calendar, ring, minimal, monochrome
 
 ## What it is

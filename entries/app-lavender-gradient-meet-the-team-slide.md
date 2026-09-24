@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-gradient-meet-the-team-slide.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** team, portraits, lavender, dashed-path, duotone, minimal
 
 ## What it is

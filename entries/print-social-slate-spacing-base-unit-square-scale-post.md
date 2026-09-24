@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-spacing-base-unit-square-scale-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** educational, spacing, slate, cream, squares, scale, rule-1
 
 ## What it is

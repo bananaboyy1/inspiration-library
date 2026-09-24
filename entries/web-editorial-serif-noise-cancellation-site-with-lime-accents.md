@@ -2,7 +2,7 @@
 
 ![](../images/web-editorial-serif-noise-cancellation-site-with-lime-accents.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** editorial, serif-italic, monospace, lime, black, cream, technical, pricing
 
 ## What it is

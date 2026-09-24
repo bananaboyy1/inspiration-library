@@ -3,6 +3,7 @@
   "image": "images/web-four-kpi-stat-cards-with-delta-arrows-beside-heading-block.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "Section with a dark 'Platform' pill and headline beside a 2x2 grid of KPI cards showing values, deltas and arrows",
   "tags": [
     "component",

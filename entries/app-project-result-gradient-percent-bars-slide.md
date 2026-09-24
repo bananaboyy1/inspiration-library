@@ -2,7 +2,7 @@
 
 ![](../images/app-project-result-gradient-percent-bars-slide.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** results, bars, orange, blue, purple, grey, logo-watermark
 
 ## What it is

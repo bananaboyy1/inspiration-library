@@ -3,6 +3,7 @@
   "image": "images/web-whats-new-badge-with-outlined-violet-pill-and-release-link.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Centred announcement: violet outlined pill 'What's new?' followed by grey 'Just released v4.3.1 >' on white",
   "tags": [
     "component",

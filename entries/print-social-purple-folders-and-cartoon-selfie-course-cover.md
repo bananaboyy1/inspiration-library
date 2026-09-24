@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-folders-and-cartoon-selfie-course-cover.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** education, beige, lilac, blue-banners, folders, cursor, 3d-cartoon, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-journey-day-planner-close-up.jpg)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** planner, close-up, white, black, lilac, medication, date-picker
 
 ## What it is

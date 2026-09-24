@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-and-indigo-consulting-carousel.webp)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** instagram, carousel, lime, indigo, consulting, bubble-bullets, photo-cutout, phone-mockup
 
 ## What it is

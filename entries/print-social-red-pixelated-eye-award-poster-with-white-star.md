@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-pixelated-eye-award-poster-with-white-star.png)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** award, fashion, red, pixelated, white-type, star, copyright-symbol, poster
 
 ## What it is

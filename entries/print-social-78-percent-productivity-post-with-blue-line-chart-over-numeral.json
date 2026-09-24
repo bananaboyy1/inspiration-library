@@ -1,0 +1,39 @@
+{
+  "name": "print-social-78-percent-productivity-post-with-blue-line-chart-over-numeral",
+  "image": "images/print-social-78-percent-productivity-post-with-blue-line-chart-over-numeral.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Dark & Neon",
+  "title": "'Productivity increases by 78%' post with a glowing blue line chart crossing a huge numeral",
+  "tags": [
+    "stats",
+    "ai",
+    "blue",
+    "chart",
+    "numeral",
+    "dark"
+  ],
+  "whatItIs": "A portrait black post with a white X logo, a single centred sentence, a huge blue '78%' partly hidden behind a glowing blue wave line chart with white data points and vertical drop lines, and a blue gradient fill below.",
+  "whatItMeans": "Data-driven and dramatic; the chart literally rises through the stat.",
+  "techniques": [
+    "Let a line chart overlap a giant numeral.",
+    "Mark data points with white dots and drop lines.",
+    "Fill under the curve with a gradient.",
+    "Keep the text to one sentence."
+  ],
+  "bestFor": [
+    "Statistic posts",
+    "AI productivity claims",
+    "Data storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Drop line",
+      "definition": "A vertical line from a data point to the baseline."
+    },
+    {
+      "term": "Hero stat",
+      "definition": "A single number shown very large."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "print-social-novavista-elevate-your-style-post-with-pendant-closeup",
+  "image": "images/print-social-novavista-elevate-your-style-post-with-pendant-closeup.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Minimalist",
+  "title": "Cream 'Elevate your style, simplify your life.' post with a green pendant close-up in a ruled grid",
+  "tags": [
+    "fashion",
+    "jewellery",
+    "cream",
+    "grid",
+    "minimal",
+    "shop-now"
+  ],
+  "whatItIs": "A square cream post with a top row of ruled cells (arrow icon, 'Shop now', URL), a centred black uppercase headline, a wide close-up photo of a green drop pendant on a cream turtleneck, and a footer with a line of copy and a bold 'N' logo.",
+  "whatItMeans": "Calm and luxurious; one detail shot and lots of cream space feel curated.",
+  "techniques": [
+    "Build header and footer as ruled table rows.",
+    "Let one detail photo carry the post.",
+    "Centre a two-line uppercase headline."
+  ],
+  "bestFor": [
+    "Jewellery promos",
+    "Minimal fashion ads",
+    "Boutique brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Detail shot",
+      "definition": "A close-up of one product feature."
+    },
+    {
+      "term": "Table layout",
+      "definition": "A design structured by cells and lines."
+    }
+  ]
+}

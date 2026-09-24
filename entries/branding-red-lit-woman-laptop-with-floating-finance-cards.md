@@ -2,7 +2,7 @@
 
 ![](../images/branding-red-lit-woman-laptop-with-floating-finance-cards.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** red, portrait, laptop, cards, lines, night, fintech
 
 ## What it is

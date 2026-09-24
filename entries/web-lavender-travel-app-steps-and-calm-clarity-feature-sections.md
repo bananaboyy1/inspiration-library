@@ -2,7 +2,7 @@
 
 ![](../images/web-lavender-travel-app-steps-and-calm-clarity-feature-sections.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** travel, lavender, cards, steps, circled-word, phones, sky
 
 ## What it is

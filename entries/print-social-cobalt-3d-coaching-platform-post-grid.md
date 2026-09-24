@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-3d-coaching-platform-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** coaching, cobalt, 3d-objects, brain, chess, puzzle, grid, platform-launch
 
 ## What it is

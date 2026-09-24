@@ -2,7 +2,7 @@
 
 ![](../images/print-social-photo-with-cream-paper-event-cards-and-blue-blob-dates.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** events, serif, cream-paper, blue-blobs, photo, list, vegan
 
 ## What it is

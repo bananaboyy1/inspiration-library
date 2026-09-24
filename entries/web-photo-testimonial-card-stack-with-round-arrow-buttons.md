@@ -2,7 +2,7 @@
 
 ![](../images/web-photo-testimonial-card-stack-with-round-arrow-buttons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** component, testimonial, card-stack, portrait, black-buttons, pale-lilac, shadow, carousel
 
 ## What it is

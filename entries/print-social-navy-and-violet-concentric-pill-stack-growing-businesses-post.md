@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-violet-concentric-pill-stack-growing-businesses-post.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** navy, violet, concentric-pills, gradient, startup, cta, tall-post
 
 ## What it is

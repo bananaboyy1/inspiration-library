@@ -2,7 +2,7 @@
 
 ![](../images/app-property-app-long-case-study-with-for-sale-sign.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** real-estate, long-scroll, white, sign, monitor, teal, process
 
 ## What it is

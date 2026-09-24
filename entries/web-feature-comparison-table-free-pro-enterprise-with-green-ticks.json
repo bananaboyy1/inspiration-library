@@ -3,6 +3,7 @@
   "image": "images/web-feature-comparison-table-free-pro-enterprise-with-green-ticks.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Plan comparison table with hairline rows, green ticks, grey dashes and values like 'Up to 3' and '1 TB'",
   "tags": [
     "component",

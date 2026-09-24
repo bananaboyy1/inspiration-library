@@ -2,7 +2,7 @@
 
 ![](../images/app-black-orange-wallet-phone-beside-large-phone-back-and-wordmark.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** wallet, black, orange, huge-wordmark, phone-back, glow, cover
 
 ## What it is

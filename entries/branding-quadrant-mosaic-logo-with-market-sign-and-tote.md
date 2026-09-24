@@ -2,7 +2,7 @@
 
 ![](../images/branding-quadrant-mosaic-logo-with-market-sign-and-tote.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, geometric, mosaic, market, coral, light-box, tote
 
 ## What it is

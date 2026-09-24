@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-black-brand-struggle-post-with-tilted-chat-cards.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** lime, black, chat, tilted-cards, ghost-type, agency, headline, vector
 
 ## What it is

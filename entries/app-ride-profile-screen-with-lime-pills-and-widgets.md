@@ -2,7 +2,7 @@
 
 ![](../images/app-ride-profile-screen-with-lime-pills-and-widgets.png)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** profile, lime, black, pills, stats, widgets, circular-nav, white
 
 ## What it is

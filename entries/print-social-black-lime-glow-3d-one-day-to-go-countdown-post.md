@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-lime-glow-3d-one-day-to-go-countdown-post.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** countdown, 3d, lime, black, glow, grid-floor, launch, vector
 
 ## What it is

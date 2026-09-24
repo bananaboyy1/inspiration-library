@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-grid-card-company-news-carousel-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** carousel, white, blue, grid-paper, news, portrait, icons
 
 ## What it is

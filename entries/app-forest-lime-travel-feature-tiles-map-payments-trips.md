@@ -2,7 +2,7 @@
 
 ![](../images/app-forest-lime-travel-feature-tiles-map-payments-trips.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** travel, forest-green, lime, features, cards, map, payment, bento
 
 ## What it is

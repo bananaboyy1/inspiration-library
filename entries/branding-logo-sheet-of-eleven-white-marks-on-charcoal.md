@@ -2,7 +2,7 @@
 
 ![](../images/branding-logo-sheet-of-eleven-white-marks-on-charcoal.jpg)
 
-**Discipline:** branding · **Design type:** Logo collection
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** logo-collection, white-on-dark, badges, mascot, script, crest, monogram, grid
 
 ## What it is

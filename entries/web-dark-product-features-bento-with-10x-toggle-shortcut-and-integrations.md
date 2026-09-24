@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-product-features-bento-with-10x-toggle-shortcut-and-integrations.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, dark, bento, toggle, stats, shortcut-keys, orange, cards
 
 ## What it is

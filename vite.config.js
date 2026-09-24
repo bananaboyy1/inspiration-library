@@ -3,23 +3,25 @@ import react from '@vitejs/plugin-react'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Serves ./images at /images in dev and copies it into dist/ on build,
+// Serves ./images at /images and ./thumbs at /thumbs in dev/preview, and copies both into dist/ on build,
 // so entries' "images/<name>.<ext>" paths work unchanged.
-function serveImages() {
-  const dir = path.resolve('images')
-  const types = { '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif', '.avif': 'image/avif' }
+const DIRS = ['images', 'thumbs']
+const TYPES = { '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif', '.avif': 'image/avif' }
+
+function serveAssets() {
   const handler = (req, res, next) => {
     const url = decodeURIComponent((req.url || '').split('?')[0])
-    const m = url.match(/^\/images\/([^/]+)$/)
+    const m = url.match(/^\/(images|thumbs)\/([^/]+)$/)
     if (!m) return next()
-    const file = path.join(dir, m[1])
-    const type = types[path.extname(file).toLowerCase()]
+    const file = path.join(path.resolve(m[1]), m[2])
+    const type = TYPES[path.extname(file).toLowerCase()]
     if (!type || !fs.existsSync(file)) return next()
     res.setHeader('Content-Type', type)
+    res.setHeader('Cache-Control', 'public, max-age=3600')
     fs.createReadStream(file).pipe(res)
   }
   return {
-    name: 'serve-images',
+    name: 'serve-assets',
     // Braces matter: returning the middleware app makes Vite call it as a post hook.
     configureServer(server) {
       server.middlewares.use(handler)
@@ -28,10 +30,14 @@ function serveImages() {
       server.middlewares.use(handler)
     },
     closeBundle() {
-      const out = path.resolve('dist/images')
-      fs.mkdirSync(out, { recursive: true })
-      for (const f of fs.readdirSync(dir)) {
-        if (types[path.extname(f).toLowerCase()]) fs.copyFileSync(path.join(dir, f), path.join(out, f))
+      for (const d of DIRS) {
+        const from = path.resolve(d)
+        if (!fs.existsSync(from)) continue
+        const to = path.resolve('dist', d)
+        fs.mkdirSync(to, { recursive: true })
+        for (const f of fs.readdirSync(from)) {
+          if (TYPES[path.extname(f).toLowerCase()]) fs.copyFileSync(path.join(from, f), path.join(to, f))
+        }
       }
     },
   }
@@ -39,6 +45,6 @@ function serveImages() {
 
 export default defineConfig({
   base: './',
-  plugins: [react(), serveImages()],
+  plugins: [react(), serveAssets()],
   server: { fs: { allow: ['.'] } },
 })

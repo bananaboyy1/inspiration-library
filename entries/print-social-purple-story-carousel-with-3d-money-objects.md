@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-story-carousel-with-3d-money-objects.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** carousel, fintech, purple, 3d-cash, storytelling, swipe-pill, app-badges, sequence
 
 ## What it is

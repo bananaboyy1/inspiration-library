@@ -2,7 +2,7 @@
 
 ![](../images/web-modular-grid-configurator-on-laptop-ice.png)
 
-**Discipline:** web · **Design type:** Interactive site concept
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** grid, monochrome, configurator, laptop-mockup, ice, minimal, monospace, interactive
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-social-profile-cards-with-logo-avatars-in-violet-and-white.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** social-profile, avatar, violet, white, black, cards, follow-button, logo
 
 ## What it is

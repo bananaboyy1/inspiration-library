@@ -2,7 +2,7 @@
 
 ![](../images/branding-logo-on-blurred-station-screen-with-walking-silhouette.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** billboard, ooh, violet, white, motion-blur, silhouette, tunnel, logo
 
 ## What it is

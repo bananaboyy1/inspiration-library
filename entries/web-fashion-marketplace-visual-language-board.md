@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-marketplace-visual-language-board.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** e-commerce, fashion, dark-navy, photo-backdrop, product-page, desktop-mobile, minimal
 
 ## What it is

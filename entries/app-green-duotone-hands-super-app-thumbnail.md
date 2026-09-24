@@ -2,7 +2,7 @@
 
 ![](../images/app-green-duotone-hands-super-app-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** green, duotone, hands, thumbnail, super-app, dark, cover
 
 ## What it is

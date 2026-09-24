@@ -2,7 +2,7 @@
 
 ![](../images/branding-lime-and-black-ui-cards-tote-and-stickers-board.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** lime, black, ui-cards, tote, stickers, 3d-perspective, mobility, merch
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-tangled-serif-monogram-on-knit-label-and-card.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** monogram, serif, calligraphic, apparel, woven-label, business-card, brown, minimal
 
 ## What it is

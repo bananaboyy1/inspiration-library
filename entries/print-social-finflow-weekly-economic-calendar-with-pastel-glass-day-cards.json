@@ -1,0 +1,39 @@
+{
+  "name": "print-social-finflow-weekly-economic-calendar-with-pastel-glass-day-cards",
+  "image": "images/print-social-finflow-weekly-economic-calendar-with-pastel-glass-day-cards.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Glassmorphism",
+  "title": "'finflow' Weekly Economic Calendar with pastel glass day cards and currency bubbles",
+  "tags": [
+    "finance",
+    "calendar",
+    "pastel",
+    "glass",
+    "currency",
+    "economics"
+  ],
+  "whatItIs": "A portrait post on a pale blue-to-lilac gradient with 'finflow' branding, a black and magenta 'Weekly Economic Calendar' title, a row of frosted glass day cards (Mar 2–8) sized by importance, each holding white currency bubbles (¥, €, $, A$, C$) with Thursday's euro enlarged, and a two-column list of events by date below.",
+  "whatItMeans": "Light and approachable; soft glass cards make dense economic data feel friendly.",
+  "techniques": [
+    "Size day cards by importance with the key day largest.",
+    "Show currencies as white circle bubbles.",
+    "Fade outer days to focus the week.",
+    "Follow the visual with a dated two-column list."
+  ],
+  "bestFor": [
+    "Finance newsletters",
+    "Trading education",
+    "Weekly calendars"
+  ],
+  "vocabulary": [
+    {
+      "term": "Emphasis scaling",
+      "definition": "Making important items bigger."
+    },
+    {
+      "term": "Currency symbol",
+      "definition": "A sign such as $, € or ¥."
+    }
+  ]
+}

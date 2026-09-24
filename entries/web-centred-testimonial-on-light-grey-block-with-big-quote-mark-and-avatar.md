@@ -2,7 +2,7 @@
 
 ![](../images/web-centred-testimonial-on-light-grey-block-with-big-quote-mark-and-avatar.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** component, testimonial, quote, grey, centred, avatar, italic, minimal
 
 ## What it is

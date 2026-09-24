@@ -2,7 +2,7 @@
 
 ![](../images/web-team-directory-with-collapsible-departments-and-status-dots.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, directory, collapsible, status-dots, white, green, amber, list
 
 ## What it is

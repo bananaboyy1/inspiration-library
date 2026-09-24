@@ -2,7 +2,7 @@
 
 ![](../images/web-project-management-landing-sections-with-cyan-frame-and-feature-bento.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, productivity, white, cyan, orange, bento, dashboard, icons
 
 ## What it is

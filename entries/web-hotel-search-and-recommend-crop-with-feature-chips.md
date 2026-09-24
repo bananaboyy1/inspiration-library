@@ -2,7 +2,7 @@
 
 ![](../images/web-hotel-search-and-recommend-crop-with-feature-chips.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** hotel, search, recommend, chips, blue, lavender, crop
 
 ## What it is

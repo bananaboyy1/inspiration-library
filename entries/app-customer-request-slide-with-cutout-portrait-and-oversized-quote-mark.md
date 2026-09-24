@@ -2,7 +2,7 @@
 
 ![](../images/app-customer-request-slide-with-cutout-portrait-and-oversized-quote-mark.jpg)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** customer-request, portrait, quote, grey, gradient, wallet, serif-free
 
 ## What it is

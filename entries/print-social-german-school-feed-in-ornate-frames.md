@@ -2,7 +2,7 @@
 
 ![](../images/print-social-german-school-feed-in-ornate-frames.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** feed-grid, frames, pink, blue-paper, serif-script, german, gallery, portfolio-cover
 
 ## What it is

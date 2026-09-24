@@ -2,7 +2,7 @@
 
 ![](../images/print-social-school-profile-on-phone-leaning-on-green-fluted-cushions.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** instagram, feed-grid, mockup, green, leather, fluted, cream-frame, 3d-scene
 
 ## What it is

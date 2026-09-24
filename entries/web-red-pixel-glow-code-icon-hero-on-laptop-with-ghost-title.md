@@ -2,7 +2,7 @@
 
 ![](../images/web-red-pixel-glow-code-icon-hero-on-laptop-with-ghost-title.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** laptop-mockup, dark, red, pixel-glow, ghost-title, saas, tags, project-cover
 
 ## What it is

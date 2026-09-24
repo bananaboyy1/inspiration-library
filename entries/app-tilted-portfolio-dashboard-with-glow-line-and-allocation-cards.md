@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-portfolio-dashboard-with-glow-line-and-allocation-cards.png)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** dashboard, real-estate, investment, light-grey, lime, glow-line, monitor, cards
 
 ## What it is

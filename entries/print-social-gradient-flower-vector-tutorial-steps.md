@@ -2,7 +2,7 @@
 
 ![](../images/print-social-gradient-flower-vector-tutorial-steps.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** tutorial, steps, gradient, flower, vector, dark, how-to
 
 ## What it is

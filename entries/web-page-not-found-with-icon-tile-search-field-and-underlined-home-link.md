@@ -2,7 +2,7 @@
 
 ![](../images/web-page-not-found-with-icon-tile-search-field-and-underlined-home-link.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** 404, error-page, white, black, search, icon-tile, minimal, centered
 
 ## What it is

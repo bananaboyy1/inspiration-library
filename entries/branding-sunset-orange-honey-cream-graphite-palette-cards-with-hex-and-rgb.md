@@ -2,7 +2,7 @@
 
 ![](../images/branding-sunset-orange-honey-cream-graphite-palette-cards-with-hex-and-rgb.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** palette, orange, cream, white, ash, graphite, rounded-cards, hex-rgb
 
 ## What it is

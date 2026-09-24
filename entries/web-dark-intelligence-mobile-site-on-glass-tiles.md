@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-intelligence-mobile-site-on-glass-tiles.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** mobile-web, dark, globe, blue, glass-blocks, gradient-type, phone, consulting
 
 ## What it is

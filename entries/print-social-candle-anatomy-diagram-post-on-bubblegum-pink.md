@@ -2,7 +2,7 @@
 
 ![](../images/print-social-candle-anatomy-diagram-post-on-bubblegum-pink.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** candle, diagram, pink, cream, yellow, arrows, product, cyrillic
 
 ## What it is

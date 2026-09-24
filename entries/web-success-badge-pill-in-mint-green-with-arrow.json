@@ -3,6 +3,7 @@
   "image": "images/web-success-badge-pill-in-mint-green-with-arrow.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Mint green pill badge 'Success | New feature added ↗' with a lighter inner tag",
   "tags": [
     "component",

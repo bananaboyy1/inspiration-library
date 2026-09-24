@@ -2,7 +2,7 @@
 
 ![](../images/app-black-onboarding-screens-with-white-buttons.png)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** onboarding, black, minimal, selection-cards, checkboxes, subscription, stepper, case-study
 
 ## What it is

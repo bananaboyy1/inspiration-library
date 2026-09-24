@@ -2,7 +2,7 @@
 
 ![](../images/web-3d-podium-department-store-homepage.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** ecommerce, podium, yellow, green, 3d, department-store, categories
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-outdoor-fashion-bento-hero-with-shop-now-circle.jpg)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** fashion, bento, hero, olive, heavy-type, photo-tiles, pill-nav, hats
 
 ## What it is

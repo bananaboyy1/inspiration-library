@@ -2,7 +2,7 @@
 
 ![](../images/web-creative-agency-page-with-pink-and-red-spray-texture.webp)
 
-**Discipline:** web · **Design type:** Agency site
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** agency, spray-texture, pink, red, inline-images, service-cards, light-weight-type, stacked-cards
 
 ## What it is

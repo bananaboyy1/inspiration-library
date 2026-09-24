@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-maze-pattern-faq-cover-with-hand-holding-blue-ticket.png)
 
-**Discipline:** print-social · **Design type:** Social carousel cover
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** carousel, cover, faq, maze-pattern, hand, blue-ticket, curved-bands, black-white-photo
 
 ## What it is

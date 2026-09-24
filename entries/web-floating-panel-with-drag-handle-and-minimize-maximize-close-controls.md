@@ -2,7 +2,7 @@
 
 ![](../images/web-floating-panel-with-drag-handle-and-minimize-maximize-close-controls.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, panel, floating, draggable, white, window-controls, cursor, minimal
 
 ## What it is

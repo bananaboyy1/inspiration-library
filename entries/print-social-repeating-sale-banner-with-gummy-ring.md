@@ -2,7 +2,7 @@
 
 ![](../images/print-social-repeating-sale-banner-with-gummy-ring.gif)
 
-**Discipline:** print-social · **Design type:** Animated banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, sale, cobalt, gummies, ring, pixel-type, serif, animated
 
 ## What it is

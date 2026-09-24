@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-cola-can-stage-with-swallow-screens-and-light-bars.jpg)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** event, stage, red, gold, can, led-screens, 3d-render, festive
 
 ## What it is

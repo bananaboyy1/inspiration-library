@@ -2,7 +2,7 @@
 
 ![](../images/app-icon-store-card-and-dynamic-island-integration-board.gif)
 
-**Discipline:** app · **Design type:** App icon showcase
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** app-icon, store-card, dynamic-island, lime, black, home-screen, board, integration
 
 ## What it is

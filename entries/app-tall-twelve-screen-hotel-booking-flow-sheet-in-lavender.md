@@ -2,7 +2,7 @@
 
 ![](../images/app-tall-twelve-screen-hotel-booking-flow-sheet-in-lavender.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** screen-sheet, hotel, booking, lavender, blue, payment, profile
 
 ## What it is

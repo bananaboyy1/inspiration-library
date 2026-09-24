@@ -2,7 +2,7 @@
 
 ![](../images/app-black-problem-statement-slide-with-large-sans.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** case-study, problem-statement, black, white-type, centered, minimal, large-type
 
 ## What it is

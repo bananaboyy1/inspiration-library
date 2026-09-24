@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-pet-store-homepage-with-deals-banner-and-product-row.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** pet-store, orange, cream, banner, categories, product-cards, friendly
 
 ## What it is

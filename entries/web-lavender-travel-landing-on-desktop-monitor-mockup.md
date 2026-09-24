@@ -2,7 +2,7 @@
 
 ![](../images/web-lavender-travel-landing-on-desktop-monitor-mockup.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** monitor, travel, lavender, circled-word, dark-backdrop, hero, white-desk
 
 ## What it is

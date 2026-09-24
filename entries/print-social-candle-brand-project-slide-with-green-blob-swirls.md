@@ -2,7 +2,7 @@
 
 ![](../images/print-social-candle-brand-project-slide-with-green-blob-swirls.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, social-media, cream, green, blob, feed-grid, script-sticker, candles
 
 ## What it is

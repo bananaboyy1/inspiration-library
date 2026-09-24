@@ -2,7 +2,7 @@
 
 ![](../images/web-cookie-consent-card-with-cookie-illustration-and-violet-accept-button.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, cookie-banner, consent, white, violet, illustration, card, privacy
 
 ## What it is

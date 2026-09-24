@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-and-orange-architecture-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** architecture, construction, cobalt, orange, arcs, photo-crops, templates, grid
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-triangle-tile-and-echo-blur-poster-pair.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** posters, yellow, orange, blue, tessellation, echo-effect, heavy-type, abstract
 
 ## What it is

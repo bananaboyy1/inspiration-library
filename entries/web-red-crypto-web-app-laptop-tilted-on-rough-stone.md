@@ -2,7 +2,7 @@
 
 ![](../images/web-red-crypto-web-app-laptop-tilted-on-rough-stone.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop, red, black, crypto, stone, dashboard, tilted
 
 ## What it is

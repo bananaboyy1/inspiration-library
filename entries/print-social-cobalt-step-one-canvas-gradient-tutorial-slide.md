@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-step-one-canvas-gradient-tutorial-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** tutorial, cobalt, step-1, gradient, grid, sparkles, swipe
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-block-shapes-recruitment-posts-with-cutout-portraits.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** recruitment, violet, coral, yellow, blocks, cutout, instagram, carousel
 
 ## What it is

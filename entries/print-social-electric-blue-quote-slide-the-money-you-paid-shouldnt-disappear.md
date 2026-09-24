@@ -2,7 +2,7 @@
 
 ![](../images/print-social-electric-blue-quote-slide-the-money-you-paid-shouldnt-disappear.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** carousel, electric-blue, white-type, quote-mark, statement, centered, ticket-logo
 
 ## What it is

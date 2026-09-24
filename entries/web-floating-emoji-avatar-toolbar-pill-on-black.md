@@ -2,7 +2,7 @@
 
 ![](../images/web-floating-emoji-avatar-toolbar-pill-on-black.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, toolbar, pill, avatars, emoji, online-status, black, white
 
 ## What it is

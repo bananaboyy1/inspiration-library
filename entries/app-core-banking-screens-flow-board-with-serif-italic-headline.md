@@ -2,7 +2,7 @@
 
 ![](../images/app-core-banking-screens-flow-board-with-serif-italic-headline.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** fintech, slate-blue, italic-serif, flow, keypad, bottom-sheet, phones, pill-tabs
 
 ## What it is

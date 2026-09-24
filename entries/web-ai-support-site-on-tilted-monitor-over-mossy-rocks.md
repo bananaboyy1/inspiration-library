@@ -2,7 +2,7 @@
 
 ![](../images/web-ai-support-site-on-tilted-monitor-over-mossy-rocks.webp)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** mockup, monitor, moss, green, white-ui, blue-accent, ai, perspective
 
 ## What it is

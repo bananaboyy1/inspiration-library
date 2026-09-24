@@ -2,7 +2,7 @@
 
 ![](../images/web-headphone-shop-with-forest-green-banner-and-product-cards.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** e-commerce, green, peach, cream, product-grid, filters, checkout, categories
 
 ## What it is

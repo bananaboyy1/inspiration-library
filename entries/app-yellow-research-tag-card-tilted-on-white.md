@@ -2,7 +2,7 @@
 
 ![](../images/app-yellow-research-tag-card-tilted-on-white.gif)
 
-**Discipline:** app · **Design type:** Design process showcase
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** process, yellow, tilted-card, research, white, tags
 
 ## What it is

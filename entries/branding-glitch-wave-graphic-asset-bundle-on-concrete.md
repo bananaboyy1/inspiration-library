@@ -2,7 +2,7 @@
 
 ![](../images/branding-glitch-wave-graphic-asset-bundle-on-concrete.png)
 
-**Discipline:** branding · **Design type:** Graphic assets
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** assets, graphics, chrome, teal, pink, black, flat-lay, bundle, mockup
 
 ## What it is

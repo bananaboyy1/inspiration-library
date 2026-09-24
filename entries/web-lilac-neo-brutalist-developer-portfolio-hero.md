@@ -2,7 +2,7 @@
 
 ![](../images/web-lilac-neo-brutalist-developer-portfolio-hero.webp)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, neo-brutalism, lilac, lime, marquee, grid-lines, sticker, responsive
 
 ## What it is

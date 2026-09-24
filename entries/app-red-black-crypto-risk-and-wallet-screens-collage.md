@@ -2,7 +2,7 @@
 
 ![](../images/app-red-black-crypto-risk-and-wallet-screens-collage.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** crypto, red, black, risk-score, charts, dark, tiles
 
 ## What it is

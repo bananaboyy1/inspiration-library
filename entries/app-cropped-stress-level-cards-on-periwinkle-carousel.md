@@ -2,7 +2,7 @@
 
 ![](../images/app-cropped-stress-level-cards-on-periwinkle-carousel.gif)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** cards, periwinkle, navy, carousel, cropped, insight, orange
 
 ## What it is

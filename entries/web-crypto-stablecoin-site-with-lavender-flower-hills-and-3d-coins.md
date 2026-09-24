@@ -2,7 +2,7 @@
 
 ![](../images/web-crypto-stablecoin-site-with-lavender-flower-hills-and-3d-coins.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** fintech, crypto, lavender, 3d-render, flowers, navy-cards, rounded, light-weight-type
 
 ## What it is

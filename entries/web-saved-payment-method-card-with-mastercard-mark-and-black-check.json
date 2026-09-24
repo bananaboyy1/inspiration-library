@@ -3,6 +3,7 @@
   "image": "images/web-saved-payment-method-card-with-mastercard-mark-and-black-check.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "White payment-method card with a Mastercard tile, 'Mastercard ending in 8888', 'Expires 09/25' and a black check in the corner",
   "tags": [
     "component",

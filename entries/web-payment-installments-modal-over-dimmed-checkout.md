@@ -2,7 +2,7 @@
 
 ![](../images/web-payment-installments-modal-over-dimmed-checkout.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** modal, payment, overlay, installments, checkout, white-card, scrim
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-fitness-age-stat-card-with-black-background-and-progress-track.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, stat-card, black, white, numerals, progress, health, comparison
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-learning-platform-with-lime-gradient-buttons-and-3d-glass-objects.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** education, dark, lime, gradient-buttons, 3d-glass, white-frames, courses, bento
 
 ## What it is

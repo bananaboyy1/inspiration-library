@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-app-flow-with-login-discover-account-and-notification-screens.webp)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** real-estate, monochrome, black, white, onboarding, login, listings, toggles
 
 ## What it is

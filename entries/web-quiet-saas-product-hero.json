@@ -3,8 +3,18 @@
   "image": "images/web-quiet-saas-product-hero.png",
   "discipline": "web",
   "designType": "SaaS landing page",
+  "designStyle": "Minimalist",
   "title": "Quiet SaaS landing with product-in-context hero",
-  "tags": ["saas", "landing-page", "minimal", "warm-neutral", "product-ui", "blurred-photo", "sans-serif", "monochrome"],
+  "tags": [
+    "saas",
+    "landing-page",
+    "minimal",
+    "warm-neutral",
+    "product-ui",
+    "blurred-photo",
+    "sans-serif",
+    "monochrome"
+  ],
   "whatItIs": "A long-scroll landing page for an AI people-ops tool. A warm off-white page with black text and a single black button. The hero splits into a left text column (small link, large light-weight headline, grey paragraph, one CTA) and a right panel where a realistic app window floats over a blurred, desaturated street photo. Below sit a strip of grey customer logos, a two-column 'why' section, and three cards that each pair a blurred photo with a small UI fragment.",
   "whatItMeans": "It feels calm, confident and trustworthy, like software that removes work instead of adding it. The restraint says the product is mature. The out-of-focus photography adds human warmth to what would otherwise be a cold dashboard, and keeps the eye on the crisp UI.",
   "techniques": [
@@ -24,11 +34,29 @@
     "Waitlist and early-access launches with one clear action"
   ],
   "vocabulary": [
-    {"term": "Product-in-context hero", "definition": "A hero image showing the actual interface placed in an environment (here a blurred street) instead of a flat screenshot."},
-    {"term": "Soft-focus backdrop", "definition": "A deliberately blurred photo used as texture and mood so foreground content stays sharp."},
-    {"term": "Logo strip", "definition": "A row of customer or partner logos, usually greyscale, used as quiet social proof."},
-    {"term": "Eyebrow", "definition": "A small line of text above a headline that gives context or a label."},
-    {"term": "Hairline border", "definition": "A 1px low-contrast rule used to divide areas without adding visual weight."},
-    {"term": "Single-CTA discipline", "definition": "Keeping one primary action style across the page so the next step is never in doubt."}
+    {
+      "term": "Product-in-context hero",
+      "definition": "A hero image showing the actual interface placed in an environment (here a blurred street) instead of a flat screenshot."
+    },
+    {
+      "term": "Soft-focus backdrop",
+      "definition": "A deliberately blurred photo used as texture and mood so foreground content stays sharp."
+    },
+    {
+      "term": "Logo strip",
+      "definition": "A row of customer or partner logos, usually greyscale, used as quiet social proof."
+    },
+    {
+      "term": "Eyebrow",
+      "definition": "A small line of text above a headline that gives context or a label."
+    },
+    {
+      "term": "Hairline border",
+      "definition": "A 1px low-contrast rule used to divide areas without adding visual weight."
+    },
+    {
+      "term": "Single-CTA discipline",
+      "definition": "Keeping one primary action style across the page so the next step is never in doubt."
+    }
   ]
 }

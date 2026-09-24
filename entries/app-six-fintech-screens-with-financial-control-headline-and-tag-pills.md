@@ -2,7 +2,7 @@
 
 ![](../images/app-six-fintech-screens-with-financial-control-headline-and-tag-pills.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** fintech, screens, serif-italic, blue-grey, wallet, cards, qr, payment
 
 ## What it is

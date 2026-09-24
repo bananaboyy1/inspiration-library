@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-studio-hero-with-black-3d-fold-and-pink-cta.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** hero, cream, yellow, pink, monospace, 3d-object, neo-brutalist-button, logo-strip
 
 ## What it is

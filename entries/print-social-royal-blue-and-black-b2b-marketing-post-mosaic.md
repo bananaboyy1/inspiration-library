@@ -2,7 +2,7 @@
 
 ![](../images/print-social-royal-blue-and-black-b2b-marketing-post-mosaic.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** b2b, templates, royal-blue, black, chat-bubbles, sticky-notes, charts, tech
 
 ## What it is

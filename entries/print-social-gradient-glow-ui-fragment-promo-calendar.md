@@ -2,7 +2,7 @@
 
 ![](../images/print-social-gradient-glow-ui-fragment-promo-calendar.webp)
 
-**Discipline:** print-social · **Design type:** Product UI promo card
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** gradient, ui-fragment, dark, promo, feature-card, calendar
 
 ## What it is

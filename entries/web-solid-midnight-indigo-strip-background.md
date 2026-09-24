@@ -2,7 +2,7 @@
 
 ![](../images/web-solid-midnight-indigo-strip-background.jpg)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** indigo, dark, solid, strip, background, flat
 
 ## What it is

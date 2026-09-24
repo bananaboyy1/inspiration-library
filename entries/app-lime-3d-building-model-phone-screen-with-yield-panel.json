@@ -3,6 +3,7 @@
   "image": "images/app-lime-3d-building-model-phone-screen-with-yield-panel.png",
   "discipline": "app",
   "designType": "Device mockup scene",
+  "designStyle": "Glassmorphism",
   "title": "Phone showing a lime-tinted 3D building over a frosted overview panel, with a flat detail card beside it",
   "tags": [
     "real-estate",

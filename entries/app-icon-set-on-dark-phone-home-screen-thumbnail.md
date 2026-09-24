@@ -2,7 +2,7 @@
 
 ![](../images/app-icon-set-on-dark-phone-home-screen-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** App icon showcase
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** app-icons, thumbnail, dark, gradient, perspective, phone, project-cover
 
 ## What it is

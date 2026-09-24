@@ -2,7 +2,7 @@
 
 ![](../images/branding-twenty-white-geometric-logos-on-blue-glow.jpg)
 
-**Discipline:** branding · **Design type:** Logo collection
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo-collection, white-on-navy, icons, geometric, negative-space, house, letters, grid
 
 ## What it is

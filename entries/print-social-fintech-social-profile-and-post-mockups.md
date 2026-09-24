@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fintech-social-profile-and-post-mockups.jpg)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** fintech, facebook, instagram, glass, orange, profile-cover, mockup
 
 ## What it is

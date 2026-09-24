@@ -2,7 +2,7 @@
 
 ![](../images/app-neo-brutalist-link-saver-app-yellow-pink-violet.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** neo-brutalism, yellow, pink, violet, black-outline, hard-shadow, collections, folders
 
 ## What it is

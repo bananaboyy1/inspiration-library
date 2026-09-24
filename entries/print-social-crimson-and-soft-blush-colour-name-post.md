@@ -2,7 +2,7 @@
 
 ![](../images/print-social-crimson-and-soft-blush-colour-name-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** colour, red, blush, split, hex, minimal, palette
 
 ## What it is

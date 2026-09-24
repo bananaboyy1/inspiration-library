@@ -3,6 +3,7 @@
   "image": "images/app-black-onboarding-screens-with-white-buttons.png",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Minimalist",
   "title": "Pure black onboarding flow with white selection cards and buttons",
   "tags": [
     "onboarding",

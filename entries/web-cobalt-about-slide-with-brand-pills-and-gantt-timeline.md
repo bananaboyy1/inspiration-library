@@ -2,7 +2,7 @@
 
 ![](../images/web-cobalt-about-slide-with-brand-pills-and-gantt-timeline.jpg)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** about, cobalt, brand-pills, timeline, gantt, navy, colour-bars
 
 ## What it is

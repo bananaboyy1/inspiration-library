@@ -3,6 +3,7 @@
   "image": "images/web-members-grid-with-square-photos-role-labels-and-invite-button.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Photographic & Cinematic",
   "title": "Members panel with a grey header, search icon and black Invite Members button above a grid of rounded square portraits with names and roles",
   "tags": [
     "component",

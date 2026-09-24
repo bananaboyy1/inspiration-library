@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-website.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder-metaphor, desktop-ui, warm-gradient, blue-scribble, serif-label
 
 ## What it is

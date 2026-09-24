@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-hills-ransom-note-portfolio-cover.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** portfolio, cover, halftone, ransom-lettering, sky, hills, dock, nostalgia, colourful
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-four-colour-tiger-milk-mark-window-banners.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** monogram, banners, navy, green, magenta, orange, opening-soon, street
 
 ## What it is

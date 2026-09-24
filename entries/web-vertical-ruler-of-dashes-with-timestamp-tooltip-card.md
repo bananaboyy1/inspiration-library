@@ -2,7 +2,7 @@
 
 ![](../images/web-vertical-ruler-of-dashes-with-timestamp-tooltip-card.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, ruler, timeline, tooltip, white, black, wave, motion
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-travel-admin-panel-dashboard-with-bookings-chart.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, admin, bar-chart, kpi, table, destinations, blue
 
 ## What it is

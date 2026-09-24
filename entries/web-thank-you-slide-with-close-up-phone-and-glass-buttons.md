@@ -2,7 +2,7 @@
 
 ![](../images/web-thank-you-slide-with-close-up-phone-and-glass-buttons.png)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** closing, hand, orange-phone, grey, blue-pills, contact, real-estate, fintech
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-frosted-glass-banking-dashboard-on-monitor-with-layered-cards.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** monitor, dashboard, glass, grey, cards, banking, pearl
 
 ## What it is

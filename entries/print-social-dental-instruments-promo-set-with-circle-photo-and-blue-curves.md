@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dental-instruments-promo-set-with-circle-photo-and-blue-curves.jpeg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dental, medical, blue, white, circle-photo, product-list, templates, corporate
 
 ## What it is

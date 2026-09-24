@@ -2,7 +2,7 @@
 
 ![](../images/app-grey-crypto-swap-screen-with-floating-detail-cards.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** swap, grey, floating-cards, hand, crypto, connectors, light
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-404-page-with-giant-ghost-numerals-and-oversized-footer-wordmark.jpg)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** 404, error-page, light-grey, coral, ghost-numerals, footer, giant-wordmark, blurred-photo
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-luxury-property-flyer-collage-mockup.jpg)
 
-**Discipline:** print-social · **Design type:** Product flyer
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** flyer, real-estate, luxury, blue, glass-tower, mockup, dusk, collage
 
 ## What it is

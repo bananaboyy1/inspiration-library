@@ -2,7 +2,7 @@
 
 ![](../images/web-blurred-skeleton-dashboard-with-sidebar-cards-and-list-rows.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** skeleton, dashboard, blur, grey, white, loading, layout, placeholder
 
 ## What it is

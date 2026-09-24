@@ -2,7 +2,7 @@
 
 ![](../images/print-social-poster-wall-of-typographic-experiments-in-primary-palettes.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** posters, wall, primary-colours, word-image, geometric, heavy-type, series, grid
 
 ## What it is

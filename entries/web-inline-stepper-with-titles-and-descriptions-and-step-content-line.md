@@ -2,7 +2,7 @@
 
 ![](../images/web-inline-stepper-with-titles-and-descriptions-and-step-content-line.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, stepper, progress, black, grey, white, minimal, inline
 
 ## What it is

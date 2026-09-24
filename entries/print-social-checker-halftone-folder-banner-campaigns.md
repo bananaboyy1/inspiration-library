@@ -2,7 +2,7 @@
 
 ![](../images/print-social-checker-halftone-folder-banner-campaigns.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, checker, halftone, blue, folder, scribble, desktop-metaphor, series
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-webcore-designer-toy-whitelist-hero-with-sticker-title.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** webcore, y2k, sticker, lime, blue, ticker, monospace, whitelist
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-pixel-gradient-square-grid-background.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** pattern, pixel-grid, gradient, blue, squares, background, minimal
 
 ## What it is

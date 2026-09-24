@@ -2,7 +2,7 @@
 
 ![](../images/print-social-repeated-italic-serif-word-behind-cutout-popcorn-bucket.png)
 
-**Discipline:** print-social · **Design type:** Typographic post
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** typography, repetition, pink, blue, serif-italic, 3d-cutout, food, pastel
 
 ## What it is

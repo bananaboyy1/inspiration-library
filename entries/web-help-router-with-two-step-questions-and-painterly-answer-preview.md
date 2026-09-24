@@ -2,7 +2,7 @@
 
 ![](../images/web-help-router-with-two-step-questions-and-painterly-answer-preview.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** help, support, light-sans, steps, options, painting, chat-card, white
 
 ## What it is

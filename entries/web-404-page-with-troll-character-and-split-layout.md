@@ -2,7 +2,7 @@
 
 ![](../images/web-404-page-with-troll-character-and-split-layout.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** 404, error-page, split-layout, character, periwinkle, maroon, outlined-buttons, entertainment
 
 ## What it is

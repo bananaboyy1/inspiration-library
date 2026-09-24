@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-mobile-site-phone-on-steel-frame-thumbnail.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** mobile-web, steel, grey, industrial, blue, isometric, cover
 
 ## What it is

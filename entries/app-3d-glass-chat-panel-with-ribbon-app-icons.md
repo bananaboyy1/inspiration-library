@@ -2,7 +2,7 @@
 
 ![](../images/app-3d-glass-chat-panel-with-ribbon-app-icons.jpg)
 
-**Discipline:** app · **Design type:** 3D interface scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** 3d, ai-chat, glass, blue, ribbons, app-icons, dotted-texture, motion-frame
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/web-split-proportion-bar-apples-30-percent-oranges-70-percent.webp",
   "discipline": "web",
   "designType": "Data visualization",
+  "designStyle": "Minimalist",
   "title": "Single horizontal bar split into a black 30% segment 'Apples' and a grey 70% segment 'Oranges' with labels beneath",
   "tags": [
     "chart",

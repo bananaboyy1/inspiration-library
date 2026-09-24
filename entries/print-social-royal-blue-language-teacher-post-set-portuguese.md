@@ -2,7 +2,7 @@
 
 ![](../images/print-social-royal-blue-language-teacher-post-set-portuguese.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** education, teacher, royal-blue, white, portuguese, stickers, cutout, phone-call
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-assistant-app-on-giant-ghost-wordmark-with-gradient-arc.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** assistant, ai, cream, gradient-arc, ghost-wordmark, project-cover, chips, minimal
 
 ## What it is

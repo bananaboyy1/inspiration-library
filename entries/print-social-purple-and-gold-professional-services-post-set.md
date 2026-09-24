@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-and-gold-professional-services-post-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** templates, purple, gold, business, arabic, laptop, team, portfolio-cover
 
 ## What it is

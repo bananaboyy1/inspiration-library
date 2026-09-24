@@ -2,7 +2,7 @@
 
 ![](../images/app-pearl-glass-finance-dashboard-on-monitor.jpg)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, fintech, pearl, glass, monochrome, serif-numerals, fanned-cards, monitor-mockup
 
 ## What it is

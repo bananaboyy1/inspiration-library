@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-glass-cards-over-street-portrait-campaign.jpg)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** campaign, photography, navy, glass, script-italic, fintech, street
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/app-daylight-and-sleep-glass-tracker.png",
   "discipline": "app",
   "designType": "Health dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Daylight and sleep tracker screens with glass cards and low-poly clouds",
   "tags": [
     "health",

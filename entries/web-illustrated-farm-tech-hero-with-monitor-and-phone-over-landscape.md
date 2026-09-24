@@ -2,7 +2,7 @@
 
 ![](../images/web-illustrated-farm-tech-hero-with-monitor-and-phone-over-landscape.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** illustration, farming, blue, green, landscape, monitor, phone, drone
 
 ## What it is

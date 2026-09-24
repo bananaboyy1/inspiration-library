@@ -2,7 +2,7 @@
 
 ![](../images/app-red-gloved-hands-holding-social-feed-phone-on-striped-red.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** red, black, gloves, 3d, feed, stripes, line-graph
 
 ## What it is

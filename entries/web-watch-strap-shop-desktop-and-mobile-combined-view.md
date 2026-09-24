@@ -2,7 +2,7 @@
 
 ![](../images/web-watch-strap-shop-desktop-and-mobile-combined-view.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** e-commerce, watch, white, lime, product-page, outlined-keyword, best-sellers, responsive
 
 ## What it is

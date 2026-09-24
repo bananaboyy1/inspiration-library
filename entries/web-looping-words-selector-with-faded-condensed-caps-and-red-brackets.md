@@ -2,7 +2,7 @@
 
 ![](../images/web-looping-words-selector-with-faded-condensed-caps-and-red-brackets.webp)
 
-**Discipline:** web · **Design type:** Motion text
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** typography, motion, cream, plum, condensed, fade, corner-brackets, selector
 
 ## What it is

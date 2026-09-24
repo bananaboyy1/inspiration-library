@@ -2,7 +2,7 @@
 
 ![](../images/print-social-hand-drawn-kraft-paper-cafe-event-poster.jpg)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** hand-drawn, paper, cafe, brown, illustration, event, annotations
 
 ## What it is

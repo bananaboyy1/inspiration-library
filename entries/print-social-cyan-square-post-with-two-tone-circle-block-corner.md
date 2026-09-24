@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cyan-square-post-with-two-tone-circle-block-corner.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** cyan, blue, circles, corner-pattern, marketing, square, template, white-type
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-cake-product-post-with-starburst.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** product, cobalt, cream, starburst, sticker-outline, bakery, arc-footer, bubble-type
 
 ## What it is

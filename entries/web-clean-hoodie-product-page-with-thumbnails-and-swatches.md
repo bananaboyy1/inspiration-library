@@ -2,7 +2,7 @@
 
 ![](../images/web-clean-hoodie-product-page-with-thumbnails-and-swatches.jpg)
 
-**Discipline:** web · **Design type:** Product detail page
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** pdp, fashion, white, black, swatches, size-pills, tabs, related-products
 
 ## What it is

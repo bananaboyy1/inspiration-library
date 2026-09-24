@@ -2,7 +2,7 @@
 
 ![](../images/app-workout-discovery-text-slide-and-three-phones-white-black-violet.png)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** fitness, white, black, violet, case-study, paragraph, phones, workouts
 
 ## What it is

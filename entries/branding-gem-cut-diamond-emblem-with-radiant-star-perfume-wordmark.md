@@ -2,7 +2,7 @@
 
 ![](../images/branding-gem-cut-diamond-emblem-with-radiant-star-perfume-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** logo, emblem, gem, monoline, perfume, black-and-white, luxury, corner-labels
 
 ## What it is

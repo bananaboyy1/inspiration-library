@@ -2,7 +2,7 @@
 
 ![](../images/app-light-banking-app-held-in-hand-with-shadow.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** banking, light, hand, shadow, cover, logo, minimal
 
 ## What it is

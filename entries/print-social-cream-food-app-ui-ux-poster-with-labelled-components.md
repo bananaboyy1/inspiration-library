@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cream-food-app-ui-ux-poster-with-labelled-components.jpg)
 
-**Discipline:** print-social · **Design type:** Product infographic set
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** food-app, poster, cream, illustrated, components, labels, coral
 
 ## What it is

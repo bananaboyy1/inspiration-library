@@ -2,7 +2,7 @@
 
 ![](../images/web-product-grid-sections-similar-items-and-recently-viewed-on-yellow.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** e-commerce, product-grid, white, mustard, green, outlined-buttons, hearts, carousel
 
 ## What it is

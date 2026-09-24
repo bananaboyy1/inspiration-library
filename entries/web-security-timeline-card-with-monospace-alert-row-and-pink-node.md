@@ -2,7 +2,7 @@
 
 ![](../images/web-security-timeline-card-with-monospace-alert-row-and-pink-node.webp)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** feature-card, security, timeline, monospace, pink, grey, white, cursor
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-and-copper-real-estate-guidelines-cover.jpg)
 
-**Discipline:** branding · **Design type:** Brand guidelines deck
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** guidelines, cover, navy, copper, orange, real-estate, logo, house-symbol
 
 ## What it is

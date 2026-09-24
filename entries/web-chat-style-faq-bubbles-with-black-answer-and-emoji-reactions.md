@@ -2,7 +2,7 @@
 
 ![](../images/web-chat-style-faq-bubbles-with-black-answer-and-emoji-reactions.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, faq, chat, bubbles, black, grey, emoji, playful
 
 ## What it is

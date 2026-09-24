@@ -2,7 +2,7 @@
 
 ![](../images/print-social-forest-lake-photo-cover-with-huge-cyrillic-caps.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wellness, photo, forest, white-caps, geometric-sans, vertical-text, cyrillic, cover
 
 ## What it is

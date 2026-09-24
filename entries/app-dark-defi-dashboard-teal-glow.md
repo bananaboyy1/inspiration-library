@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-defi-dashboard-teal-glow.png)
 
-**Discipline:** app · **Design type:** Dark dashboard
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** dashboard, dark-mode, crypto, area-chart, teal-glow, case-study-cover, tilted-mockup
 
 ## What it is

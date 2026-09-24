@@ -2,7 +2,7 @@
 
 ![](../images/print-social-notebook-testimonial-on-red-with-denim-stars.png)
 
-**Discipline:** print-social · **Design type:** Social testimonial post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** testimonial, notebook, denim-patch, brick-red, 3d-character, polaroid, highlight, cyrillic
 
 ## What it is

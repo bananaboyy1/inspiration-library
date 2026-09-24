@@ -2,7 +2,7 @@
 
 ![](../images/branding-motion-blur-runner-with-wave-wordmark.png)
 
-**Discipline:** branding · **Design type:** Brand campaign cover
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** fitness, wordmark, motion-blur, forest, cream, tagline, tracking-app
 
 ## What it is

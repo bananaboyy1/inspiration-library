@@ -3,6 +3,7 @@
   "image": "images/web-payment-method-modal-with-radio-cards-and-stacked-dialog.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Modal 'Choose a payment method' with three radio cards, a selected grey state, and a Cancel and black Continue footer",
   "tags": [
     "component",

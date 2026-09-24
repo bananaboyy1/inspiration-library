@@ -2,7 +2,7 @@
 
 ![](../images/web-grocery-marketplace-product-detail-page.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ecommerce, grocery, teal, lime, product-page, comparison, urgency
 
 ## What it is

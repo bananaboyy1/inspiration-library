@@ -2,7 +2,7 @@
 
 ![](../images/web-pet-product-site-on-laptop-with-rock-and-ghost-title.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop-mockup, pet, green-gradient, rock, product-hero, vertical-title
 
 ## What it is

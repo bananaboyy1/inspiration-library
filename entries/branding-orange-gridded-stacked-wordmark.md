@@ -2,7 +2,7 @@
 
 ![](../images/branding-orange-gridded-stacked-wordmark.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wordmark, grid, stacked, orange, black, geometric, mirror
 
 ## What it is

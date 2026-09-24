@@ -2,7 +2,7 @@
 
 ![](../images/app-user-research-charts-with-soft-gauges.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** research, charts, fintech, light-grey, gauge, step-chart, quote, case-study
 
 ## What it is

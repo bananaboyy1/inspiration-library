@@ -2,7 +2,7 @@
 
 ![](../images/print-social-electric-blue-tixpool-doesnt-ask-questions-statement-slide.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** carousel, electric-blue, white-type, statement, divider-line, italic, ticket-logo
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-footer-component-with-hexagon-logo-and-link-columns.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, footer, white, hexagon-logo, social-icons, links, minimal, ui-kit
 
 ## What it is

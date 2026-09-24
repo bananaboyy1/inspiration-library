@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-neon-ai-agency-poster-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** ai, agency, purple, neon, 3d-objects, robot, lock, poster-set
 
 ## What it is

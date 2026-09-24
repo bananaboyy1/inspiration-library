@@ -2,7 +2,7 @@
 
 ![](../images/app-user-journey-map-table-with-emoji-emotion-row.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** journey-map, persona, table, lilac, red, emoji, banking
 
 ## What it is

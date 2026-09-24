@@ -2,7 +2,7 @@
 
 ![](../images/web-dementia-care-app-site-in-indigo-and-gold.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** healthcare, indigo, gold, serif, portrait, stat-cards, tilted-cards, testimonials
 
 ## What it is

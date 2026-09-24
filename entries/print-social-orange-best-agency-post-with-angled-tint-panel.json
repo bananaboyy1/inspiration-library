@@ -1,0 +1,38 @@
+{
+  "name": "print-social-orange-best-agency-post-with-angled-tint-panel",
+  "image": "images/print-social-orange-best-agency-post-with-angled-tint-panel.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "'Best Agency for Your Business' post with an angled orange tint panel over a team photo",
+  "tags": [
+    "agency",
+    "orange",
+    "team",
+    "angled-panel",
+    "ad",
+    "corporate"
+  ],
+  "whatItIs": "A square post with a photo of two smiling colleagues, a translucent orange angled panel on the left carrying a thin-and-bold uppercase headline, a paper-plane logo, an orange quote tab top-right and a white footer with 'Join us' and phone.",
+  "whatItMeans": "Professional and upbeat; translucent colour keeps the photo visible while branding it.",
+  "techniques": [
+    "Lay a semi-transparent angled panel over the photo.",
+    "Alternate light and bold weights line by line.",
+    "Balance a top-right tab against a bottom footer."
+  ],
+  "bestFor": [
+    "Marketing agencies",
+    "B2B services",
+    "Corporate recruiting"
+  ],
+  "vocabulary": [
+    {
+      "term": "Translucent panel",
+      "definition": "A see-through colour shape over an image."
+    },
+    {
+      "term": "Weight contrast",
+      "definition": "Mixing thin and bold type for emphasis."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-white-on-white-neumorphic-nft-shopping-app-screens.png)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** nft, white, neumorphic, monochrome, topographic, rarity, tab-bar
 
 ## What it is

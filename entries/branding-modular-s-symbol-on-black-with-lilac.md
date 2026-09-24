@@ -2,7 +2,7 @@
 
 ![](../images/branding-modular-s-symbol-on-black-with-lilac.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, symbol, violet, white, dark, modular, tech, wordmark
 
 ## What it is

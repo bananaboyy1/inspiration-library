@@ -2,7 +2,7 @@
 
 ![](../images/app-blush-onboarding-question-phone-on-quilted-leather-sofa.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** onboarding, blush, gradient-arc, leather, sofa, voice, top-down
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-payments-brand-collage-with-photography.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** navy, payments, photography, logo, card, phone, rounded-tiles, monoline
 
 ## What it is

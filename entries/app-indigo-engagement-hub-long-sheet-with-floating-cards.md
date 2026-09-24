@@ -2,7 +2,7 @@
 
 ![](../images/app-indigo-engagement-hub-long-sheet-with-floating-cards.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** engagement, indigo, floating-cards, hands, dashed-path, tote-bag, long-scroll
 
 ## What it is

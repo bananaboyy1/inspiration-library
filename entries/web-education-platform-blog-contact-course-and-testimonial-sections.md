@@ -2,7 +2,7 @@
 
 ![](../images/web-education-platform-blog-contact-course-and-testimonial-sections.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** education, peach, teal, gradient-backdrop, blog-grid, contact, course-page, testimonials
 
 ## What it is

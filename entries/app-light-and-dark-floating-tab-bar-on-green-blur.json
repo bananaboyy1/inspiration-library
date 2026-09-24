@@ -3,6 +3,7 @@
   "image": "images/app-light-and-dark-floating-tab-bar-on-green-blur.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Light and Dark Floating Tab Bar",
   "tags": [
     "tab-bar",

@@ -2,7 +2,7 @@
 
 ![](../images/branding-lavender-mug-with-serif-message-contact-slide.jpg)
 
-**Discipline:** branding · **Design type:** Merch and packaging
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** mug, merch, lavender, serif, contact, dashed-line, closing
 
 ## What it is

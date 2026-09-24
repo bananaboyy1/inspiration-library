@@ -2,7 +2,7 @@
 
 ![](../images/app-health-score-phone-planted-in-quilted-white-cushion.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, white, cushion, quilted, grey, cards, sunburst
 
 ## What it is

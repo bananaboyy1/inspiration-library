@@ -3,6 +3,7 @@
   "image": "images/web-info-badge-pill-with-inner-tag-and-arrow-in-sky-blue.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Pale blue pill badge 'Info | Welcome to the platform ↗' with a lighter inner tag and a diagonal arrow",
   "tags": [
     "component",

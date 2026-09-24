@@ -3,6 +3,7 @@
   "image": "images/app-gamified-recipe-swipe-and-leaderboard-dark.png",
   "discipline": "app",
   "designType": "Gamified app screens",
+  "designStyle": "Dark & Neon",
   "title": "Dark recipe app with a teal photo card, pill Save button and a coin-league leaderboard",
   "tags": [
     "gamification",

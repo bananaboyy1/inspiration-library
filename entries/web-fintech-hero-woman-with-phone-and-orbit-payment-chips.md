@@ -2,7 +2,7 @@
 
 ![](../images/web-fintech-hero-woman-with-phone-and-orbit-payment-chips.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** hero, fintech, white, motion-blur, arc, chips, italic-serif, navy
 
 ## What it is

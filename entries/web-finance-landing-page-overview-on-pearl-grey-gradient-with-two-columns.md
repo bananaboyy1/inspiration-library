@@ -2,7 +2,7 @@
 
 ![](../images/web-finance-landing-page-overview-on-pearl-grey-gradient-with-two-columns.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** fintech, pearl, serif-headings, bento, reviews, pricing, footer-wordmark, glass
 
 ## What it is

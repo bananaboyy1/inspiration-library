@@ -2,7 +2,7 @@
 
 ![](../images/print-social-periwinkle-tips-post-with-slanted-label-blocks-and-hands.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** tips, periwinkle, label-blocks, greyscale-cutout, halftone, note-card, grain, cyrillic
 
 ## What it is

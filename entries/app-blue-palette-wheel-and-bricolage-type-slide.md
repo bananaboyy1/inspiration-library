@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-palette-wheel-and-bricolage-type-slide.jpg)
 
-**Discipline:** app · **Design type:** Typography and colour guide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** palette, wheel, blue, typography, progress-bar, airy, travel
 
 ## What it is

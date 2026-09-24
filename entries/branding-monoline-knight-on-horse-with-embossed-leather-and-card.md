@@ -2,7 +2,7 @@
 
 ![](../images/branding-monoline-knight-on-horse-with-embossed-leather-and-card.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** logo, monoline, knight, emboss, leather, business-card, brown, heraldic
 
 ## What it is

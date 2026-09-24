@@ -2,7 +2,7 @@
 
 ![](../images/web-photographer-card-with-blue-geometric-tile-artwork-on-navy.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, profile-card, blue, navy, geometric, tiles, circles, minimal
 
 ## What it is

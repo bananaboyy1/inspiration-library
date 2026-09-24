@@ -2,7 +2,7 @@
 
 ![](../images/app-conversational-onboarding-with-sunset-arc-gradient.gif)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** onboarding, conversational, blue, gradient-arc, pill-buttons, progress-dots, large-question, ai
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-events-platform-post-with-hands-and-phones-circle.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** events, app, orange, white-card, hands, photo, store-badges, rounded
 
 ## What it is

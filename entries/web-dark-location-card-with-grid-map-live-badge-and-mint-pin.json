@@ -3,6 +3,7 @@
   "image": "images/web-dark-location-card-with-grid-map-live-badge-and-mint-pin.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Frosted dark map card with a line grid, translucent blocks, a mint pin, a LIVE badge and San Francisco coordinates in monospace",
   "tags": [
     "component",

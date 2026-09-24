@@ -2,7 +2,7 @@
 
 ![](../images/app-merchant-transaction-card-over-street-cafe-photo.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** transaction, card, photo, cafe, payment, overlay, realistic
 
 ## What it is

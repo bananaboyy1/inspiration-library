@@ -2,7 +2,7 @@
 
 ![](../images/branding-gradient-health-brand-profile-and-social-post-tiles.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** profile, gradient, lavender, black, social, verified, wellness
 
 ## What it is

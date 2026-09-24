@@ -2,7 +2,7 @@
 
 ![](../images/print-social-sunset-residential-post-with-title-top-right-and-value-icons.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** real-estate, sunset, photo, white-icons, gold-icons, dark-fade, portrait, values
 
 ## What it is

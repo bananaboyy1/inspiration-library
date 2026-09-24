@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-travel-landing-explore-places-and-faq.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** travel, landing, cards, faq, circled-word, blue, destinations
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-and-lime-agency-carousel-with-phone.webp)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** agency, carousel, cobalt, lime, circle-photo, pills, phone-mockup, sparkles
 
 ## What it is

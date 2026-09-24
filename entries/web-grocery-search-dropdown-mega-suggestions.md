@@ -2,7 +2,7 @@
 
 ![](../images/web-grocery-search-dropdown-mega-suggestions.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** search, autocomplete, dropdown, ecommerce, dimmed, teal, product-grid
 
 ## What it is

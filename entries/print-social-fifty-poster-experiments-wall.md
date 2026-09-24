@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fifty-poster-experiments-wall.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** posters, grid, primary-colours, geometric, experiments, type-driven, modernist, series
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-pill-filters-menu-list-and-payment-card-components.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** components, ui-kit, white, black, lime, pills, settings, filters
 
 ## What it is

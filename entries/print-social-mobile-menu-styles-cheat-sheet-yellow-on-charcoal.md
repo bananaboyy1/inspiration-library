@@ -2,7 +2,7 @@
 
 ![](../images/print-social-mobile-menu-styles-cheat-sheet-yellow-on-charcoal.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** ui-education, cheat-sheet, yellow, charcoal, grid-paper, serif-title, diagram, carousel
 
 ## What it is

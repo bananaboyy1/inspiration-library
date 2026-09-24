@@ -2,7 +2,7 @@
 
 ![](../images/web-serif-gallery-hero-with-two-overlapping-painting-cards-on-warm-haze.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** hero, serif, gallery, paintings, beige, warm, cards, black-button
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-frosted-glass-card-over-family-kitchen-photo.jpg)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** campaign, fintech, glass-frame, blob-card, family, navy, photography, italic-serif
 
 ## What it is

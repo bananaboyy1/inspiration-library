@@ -2,7 +2,7 @@
 
 ![](../images/app-trip-summary-with-donation-widget-and-dynamic-island.png)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** ride, trip-summary, lime, black, white, donation, dynamic-island, annotation
 
 ## What it is

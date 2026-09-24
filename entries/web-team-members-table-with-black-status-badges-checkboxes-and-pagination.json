@@ -3,6 +3,7 @@
   "image": "images/web-team-members-table-with-black-status-badges-checkboxes-and-pagination.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "'Team Members' table with search, black Invite button, sortable columns, avatar rows with black Active badges and a paged footer",
   "tags": [
     "component",

@@ -2,7 +2,7 @@
 
 ![](../images/app-teal-stone-podium-real-estate-app-phone.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** teal, yellow, phone, stones, real-estate, ribbed-glass, 3d
 
 ## What it is

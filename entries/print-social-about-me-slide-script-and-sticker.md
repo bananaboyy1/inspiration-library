@@ -2,7 +2,7 @@
 
 ![](../images/print-social-about-me-slide-script-and-sticker.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** about-me, presentation, cream, brown, script, sticker, greyscale-portrait, resume
 
 ## What it is

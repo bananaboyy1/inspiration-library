@@ -3,6 +3,7 @@
   "image": "images/web-blurred-skeleton-dashboard-with-sidebar-cards-and-list-rows.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Ghosted dashboard skeleton: a blurred sidebar, header bar, three stat cards and list rows in pale grey shapes",
   "tags": [
     "skeleton",

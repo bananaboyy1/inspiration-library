@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-yellow-power-tool-ad-set-with-spec-callouts.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** product, tools, black, yellow, condensed-type, macro, spec-callouts, ads
 
 ## What it is

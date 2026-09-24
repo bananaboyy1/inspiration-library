@@ -3,6 +3,7 @@
   "image": "images/app-mobile-app-overview-long-board-with-hand-and-pearl-screens.jpg",
   "discipline": "app",
   "designType": "Fintech app screens",
+  "designStyle": "Glassmorphism",
   "title": "Long white board: hand-held onboarding then home, analytics, card, transfer, details, choose-a-card and swap screens in pearl glass",
   "tags": [
     "fintech",

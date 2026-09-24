@@ -2,7 +2,7 @@
 
 ![](../images/branding-coffee-roaster-identity-with-orange-panels-and-outline-mascot.gif)
 
-**Discipline:** branding · **Design type:** Brand collage board
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** coffee, orange, cream, mascot, line-illustration, instagram, packaging, poster
 
 ## What it is

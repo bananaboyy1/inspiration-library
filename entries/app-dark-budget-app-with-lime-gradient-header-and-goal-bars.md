@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-budget-app-with-lime-gradient-header-and-goal-bars.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** budget, dark, pastel-gradient, goals, bars, spanish, two-phones
 
 ## What it is

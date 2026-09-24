@@ -2,7 +2,7 @@
 
 ![](../images/app-red-lit-ceo-quote-client-request-slide.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** quote, portrait, red, dark, client-request, photography, cover
 
 ## What it is

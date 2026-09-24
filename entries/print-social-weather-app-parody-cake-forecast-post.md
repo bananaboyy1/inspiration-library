@@ -2,7 +2,7 @@
 
 ![](../images/print-social-weather-app-parody-cake-forecast-post.png)
 
-**Discipline:** print-social · **Design type:** Concept parody post
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** parody, weather-app, cake, sky, blue, surreal, forecast, food, interface-as-layout
 
 ## What it is

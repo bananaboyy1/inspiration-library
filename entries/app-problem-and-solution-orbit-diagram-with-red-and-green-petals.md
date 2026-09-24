@@ -2,7 +2,7 @@
 
 ![](../images/app-problem-and-solution-orbit-diagram-with-red-and-green-petals.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** problem-solution, diagram, light-grey, red, green, sphere, stats, fintech
 
 ## What it is

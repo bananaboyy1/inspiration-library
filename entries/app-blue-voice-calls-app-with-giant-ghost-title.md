@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-voice-calls-app-with-giant-ghost-title.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** calls, blue, hand, low-angle, ghost-type, gauge, dashboard, project-cover
 
 ## What it is

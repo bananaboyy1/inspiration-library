@@ -2,7 +2,7 @@
 
 ![](../images/print-social-info-session-flyer-with-3d-rocket-and-google-colours.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** event, info-session, grid-paper, blue, rocket, pills, google-colours, speaker
 
 ## What it is

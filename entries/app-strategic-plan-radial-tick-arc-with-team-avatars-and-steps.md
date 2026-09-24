@@ -2,7 +2,7 @@
 
 ![](../images/app-strategic-plan-radial-tick-arc-with-team-avatars-and-steps.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** strategy, team, avatars, arc, tick-marks, steps, pale-blue
 
 ## What it is

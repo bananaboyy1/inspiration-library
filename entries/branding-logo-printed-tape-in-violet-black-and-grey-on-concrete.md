@@ -2,7 +2,7 @@
 
 ![](../images/branding-logo-printed-tape-in-violet-black-and-grey-on-concrete.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** tape, pattern, violet, black, concrete, perspective, packaging, repeat-logo
 
 ## What it is

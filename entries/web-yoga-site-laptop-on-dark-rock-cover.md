@@ -2,7 +2,7 @@
 
 ![](../images/web-yoga-site-laptop-on-dark-rock-cover.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop, rock, dark, wellness, yoga, photography, cover
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lilac-and-lime-rebrand-post-set-with-pill-headlines.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** coaching, lilac, lime, cream, purple, pills, portrait, carousel
 
 ## What it is

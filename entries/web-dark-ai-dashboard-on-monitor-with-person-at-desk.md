@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-ai-dashboard-on-monitor-with-person-at-desk.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** dark-ui, monitor, desk, person, calendar, ai, minimal-room
 
 ## What it is

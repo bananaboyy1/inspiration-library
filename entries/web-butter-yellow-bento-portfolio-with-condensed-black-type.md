@@ -2,7 +2,7 @@
 
 ![](../images/web-butter-yellow-bento-portfolio-with-condensed-black-type.jpg)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, bento, butter-yellow, charcoal, condensed-type, stat-cards, ticker, consulting
 
 ## What it is

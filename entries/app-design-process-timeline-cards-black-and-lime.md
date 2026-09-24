@@ -2,7 +2,7 @@
 
 ![](../images/app-design-process-timeline-cards-black-and-lime.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** process, timeline, black, lime, phase-cards, statement, pills, case-study
 
 ## What it is

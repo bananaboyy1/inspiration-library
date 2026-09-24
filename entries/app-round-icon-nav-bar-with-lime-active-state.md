@@ -2,7 +2,7 @@
 
 ![](../images/app-round-icon-nav-bar-with-lime-active-state.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** components, navigation, circles, lime, grey, icons, white, minimal
 
 ## What it is

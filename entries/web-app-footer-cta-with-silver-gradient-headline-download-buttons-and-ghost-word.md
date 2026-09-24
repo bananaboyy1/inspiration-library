@@ -2,7 +2,7 @@
 
 ![](../images/web-app-footer-cta-with-silver-gradient-headline-download-buttons-and-ghost-word.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** cta, dark, silver-gradient, download-buttons, marquee, ghost-word, footer, app
 
 ## What it is

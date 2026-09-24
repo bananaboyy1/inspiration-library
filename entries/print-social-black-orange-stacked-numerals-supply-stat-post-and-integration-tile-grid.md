@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-orange-stacked-numerals-supply-stat-post-and-integration-tile-grid.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** stat, numerals, black, orange, gradient-type, integrations, tiles, vector
 
 ## What it is

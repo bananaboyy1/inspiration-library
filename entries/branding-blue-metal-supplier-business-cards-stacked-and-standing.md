@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-metal-supplier-business-cards-stacked-and-standing.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** business-cards, blue, white, industrial, grey, hard-light, stack, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-purple-light-tracker-widget-with-uv-gauge.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, violet, yellow, glass-tiles, uv-index, progress-bar, monospace, project-thumbnail
 
 ## What it is

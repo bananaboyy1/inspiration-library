@@ -2,7 +2,7 @@
 
 ![](../images/branding-teardrop-lettered-nava-wordmark-with-sign-and-laptop.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wordmark, geometric, rounded, black-and-white, interiors, sign, laptop, tagline
 
 ## What it is

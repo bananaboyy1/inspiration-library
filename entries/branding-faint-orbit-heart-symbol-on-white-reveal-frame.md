@@ -2,7 +2,7 @@
 
 ![](../images/branding-faint-orbit-heart-symbol-on-white-reveal-frame.gif)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo, symbol, heart, orbit, pale, minimal, animation-frame, white
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-health-tiles-and-serif-insight-card-cropped-thumbnail.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, glass, serif, gradient, cropped-phone, thumbnail, insight, tab-bar
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-charcoal-lime-mist-warm-gray-palette.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** palette, charcoal, lime, gray, white, rounded, black-background
 
 ## What it is

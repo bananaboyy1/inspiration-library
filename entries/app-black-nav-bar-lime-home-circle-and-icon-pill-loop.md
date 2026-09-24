@@ -2,7 +2,7 @@
 
 ![](../images/app-black-nav-bar-lime-home-circle-and-icon-pill-loop.gif)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** nav-bar, black, lime, pill, icons, minimal, animation
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-health-home-analytics-and-assistant-screens-presentation.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** health, ai-assistant, analytics, orb, white, black, tiles
 
 ## What it is

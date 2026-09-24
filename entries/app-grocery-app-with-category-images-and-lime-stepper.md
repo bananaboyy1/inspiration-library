@@ -2,7 +2,7 @@
 
 ![](../images/app-grocery-app-with-category-images-and-lime-stepper.png)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** grocery, light-green, category-grid, lime, offer-badges, product-cards, tab-bar, white-ui
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-location-card-with-grid-map-live-badge-and-mint-pin.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** component, map, dark, mint, live-badge, coordinates, glass, monospace
 
 ## What it is

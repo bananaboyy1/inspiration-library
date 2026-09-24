@@ -2,7 +2,7 @@
 
 ![](../images/branding-indigo-squiggle-logo-on-icon-construction-grid-with-photo-cards.jpg)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** logo, app-icon, construction-grid, indigo, lavender, photo-cards, dashed-line
 
 ## What it is

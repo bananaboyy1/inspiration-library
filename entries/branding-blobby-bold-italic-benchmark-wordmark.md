@@ -2,7 +2,7 @@
 
 ![](../images/branding-blobby-bold-italic-benchmark-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** wordmark, bubble-type, italic, black-and-white, gym, stacked, corner-labels, strength
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-faded-photo-redesign-overview-and-six-step-process.jpg)
 
-**Discipline:** app · **Design type:** Design process showcase
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** overview, app-icon, lavender, faded-photo, process, numbers, tone-shift
 
 ## What it is

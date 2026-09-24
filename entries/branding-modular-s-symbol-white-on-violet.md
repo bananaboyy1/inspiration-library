@@ -2,7 +2,7 @@
 
 ![](../images/branding-modular-s-symbol-white-on-violet.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, violet, white, modular, rounded, tech, wordmark
 
 ## What it is

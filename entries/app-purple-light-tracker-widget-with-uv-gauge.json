@@ -3,6 +3,7 @@
   "image": "images/app-purple-light-tracker-widget-with-uv-gauge.png",
   "discipline": "app",
   "designType": "Health app screens",
+  "designStyle": "Glassmorphism",
   "title": "Violet daylight app with a yellow progress bar, UV gradient and translucent tiles",
   "tags": [
     "health",

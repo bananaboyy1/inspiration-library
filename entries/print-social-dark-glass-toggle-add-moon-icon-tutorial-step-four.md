@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-glass-toggle-add-moon-icon-tutorial-step-four.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** tutorial, dark, glass, toggle, moon, step-04, neumorphic
 
 ## What it is

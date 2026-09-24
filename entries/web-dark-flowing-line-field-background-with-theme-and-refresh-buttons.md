@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-flowing-line-field-background-with-theme-and-refresh-buttons.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** background, lines, dark, generative, flow-field, minimal, theme-toggle, abstract
 
 ## What it is

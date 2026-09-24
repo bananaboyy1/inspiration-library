@@ -2,7 +2,7 @@
 
 ![](../images/app-grey-user-flow-map-with-onboarding-phone.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** user-flow, grey, nodes, onboarding, diagram, fintech, dark-pills
 
 ## What it is

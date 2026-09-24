@@ -2,7 +2,7 @@
 
 ![](../images/print-social-sage-green-circle-diagram-post.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** wellness, sage-green, circle, orbit, asterisk, uppercase-headline, cyrillic, infographic
 
 ## What it is

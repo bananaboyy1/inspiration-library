@@ -2,7 +2,7 @@
 
 ![](../images/web-notification-list-over-gradient-promo-card-on-blue-teal-glow.webp)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** feature-illustration, notifications, avatars, promoted, gradient-spheres, blue, glow, cards
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-testimonial-with-large-portrait-overlapped-by-quote-card-and-social-icons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** component, testimonial, dark, portrait, overlap, social-icons, carousel, dots
 
 ## What it is

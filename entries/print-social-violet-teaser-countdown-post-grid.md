@@ -2,7 +2,7 @@
 
 ![](../images/print-social-violet-teaser-countdown-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** launch, teaser, violet, countdown, podcast-app, phone-mockups, grid, 3d-microphone
 
 ## What it is

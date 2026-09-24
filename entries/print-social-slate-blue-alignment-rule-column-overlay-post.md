@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-blue-alignment-rule-column-overlay-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** educational, alignment, slate, columns, grid, rules, typography
 
 ## What it is

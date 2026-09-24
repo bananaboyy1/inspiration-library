@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-store-flow-overview-board-on-navy.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** e-commerce, fashion, navy, white-ui, overview, flow, product-page, mega-menu
 
 ## What it is

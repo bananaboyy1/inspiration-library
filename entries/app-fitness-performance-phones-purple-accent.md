@@ -2,7 +2,7 @@
 
 ![](../images/app-fitness-performance-phones-purple-accent.png)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** fitness, phones, violet, black-and-white, line-chart, large-numerals, editorial-layout
 
 ## What it is

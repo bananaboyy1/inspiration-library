@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-loading-text-state.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** minimal, loading, microcopy, white-space, blue-accent
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-liquid-glass-ribbon-floating-home-control-phones.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** black, liquid, glass, smart-home, floating, headline, poster
 
 ## What it is

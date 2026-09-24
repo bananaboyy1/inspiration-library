@@ -2,7 +2,7 @@
 
 ![](../images/app-black-results-page-with-giant-thin-percentages-and-athlete-photo.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** results, dark, stats, thin-type, athlete, peach, stagger, case-study
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-and-lime-blue-crypto-course-app-three-phones.jpg)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** courses, crypto, black, lime, blue, three-phones, calendar, blob-cards
 
 ## What it is

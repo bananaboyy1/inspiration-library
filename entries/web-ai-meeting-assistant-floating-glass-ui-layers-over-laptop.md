@@ -2,7 +2,7 @@
 
 ![](../images/web-ai-meeting-assistant-floating-glass-ui-layers-over-laptop.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** ai, indigo, glass, floating-ui, laptop, calendar, project-cover, gradient
 
 ## What it is

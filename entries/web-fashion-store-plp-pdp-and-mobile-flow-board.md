@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-store-plp-pdp-and-mobile-flow-board.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** e-commerce, fashion, plp, pdp, black-and-white, product-grid, reviews, giant-footer-wordmark
 
 ## What it is

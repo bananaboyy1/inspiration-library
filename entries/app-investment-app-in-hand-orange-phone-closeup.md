@@ -2,7 +2,7 @@
 
 ![](../images/app-investment-app-in-hand-orange-phone-closeup.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** fintech, mockup, orange, hand, perspective, close-up, light-ui
 
 ## What it is

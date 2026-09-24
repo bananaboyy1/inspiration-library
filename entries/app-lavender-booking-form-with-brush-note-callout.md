@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-booking-form-with-brush-note-callout.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** booking, form, lavender, brush-stroke, callout, stepper, travel
 
 ## What it is

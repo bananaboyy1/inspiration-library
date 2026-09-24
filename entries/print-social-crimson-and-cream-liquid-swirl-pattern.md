@@ -2,7 +2,7 @@
 
 ![](../images/print-social-crimson-and-cream-liquid-swirl-pattern.jpg)
 
-**Discipline:** print-social · **Design type:** Pattern
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** pattern, crimson, cream, liquid, organic, retro, two-colour, background
 
 ## What it is

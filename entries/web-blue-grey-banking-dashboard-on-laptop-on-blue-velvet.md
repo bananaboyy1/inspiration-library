@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-grey-banking-dashboard-on-laptop-on-blue-velvet.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** laptop, dashboard, frosted, blue-grey, velvet, cursor, banking
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-vehicle-selection-screen-label-strip-with-caption.png)
 
-**Discipline:** app · **Design type:** Case study divider
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** divider, white, outlined-pill, caption, two-tone-text, minimal, case-study
 
 ## What it is

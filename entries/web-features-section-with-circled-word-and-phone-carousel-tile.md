@@ -2,7 +2,7 @@
 
 ![](../images/web-features-section-with-circled-word-and-phone-carousel-tile.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** features, circled-word, cards, phones, blue, lavender, travel
 
 ## What it is

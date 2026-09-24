@@ -2,7 +2,7 @@
 
 ![](../images/web-two-tab-segmented-switch-with-profile-and-notifications-content.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, tabs, segmented, white, grey, icons, minimal, ui-kit
 
 ## What it is

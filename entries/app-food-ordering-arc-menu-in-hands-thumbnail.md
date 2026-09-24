@@ -2,7 +2,7 @@
 
 ![](../images/app-food-ordering-arc-menu-in-hands-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** Food ordering app
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** food, delivery, thumbnail, hands, arc-menu, white-ui, project-cover
 
 ## What it is

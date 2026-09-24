@@ -2,7 +2,7 @@
 
 ![](../images/app-usability-test-heatmaps-and-task-table.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** research, usability, heatmap, table, light-grey, pills, fintech, results
 
 ## What it is

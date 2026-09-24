@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-problems-and-solutions-tab-cards-with-progress-plane.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** problem-solution, dark, glass, tabs, progress-bar, plane, booking
 
 ## What it is

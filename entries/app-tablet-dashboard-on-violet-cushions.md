@@ -2,7 +2,7 @@
 
 ![](../images/app-tablet-dashboard-on-violet-cushions.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** mockup, tablet, 3d-scene, violet, soft-textile, analytics, playful-luxury
 
 ## What it is

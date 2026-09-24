@@ -2,7 +2,7 @@
 
 ![](../images/web-monochrome-3d-blob-agency-hero.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** monochrome, 3d, black-white, agency, hero, chips, stats
 
 ## What it is

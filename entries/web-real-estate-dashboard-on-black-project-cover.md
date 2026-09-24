@@ -2,7 +2,7 @@
 
 ![](../images/web-real-estate-dashboard-on-black-project-cover.jpg)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** dashboard, black, 3d-slab, real-estate, cover, map
 
 ## What it is

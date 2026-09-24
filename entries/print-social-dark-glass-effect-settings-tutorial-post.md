@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-glass-effect-settings-tutorial-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** tutorial, glass, dark, settings-panel, toggle, step-03
 
 ## What it is

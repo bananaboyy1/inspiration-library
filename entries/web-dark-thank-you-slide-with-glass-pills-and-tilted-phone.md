@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-thank-you-slide-with-glass-pills-and-tilted-phone.jpg)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** closing, dark, white-type, glass-pills, follow-button, phone, grid, emoji
 
 ## What it is

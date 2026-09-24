@@ -2,7 +2,7 @@
 
 ![](../images/app-black-lime-cgm-health-tracker-flow-with-captions.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** health, black, lime, tracker, sensor, flow, captions
 
 ## What it is

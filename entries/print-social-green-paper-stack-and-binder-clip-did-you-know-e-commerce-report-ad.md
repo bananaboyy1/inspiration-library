@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-paper-stack-and-binder-clip-did-you-know-e-commerce-report-ad.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** ad, green, binder-clip, paper-stack, report, cream-card, stat, vertical-year-tabs
 
 ## What it is

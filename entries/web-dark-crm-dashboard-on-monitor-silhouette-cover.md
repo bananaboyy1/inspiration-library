@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-crm-dashboard-on-monitor-silhouette-cover.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** dark, dashboard, monitor, silhouette, crm, cover, minimal
 
 ## What it is

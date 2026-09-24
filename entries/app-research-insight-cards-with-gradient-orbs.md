@@ -2,7 +2,7 @@
 
 ![](../images/app-research-insight-cards-with-gradient-orbs.gif)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** research, cards, dark-background, gradient-blur, donut, blue, orange, carousel
 
 ## What it is

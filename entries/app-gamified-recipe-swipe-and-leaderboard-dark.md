@@ -2,7 +2,7 @@
 
 ![](../images/app-gamified-recipe-swipe-and-leaderboard-dark.png)
 
-**Discipline:** app · **Design type:** Gamified app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** gamification, recipes, dark, teal, pink, leaderboard, coins, rounded-cards
 
 ## What it is

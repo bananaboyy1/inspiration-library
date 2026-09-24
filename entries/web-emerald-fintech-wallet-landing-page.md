@@ -2,7 +2,7 @@
 
 ![](../images/web-emerald-fintech-wallet-landing-page.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** fintech, emerald, green, dark, gradient, fingerprint, cards, testimonial-cards, long-scroll
 
 ## What it is

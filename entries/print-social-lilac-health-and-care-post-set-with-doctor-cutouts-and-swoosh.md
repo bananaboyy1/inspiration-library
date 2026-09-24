@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lilac-health-and-care-post-set-with-doctor-cutouts-and-swoosh.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** health, lilac, doctors, cutouts, swoosh, template, medical, stock
 
 ## What it is

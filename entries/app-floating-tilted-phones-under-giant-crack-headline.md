@@ -2,7 +2,7 @@
 
 ![](../images/app-floating-tilted-phones-under-giant-crack-headline.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** floating, phones, headline, cream, purple, black, planning
 
 ## What it is

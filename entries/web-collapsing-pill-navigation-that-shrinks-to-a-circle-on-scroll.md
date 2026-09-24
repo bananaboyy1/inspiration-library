@@ -2,7 +2,7 @@
 
 ![](../images/web-collapsing-pill-navigation-that-shrinks-to-a-circle-on-scroll.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, navigation, pill, motion, white, grey, scroll, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-cake-order-steps-on-wavy-path.png)
 
-**Discipline:** print-social · **Design type:** Social infographic
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** infographic, process, cobalt, pink, starburst, cake-slices, path, steps
 
 ## What it is

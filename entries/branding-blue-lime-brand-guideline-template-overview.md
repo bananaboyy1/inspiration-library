@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-lime-brand-guideline-template-overview.jpg)
 
-**Discipline:** branding · **Design type:** Brand guidelines deck
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** brand-guidelines, template, lime, cperiwinkle, slides, overview, modern
 
 ## What it is

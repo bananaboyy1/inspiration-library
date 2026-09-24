@@ -2,7 +2,7 @@
 
 ![](../images/web-grid-system-spec-over-dark-editorial-portrait.png)
 
-**Discipline:** web · **Design type:** Design system documentation
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** grid-system, documentation, dark, columns, gutters, portrait-backdrop, uppercase, fashion
 
 ## What it is

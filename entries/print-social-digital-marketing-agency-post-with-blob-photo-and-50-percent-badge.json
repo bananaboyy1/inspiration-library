@@ -1,0 +1,38 @@
+{
+  "name": "print-social-digital-marketing-agency-post-with-blob-photo-and-50-percent-badge",
+  "image": "images/print-social-digital-marketing-agency-post-with-blob-photo-and-50-percent-badge.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "'Digital Marketing Agency' post with a blob-shaped photo and black 'Save 50%' circle badge",
+  "tags": [
+    "agency",
+    "red",
+    "orange",
+    "blob",
+    "discount",
+    "ad"
+  ],
+  "whatItIs": "A square white post with a black, red and black headline, red 'Get started' pill, social handle row, chevron rows, a photo of a smiling man in a light suit masked into a tall organic blob with an orange edge, and a black circle badge 'Save 50% Limited offer'.",
+  "whatItMeans": "Clean and sales-driven; the round badge pops against the flowing photo shape.",
+  "techniques": [
+    "Mask the photo into an organic blob with a colour edge.",
+    "Overlap a circle badge onto the photo edge.",
+    "Use chevron rows as directional texture."
+  ],
+  "bestFor": [
+    "Agency offers",
+    "Discount promos",
+    "Service ads"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blob mask",
+      "definition": "An organic curved shape used to crop a photo."
+    },
+    {
+      "term": "Offer badge",
+      "definition": "A circle highlighting a discount."
+    }
+  ]
+}

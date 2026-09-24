@@ -2,7 +2,7 @@
 
 ![](../images/print-social-night-city-tower-cover-with-giant-white-caps.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** real-estate, night, city, white-caps, blue-labels, photo, cyrillic, cover
 
 ## What it is

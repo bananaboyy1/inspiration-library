@@ -2,7 +2,7 @@
 
 ![](../images/print-social-laptop-screen-tip-post-periwinkle.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** tips, periwinkle, laptop, greyscale-cutout, white-card, orange-accent, grain, cyrillic
 
 ## What it is

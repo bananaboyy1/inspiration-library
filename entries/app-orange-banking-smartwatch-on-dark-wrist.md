@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-banking-smartwatch-on-dark-wrist.jpg)
 
-**Discipline:** app · **Design type:** Wearable UI
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** smartwatch, banking, wrist, orange, grey, silhouette, balance
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-avatar-stack-with-black-name-tooltip-on-dotted-white.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, avatars, tooltip, black, white, dotted, team, hover
 
 ## What it is

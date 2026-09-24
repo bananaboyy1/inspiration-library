@@ -2,7 +2,7 @@
 
 ![](../images/web-care-app-website-on-floating-tilted-monitor-in-lilac.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** monitor, lilac, tilted, dashed-route, serif, yellow, senior-care, credits
 
 ## What it is

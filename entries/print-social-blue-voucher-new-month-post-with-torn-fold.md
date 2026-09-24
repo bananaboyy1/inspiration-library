@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-voucher-new-month-post-with-torn-fold.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** voucher, new-month, blue, white, paper-fold, gift-icon, grain, promo
 
 ## What it is

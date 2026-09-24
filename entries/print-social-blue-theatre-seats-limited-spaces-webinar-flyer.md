@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-theatre-seats-limited-spaces-webinar-flyer.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** webinar, blue, seats, dark, green-label, scarcity, flyer
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-user-journey-map-grid-with-emoji-emotions-and-pastel-rows.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** journey-map, research, persona, pastel, grid, emoji, red, documentation
 
 ## What it is

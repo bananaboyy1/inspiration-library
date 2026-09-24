@@ -2,7 +2,7 @@
 
 ![](../images/app-white-subscription-history-and-pricing-screens-with-metal-bar-and-sky.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** subscriptions, white, chrome, sky, pricing, hand, stars
 
 ## What it is

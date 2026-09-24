@@ -2,7 +2,7 @@
 
 ![](../images/app-money-mindfulness-app-in-warm-rust-with-topographic-lines-and-feeling-chips.webp)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** mindfulness, finance, rust, peach, orange, topographic, chips, phones
 
 ## What it is

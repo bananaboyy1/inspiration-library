@@ -2,7 +2,7 @@
 
 ![](../images/web-astronaut-404-page-with-earth-horizon-and-wide-tracked-numerals.jpg)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** 404, error-page, space, black, white, astronaut, earth, outlined-button
 
 ## What it is

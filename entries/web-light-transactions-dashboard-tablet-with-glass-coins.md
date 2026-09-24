@@ -2,7 +2,7 @@
 
 ![](../images/web-light-transactions-dashboard-tablet-with-glass-coins.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, tablet, transactions, gradient-cards, table, status-pills, coins
 
 ## What it is

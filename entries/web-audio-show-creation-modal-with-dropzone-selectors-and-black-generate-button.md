@@ -2,7 +2,7 @@
 
 ![](../images/web-audio-show-creation-modal-with-dropzone-selectors-and-black-generate-button.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, modal, form, upload, dropzone, selects, white, black-button
 
 ## What it is

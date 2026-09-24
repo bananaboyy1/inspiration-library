@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-navy-background-with-two-soft-indigo-and-blue-glows.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** background, gradient, navy, violet, blue, glow, dark, mesh
 
 ## What it is

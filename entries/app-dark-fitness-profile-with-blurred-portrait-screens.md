@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-fitness-profile-with-blurred-portrait-screens.png)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fitness, profile, dark, purple-gradient, portrait, glass, silhouette, case-study
 
 ## What it is

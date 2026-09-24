@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-user-journey-node-map-slide.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** user-journey, nodes, lavender, pills, tree, progress-bar
 
 ## What it is

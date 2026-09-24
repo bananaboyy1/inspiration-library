@@ -2,7 +2,7 @@
 
 ![](../images/branding-cybersecurity-brand-identity-board.png)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** dark, monospace, tech, security, board, mockups, grid, business-card
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-pastel-tag-calendar-with-floating-event-cards.png)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** calendar, planner, pastel, tags, event-cards, exploded-ui, white-background, blue-accent
 
 ## What it is

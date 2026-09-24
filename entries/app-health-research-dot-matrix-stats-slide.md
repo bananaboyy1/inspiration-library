@@ -2,7 +2,7 @@
 
 ![](../images/app-health-research-dot-matrix-stats-slide.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** research, dot-matrix, stats, health, purple, blue, black, photo
 
 ## What it is

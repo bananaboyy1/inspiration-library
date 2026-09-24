@@ -2,7 +2,7 @@
 
 ![](../images/app-sleep-window-tracker-with-dial-and-annotations.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** sleep, dark-green, dial, gradient-arc, annotations, monospace, condensed-serif, yellow-button
 
 ## What it is

@@ -1,0 +1,39 @@
+{
+  "name": "print-social-successful-projects-stats-post-with-violet-glass-tiles",
+  "image": "images/print-social-successful-projects-stats-post-with-violet-glass-tiles.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Glassmorphism",
+  "title": "'Invented and managed successful projects' stats post with offset rows of violet glass tiles",
+  "tags": [
+    "stats",
+    "agency",
+    "violet",
+    "glass",
+    "numbers",
+    "cta"
+  ],
+  "whatItIs": "A square violet post with a white X logo, a two-tone headline, and three offset rows of frosted violet glass tiles with fine grids showing big numbers and labels (52 Successful launches, 150 Interviews conducted, 250+ People hired), fading toward the bottom, plus a split 'Book a meeting' CTA.",
+  "whatItMeans": "Impressive and tactile; staggered stats feel like an endless wall of achievements.",
+  "techniques": [
+    "Offset rows of stat tiles like bricks.",
+    "Fade lower rows to suggest more.",
+    "Put a fine grid inside each glass tile.",
+    "Pair big numerals with small labels."
+  ],
+  "bestFor": [
+    "Agency credentials",
+    "Portfolio stats",
+    "Social proof posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stat tile",
+      "definition": "A card showing a number and label."
+    },
+    {
+      "term": "Brick layout",
+      "definition": "Rows offset like bricks."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-uiux-design-long-sheet-home-analytics-assistant-pages.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** health, long-sheet, screens, zigzag, captions, connectors, pale
 
 ## What it is

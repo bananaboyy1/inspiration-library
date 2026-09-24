@@ -2,7 +2,7 @@
 
 ![](../images/web-subscriptions-stat-card-with-growth-caption-and-month-axis.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, stat-card, chart, white, numerals, axis, subscriptions, minimal
 
 ## What it is

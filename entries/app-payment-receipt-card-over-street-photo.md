@@ -2,7 +2,7 @@
 
 ![](../images/app-payment-receipt-card-over-street-photo.jpg)
 
-**Discipline:** app · **Design type:** Status widget
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** payments, transaction-card, photo-overlay, frosted, lifestyle, fintech, receipt
 
 ## What it is

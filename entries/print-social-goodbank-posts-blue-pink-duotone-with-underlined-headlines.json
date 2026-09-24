@@ -1,0 +1,39 @@
+{
+  "name": "print-social-goodbank-posts-blue-pink-duotone-with-underlined-headlines",
+  "image": "images/print-social-goodbank-posts-blue-pink-duotone-with-underlined-headlines.avif",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "designStyle": "Gradient & Aurora",
+  "title": "GoodBank pack with blue-to-magenta duotone portraits, stripe shards and underlined headlines",
+  "tags": [
+    "banking",
+    "fintech",
+    "blue",
+    "magenta",
+    "duotone",
+    "gradient"
+  ],
+  "whatItIs": "Nine square posts with a man in a pink suit rendered in blue-magenta duotone, diagonal stripe shards, white and blue panels with bold black headlines ('We Make Banking Easy For You') where a word is underlined, small icon feature rows and pink 'Know more' pills.",
+  "whatItMeans": "Bold and friendly; the duotone and hot pink make a bank feel youthful and approachable.",
+  "techniques": [
+    "Render photos as a two-colour duotone.",
+    "Underline one key word in the headline.",
+    "Slice diagonal stripe shards across the background.",
+    "Use tiny icon rows for features."
+  ],
+  "bestFor": [
+    "Neobanks",
+    "Fintech apps",
+    "Youthful financial services"
+  ],
+  "vocabulary": [
+    {
+      "term": "Duotone",
+      "definition": "An image in two colours, usually dark and light."
+    },
+    {
+      "term": "Stripe shard",
+      "definition": "An angled shape filled with diagonal stripes."
+    }
+  ]
+}

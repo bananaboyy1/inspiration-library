@@ -2,7 +2,7 @@
 
 ![](../images/web-admin-users-dashboard-on-laptop-with-white-ribbed-backdrop.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop, dashboard, white, ribbed, lavender, admin, 3d
 
 ## What it is

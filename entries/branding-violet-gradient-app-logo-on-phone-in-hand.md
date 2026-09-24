@@ -2,7 +2,7 @@
 
 ![](../images/branding-violet-gradient-app-logo-on-phone-in-hand.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo, app-splash, violet, gradient, hand, phone, white-mark, dark-background
 
 ## What it is

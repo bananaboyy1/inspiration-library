@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-kanban-task-board-with-integration-chips-and-avatars.webp)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** kanban, tasks, blue, white, cards, avatars, integrations, sidebar
 
 ## What it is

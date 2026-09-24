@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-carousel-set-with-blue-highlights-and-white-asterisk-stickers.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** carousel, black, blue, asterisk, highlights, education, design, swipe
 
 ## What it is

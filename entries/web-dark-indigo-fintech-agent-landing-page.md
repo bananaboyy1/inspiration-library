@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-indigo-fintech-agent-landing-page.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** saas, dark-mode, indigo, payment, 3d-cards, pricing, faq, long-scroll
 
 ## What it is

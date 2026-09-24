@@ -3,6 +3,7 @@
   "image": "images/web-collapsible-sidebar-layout-with-icon-nav-and-main-content.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Bare app shell: left sidebar with icon-and-label nav (Home, Inbox, Calendar, Search, Settings), a collapse toggle and a main content area",
   "tags": [
     "component",

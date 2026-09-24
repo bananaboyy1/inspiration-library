@@ -2,7 +2,7 @@
 
 ![](../images/web-catalog-listing-page-with-category-tiles-filters-and-product-grid.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** catalog, listing, filters, blue, product-grid, pagination, mobile, cyrillic
 
 ## What it is

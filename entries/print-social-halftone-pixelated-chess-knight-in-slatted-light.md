@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-pixelated-chess-knight-in-slatted-light.webp)
 
-**Discipline:** print-social · **Design type:** Photographic image
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** photography, chess, pixelated, mosaic, dark, warm, stripes, concept
 
 ## What it is

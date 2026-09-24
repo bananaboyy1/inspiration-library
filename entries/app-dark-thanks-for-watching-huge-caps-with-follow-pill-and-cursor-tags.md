@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-thanks-for-watching-huge-caps-with-follow-pill-and-cursor-tags.jpg)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** thanks, dark, huge-type, gradient, follow, cursors, contact
 
 ## What it is

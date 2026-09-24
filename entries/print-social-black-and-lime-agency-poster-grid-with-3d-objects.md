@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-lime-agency-poster-grid-with-3d-objects.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** agency, black, lime, cream, 3d-objects, templates, bold-type, grid
 
 ## What it is

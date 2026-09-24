@@ -2,7 +2,7 @@
 
 ![](../images/app-fintech-case-study-quote-and-project-info.jpg)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** case-study, quote, fintech, grey, gradient, testimonial, metadata
 
 ## What it is

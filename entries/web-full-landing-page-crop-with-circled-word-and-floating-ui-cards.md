@@ -2,7 +2,7 @@
 
 ![](../images/web-full-landing-page-crop-with-circled-word-and-floating-ui-cards.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** landing, travel, circled-word, floating-cards, lavender, blue, phone, dark-frame
 
 ## What it is

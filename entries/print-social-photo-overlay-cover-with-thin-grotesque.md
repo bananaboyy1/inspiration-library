@@ -2,7 +2,7 @@
 
 ![](../images/print-social-photo-overlay-cover-with-thin-grotesque.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** cover, photo-overlay, thin-caps, field, green, cyrillic, two-runner, logo
 
 ## What it is

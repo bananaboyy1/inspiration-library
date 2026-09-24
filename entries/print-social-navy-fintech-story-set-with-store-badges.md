@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-fintech-story-set-with-store-badges.jpg)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** stories, fintech, sky, card, glass-coin, store-badges, blue
 
 ## What it is

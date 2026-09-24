@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-lime-website-sections-with-testimonial-and-feature-tiles.png)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** sections, black, lime, tiles, testimonial, hero, full-bleed-photo, ride-hailing
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-blurred-silhouette-with-frosted-glucose-metric-tiles.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, tiles, frosted, blur, glucose, gradients, widgets
 
 ## What it is

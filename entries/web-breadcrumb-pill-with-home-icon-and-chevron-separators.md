@@ -2,7 +2,7 @@
 
 ![](../images/web-breadcrumb-pill-with-home-icon-and-chevron-separators.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, breadcrumb, pill, navigation, white, grey, chevron, minimal
 
 ## What it is

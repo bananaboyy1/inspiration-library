@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grey-health-app-stories-presentation.png)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** stories, health, grey, hands, phone, orb, presentation
 
 ## What it is

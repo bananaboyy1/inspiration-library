@@ -2,7 +2,7 @@
 
 ![](../images/web-cobalt-lime-web3-club-hero-with-scribbles.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** cobalt, lime, web3, giant-type, scribbles, glass-cards, stickers
 
 ## What it is

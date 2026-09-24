@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-magenta-saas-finance-site-template-preview.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, dark, magenta, gradient-glow, dashboard, logo-strip, template, pill-nav
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-community-feed-on-phone-on-desk-flat-lay.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** instagram, feed-grid, flat-lay, desk, blue-notebook, coffee, cream-frame, education
 
 ## What it is

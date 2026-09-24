@@ -2,7 +2,7 @@
 
 ![](../images/app-client-vision-quote-slide-with-rounded-portrait.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** quote, testimonial, light-grey, portrait, two-tone-type, case-study
 
 ## What it is

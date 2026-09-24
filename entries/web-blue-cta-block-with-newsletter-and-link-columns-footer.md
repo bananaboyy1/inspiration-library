@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-cta-block-with-newsletter-and-link-columns-footer.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** component, footer, cta, blue, newsletter, link-columns, social-icons, white
 
 ## What it is

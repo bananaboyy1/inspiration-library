@@ -2,7 +2,7 @@
 
 ![](../images/app-pearl-grey-mobile-app-long-sheet-with-hand-held-screens.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** banking, pearl, long-scroll, hand, screens, serif, captions, grey
 
 ## What it is

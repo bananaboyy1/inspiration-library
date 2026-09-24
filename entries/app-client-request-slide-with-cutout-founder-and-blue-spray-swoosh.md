@@ -2,7 +2,7 @@
 
 ![](../images/app-client-request-slide-with-cutout-founder-and-blue-spray-swoosh.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** client-request, founder, portrait, blue-spray, quote, tone-shift, pale
 
 ## What it is

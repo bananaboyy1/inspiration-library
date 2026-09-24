@@ -2,7 +2,7 @@
 
 ![](../images/branding-lime-gift-card-trip-history-and-watch-application-board.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** gift-card, mobility, lime, black, smartwatch, photography, app-screen, application
 
 ## What it is

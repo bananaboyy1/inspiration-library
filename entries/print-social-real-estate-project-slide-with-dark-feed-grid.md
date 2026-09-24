@@ -2,7 +2,7 @@
 
 ![](../images/print-social-real-estate-project-slide-with-dark-feed-grid.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, social-media, real-estate, cream, chocolate, feed-grid, script-sticker, asterisk-sticker
 
 ## What it is

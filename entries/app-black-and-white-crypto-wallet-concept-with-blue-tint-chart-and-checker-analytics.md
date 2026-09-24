@@ -2,7 +2,7 @@
 
 ![](../images/app-black-and-white-crypto-wallet-concept-with-blue-tint-chart-and-checker-analytics.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** crypto, wallet, black-outline, monochrome, periwinkle, analytics, chart
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-figma-screen-photo-of-orange-fitness-app-with-white-and-green-accents.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** figma, photo, fitness, orange, periwinkle, dark, behind-the-scenes
 
 ## What it is

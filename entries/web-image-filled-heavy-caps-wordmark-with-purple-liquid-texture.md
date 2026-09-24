@@ -2,7 +2,7 @@
 
 ![](../images/web-image-filled-heavy-caps-wordmark-with-purple-liquid-texture.webp)
 
-**Discipline:** web · **Design type:** Motion text
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** typography, image-fill, purple, magenta, white, heavy-caps, masked-text, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-lime-green-finance-dashboard-on-laptop-with-ai-assistant.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, lime, white, laptop, finance, ai-assistant, dot-chart
 
 ## What it is

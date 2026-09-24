@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-persona-with-metrics-cards-slide.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** persona, blue, cards, dashed-lines, gauge, quote, health
 
 ## What it is

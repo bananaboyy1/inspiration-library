@@ -2,7 +2,7 @@
 
 ![](../images/web-architecture-home-hero-with-serif-title-blush-sky-and-glass-card-with-3d-house.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** architecture, real-estate, serif, taupe, blush-sky, 3d-house, white-card, landscape
 
 ## What it is

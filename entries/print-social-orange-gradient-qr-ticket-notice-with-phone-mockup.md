@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-gradient-qr-ticket-notice-with-phone-mockup.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** notice, orange, qr-code, ticket, phone-mockup, announcement, instagram
 
 ## What it is

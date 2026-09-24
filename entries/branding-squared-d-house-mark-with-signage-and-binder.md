@@ -2,7 +2,7 @@
 
 ![](../images/branding-squared-d-house-mark-with-signage-and-binder.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, real-estate, black-and-white, geometric, signage, binder, wordmark
 
 ## What it is

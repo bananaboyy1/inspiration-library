@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-and-green-blob-product-launch-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** product-launch, pink, green, blob-shapes, candle, matcha, justified-text, cyrillic
 
 ## What it is

@@ -1,0 +1,39 @@
+{
+  "name": "print-social-orange-digital-agency-ad-with-selective-colour-photo",
+  "image": "images/print-social-orange-digital-agency-ad-with-selective-colour-photo.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "White and orange agency ad with a greyscale man in an orange shirt and glossy 3D icons",
+  "tags": [
+    "agency",
+    "orange",
+    "selective-colour",
+    "3d-icons",
+    "outline-type",
+    "ad"
+  ],
+  "whatItIs": "A square ad with a grinning man in glasses whose photo is greyscale except his orange shirt, orange 3D thumbs-up and like spheres, a headline mixing solid orange 'DIGITAL', outlined 'MARKETING' and black 'AGENCY', a services list and a slanted orange footer.",
+  "whatItMeans": "Loud and cheeky; selective colour ties the person directly to the brand hue.",
+  "techniques": [
+    "Keep only brand-coloured items in colour.",
+    "Mix solid and outline type in one headline.",
+    "Float glossy 3D icons as social signals.",
+    "Slant the footer band for motion."
+  ],
+  "bestFor": [
+    "Agency ads",
+    "Social media marketing services",
+    "High-contrast promos"
+  ],
+  "vocabulary": [
+    {
+      "term": "Selective colour",
+      "definition": "A mostly greyscale photo with one colour kept."
+    },
+    {
+      "term": "Outline type",
+      "definition": "Letters drawn as strokes only."
+    }
+  ]
+}

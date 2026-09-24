@@ -2,7 +2,7 @@
 
 ![](../images/web-team-section-on-curved-dashed-path.jpg)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** team-section, duotone, periwinkle, gradient, dashed-line, portraits, minimal
 
 ## What it is

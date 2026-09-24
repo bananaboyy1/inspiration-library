@@ -2,7 +2,7 @@
 
 ![](../images/print-social-real-estate-profile-on-phone-over-folded-leather.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** instagram, feed-grid, leather, brown, gold, mockup, luxury, dark-feed
 
 ## What it is

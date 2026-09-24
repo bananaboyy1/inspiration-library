@@ -2,7 +2,7 @@
 
 ![](../images/app-realtor-app-ui-screens-long-sheet-with-gloved-hand-and-thanks.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** real-estate, long-scroll, screens, gloved-hand, ghost-type, chrome, closing
 
 ## What it is

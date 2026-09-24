@@ -2,7 +2,7 @@
 
 ![](../images/web-payment-method-modal-with-radio-cards-and-stacked-dialog.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, modal, radio-cards, payment, white, black-button, stacked-dialog, ui-kit
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-overview-slide-with-inline-icon-headline-and-metadata.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** overview, headline, metadata, grey, icons, blue, two-tone
 
 ## What it is

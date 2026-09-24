@@ -2,7 +2,7 @@
 
 ![](../images/app-results-slide-feedback-pills-and-dot-charts.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** case-study, results, light-grey, pills, dot-matrix, gauge, banking
 
 ## What it is

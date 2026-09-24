@@ -2,7 +2,7 @@
 
 ![](../images/web-how-it-works-four-step-list-with-numbered-timeline-and-icon-cards.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** how-it-works, steps, timeline, monospace, cards, white, icons, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-glass-frame-event-decor-poster-with-flowers.jpg)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** events, decor, flowers, glass-frame, purple, serif, photo, poster
 
 ## What it is

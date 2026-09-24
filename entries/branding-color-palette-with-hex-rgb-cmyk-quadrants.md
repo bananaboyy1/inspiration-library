@@ -2,7 +2,7 @@
 
 ![](../images/branding-color-palette-with-hex-rgb-cmyk-quadrants.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** colour-palette, brand-guidelines, lime, monochrome, specs, quadrants
 
 ## What it is

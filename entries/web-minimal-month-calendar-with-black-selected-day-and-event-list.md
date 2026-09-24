@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-month-calendar-with-black-selected-day-and-event-list.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, calendar, white, black, event-list, input, minimal, ui-kit
 
 ## What it is

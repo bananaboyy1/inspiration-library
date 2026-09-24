@@ -2,7 +2,7 @@
 
 ![](../images/print-social-conference-speaker-card-indigo-and-lime.jpg)
 
-**Discipline:** print-social · **Design type:** Event speaker card
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** event, speaker-card, indigo, lime, portrait, sponsor-strip, conference
 
 ## What it is

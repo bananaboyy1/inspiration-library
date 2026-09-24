@@ -2,7 +2,7 @@
 
 ![](../images/app-store-screenshots-in-frosted-glass-with-pearl-blue-gradients.jpg)
 
-**Discipline:** app · **Design type:** App store presentation
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** app-store, screenshots, fintech, pearl-blue, glass, serif-numerals, hand, laurel
 
 ## What it is

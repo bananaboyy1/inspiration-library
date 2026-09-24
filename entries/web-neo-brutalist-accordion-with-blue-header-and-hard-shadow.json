@@ -3,6 +3,7 @@
   "image": "images/web-neo-brutalist-accordion-with-blue-header-and-hard-shadow.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Neo-Brutalist",
   "title": "Single open accordion with a cornflower blue header, black outline and hard offset shadow, asking 'Is it accessible?'",
   "tags": [
     "component",

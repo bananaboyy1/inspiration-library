@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-time-waits-quote-post-with-alarm-clock-render.jpg)
 
-**Discipline:** print-social · **Design type:** Social quote post
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** quote, violet, 3d-render, alarm-clock, white-card, minimal, business, square
 
 ## What it is

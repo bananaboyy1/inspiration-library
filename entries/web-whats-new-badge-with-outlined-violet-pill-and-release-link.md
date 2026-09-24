@@ -2,7 +2,7 @@
 
 ![](../images/web-whats-new-badge-with-outlined-violet-pill-and-release-link.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, badge, announcement, violet, outlined, white, chevron, minimal
 
 ## What it is

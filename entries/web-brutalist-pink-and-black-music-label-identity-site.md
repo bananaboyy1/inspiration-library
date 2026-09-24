@@ -2,7 +2,7 @@
 
 ![](../images/web-brutalist-pink-and-black-music-label-identity-site.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** music, pink, black, brush-type, halftone, brutalist, long-scroll, distortion
 
 ## What it is

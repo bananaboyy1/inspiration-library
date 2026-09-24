@@ -2,7 +2,7 @@
 
 ![](../images/web-grainy-violet-and-blue-noise-gradient-background.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** gradient, grain, navy, violet, noise, background, texture, dark
 
 ## What it is

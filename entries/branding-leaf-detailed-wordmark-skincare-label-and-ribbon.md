@@ -2,7 +2,7 @@
 
 ![](../images/branding-leaf-detailed-wordmark-skincare-label-and-ribbon.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** wordmark, skincare, leaf, sans-serif, ribbon, paper-label, green, botanical
 
 ## What it is

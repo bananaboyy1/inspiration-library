@@ -2,7 +2,7 @@
 
 ![](../images/web-real-estate-case-study-slide-on-chocolate-with-phone.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, chocolate-brown, cream, phone-mockup, sticker, script, real-estate, bold-lead-in
 
 ## What it is

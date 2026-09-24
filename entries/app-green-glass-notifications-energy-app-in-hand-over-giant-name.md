@@ -2,7 +2,7 @@
 
 ![](../images/app-green-glass-notifications-energy-app-in-hand-over-giant-name.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** green, energy, glass, notifications, hand, giant-type, cover
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-green-project-management-dashboard-with-hatched-bars-and-progress-arc.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, green, white, hatched-bars, progress-arc, kpi, time-tracker
 
 ## What it is

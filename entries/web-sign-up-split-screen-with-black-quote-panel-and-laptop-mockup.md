@@ -2,7 +2,7 @@
 
 ![](../images/web-sign-up-split-screen-with-black-quote-panel-and-laptop-mockup.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** sign-up, form, split-screen, white, black, testimonial, laptop, social-login
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-anime-character-generator-hero-on-tablet-with-notched-cards-and-circular-badge.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** tablet, anime, ai, notched-cards, circular-text, display-caps, lilac, gradient-backdrop
 
 ## What it is

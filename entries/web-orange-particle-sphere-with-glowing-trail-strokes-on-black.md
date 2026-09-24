@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-particle-sphere-with-glowing-trail-strokes-on-black.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** particles, dark, orange, sphere, interactive, generative, glow, cursor
 
 ## What it is

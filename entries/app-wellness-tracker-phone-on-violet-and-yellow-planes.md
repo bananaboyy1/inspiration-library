@@ -2,7 +2,7 @@
 
 ![](../images/app-wellness-tracker-phone-on-violet-and-yellow-planes.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, periwinkle, yellow, donut-chart, 3d-scene, tilted-phone, planes, wellness
 
 ## What it is

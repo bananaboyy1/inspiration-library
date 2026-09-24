@@ -2,7 +2,7 @@
 
 ![](../images/app-dotted-orange-on-black-aiot-dashboard-tile-wall.jpg)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** dashboard, dot-matrix, orange, black, monospace, tiles, widgets, aiot
 
 ## What it is

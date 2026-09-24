@@ -2,7 +2,7 @@
 
 ![](../images/web-mystery-collectible-cards-grid-with-why-it-exists-manifesto.png)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** collectibles, cards, question-mark, pink, manifesto, monospace, tilted
 
 ## What it is

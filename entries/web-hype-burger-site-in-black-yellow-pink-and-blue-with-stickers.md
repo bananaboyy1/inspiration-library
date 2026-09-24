@@ -2,7 +2,7 @@
 
 ![](../images/web-hype-burger-site-in-black-yellow-pink-and-blue-with-stickers.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** food, burger, black, blue, pink, yellow, stickers, tilted-layout
 
 ## What it is

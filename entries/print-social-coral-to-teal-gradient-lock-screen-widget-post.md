@@ -2,7 +2,7 @@
 
 ![](../images/print-social-coral-to-teal-gradient-lock-screen-widget-post.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** lock-screen, widgets, gradient, coral, teal, notifications, church, vector
 
 ## What it is

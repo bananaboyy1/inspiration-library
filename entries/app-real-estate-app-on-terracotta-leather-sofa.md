@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-app-on-terracotta-leather-sofa.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** real-estate, mockup, warm, terracotta, leather, cream-ui, photographic, gold-phone
 
 ## What it is

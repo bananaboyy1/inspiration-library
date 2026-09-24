@@ -2,7 +2,7 @@
 
 ![](../images/app-black-founder-quote-with-tilted-climate-phone.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** quote, black, lime, tilted-phone, fade, founder, smart-home
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-animator-portfolio-neon-doodle-dark-page.jpg)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, dark, neon-lime, violet, illustration, doodles, cartoon, showreel, brush-type
 
 ## What it is

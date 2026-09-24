@@ -3,6 +3,7 @@
   "image": "images/app-sleep-window-tracker-with-dial-and-annotations.png",
   "discipline": "app",
   "designType": "Health app screens",
+  "designStyle": "Neo-Brutalist",
   "title": "Dark sleep-window dial with pink-to-yellow arc, condensed serif title and side annotations",
   "tags": [
     "sleep",

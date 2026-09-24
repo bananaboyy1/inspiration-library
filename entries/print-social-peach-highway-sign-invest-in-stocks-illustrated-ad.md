@@ -2,7 +2,7 @@
 
 ![](../images/print-social-peach-highway-sign-invest-in-stocks-illustrated-ad.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** ad, peach, purple, highway-sign, road, illustration, store-badges, finance
 
 ## What it is

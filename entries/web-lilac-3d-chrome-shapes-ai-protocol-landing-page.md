@@ -2,7 +2,7 @@
 
 ![](../images/web-lilac-3d-chrome-shapes-ai-protocol-landing-page.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** ai, lilac, chrome, 3d, stepped-gradient, black-card, web3, long-page
 
 ## What it is

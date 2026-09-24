@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-ui-kit-sheet-with-pistachio-lemon-tangerine-raspberry-palette.jpg)
 
-**Discipline:** app · **Design type:** Design system documentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** ui-kit, dark, yellow, palette, gauge, watch, fruit-names, tokens
 
 ## What it is

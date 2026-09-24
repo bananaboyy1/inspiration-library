@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-page-pricing-faq-and-cta-with-hard-shadow-cards.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** pricing, faq, cream, neo-brutalism, raspberry, yellow, hard-shadow, footer
 
 ## What it is

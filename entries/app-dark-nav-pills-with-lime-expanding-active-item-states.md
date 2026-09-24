@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-nav-pills-with-lime-expanding-active-item-states.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** navigation, dark, lime, expanding, pill, states, finance
 
 ## What it is

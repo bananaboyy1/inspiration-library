@@ -2,7 +2,7 @@
 
 ![](../images/app-harbor-ai-support-app-extra-long-case-study.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** long-scroll, case-study, white, ghost-type, wireframes, flowchart, app-icon
 
 ## What it is

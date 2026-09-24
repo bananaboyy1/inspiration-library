@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-modular-grid-lesson-with-cat-photo-and-japanese-text.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** modular-grid, red, yellow, cat, poster-sample, japanese, educational
 
 ## What it is

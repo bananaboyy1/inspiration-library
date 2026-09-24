@@ -3,6 +3,7 @@
   "image": "images/app-banking-watch-face-on-a-dark-wrist.jpg",
   "discipline": "app",
   "designType": "Wearable UI",
+  "designStyle": "Glassmorphism",
   "title": "Banking smartwatch balance screen with orange buttons on a silhouetted wrist",
   "tags": [
     "smartwatch",

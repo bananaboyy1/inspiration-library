@@ -2,7 +2,7 @@
 
 ![](../images/web-floating-icon-toolbar-with-black-tooltip-and-notification-dots.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, toolbar, tooltip, pill, icons, notification-dot, white, black
 
 ## What it is

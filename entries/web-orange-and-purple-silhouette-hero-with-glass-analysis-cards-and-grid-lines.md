@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-and-purple-silhouette-hero-with-glass-analysis-cards-and-grid-lines.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** ai-detection, orange, plum, silhouette, glass-cards, guide-lines, yellow, hero
 
 ## What it is

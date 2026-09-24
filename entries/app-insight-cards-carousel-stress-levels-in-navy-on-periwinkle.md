@@ -2,7 +2,7 @@
 
 ![](../images/app-insight-cards-carousel-stress-levels-in-navy-on-periwinkle.gif)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** insights, cards, navy, periwinkle, cream, large-word, chart, cropped-carousel
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-ai-search-analytics-landing-and-pricing-two-page-preview.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, analytics, white, black-buttons, dashboard, feature-cards, pricing, logos
 
 ## What it is

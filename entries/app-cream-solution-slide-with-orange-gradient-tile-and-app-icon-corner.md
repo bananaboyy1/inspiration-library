@@ -2,7 +2,7 @@
 
 ![](../images/app-cream-solution-slide-with-orange-gradient-tile-and-app-icon-corner.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** solution, cream, yellow, gradient, app-icon, phone-corner, bento
 
 ## What it is

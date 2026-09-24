@@ -2,7 +2,7 @@
 
 ![](../images/print-social-frosted-glass-event-card-over-olive-teal-gradient-carousel-slide.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** event-card, frosted-glass, olive, teal, photo, serif, carousel, instagram
 
 ## What it is

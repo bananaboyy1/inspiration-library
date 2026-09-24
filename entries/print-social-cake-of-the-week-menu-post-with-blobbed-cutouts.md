@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cake-of-the-week-menu-post-with-blobbed-cutouts.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** menu, bakery, cobalt, condensed-type, cutouts, halos, squiggles, food
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-green-core-values-slide-with-ai-travel-features.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** core-values, lime, green, cards, ai, travel, bento
 
 ## What it is

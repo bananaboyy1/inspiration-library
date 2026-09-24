@@ -2,7 +2,7 @@
 
 ![](../images/print-social-church-event-flyer-pair-with-vertical-titles.png)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** event, church, orange, teal, vertical-title, portrait-cutout, arches, gradient
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-burgundy-corner-and-lotus-footer-letterhead-on-stand.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** 3D & Surreal
 **Tags:** letterhead, burgundy, lotus, stand, dark, stationery, corner
 
 ## What it is

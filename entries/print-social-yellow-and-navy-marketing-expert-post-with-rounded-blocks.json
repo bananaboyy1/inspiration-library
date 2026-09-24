@@ -1,0 +1,38 @@
+{
+  "name": "print-social-yellow-and-navy-marketing-expert-post-with-rounded-blocks",
+  "image": "images/print-social-yellow-and-navy-marketing-expert-post-with-rounded-blocks.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Yellow and navy 'We Are Digital Marketing Expert' post with rounded blocks and a greyscale coffee photo",
+  "tags": [
+    "agency",
+    "yellow",
+    "navy",
+    "greyscale",
+    "rounded-blocks",
+    "ad"
+  ],
+  "whatItIs": "A square post built from rounded-corner blocks: a navy logo tab, a large yellow panel with a black headline and 'Join us' pill, a greyscale photo of a smiling man with coffee at a laptop, a pale grey contact block and a quote line.",
+  "whatItMeans": "Friendly and orderly; soft rounded blocks make a corporate ad feel approachable.",
+  "techniques": [
+    "Build the layout from interlocking rounded blocks.",
+    "Keep the photo greyscale and let yellow carry the brand.",
+    "Give the logo its own dark tab in a corner."
+  ],
+  "bestFor": [
+    "Marketing consultants",
+    "Agency promos",
+    "Clean corporate ads"
+  ],
+  "vocabulary": [
+    {
+      "term": "Block layout",
+      "definition": "A composition of solid shape panels."
+    },
+    {
+      "term": "Tab",
+      "definition": "A small shape attached to an edge holding a label."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-yellow-habit-tracker-with-heatmap-grid-in-hand.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** habit, dark, yellow, heatmap, grid, hand, silhouette
 
 ## What it is

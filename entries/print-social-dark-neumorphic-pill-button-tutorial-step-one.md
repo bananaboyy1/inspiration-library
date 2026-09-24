@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-neumorphic-pill-button-tutorial-step-one.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** tutorial, dark, neumorphic, effects, step-01, figma, panels
 
 ## What it is

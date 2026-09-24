@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-fast-food-social-set-arabic.png)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** food, social-ads, orange, arabic, burger, photo-cutout, brand-mascot, grid-overview
 
 ## What it is

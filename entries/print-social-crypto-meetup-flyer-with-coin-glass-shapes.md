@@ -2,7 +2,7 @@
 
 ![](../images/print-social-crypto-meetup-flyer-with-coin-glass-shapes.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** event, meetup, grid-paper, 3d-coins, bitcoin, pills, blue, chevrons
 
 ## What it is

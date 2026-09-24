@@ -2,7 +2,7 @@
 
 ![](../images/app-pastel-gradient-onboarding-cards-with-app-icon-keys-and-lists.webp)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** onboarding, cards, pastel-gradient, blue, icons, keys, page-dots, desktop-app
 
 ## What it is

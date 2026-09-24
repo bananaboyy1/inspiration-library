@@ -2,7 +2,7 @@
 
 ![](../images/app-create-a-room-settings-sheet-with-member-avatars.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** settings, bottom-sheet, avatars, toggle, blue, form, white
 
 ## What it is

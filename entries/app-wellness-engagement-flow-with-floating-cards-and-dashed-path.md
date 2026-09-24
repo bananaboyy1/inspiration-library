@@ -2,7 +2,7 @@
 
 ![](../images/app-wellness-engagement-flow-with-floating-cards-and-dashed-path.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** wellness, case-study, lilac, indigo, floating-cards, dashed-path, reminders, phones-in-hand
 
 ## What it is

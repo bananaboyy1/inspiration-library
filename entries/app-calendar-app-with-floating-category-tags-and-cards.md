@@ -2,7 +2,7 @@
 
 ![](../images/app-calendar-app-with-floating-category-tags-and-cards.png)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** calendar, tags, cards, pastel, floating, white, month-view
 
 ## What it is

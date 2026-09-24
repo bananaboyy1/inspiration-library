@@ -2,7 +2,7 @@
 
 ![](../images/web-productivity-hero-with-sticky-note-3d-tiles-and-folder-widgets.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** saas, productivity, white, blue, sticky-note, 3d-icons, folders, dot-texture
 
 ## What it is

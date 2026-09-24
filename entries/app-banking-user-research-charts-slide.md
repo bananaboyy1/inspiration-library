@@ -2,7 +2,7 @@
 
 ![](../images/app-banking-user-research-charts-slide.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** research, charts, survey, grey, gauge, bars, red-green
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/app-blurred-silhouette-with-frosted-glucose-metric-tiles.jpg",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Glucose Metric Tiles over a Blurred Silhouette",
   "tags": [
     "health",

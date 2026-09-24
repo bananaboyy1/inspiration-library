@@ -2,7 +2,7 @@
 
 ![](../images/web-accordion-gallery-of-vertical-photo-strips-with-one-expanded.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, gallery, accordion, photo-strips, rounded, white, expanding, nature
 
 ## What it is

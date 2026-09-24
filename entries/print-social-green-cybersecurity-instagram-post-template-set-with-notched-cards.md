@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-cybersecurity-instagram-post-template-set-with-notched-cards.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** templates, cybersecurity, green, dark, notched-card, gradient, instagram
 
 ## What it is

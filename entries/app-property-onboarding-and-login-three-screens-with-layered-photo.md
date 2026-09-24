@@ -2,7 +2,7 @@
 
 ![](../images/app-property-onboarding-and-login-three-screens-with-layered-photo.webp)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** onboarding, login, black, white, layered-photo, segmented-tabs, social-sign-in, real-estate
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-black-onboarding-with-blurred-gradient-and-hardware-setup.png)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** onboarding, fitness, dark, gradient-blur, checklist, wearable, photo-sheet, case-study
 
 ## What it is

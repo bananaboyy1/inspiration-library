@@ -2,7 +2,7 @@
 
 ![](../images/app-health-app-in-dark-hand-over-green-gradient.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** health, green, gradient, hand, mockup, white-ui, project-cover, pills
 
 ## What it is

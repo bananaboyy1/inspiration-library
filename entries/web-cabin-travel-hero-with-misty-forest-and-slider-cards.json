@@ -1,0 +1,39 @@
+{
+  "name": "web-cabin-travel-hero-with-misty-forest-and-slider-cards",
+  "image": "images/web-cabin-travel-hero-with-misty-forest-and-slider-cards.jpg",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Travel hero on a misty forest with 'Let's explore the world' and a cabin photo card slider",
+  "tags": [
+    "travel",
+    "hero",
+    "forest",
+    "slider",
+    "orange",
+    "partners"
+  ],
+  "whatItIs": "A full-bleed misty pine forest hero with white nav, a bold 'Let's explore the world with new experience with us.' headline, an orange 'Let's Travel' button, partner logos (Airbnb, Canon, Sony), and a horizontal slider of tall cabin photo cards with address tags and arrow controls.",
+  "whatItMeans": "Atmospheric and adventurous; the misty backdrop sets mood while cards invite browsing.",
+  "techniques": [
+    "Use a moody full-bleed landscape behind text.",
+    "Add a card slider cropped at the edge to invite scrolling.",
+    "Show partner logos as social proof.",
+    "Use one warm CTA against cool tones."
+  ],
+  "bestFor": [
+    "Travel agencies",
+    "Cabin rentals",
+    "Outdoor brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Card slider",
+      "definition": "A horizontal row of cards scrolled with arrows."
+    },
+    {
+      "term": "Social proof",
+      "definition": "Logos or quotes that build trust."
+    }
+  ]
+}

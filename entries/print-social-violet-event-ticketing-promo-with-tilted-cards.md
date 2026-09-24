@@ -2,7 +2,7 @@
 
 ![](../images/print-social-violet-event-ticketing-promo-with-tilted-cards.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** violet, events, tickets, tilted-cards, sans, portrait
 
 ## What it is

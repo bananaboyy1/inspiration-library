@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grey-paper-app-mvp-five-screens-cover-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** cover, mvp, grey, bold-type, phone, headphones, carousel
 
 ## What it is

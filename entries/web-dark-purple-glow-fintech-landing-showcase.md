@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-purple-glow-fintech-landing-showcase.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** dark, violet, fintech, glow, cards, pricing, testimonials, lavender-backdrop
 
 ## What it is

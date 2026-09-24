@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-fintech-portrait-ads-with-serif-italic-and-laurel.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** ads, navy, portrait, laurel, serif-italic, card, payment-terminal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-angular-handwritten-monoline-logotype.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logotype, handwritten, monoline, black-and-white, signature, minimal, designer
 
 ## What it is

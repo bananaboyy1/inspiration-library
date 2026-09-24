@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-gradient-events-agency-curved-photo-panels.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** events, purple, gradient, curved-photos, arc, agency, square
 
 ## What it is

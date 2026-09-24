@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-calendar-app-warm-blur-scene.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** calendar, hand, lifestyle, blue, warm, photography, month-view
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-brand-collateral-and-welcome-kit-with-lime-arc-and-umbrella.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** collateral, stationery, black, electric-lime, welcome-kit, umbrella, arc, testimonial
 
 ## What it is

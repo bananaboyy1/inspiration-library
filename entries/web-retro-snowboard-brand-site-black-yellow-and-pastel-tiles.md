@@ -2,7 +2,7 @@
 
 ![](../images/web-retro-snowboard-brand-site-black-yellow-and-pastel-tiles.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** retro, snowboarding, yellow, black, condensed-type, tilted-cards, blob-crop, icons
 
 ## What it is

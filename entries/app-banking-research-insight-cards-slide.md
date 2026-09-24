@@ -2,7 +2,7 @@
 
 ![](../images/app-banking-research-insight-cards-slide.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** research, data, navy, serif-italic, cards, stats, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-gradient-ai-flight-landing-page-with-tags-and-creator-chips.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** ai, flights, blue, stripes, glass-cards, navy, ghost-type, creator-chips
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-circular-text-badge-monogram-strip.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** monogram, badge, circular-text, navy, lilac, stamp, studio
 
 ## What it is

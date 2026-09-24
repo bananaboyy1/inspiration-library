@@ -2,7 +2,7 @@
 
 ![](../images/web-thanks-slide-with-serif-line-hand-card-and-follow-pills.jpg)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** closing, serif, italic, pale-blue, cutout, glass-pills, contact, follow
 
 ## What it is

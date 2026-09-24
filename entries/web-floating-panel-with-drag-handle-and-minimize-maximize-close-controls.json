@@ -3,6 +3,7 @@
   "image": "images/web-floating-panel-with-drag-handle-and-minimize-maximize-close-controls.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "White floating panel with a drag handle, title and three window buttons, over an instructional paragraph on a white page",
   "tags": [
     "component",

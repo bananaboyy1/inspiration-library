@@ -2,7 +2,7 @@
 
 ![](../images/branding-cat-h-monogram-on-tee-label-and-embroidered-cap.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** logo, monogram, cat, apparel, woven-label, embroidery, periwinkle, hidden-animal
 
 ## What it is

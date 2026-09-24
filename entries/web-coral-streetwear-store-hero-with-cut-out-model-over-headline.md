@@ -2,7 +2,7 @@
 
 ![](../images/web-coral-streetwear-store-hero-with-cut-out-model-over-headline.jpg)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** streetwear, coral, hero, cut-out, display-type, cards, blurred-backdrop
 
 ## What it is

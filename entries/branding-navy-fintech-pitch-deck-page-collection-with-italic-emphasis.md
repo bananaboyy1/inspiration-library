@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-fintech-pitch-deck-page-collection-with-italic-emphasis.jpg)
 
-**Discipline:** branding · **Design type:** Brand guidelines deck
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** pitch-deck, navy, white, italic-serif, logo, palette, typography, slides
 
 ## What it is

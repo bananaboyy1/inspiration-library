@@ -2,7 +2,7 @@
 
 ![](../images/app-recipe-app-phone-over-cookbook-cutout.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** recipe, cookbook, hand, mint, cutout, food, thumbnail
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-red-arrow-marketing-agency-identity.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity presentation
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** identity, red, orange, arrow-logo, fluted-glass, business-cards, envelope, black-and-white
 
 ## What it is

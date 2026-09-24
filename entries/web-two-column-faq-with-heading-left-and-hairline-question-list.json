@@ -3,6 +3,7 @@
   "image": "images/web-two-column-faq-with-heading-left-and-hairline-question-list.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Two-column FAQ: 'FAQs' heading, grey subline and support link at the left, five hairline-separated questions with chevrons at the right",
   "tags": [
     "component",

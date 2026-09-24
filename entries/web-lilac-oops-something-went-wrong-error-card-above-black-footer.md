@@ -2,7 +2,7 @@
 
 ![](../images/web-lilac-oops-something-went-wrong-error-card-above-black-footer.png)
 
-**Discipline:** web · **Design type:** Error page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** error, lilac, black, status, footer, pill-button, bottom-nav
 
 ## What it is

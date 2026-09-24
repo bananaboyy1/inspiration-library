@@ -2,7 +2,7 @@
 
 ![](../images/branding-monoline-circular-o-letters-tanara-wordmark-on-brown.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** wordmark, geometric, pill-letters, cream, brown, monoline, copyright-mark, warm
 
 ## What it is

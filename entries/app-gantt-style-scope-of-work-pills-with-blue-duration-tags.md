@@ -2,7 +2,7 @@
 
 ![](../images/app-gantt-style-scope-of-work-pills-with-blue-duration-tags.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** timeline, gantt, warm-grey, white-pills, blue-tags, months, process, minimal
 
 ## What it is

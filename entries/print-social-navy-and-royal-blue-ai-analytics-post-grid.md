@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-royal-blue-ai-analytics-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** ai, templates, navy, royal-blue, portrait, checklist, stats, agency
 
 ## What it is

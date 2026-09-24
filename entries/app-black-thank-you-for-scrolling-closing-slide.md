@@ -2,7 +2,7 @@
 
 ![](../images/app-black-thank-you-for-scrolling-closing-slide.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** closing, black, thanks, orange, lime, phone, thumbs-up
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-emerald-portrait-photo-app-held-beside-face.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** emerald, portrait, photo-app, hand, ghost-type, dark-green, thumbnail
 
 ## What it is

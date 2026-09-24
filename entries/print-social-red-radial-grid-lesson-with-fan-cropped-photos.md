@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-radial-grid-lesson-with-fan-cropped-photos.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** radial-grid, red, yellow, photo-fan, educational, layout, grid
 
 ## What it is

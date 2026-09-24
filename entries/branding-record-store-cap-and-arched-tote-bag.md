@@ -2,7 +2,7 @@
 
 ![](../images/branding-record-store-cap-and-arched-tote-bag.jpg)
 
-**Discipline:** branding · **Design type:** Merch and packaging
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** retail, music, vinyl, cap, tote, pixel-icon, cream, blue-embroidery, lifestyle-photography
 
 ## What it is

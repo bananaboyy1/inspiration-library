@@ -2,7 +2,7 @@
 
 ![](../images/app-black-and-white-payments-app-three-screens-with-line-illustration.webp)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** payments, monochrome, line-illustration, black, white, tab-bar, chart
 
 ## What it is

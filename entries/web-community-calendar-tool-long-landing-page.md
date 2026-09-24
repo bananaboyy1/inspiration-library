@@ -2,7 +2,7 @@
 
 ![](../images/web-community-calendar-tool-long-landing-page.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** long-scroll, saas, white, blue, desktop-mobile, integration, comparison, case-study
 
 ## What it is

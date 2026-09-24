@@ -3,6 +3,7 @@
   "image": "images/web-collapsing-pill-navigation-that-shrinks-to-a-circle-on-scroll.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Grey page with a small white pill nav (logo, Home, About, Services, Contact) above 'Navigation with Framer Motion' and a scroll instruction",
   "tags": [
     "component",

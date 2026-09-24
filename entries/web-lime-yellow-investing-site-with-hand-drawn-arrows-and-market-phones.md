@@ -2,7 +2,7 @@
 
 ![](../images/web-lime-yellow-investing-site-with-hand-drawn-arrows-and-market-phones.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** fintech, investing, lime, black, hand-drawn, tilted-phones, bento, white
 
 ## What it is

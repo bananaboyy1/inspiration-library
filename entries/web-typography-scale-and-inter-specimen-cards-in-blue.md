@@ -2,7 +2,7 @@
 
 ![](../images/web-typography-scale-and-inter-specimen-cards-in-blue.png)
 
-**Discipline:** web · **Design type:** Typography and colour guide
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** typography, specimen, blue, white, size-scale, inter, cards, documentation
 
 ## What it is

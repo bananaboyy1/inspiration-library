@@ -2,7 +2,7 @@
 
 ![](../images/web-clean-two-column-grocery-checkout.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** ecommerce, checkout, cards, teal, lime, order-summary, forms
 
 ## What it is

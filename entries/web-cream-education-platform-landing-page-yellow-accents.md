@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-education-platform-landing-page-yellow-accents.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** education, cream, yellow, cards, outlined, courses, testimonials, long-page
 
 ## What it is

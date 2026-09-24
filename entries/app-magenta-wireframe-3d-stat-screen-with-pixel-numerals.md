@@ -2,7 +2,7 @@
 
 ![](../images/app-magenta-wireframe-3d-stat-screen-with-pixel-numerals.png)
 
-**Discipline:** app · **Design type:** Gamified app screens
+**Discipline:** app ·  · **Design style:** Retro & Pixel
 **Tags:** magenta, wireframe, 3d, pixel-type, stat, dark, year-in-review, highlight
 
 ## What it is

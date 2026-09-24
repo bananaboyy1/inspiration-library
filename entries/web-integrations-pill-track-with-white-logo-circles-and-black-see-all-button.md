@@ -2,7 +2,7 @@
 
 ![](../images/web-integrations-pill-track-with-white-logo-circles-and-black-see-all-button.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** integrations, logos, pill, white, grey, black-button, centered, minimal
 
 ## What it is

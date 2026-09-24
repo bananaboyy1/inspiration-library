@@ -2,7 +2,7 @@
 
 ![](../images/branding-pale-cream-logomark-on-white-loading-frame.gif)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo, monoline, cream, white, minimal, orbit, heart, animation
 
 ## What it is

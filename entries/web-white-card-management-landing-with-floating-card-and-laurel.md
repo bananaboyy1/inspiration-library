@@ -2,7 +2,7 @@
 
 ![](../images/web-white-card-management-landing-with-floating-card-and-laurel.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** card, hero, white, navy, serif-italic, laurel, nav-rail, minimal
 
 ## What it is

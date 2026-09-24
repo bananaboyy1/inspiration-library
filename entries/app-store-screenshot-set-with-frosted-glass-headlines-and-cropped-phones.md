@@ -2,7 +2,7 @@
 
 ![](../images/app-store-screenshot-set-with-frosted-glass-headlines-and-cropped-phones.jpg)
 
-**Discipline:** app · **Design type:** App store presentation
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** app-store, screenshots, frosted, blue-grey, hands, headlines, carousel, rating
 
 ## What it is

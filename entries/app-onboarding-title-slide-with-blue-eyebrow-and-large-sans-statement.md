@@ -2,7 +2,7 @@
 
 ![](../images/app-onboarding-title-slide-with-blue-eyebrow-and-large-sans-statement.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** case-study, white, statement, blue-eyebrow, minimal, large-type, section-title
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-fintech-welcome-post-with-3d-coins.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** fintech, purple, 3d-coins, cutout, notification, app-badges, startup-launch
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/app-conversational-onboarding-with-sunset-arc-gradient.gif",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Glassmorphism",
   "title": "Question screen with pale blue background and a blurred sunset arc at the bottom",
   "tags": [
     "onboarding",

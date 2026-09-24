@@ -2,7 +2,7 @@
 
 ![](../images/app-black-results-slide-with-cream-stats-card.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** results, black, cream, stats, numbers, minimal, smart-home
 
 ## What it is

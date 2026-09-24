@@ -1,0 +1,39 @@
+{
+  "name": "print-social-black-we-are-hiring-poster-with-red-type-and-asterisks",
+  "image": "images/print-social-black-we-are-hiring-poster-with-red-type-and-asterisks.jpg",
+  "discipline": "print-social",
+  "designType": "Recruitment post",
+  "designStyle": "Neo-Brutalist",
+  "title": "Black 'We Are Hiring' poster with bold red type, outline italic 'New Member' and asterisk bullets",
+  "tags": [
+    "hiring",
+    "recruitment",
+    "black",
+    "red",
+    "asterisk",
+    "typography"
+  ],
+  "whatItIs": "A portrait black poster with huge red 'WE ARE *HIRING' with an orange outline ring motif and blue asterisk, outlined italic 'NEW MEMBER' with an arrow, two orange role pills with descriptions, asterisk-bulleted work terms (Full time, In-house, Hybrid) and a red 'APPLY NOW!' with a yellow deadline tape.",
+  "whatItMeans": "Loud and urgent; big red type and tape make the call to apply unmissable.",
+  "techniques": [
+    "Mix solid and outline italic headline styles.",
+    "Use coloured asterisks as bullets.",
+    "Stick a tilted tape strip over the CTA for the deadline.",
+    "Put roles in pill labels."
+  ],
+  "bestFor": [
+    "Job adverts",
+    "Startup hiring",
+    "Recruitment campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tape label",
+      "definition": "A tilted strip like sticky tape carrying text."
+    },
+    {
+      "term": "Outline italic",
+      "definition": "Slanted letters drawn only as strokes."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-gradient-monospace-product-page-headphones.png)
 
-**Discipline:** web · **Design type:** E-commerce
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** product-page, orange, monospace, 3d-render, grayscale, specs, modular
 
 ## What it is

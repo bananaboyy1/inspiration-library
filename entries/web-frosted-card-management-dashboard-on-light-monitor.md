@@ -2,7 +2,7 @@
 
 ![](../images/web-frosted-card-management-dashboard-on-light-monitor.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, monitor, frosted, cards, grey, banking, charts
 
 ## What it is

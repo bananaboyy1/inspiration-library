@@ -3,6 +3,7 @@
   "image": "images/web-sidebar-with-announcement-card-and-user-account-footer.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Empty sidebar with a bordered 'Simple Announcement' card with a blue dot at the bottom, and a user row with icon, initials, email and up-down chevrons",
   "tags": [
     "component",

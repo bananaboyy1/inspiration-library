@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-homepage-desktop-and-mobile-with-lavender-hero.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** e-commerce, fashion, homepage, periwinkle, gradient-photos, uppercase-headings, mobile, dark-backdrop
 
 ## What it is

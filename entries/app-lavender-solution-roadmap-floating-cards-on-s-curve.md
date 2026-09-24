@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-solution-roadmap-floating-cards-on-s-curve.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** roadmap, s-curve, indigo, lavender, floating-cards, calendar, icons
 
 ## What it is

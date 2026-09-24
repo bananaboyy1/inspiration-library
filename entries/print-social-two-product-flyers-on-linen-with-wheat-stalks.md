@@ -2,7 +2,7 @@
 
 ![](../images/print-social-two-product-flyers-on-linen-with-wheat-stalks.jpg)
 
-**Discipline:** print-social · **Design type:** Product flyer
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** flyer, product, blue, burgundy, mockup, electronics, linen, natural-props
 
 ## What it is

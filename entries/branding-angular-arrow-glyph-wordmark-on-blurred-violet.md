@@ -2,7 +2,7 @@
 
 ![](../images/branding-angular-arrow-glyph-wordmark-on-blurred-violet.webp)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** logo, monogram, arrows, white, violet, blur, dark, studio
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-english-school-mobile-site-doodles-and-polaroids.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** mobile-web, education, cream, cobalt, orange, doodles, polaroid, grid-paper, cyrillic
 
 ## What it is

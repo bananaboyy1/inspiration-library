@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-facebook-cover-with-striped-chart-and-lines.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** facebook, cover, red, chart, stripes, crypto, profile
 
 ## What it is

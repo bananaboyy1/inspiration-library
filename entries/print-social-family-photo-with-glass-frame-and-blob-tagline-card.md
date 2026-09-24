@@ -2,7 +2,7 @@
 
 ![](../images/print-social-family-photo-with-glass-frame-and-blob-tagline-card.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** family, glass-frame, blob, navy, fintech, photography, ad
 
 ## What it is

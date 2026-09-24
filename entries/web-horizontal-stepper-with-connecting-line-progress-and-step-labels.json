@@ -3,6 +3,7 @@
   "image": "images/web-horizontal-stepper-with-connecting-line-progress-and-step-labels.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Wide horizontal stepper with a black checked circle, a solid line to a black '2' circle and a pending grey '3', labels centred beneath",
   "tags": [
     "component",

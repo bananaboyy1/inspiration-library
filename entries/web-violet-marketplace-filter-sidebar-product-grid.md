@@ -2,7 +2,7 @@
 
 ![](../images/web-violet-marketplace-filter-sidebar-product-grid.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** marketplace, violet, filters, product-grid, rounded, cards, sport
 
 ## What it is

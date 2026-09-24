@@ -2,7 +2,7 @@
 
 ![](../images/print-social-radiating-sun-poster-like-light-from-the-sky.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** poster, cyan, cream, black, rays, sunburst, scattered-type, concept
 
 ## What it is

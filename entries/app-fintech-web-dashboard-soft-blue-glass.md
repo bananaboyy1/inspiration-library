@@ -2,7 +2,7 @@
 
 ![](../images/app-fintech-web-dashboard-soft-blue-glass.jpg)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, fintech, blue-grey, glass, cards, transactions, bar-chart, desktop
 
 ## What it is

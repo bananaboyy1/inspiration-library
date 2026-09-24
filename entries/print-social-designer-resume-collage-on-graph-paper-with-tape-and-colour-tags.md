@@ -2,7 +2,7 @@
 
 ![](../images/print-social-designer-resume-collage-on-graph-paper-with-tape-and-colour-tags.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** resume, collage, graph-paper, stickers, tape, colour-tags, black-labels, pink
 
 ## What it is

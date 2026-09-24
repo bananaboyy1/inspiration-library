@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-lime-business-quote-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** templates, purple, lime, business, quote-cards, arrows, grid, sans-serif
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-radar-chart-card-with-blue-and-violet-glowing-strokes.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** chart, radar, dark, blue, violet, glow, badge, card
 
 ## What it is

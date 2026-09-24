@@ -2,7 +2,7 @@
 
 ![](../images/app-case-study-website-divider-strip.png)
 
-**Discipline:** app · **Design type:** Case study divider
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** divider, minimal, black, pill-tag, case-study, two-tone-text
 
 ## What it is

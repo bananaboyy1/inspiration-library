@@ -2,7 +2,7 @@
 
 ![](../images/app-black-liquid-blob-tab-bar-on-phone-corner-over-purple.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** tab-bar, liquid, blob, black, purple, stocks, close-up, gooey
 
 ## What it is

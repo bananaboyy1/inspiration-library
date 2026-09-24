@@ -2,7 +2,7 @@
 
 ![](../images/app-black-white-project-task-app-two-screens.jpg)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** tasks, black, white, timeline, cards, waves, planner
 
 ## What it is

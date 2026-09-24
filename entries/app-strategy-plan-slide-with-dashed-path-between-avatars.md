@@ -2,7 +2,7 @@
 
 ![](../images/app-strategy-plan-slide-with-dashed-path-between-avatars.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** strategy, process, grey, avatars, dashed-path, two-tone-text, research, case-study
 
 ## What it is

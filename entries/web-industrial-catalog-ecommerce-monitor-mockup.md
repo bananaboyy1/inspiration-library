@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-catalog-ecommerce-monitor-mockup.png)
 
-**Discipline:** web · **Design type:** E-commerce catalog
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** e-commerce, catalog, industrial, blue, 3d-icons, mockup, cyrillic, mega-menu
 
 ## What it is

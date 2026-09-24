@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-dna-mobile-footer-with-scientist-photo.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** mobile-web, footer, lime, grass, email-signup, scientist, split-layout, botanical
 
 ## What it is

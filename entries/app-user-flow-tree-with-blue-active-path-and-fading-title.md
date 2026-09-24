@@ -2,7 +2,7 @@
 
 ![](../images/app-user-flow-tree-with-blue-active-path-and-fading-title.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** user-flow, tree, blue, pills, fading-title, health, grey
 
 ## What it is

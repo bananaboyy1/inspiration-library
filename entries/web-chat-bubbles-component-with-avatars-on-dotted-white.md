@@ -2,7 +2,7 @@
 
 ![](../images/web-chat-bubbles-component-with-avatars-on-dotted-white.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, chat, bubbles, black, grey, avatars, dotted, ui-kit
 
 ## What it is

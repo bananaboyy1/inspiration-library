@@ -2,7 +2,7 @@
 
 ![](../images/app-light-and-dark-mode-eight-screen-travel-flow-sheet.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** screen-sheet, travel, blue, circled-word, onboarding, booking, seat-map
 
 ## What it is

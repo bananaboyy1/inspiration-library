@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-and-green-zigzag-blockchain-consumer-layer-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** carousel, white, green, zigzag, heavy-sans, highlight, blockchain
 
 ## What it is

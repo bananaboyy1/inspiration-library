@@ -2,7 +2,7 @@
 
 ![](../images/web-wine-tourism-site-over-black-and-white-bottle-wall.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** travel, wine, vineyard, burgundy, serif, search-bar, monochrome-backdrop, cyrillic
 
 ## What it is

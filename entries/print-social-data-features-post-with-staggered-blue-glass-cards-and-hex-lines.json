@@ -1,0 +1,39 @@
+{
+  "name": "print-social-data-features-post-with-staggered-blue-glass-cards-and-hex-lines",
+  "image": "images/print-social-data-features-post-with-staggered-blue-glass-cards-and-hex-lines.avif",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Glassmorphism",
+  "title": "'Powerful Data Features for Modern Products' post with staggered blue glass cards and neon hexagon lines",
+  "tags": [
+    "data",
+    "saas",
+    "blue",
+    "glass",
+    "hexagon",
+    "features"
+  ],
+  "whatItIs": "A portrait blue gradient post with a white headline, three staggered frosted-blue cards (Secure storage, Analytics with a 'Feature' tag, Data integration) each with a light-blue icon, over glowing cyan hexagon outlines.",
+  "whatItMeans": "Techy and polished; staggered glass cards feel like floating UI panels.",
+  "techniques": [
+    "Stagger feature cards vertically for movement.",
+    "Tag the lead card with a small label.",
+    "Draw neon hexagon outlines behind.",
+    "Keep one blue family throughout."
+  ],
+  "bestFor": [
+    "Data platforms",
+    "SaaS features",
+    "Tech agency posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Staggered layout",
+      "definition": "Items placed at different heights."
+    },
+    {
+      "term": "Hexagon grid",
+      "definition": "Honeycomb shapes suggesting tech or data."
+    }
+  ]
+}

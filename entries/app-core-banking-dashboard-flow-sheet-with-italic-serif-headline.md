@@ -2,7 +2,7 @@
 
 ![](../images/app-core-banking-dashboard-flow-sheet-with-italic-serif-headline.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** core-banking, flow, screens, serif-italic, blue-grey, keypad, payment
 
 ## What it is

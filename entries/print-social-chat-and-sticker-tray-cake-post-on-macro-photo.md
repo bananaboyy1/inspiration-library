@@ -2,7 +2,7 @@
 
 ![](../images/print-social-chat-and-sticker-tray-cake-post-on-macro-photo.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** ui-parody, chat, stickers, cakes, macro-photo, orange-highlight, food, imessage
 
 ## What it is

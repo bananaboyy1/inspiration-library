@@ -2,7 +2,7 @@
 
 ![](../images/web-sky-blue-liquid-supplement-landing-page-long.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** ecommerce, supplements, sky, clouds, serif, script, lifestyle, long-page
 
 ## What it is

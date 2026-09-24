@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-girls-night-flyer-with-cream-bubble-type-and-cutout.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** party, event, red, cream, bubble-type, cutout, dj-lineup, portuguese
 
 ## What it is

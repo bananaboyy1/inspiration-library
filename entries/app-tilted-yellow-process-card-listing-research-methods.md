@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-yellow-process-card-listing-research-methods.gif)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** process, research, yellow, tilted-card, white, minimal, animation-frame, labels
 
 ## What it is

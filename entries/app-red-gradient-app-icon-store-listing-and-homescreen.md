@@ -2,7 +2,7 @@
 
 ![](../images/app-red-gradient-app-icon-store-listing-and-homescreen.png)
 
-**Discipline:** app · **Design type:** App icon showcase
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** app-icon, red, store-listing, close-up, dark, 3d
 
 ## What it is

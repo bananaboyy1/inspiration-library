@@ -2,7 +2,7 @@
 
 ![](../images/branding-tulip-symbol-skincare-jar-and-torn-tape-label.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** logo, symbol, tulip, skincare, amber-glass, tape, condensed-type, black-and-white
 
 ## What it is

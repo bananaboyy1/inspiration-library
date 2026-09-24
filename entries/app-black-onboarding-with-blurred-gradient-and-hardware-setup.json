@@ -3,6 +3,7 @@
   "image": "images/app-black-onboarding-with-blurred-gradient-and-hardware-setup.png",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Glassmorphism",
   "title": "Dark fitness onboarding: goal checklist, blurred violet welcome, tracker-ready and athlete sheet",
   "tags": [
     "onboarding",

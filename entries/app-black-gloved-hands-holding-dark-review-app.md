@@ -2,7 +2,7 @@
 
 ![](../images/app-black-gloved-hands-holding-dark-review-app.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** dark, teal, hands, gloves, 3d, reviews, metadata, grid
 
 ## What it is

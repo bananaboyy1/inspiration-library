@@ -2,7 +2,7 @@
 
 ![](../images/branding-figma-asset-files-for-multivitamin-packaging-and-component-library.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** figma, assets, packaging, teal, organisation, design-system, dark-ui, components
 
 ## What it is

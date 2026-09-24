@@ -2,7 +2,7 @@
 
 ![](../images/app-burnt-orange-ai-reel-app-held-in-dark-hands.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** orange, brown, ai, video, hands, ghost-type, dark
 
 ## What it is

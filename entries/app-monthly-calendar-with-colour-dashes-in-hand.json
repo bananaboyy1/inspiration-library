@@ -3,6 +3,7 @@
   "image": "images/app-monthly-calendar-with-colour-dashes-in-hand.png",
   "discipline": "app",
   "designType": "Calendar and planner app",
+  "designStyle": "Glassmorphism",
   "title": "Month calendar with coloured dash markers and pill tab bar",
   "tags": [
     "calendar",

@@ -2,7 +2,7 @@
 
 ![](../images/app-glassmorphic-health-metrics-dashboard.png)
 
-**Discipline:** app · **Design type:** Health dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, glassmorphism, serif-numbers, sparkline, phone-mockup, pastel-gradient, pill-navigation
 
 ## What it is

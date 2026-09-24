@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-glass-icon-four-step-figma-tutorial.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** tutorial, glass, orange, script-font, steps, figma, icon
 
 ## What it is

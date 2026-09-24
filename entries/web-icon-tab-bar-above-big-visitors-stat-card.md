@@ -2,7 +2,7 @@
 
 ![](../images/web-icon-tab-bar-above-big-visitors-stat-card.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, tabs, segmented, stat-card, white, grey, icons, numerals
 
 ## What it is

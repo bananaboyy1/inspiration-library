@@ -2,7 +2,7 @@
 
 ![](../images/app-hotel-detail-and-room-list-phones-around-sunburst-ring-logo.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** hotel, phones, ring, logo, brush-note, lavender, blue
 
 ## What it is

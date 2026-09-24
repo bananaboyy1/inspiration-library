@@ -2,7 +2,7 @@
 
 ![](../images/app-food-ordering-curved-category-arc-held-in-dark-hands.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** food, hands, close-up, arc, peach, black, touch
 
 ## What it is

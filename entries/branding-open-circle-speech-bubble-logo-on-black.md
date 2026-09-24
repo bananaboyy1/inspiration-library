@@ -2,7 +2,7 @@
 
 ![](../images/branding-open-circle-speech-bubble-logo-on-black.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo, symbol, ring, speech-bubble, blue-gradient, black, telecom, wordmark
 
 ## What it is

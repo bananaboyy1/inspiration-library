@@ -1,0 +1,38 @@
+{
+  "name": "print-social-digital-marketing-agency-post-with-orange-to-crimson-fade",
+  "image": "images/print-social-digital-marketing-agency-post-with-orange-to-crimson-fade.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Gradient & Aurora",
+  "title": "'Digital Marketing Agency' post with a portrait fading into an orange-to-crimson gradient",
+  "tags": [
+    "agency",
+    "gradient",
+    "orange",
+    "crimson",
+    "portrait",
+    "ad"
+  ],
+  "whatItIs": "A square post with a faded laptop scene behind a smiling woman in a patterned headwrap, the lower half washed by an orange-to-crimson gradient carrying a white headline, a bracketed yellow-bordered tagline, phone numbers and a yellow 'Join us' pill.",
+  "whatItMeans": "Warm and vibrant; the fade blends person and message into one glow.",
+  "techniques": [
+    "Fade a warm gradient up from the bottom to hold text.",
+    "Frame the tagline in a thin outlined box.",
+    "Ghost a background scene for context."
+  ],
+  "bestFor": [
+    "Agency promos",
+    "Warm-palette ads",
+    "Service announcements"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bottom fade",
+      "definition": "A gradient rising from the base to create a text area."
+    },
+    {
+      "term": "Ghosted image",
+      "definition": "A faint, low-opacity background photo."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-exploded-ui-elements-house-chart-nav-chips-and-cards-on-white.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** exploded-ui, assistant, house-chart, chips, nav, cards, white, gradient
 
 ## What it is

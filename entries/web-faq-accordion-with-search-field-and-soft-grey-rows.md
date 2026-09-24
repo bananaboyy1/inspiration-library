@@ -2,7 +2,7 @@
 
 ![](../images/web-faq-accordion-with-search-field-and-soft-grey-rows.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, faq, search, accordion, grey, rounded, minimal, white
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-analytics-landing-with-flat-illustrations-and-hard-shadows.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** saas, cream, illustration, neo-brutalism, raspberry, hard-shadow, flat, icons
 
 ## What it is

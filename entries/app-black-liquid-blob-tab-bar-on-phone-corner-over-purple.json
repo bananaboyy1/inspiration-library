@@ -3,6 +3,7 @@
   "image": "images/app-black-liquid-blob-tab-bar-on-phone-corner-over-purple.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Glassmorphism",
   "title": "Black Liquid Blob Tab Bar on Phone Corner",
   "tags": [
     "tab-bar",

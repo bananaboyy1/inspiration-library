@@ -2,7 +2,7 @@
 
 ![](../images/app-problem-and-solution-timeline-with-photos-and-blue-bars.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** problem, solution, timeline, blue, photos, chat, light
 
 ## What it is

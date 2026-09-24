@@ -2,7 +2,7 @@
 
 ![](../images/web-welcome-announcement-modal-with-emoji-value-tag-help-box-and-checkbox.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, modal, announcement, white, emoji, help-box, checkbox, dark-button
 
 ## What it is

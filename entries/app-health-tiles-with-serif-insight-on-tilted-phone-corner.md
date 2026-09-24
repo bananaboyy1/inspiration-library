@@ -2,7 +2,7 @@
 
 ![](../images/app-health-tiles-with-serif-insight-on-tilted-phone-corner.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, glass, serif, sparkline, gradient, crop, tilted, insight
 
 ## What it is

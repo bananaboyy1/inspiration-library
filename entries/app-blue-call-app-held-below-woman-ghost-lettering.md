@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-call-app-held-below-woman-ghost-lettering.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** blue, low-angle, portrait, ghost-type, gauge, calls, cover
 
 ## What it is

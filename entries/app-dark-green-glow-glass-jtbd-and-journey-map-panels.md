@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-green-glow-glass-jtbd-and-journey-map-panels.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** jtbd, journey-map, dark, green-glow, glass, tilted, table
 
 ## What it is

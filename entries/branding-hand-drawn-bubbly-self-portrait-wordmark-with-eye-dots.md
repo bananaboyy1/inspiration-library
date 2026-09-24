@@ -2,7 +2,7 @@
 
 ![](../images/branding-hand-drawn-bubbly-self-portrait-wordmark-with-eye-dots.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** wordmark, hand-drawn, streetwear, outline, pink, yellow, business-card, apparel
 
 ## What it is

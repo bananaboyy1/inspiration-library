@@ -2,7 +2,7 @@
 
 ![](../images/web-calendar-hub-case-study-with-typography-and-colour-ramp.png)
 
-**Discipline:** web · **Design type:** Design system documentation
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** case-study, design-system, blue, typography, colour-ramp, laptop-mockup, hex-codes, light
 
 ## What it is

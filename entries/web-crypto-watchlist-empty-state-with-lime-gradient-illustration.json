@@ -3,6 +3,7 @@
   "image": "images/web-crypto-watchlist-empty-state-with-lime-gradient-illustration.png",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Gradient & Aurora",
   "title": "Empty Watchlist State with Lime Gradient Card",
   "tags": [
     "empty-state",

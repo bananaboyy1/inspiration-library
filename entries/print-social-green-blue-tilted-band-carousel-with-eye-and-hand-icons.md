@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-blue-tilted-band-carousel-with-eye-and-hand-icons.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** carousel, story-format, green, blue, diagonal-bands, surreal-icons, business, bold-type
 
 ## What it is

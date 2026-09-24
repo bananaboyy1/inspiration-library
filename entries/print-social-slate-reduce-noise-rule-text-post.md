@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-reduce-noise-rule-text-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** educational, rule, slate, cream, text-only, minimal, condensed
 
 ## What it is

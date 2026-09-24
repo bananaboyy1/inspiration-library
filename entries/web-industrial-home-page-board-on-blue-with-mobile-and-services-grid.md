@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-home-page-board-on-blue-with-mobile-and-services-grid.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** e-commerce, catalog, blue, industrial, home-page, mobile, icons-grid, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-phone-on-perforated-blue-wall.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** mockup, phone-in-hand, travel, cobalt, orange-accent, photographic, case-study-cover
 
 ## What it is

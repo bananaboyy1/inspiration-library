@@ -2,7 +2,7 @@
 
 ![](../images/web-pastel-lilac-care-app-scroll-with-blurred-tags-and-dashed-route.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** healthcare, lilac, dashed-route, blur, italic, photo-cards, billboard-screen, senior-care
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-matcha-candle-post-with-green-blobs-and-doodle-flowers.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** product, candle, matcha, green, pink, yellow, blob, doodle-flowers, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-glow-agency-post-quartet.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** agency, dark, blue-glow, gradient-shapes, thin-type, 4-up, tech
 
 ## What it is

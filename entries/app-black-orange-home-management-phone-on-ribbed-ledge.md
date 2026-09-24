@@ -2,7 +2,7 @@
 
 ![](../images/app-black-orange-home-management-phone-on-ribbed-ledge.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** home-management, black, orange, glass-cards, ribbed, grey-gradient, toggles
 
 ## What it is

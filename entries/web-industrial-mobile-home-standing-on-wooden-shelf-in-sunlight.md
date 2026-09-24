@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-mobile-home-standing-on-wooden-shelf-in-sunlight.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** mobile-web, mockup, wood, beige, dappled-light, blue, industrial, shelf
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-visual-hierarchy-primary-secondary-tertiary-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** educational, hierarchy, slate, type-scale, dots, minimal
 
 ## What it is

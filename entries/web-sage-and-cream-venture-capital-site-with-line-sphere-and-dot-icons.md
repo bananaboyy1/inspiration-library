@@ -2,7 +2,7 @@
 
 ![](../images/web-sage-and-cream-venture-capital-site-with-line-sphere-and-dot-icons.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** venture-capital, sage-green, cream, charcoal, contour-sphere, dot-icons, duotone, giant-footer-wordmark
 
 ## What it is

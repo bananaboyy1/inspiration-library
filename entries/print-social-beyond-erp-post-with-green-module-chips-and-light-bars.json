@@ -1,0 +1,39 @@
+{
+  "name": "print-social-beyond-erp-post-with-green-module-chips-and-light-bars",
+  "image": "images/print-social-beyond-erp-post-with-green-module-chips-and-light-bars.jpg",
+  "discipline": "print-social",
+  "designType": "Product UI promo card",
+  "designStyle": "Dark & Neon",
+  "title": "'Beyond ERP' post with a glass panel of green-icon module chips over glowing green light bars",
+  "tags": [
+    "erp",
+    "retail",
+    "saas",
+    "dark",
+    "green",
+    "chips"
+  ],
+  "whatItIs": "A portrait black post with a thin green rule, a huge white 'Beyond ERP' title and subtitle, a translucent panel holding pill chips with green line icons (ERP, PDV, Web Suite, AI, Tax, Mobile, CRM/Digital, Integrations), vertical green light bars glowing from the lower right, and a one-line summary.",
+  "whatItMeans": "Comprehensive and sleek; chips make a complex suite feel like modular building blocks.",
+  "techniques": [
+    "Present product modules as icon chips.",
+    "Group chips inside one glass panel.",
+    "Glow vertical light bars from a corner.",
+    "Sum up the ecosystem in one short line."
+  ],
+  "bestFor": [
+    "SaaS suites",
+    "Retail tech",
+    "B2B platform ads"
+  ],
+  "vocabulary": [
+    {
+      "term": "Module chip",
+      "definition": "A pill representing one product component."
+    },
+    {
+      "term": "Ecosystem",
+      "definition": "A set of connected products."
+    }
+  ]
+}

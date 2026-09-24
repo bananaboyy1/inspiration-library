@@ -2,7 +2,7 @@
 
 ![](../images/web-landing-page-project-cover-with-laptop-and-hands-in-sweater.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** landing-page, cover, violet, white, laptop, hands, coffee, photo
 
 ## What it is

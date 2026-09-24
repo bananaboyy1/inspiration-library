@@ -2,7 +2,7 @@
 
 ![](../images/branding-lightning-monogram-sports-identity-grid.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity presentation
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** sports, identity, forest-green, lime, monogram, tote, tape, grid
 
 ## What it is

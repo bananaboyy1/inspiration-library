@@ -2,7 +2,7 @@
 
 ![](../images/app-pastel-health-dashboard-phone-with-isolated-metric-cards.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** health, pastel, cards, steps, sleep, calories, blood-sugar
 
 ## What it is

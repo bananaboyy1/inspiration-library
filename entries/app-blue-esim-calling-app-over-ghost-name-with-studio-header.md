@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-esim-calling-app-over-ghost-name-with-studio-header.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** esim, calling, blue, ghost-type, balance-card, promo, cover
 
 ## What it is

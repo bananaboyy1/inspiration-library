@@ -2,7 +2,7 @@
 
 ![](../images/app-mango-product-card-light-and-photo-variants.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** product-card, photo-card, yellow, brown, e-commerce, variants, rounded
 
 ## What it is

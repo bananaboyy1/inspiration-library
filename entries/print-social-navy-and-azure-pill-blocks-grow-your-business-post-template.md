@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-azure-pill-blocks-grow-your-business-post-template.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** business, azure, navy, pill, blocks, outline-shapes, square, template
 
 ## What it is

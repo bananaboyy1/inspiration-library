@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-health-updates-app-with-green-cards-and-tag-pills.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, green, hands, glass, pills, cover, white-ui
 
 ## What it is

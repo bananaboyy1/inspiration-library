@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-team-carousel-with-greyscale-portraits-and-caption-overlays.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** team, dark, greyscale, portraits, carousel, overlay, testimonial, blue-icon
 
 ## What it is

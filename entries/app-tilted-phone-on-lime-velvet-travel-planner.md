@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-phone-on-lime-velvet-travel-planner.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** lime, green, monochrome, 3d, travel, ai, tilted-phone
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-supplement-site-on-monitor-with-moss-hill-and-olive-jar.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** monitor, moss, olive-green, product-hero, dark, split-screen, supplements, project-cover
 
 ## What it is

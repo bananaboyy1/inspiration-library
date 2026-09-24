@@ -2,7 +2,7 @@
 
 ![](../images/app-case-study-title-text-with-outlined-service-pills.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** case-study, white, statement, outlined-pills, team, minimal, assistant-app
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-yellow-and-black-brand-strategy-post-mosaic-with-portuguese-copy.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** brand-strategy, yellow, black, white, stickers, floppy-disk, cutouts, portuguese
 
 ## What it is

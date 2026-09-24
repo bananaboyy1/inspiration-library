@@ -2,7 +2,7 @@
 
 ![](../images/web-grid-system-spec-with-blush-columns-and-pill-labels.jpg)
 
-**Discipline:** web · **Design type:** Design system documentation
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** grid-system, documentation, light-grey, blush, pill-labels, columns, desktop-mobile, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-pricing-plans-and-footer-with-floating-3d-icon-tiles.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** pricing, footer, blue, white, 3d-icons, raised-card, saas, light
 
 ## What it is

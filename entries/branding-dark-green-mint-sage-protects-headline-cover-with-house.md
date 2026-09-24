@@ -2,7 +2,7 @@
 
 ![](../images/branding-dark-green-mint-sage-protects-headline-cover-with-house.jpg)
 
-**Discipline:** branding · **Design type:** Brand campaign cover
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** dark-green, mint, headline, house, logo, circle-lines, security
 
 ## What it is

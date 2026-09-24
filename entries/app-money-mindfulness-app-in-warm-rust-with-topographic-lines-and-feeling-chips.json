@@ -3,6 +3,7 @@
   "image": "images/app-money-mindfulness-app-in-warm-rust-with-topographic-lines-and-feeling-chips.webp",
   "discipline": "app",
   "designType": "Health app screens",
+  "designStyle": "Glassmorphism",
   "title": "Three rust and peach screens: blurred welcome, 'Every purchase has a story' home, and a feeling-chip picker, with topographic line texture",
   "tags": [
     "mindfulness",

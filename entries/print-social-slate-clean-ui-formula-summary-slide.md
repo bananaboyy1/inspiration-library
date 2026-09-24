@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-clean-ui-formula-summary-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** educational, summary, slate, cream, text-only, formula, condensed
 
 ## What it is

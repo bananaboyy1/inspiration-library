@@ -2,7 +2,7 @@
 
 ![](../images/branding-dark-avare-brand-tiles-nav-pill-states-and-stat-tiles.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** brand-board, dark, blue, nav-pills, stat-tiles, logo, notification, bento
 
 ## What it is

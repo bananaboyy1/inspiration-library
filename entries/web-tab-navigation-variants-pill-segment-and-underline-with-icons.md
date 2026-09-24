@@ -2,7 +2,7 @@
 
 ![](../images/web-tab-navigation-variants-pill-segment-and-underline-with-icons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, tabs, navigation, icons, white, grey, black, variants
 
 ## What it is

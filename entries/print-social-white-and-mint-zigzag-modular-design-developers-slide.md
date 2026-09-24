@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-and-mint-zigzag-modular-design-developers-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** carousel, white, mint, zigzag, heavy-sans, developers, arrow-tile
 
 ## What it is

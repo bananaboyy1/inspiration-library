@@ -2,7 +2,7 @@
 
 ![](../images/web-grid-pulse-interactive-pixel-grid-lighting-up-in-gradient-trail.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** interactive, grid, gradient, trail, white, pixel, heading, toggle
 
 ## What it is

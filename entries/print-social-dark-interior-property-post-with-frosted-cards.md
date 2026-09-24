@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-interior-property-post-with-frosted-cards.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** real-estate, luxury, interior, dark, frosted-glass, white-caps, portrait, price
 
 ## What it is

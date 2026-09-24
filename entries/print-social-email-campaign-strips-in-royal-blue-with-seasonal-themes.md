@@ -2,7 +2,7 @@
 
 ![](../images/print-social-email-campaign-strips-in-royal-blue-with-seasonal-themes.png)
 
-**Discipline:** print-social · **Design type:** Email campaign set
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** email, newsletter, royal-blue, seasonal, halloween, black-friday, product-photography, long-scroll
 
 ## What it is

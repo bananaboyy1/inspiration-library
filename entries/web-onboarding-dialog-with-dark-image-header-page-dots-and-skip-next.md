@@ -2,7 +2,7 @@
 
 ![](../images/web-onboarding-dialog-with-dark-image-header-page-dots-and-skip-next.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, modal, onboarding, white, black, 3d-ring, page-dots, buttons
 
 ## What it is

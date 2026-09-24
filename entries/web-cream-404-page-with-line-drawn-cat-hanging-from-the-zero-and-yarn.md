@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-404-page-with-line-drawn-cat-hanging-from-the-zero-and-yarn.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** 404, error-page, illustration, cream, orange, line-art, cat, minimal
 
 ## What it is

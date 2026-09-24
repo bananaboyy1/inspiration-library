@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-and-golden-pollen-two-colour-name-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** colour, indigo, yellow, split, hex, minimal, palette
 
 ## What it is

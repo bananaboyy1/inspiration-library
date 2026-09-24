@@ -2,7 +2,7 @@
 
 ![](../images/print-social-jewelled-cake-slice-post-with-glitter-starbursts.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** language, cake, jewels, lilac, cobalt, glitter, starburst, cyrillic
 
 ## What it is

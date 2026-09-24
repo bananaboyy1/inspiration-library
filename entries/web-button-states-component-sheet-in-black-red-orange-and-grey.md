@@ -2,7 +2,7 @@
 
 ![](../images/web-button-states-component-sheet-in-black-red-orange-and-grey.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, buttons, states, black, red, orange, grey, ui-kit
 
 ## What it is

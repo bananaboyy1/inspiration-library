@@ -2,7 +2,7 @@
 
 ![](../images/web-tinted-alert-banners-info-warning-and-error-with-action-buttons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, alerts, banners, blue, amber, red, actions, semantic-colour
 
 ## What it is

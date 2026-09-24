@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-ai-generator-site-on-tablet-in-hands.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** tablet, dark, purple, ai, hands, bokeh, cover
 
 ## What it is

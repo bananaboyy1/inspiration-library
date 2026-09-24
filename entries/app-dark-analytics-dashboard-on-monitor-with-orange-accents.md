@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-analytics-dashboard-on-monitor-with-orange-accents.jpg)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, dark, orange, monitor-mockup, charts, tiles, analytics, red-glow
 
 ## What it is

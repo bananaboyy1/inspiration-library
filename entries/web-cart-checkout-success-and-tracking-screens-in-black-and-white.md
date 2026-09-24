@@ -2,7 +2,7 @@
 
 ![](../images/web-cart-checkout-success-and-tracking-screens-in-black-and-white.png)
 
-**Discipline:** web · **Design type:** Checkout and forms
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** checkout, cart, modal, tracking, map, black-and-white, purple, yellow
 
 ## What it is

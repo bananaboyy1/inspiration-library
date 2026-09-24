@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-stand-banner-mockup-with-gradient-health-poster.png)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** banner, stand, health, gradient, group-photo, thumbs-up, logo
 
 ## What it is

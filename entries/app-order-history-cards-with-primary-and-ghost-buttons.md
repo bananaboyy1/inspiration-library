@@ -2,7 +2,7 @@
 
 ![](../images/app-order-history-cards-with-primary-and-ghost-buttons.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** order, cards, white, black-button, ghost-button, fashion, states
 
 ## What it is

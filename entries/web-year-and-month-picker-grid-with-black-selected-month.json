@@ -3,6 +3,7 @@
   "image": "images/web-year-and-month-picker-grid-with-black-selected-month.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "'Better Calendar Demo' month picker: a 3x4 grid of outlined tiles with month and year, a black selected month and a Year/Month toggle",
   "tags": [
     "component",

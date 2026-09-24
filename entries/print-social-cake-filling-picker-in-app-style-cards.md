@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cake-filling-picker-in-app-style-cards.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** food, ui-parody, gradient-cards, cutout-food, numbers, search-bar, sage, cream
 
 ## What it is

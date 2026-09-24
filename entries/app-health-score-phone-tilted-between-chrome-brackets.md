@@ -2,7 +2,7 @@
 
 ![](../images/app-health-score-phone-tilted-between-chrome-brackets.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, chrome, tilted, pale-blue, logo, score, cover
 
 ## What it is

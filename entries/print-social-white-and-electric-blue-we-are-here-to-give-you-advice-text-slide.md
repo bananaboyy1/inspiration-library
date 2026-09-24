@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-and-electric-blue-we-are-here-to-give-you-advice-text-slide.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** carousel, text-only, white, electric-blue, tag-pill, bold-caps, ticket-logo
 
 ## What it is

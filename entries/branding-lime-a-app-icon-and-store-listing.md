@@ -2,7 +2,7 @@
 
 ![](../images/branding-lime-a-app-icon-and-store-listing.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** app-icon, monogram, lime, dark-green, store-listing, glass, real-estate, architecture
 
 ## What it is

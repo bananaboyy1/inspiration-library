@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-home-page-on-tilted-tablet-in-hand.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** tablet, mockup, hand, blue, grey, industrial, hero-banner, cyrillic
 
 ## What it is

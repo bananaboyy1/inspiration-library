@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-green-line-lattice-from-idea-to-first-users-post.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** black, green, line-art, lattice, startup, tall-post, minimal
 
 ## What it is

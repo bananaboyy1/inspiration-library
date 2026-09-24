@@ -2,7 +2,7 @@
 
 ![](../images/print-social-desktop-folders-social-media-portfolio-title-slide.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** title-slide, cream, brown, folders, cursor, heavy-sans, desktop-metaphor, portfolio
 
 ## What it is

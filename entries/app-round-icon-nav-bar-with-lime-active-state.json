@@ -3,6 +3,7 @@
   "image": "images/app-round-icon-nav-bar-with-lime-active-state.png",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Row of four round nav buttons with the settings one filled lime",
   "tags": [
     "components",

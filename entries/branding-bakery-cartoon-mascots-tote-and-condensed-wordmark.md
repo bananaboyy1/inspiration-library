@@ -2,7 +2,7 @@
 
 ![](../images/branding-bakery-cartoon-mascots-tote-and-condensed-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** bakery, red, cream, condensed-type, mascot, line-drawing, tote-bag, business-cards
 
 ## What it is

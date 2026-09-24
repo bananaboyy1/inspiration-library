@@ -2,7 +2,7 @@
 
 ![](../images/app-fitness-onboarding-with-photo-splash-and-schedule-dial.png)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fitness, onboarding, photo, dark, dial, login, white-sheet, case-study
 
 ## What it is

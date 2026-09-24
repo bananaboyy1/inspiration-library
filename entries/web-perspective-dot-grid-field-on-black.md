@@ -2,7 +2,7 @@
 
 ![](../images/web-perspective-dot-grid-field-on-black.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** background, dots, dark, perspective, wave, generative, minimal, particles
 
 ## What it is

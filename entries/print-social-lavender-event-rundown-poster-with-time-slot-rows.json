@@ -1,0 +1,38 @@
+{
+  "name": "print-social-lavender-event-rundown-poster-with-time-slot-rows",
+  "image": "images/print-social-lavender-event-rundown-poster-with-time-slot-rows.avif",
+  "discipline": "print-social",
+  "designType": "Event poster",
+  "designStyle": "Minimalist",
+  "title": "Lavender 'Event Rundown' poster with outlined time-slot rows and a circled back arrow",
+  "tags": [
+    "event",
+    "agenda",
+    "lavender",
+    "outline",
+    "schedule",
+    "conference"
+  ],
+  "whatItIs": "A portrait pale lavender poster with a 'TehHub' logo, a thin 'EVENT' over heavy 'RUNDOWN' between rules with a circled arrow, date and venue boxes, and eight outlined rows pairing a lavender time cell (09:00 AM) with a session name, plus a contact footer in a rounded band.",
+  "whatItMeans": "Tidy and calm; the thin outlines feel like a friendly form.",
+  "techniques": [
+    "Pair a light and heavy weight for a two-word title.",
+    "Use outlined rows with a filled time cell.",
+    "Put date and venue in twin info boxes."
+  ],
+  "bestFor": [
+    "Conference agendas",
+    "Corporate events",
+    "Workshop timetables"
+  ],
+  "vocabulary": [
+    {
+      "term": "Rundown",
+      "definition": "A running order of an event."
+    },
+    {
+      "term": "Time cell",
+      "definition": "A small filled box holding a time."
+    }
+  ]
+}

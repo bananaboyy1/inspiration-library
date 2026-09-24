@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-architecture-landing-with-oversized-cropped-title.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** architecture, dark, landscape-photo, framed-hero, giant-cropped-type, minimal, stats-card
 
 ## What it is

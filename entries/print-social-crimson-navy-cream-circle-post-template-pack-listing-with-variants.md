@@ -2,7 +2,7 @@
 
 ![](../images/print-social-crimson-navy-cream-circle-post-template-pack-listing-with-variants.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** template-pack, geometric, circles, crimson, navy, cream, variants, stock
 
 ## What it is

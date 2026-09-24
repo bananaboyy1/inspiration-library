@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-glass-404-page-with-chrome-gradient-numerals-and-crypto-cta.jpg)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** 404, error-page, dark, chrome, glass, crypto, footer, gradient-numerals
 
 ## What it is

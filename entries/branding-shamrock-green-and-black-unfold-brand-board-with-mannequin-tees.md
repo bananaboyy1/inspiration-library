@@ -2,7 +2,7 @@
 
 ![](../images/branding-shamrock-green-and-black-unfold-brand-board-with-mannequin-tees.png)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** 3D & Surreal
 **Tags:** brand-board, green, black, mannequin, t-shirts, poppins, pattern, logo
 
 ## What it is

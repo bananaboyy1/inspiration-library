@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-ai-image-generation.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, violet, magenta, serif-label, ai, desktop-metaphor
 
 ## What it is

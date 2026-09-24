@@ -2,7 +2,7 @@
 
 ![](../images/web-lime-black-white-ai-learning-bento-hero.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** bento, lime, black, ai, education, light-type, brain, stats
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-header-styles-catalog-with-chair-hero.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** header, navigation, minimal, grey, chair, theme, catalogue
 
 ## What it is

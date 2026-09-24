@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-meeting-assistant-phone-in-hands-ghost-lettering.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** lavender, hands, meetings, ai, ghost-type, cards, cover
 
 ## What it is

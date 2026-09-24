@@ -2,7 +2,7 @@
 
 ![](../images/app-white-subscription-app-screens-and-closing-cta.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** subscriptions, white, phones, statement, photo, qr, closing
 
 ## What it is

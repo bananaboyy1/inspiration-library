@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-voice-mode-invitation-card-with-blue-icon-tiles-and-pill-button.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, modal, dark, blue, icon-tiles, ai, invitation, pill-button
 
 ## What it is

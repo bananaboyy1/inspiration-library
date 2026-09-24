@@ -2,7 +2,7 @@
 
 ![](../images/print-social-instagram-feed-on-chair-mockup-pink-black.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** instagram, feed-grid, mockup, pink, black, textile, chair, cream-frame
 
 ## What it is

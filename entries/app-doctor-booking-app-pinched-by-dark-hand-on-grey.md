@@ -2,7 +2,7 @@
 
 ![](../images/app-doctor-booking-app-pinched-by-dark-hand-on-grey.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** healthcare, doctor, grey, hand, pastel, booking, thumbnail
 
 ## What it is

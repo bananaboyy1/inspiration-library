@@ -2,7 +2,7 @@
 
 ![](../images/web-frosted-blue-grey-banking-dashboards-staggered.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, banking, frosted, blue-grey, cards, transactions, staggered
 
 ## What it is

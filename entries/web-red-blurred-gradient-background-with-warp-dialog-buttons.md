@@ -2,7 +2,7 @@
 
 ![](../images/web-red-blurred-gradient-background-with-warp-dialog-buttons.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** background, gradient, red, mesh, blur, dialog-trigger, buttons, dark
 
 ## What it is

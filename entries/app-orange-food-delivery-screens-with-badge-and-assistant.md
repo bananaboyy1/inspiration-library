@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-food-delivery-screens-with-badge-and-assistant.webp)
 
-**Discipline:** app · **Design type:** Food ordering app
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** food, delivery, orange, cream, cutout, assistant, map, pill-nav
 
 ## What it is

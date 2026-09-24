@@ -2,7 +2,7 @@
 
 ![](../images/web-process-diagram-with-staggered-steps-and-nut-icons.png)
 
-**Discipline:** web · **Design type:** Process slide
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** process, staircase, blue, white, pills, industrial, dotted-lines, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-grid-card-month-in-review-calendar-polaroid-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel cover
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** carousel, cover, calendar, polaroids, pins, blue, pink, white
 
 ## What it is

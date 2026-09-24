@@ -2,7 +2,7 @@
 
 ![](../images/branding-geometric-bird-symbol-with-device-applications.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, bird, black, geometric, tech-startup, smartwatch, mockup
 
 ## What it is

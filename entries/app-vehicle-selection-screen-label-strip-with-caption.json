@@ -3,6 +3,7 @@
   "image": "images/app-vehicle-selection-screen-label-strip-with-caption.png",
   "discipline": "app",
   "designType": "Case study divider",
+  "designStyle": "Minimalist",
   "title": "Wide white strip with an outlined 'Vehicle selection screen' pill and a right-aligned caption",
   "tags": [
     "divider",

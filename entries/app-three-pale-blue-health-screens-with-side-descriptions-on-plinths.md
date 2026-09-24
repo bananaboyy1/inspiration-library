@@ -2,7 +2,7 @@
 
 ![](../images/app-three-pale-blue-health-screens-with-side-descriptions-on-plinths.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, onboarding, history, profile, plinth, pale-blue, descriptions
 
 ## What it is

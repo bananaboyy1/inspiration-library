@@ -2,7 +2,7 @@
 
 ![](../images/branding-negative-space-dog-and-bone-symbol.gif)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, dog, negative-space, black-and-white, geometric, animal, mascot
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-highlighted-portrait-course-flyer.jpg)
 
-**Discipline:** print-social · **Design type:** Promo flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** flyer, education, lime, black-and-white, portrait, highlight-bars, handwritten-circle
 
 ## What it is

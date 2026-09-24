@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-monoline-kb-play-symbol-with-lowercase-kineticbolt.webp)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** logo, symbol, monoline, electric-blue, play-triangle, lowercase, white-background, tech
 
 ## What it is

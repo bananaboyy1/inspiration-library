@@ -3,6 +3,7 @@
   "image": "images/app-authentication-flow-in-blue-grey-gradient.jpg",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Editorial",
   "title": "Login, create-account, OTP and home screens with pale-to-slate gradient bottoms",
   "tags": [
     "authentication",

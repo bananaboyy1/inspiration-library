@@ -2,7 +2,7 @@
 
 ![](../images/app-sage-glass-ai-study-notes-three-screens.webp)
 
-**Discipline:** app · **Design type:** Education app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** education, ai, sage, glass, frosted, notes, paywall
 
 ## What it is

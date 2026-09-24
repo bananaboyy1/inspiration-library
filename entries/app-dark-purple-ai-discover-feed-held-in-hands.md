@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-purple-ai-discover-feed-held-in-hands.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** dark, purple, ai, discover, hands, glow, cover
 
 ## What it is

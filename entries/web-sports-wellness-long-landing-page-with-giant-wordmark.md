@@ -2,7 +2,7 @@
 
 ![](../images/web-sports-wellness-long-landing-page-with-giant-wordmark.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** sports, long-page, orange, black, white, giant-type, cards, photography
 
 ## What it is

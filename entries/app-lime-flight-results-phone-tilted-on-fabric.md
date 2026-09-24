@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-flight-results-phone-tilted-on-fabric.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** lime, green, flights, tilted, fabric, pastel-cards, travel
 
 ## What it is

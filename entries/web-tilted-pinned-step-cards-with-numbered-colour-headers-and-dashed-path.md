@@ -2,7 +2,7 @@
 
 ![](../images/web-tilted-pinned-step-cards-with-numbered-colour-headers-and-dashed-path.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** process, steps, cards, pins, tilted, dashed-path, pastel, numbered
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-project-cover-with-giant-website-industries-and-hero-phone.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** cover, royal-blue, giant-type, phone, dashed-orbit, sparkles, e-commerce, credits
 
 ## What it is

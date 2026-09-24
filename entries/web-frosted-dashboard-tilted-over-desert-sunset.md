@@ -2,7 +2,7 @@
 
 ![](../images/web-frosted-dashboard-tilted-over-desert-sunset.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, desert, sunset, frosted, serif, tilted, gold
 
 ## What it is

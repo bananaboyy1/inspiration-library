@@ -2,7 +2,7 @@
 
 ![](../images/app-red-problem-solution-columns-with-stripe-and-block-visuals.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** problem-solution, red, columns, stripes, blocks, dark, vignette
 
 ## What it is

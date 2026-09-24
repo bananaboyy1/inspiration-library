@@ -2,7 +2,7 @@
 
 ![](../images/app-icon-set-on-dark-phone-home-screen-close-up.jpg)
 
-**Discipline:** app · **Design type:** App icon showcase
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** app-icons, home-screen, dark, gradient, perspective, close-up, phone, icon-set
 
 ## What it is

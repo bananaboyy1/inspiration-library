@@ -2,7 +2,7 @@
 
 ![](../images/web-fintech-hero-on-tablet-floating-in-clouds.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** mockup, tablet, sky, clouds, fintech, light-blue, navy, tags
 
 ## What it is

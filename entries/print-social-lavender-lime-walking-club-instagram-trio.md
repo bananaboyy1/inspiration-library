@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lavender-lime-walking-club-instagram-trio.jpg)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** instagram, lavender, lime, daisy, black-type, community, posts
 
 ## What it is

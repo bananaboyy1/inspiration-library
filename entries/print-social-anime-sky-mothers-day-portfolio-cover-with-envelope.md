@@ -2,7 +2,7 @@
 
 ![](../images/print-social-anime-sky-mothers-day-portfolio-cover-with-envelope.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** portfolio, cover, anime, sky, envelope, wax-seal, paper-cutouts, serif-script
 
 ## What it is

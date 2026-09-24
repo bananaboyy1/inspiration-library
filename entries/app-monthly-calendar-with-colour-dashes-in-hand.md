@@ -2,7 +2,7 @@
 
 ![](../images/app-monthly-calendar-with-colour-dashes-in-hand.png)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** calendar, planner, light-ui, colour-dashes, segmented-control, blue-accent, in-hand, angled
 
 ## What it is

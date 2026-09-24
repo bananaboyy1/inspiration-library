@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-and-teal-illustrated-desert-404-scene.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** 404, error-page, illustration, desert, orange, indigo, pink, 3d-illustration
 
 ## What it is

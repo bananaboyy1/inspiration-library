@@ -2,7 +2,7 @@
 
 ![](../images/branding-browser-frame-favicon-mockup-violet.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** favicon, browser, violet, dark-ui, logo-application, crop, url
 
 ## What it is

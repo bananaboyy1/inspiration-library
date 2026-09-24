@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-finance-dashboard-over-green-hills-with-donut-and-bar-charts.png)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, dark, finance, lilac, donut, capsule-bars, hills, card
 
 ## What it is

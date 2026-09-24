@@ -2,7 +2,7 @@
 
 ![](../images/app-pink-liquid-couples-app-phone-on-glossy-pink-swirl.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** pink, liquid, glossy, couples, phone, tags, cover
 
 ## What it is

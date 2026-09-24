@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-green-blur-ai-growth-hero-with-glass-stat-cards.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** saas, ai, dark, lime-green, blur, italic, sparkle, glass-cards
 
 ## What it is

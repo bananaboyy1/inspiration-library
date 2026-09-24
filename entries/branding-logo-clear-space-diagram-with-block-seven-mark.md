@@ -2,7 +2,7 @@
 
 ![](../images/branding-logo-clear-space-diagram-with-block-seven-mark.jpg)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, guidelines, clear-space, grid, black, grey, stencil-type, construction
 
 ## What it is

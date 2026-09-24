@@ -2,7 +2,7 @@
 
 ![](../images/branding-typography-and-glass-infinity-app-icons-on-misty-blue.png)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** typography, app-icon, glass, infinity, pastel, gradient, mist, petrona
 
 ## What it is

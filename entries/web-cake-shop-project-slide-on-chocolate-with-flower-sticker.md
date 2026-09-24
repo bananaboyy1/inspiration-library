@@ -2,7 +2,7 @@
 
 ![](../images/web-cake-shop-project-slide-on-chocolate-with-flower-sticker.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** case-study, chocolate-brown, cream, laptop, sticker, script, bold-lead-in, cobalt-screen
 
 ## What it is

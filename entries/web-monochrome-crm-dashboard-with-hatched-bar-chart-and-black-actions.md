@@ -2,7 +2,7 @@
 
 ![](../images/web-monochrome-crm-dashboard-with-hatched-bar-chart-and-black-actions.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, crm, monochrome, hatched-bars, black-buttons, table, cream
 
 ## What it is

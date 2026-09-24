@@ -2,7 +2,7 @@
 
 ![](../images/print-social-candle-o-clock-scent-clock-of-ingredient-cutouts.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** candle, scent, clock, cutouts, blue, pink-serif, yellow-caps, food
 
 ## What it is

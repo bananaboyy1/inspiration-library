@@ -2,7 +2,7 @@
 
 ![](../images/app-kiln-monitoring-app-with-terracotta-glass.webp)
 
-**Discipline:** app · **Design type:** IoT monitoring app
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** monitoring, craft, warm-neutral, terracotta, glass-card, hand-held, black-backdrop, photography
 
 ## What it is

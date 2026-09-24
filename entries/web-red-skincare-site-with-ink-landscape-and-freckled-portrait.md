@@ -2,7 +2,7 @@
 
 ![](../images/web-red-skincare-site-with-ink-landscape-and-freckled-portrait.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** skincare, red, white, ink-wash, serif, chinese, close-up, split-hero
 
 ## What it is

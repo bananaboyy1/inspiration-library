@@ -2,7 +2,7 @@
 
 ![](../images/print-social-golden-trophy-sports-betting-campaign-key-visual.png)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** sports, campaign, gold, magenta, stadium, 3d-render, trophy, key-visual
 
 ## What it is

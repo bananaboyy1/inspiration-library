@@ -1,0 +1,39 @@
+{
+  "name": "print-social-remote-tech-program-post-with-numbered-green-rows-and-pr-tiles",
+  "image": "images/print-social-remote-tech-program-post-with-numbered-green-rows-and-pr-tiles.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Dark & Neon",
+  "title": "'Remote Tech Program' post with numbered green-ringed rows and floating 'PR' app tiles",
+  "tags": [
+    "career",
+    "tech-program",
+    "dark",
+    "neon-green",
+    "checklist",
+    "profile"
+  ],
+  "whatItIs": "A square black-green post with a neon green 'Remote Tech Program' title, a white question subhead, and a glass panel listing four numbered rows (01 Profile Picture, 02 Headline, 03 About Section, 04 Work Experience) with green-ringed numbers, plus three tilted glossy green 'PR' app-icon tiles floating around.",
+  "whatItMeans": "Motivating and structured; the checklist makes profile advice actionable and techy.",
+  "techniques": [
+    "Number tips in outlined neon rings.",
+    "Float tilted app-icon tiles around a panel.",
+    "Bold the label and keep the tip short.",
+    "Glow a green gradient from the top."
+  ],
+  "bestFor": [
+    "Career programmes",
+    "Tech bootcamps",
+    "LinkedIn tips"
+  ],
+  "vocabulary": [
+    {
+      "term": "Numbered row",
+      "definition": "A list item led by a number badge."
+    },
+    {
+      "term": "App-icon tile",
+      "definition": "A rounded square like a phone icon."
+    }
+  ]
+}

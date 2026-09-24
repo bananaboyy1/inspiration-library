@@ -2,7 +2,7 @@
 
 ![](../images/print-social-burgundy-grid-services-pills-poster.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** services, burgundy, pink, pills, grid, grain, agency, condensed
 
 ## What it is

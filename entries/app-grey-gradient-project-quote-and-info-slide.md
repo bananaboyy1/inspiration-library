@@ -2,7 +2,7 @@
 
 ![](../images/app-grey-gradient-project-quote-and-info-slide.jpg)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** quote, case-study, grey, minimal, project-info, sans, fintech
 
 ## What it is

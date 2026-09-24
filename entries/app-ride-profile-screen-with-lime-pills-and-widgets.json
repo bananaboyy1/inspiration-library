@@ -3,6 +3,7 @@
   "image": "images/app-ride-profile-screen-with-lime-pills-and-widgets.png",
   "discipline": "app",
   "designType": "Ride-hailing app",
+  "designStyle": "Dark & Neon",
   "title": "Profile screen with lime avatar, pill buttons, black stat block and side widgets",
   "tags": [
     "profile",

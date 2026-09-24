@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-green-reading-photo-with-line-callout-quote.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** wellness, photo, dark-green, gingham, white-line, callout, minimal, ukrainian
 
 ## What it is

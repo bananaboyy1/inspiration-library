@@ -2,7 +2,7 @@
 
 ![](../images/print-social-yellow-brand-activation-stage-with-rounded-frames.jpeg)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** event, stage, yellow, rounded-frame, led-screen, 3d-render, brand-activation, beauty
 
 ## What it is

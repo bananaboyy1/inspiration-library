@@ -2,7 +2,7 @@
 
 ![](../images/web-six-answers-at-a-glance-two-column-numbered-faq-with-black-cta.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** faq, numbered, two-column, white, black-button, minimal, snapshot, answers
 
 ## What it is

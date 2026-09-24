@@ -2,7 +2,7 @@
 
 ![](../images/app-admin-table-on-tablet-held-with-two-hands-over-glow-wordmark.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, tablet, table, purple, orange, glow, hands, ghost-wordmark
 
 ## What it is

@@ -1,0 +1,38 @@
+{
+  "name": "branding-xvect-wordmark-with-swoosh-x-on-cyan-gradient",
+  "image": "images/branding-xvect-wordmark-with-swoosh-x-on-cyan-gradient.jpg",
+  "discipline": "branding",
+  "designType": "Wordmarks",
+  "designStyle": "Minimalist",
+  "title": "'Xvect' white wordmark with a curling swoosh on the X, on a cyan-blue gradient tile",
+  "tags": [
+    "wordmark",
+    "logo",
+    "cyan",
+    "gradient",
+    "app-icon",
+    "swoosh"
+  ],
+  "whatItIs": "A square tile with a cyan-to-blue gradient and a white lowercase 'Xvect' wordmark whose oversized X extends into a curved swoosh with a small hook, like a vector or arrow path.",
+  "whatItMeans": "Light and techy; the swoosh hints at motion and vectors while staying simple.",
+  "techniques": [
+    "Enlarge the first letter and give it a single signature stroke.",
+    "Set a white mark on a two-tone gradient tile.",
+    "Keep the rest of the word plain so the flourish stands out."
+  ],
+  "bestFor": [
+    "Tech startup logos",
+    "Design tool brands",
+    "App icons"
+  ],
+  "vocabulary": [
+    {
+      "term": "Swash",
+      "definition": "A decorative extended stroke on a letter."
+    },
+    {
+      "term": "Wordmark",
+      "definition": "A logo made purely of the brand name."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-sun-seeking-onboarding-gradient-screens.png)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Neo-Brutalist
 **Tags:** onboarding, gradient, sun, forms, skin-type, black-buttons, monospace, health
 
 ## What it is

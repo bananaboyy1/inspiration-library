@@ -3,6 +3,7 @@
   "image": "images/web-faq-accordion-with-search-field-and-soft-grey-rows.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "FAQ block with a 'Search FAQs...' field and three soft grey rounded question rows with chevrons",
   "tags": [
     "component",

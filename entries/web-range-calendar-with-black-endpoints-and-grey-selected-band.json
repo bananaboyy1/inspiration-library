@@ -3,6 +3,7 @@
   "image": "images/web-range-calendar-with-black-endpoints-and-grey-selected-band.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Geometric & Bauhaus",
   "title": "August 2026 date-range picker with black rounded endpoint tiles on the 12th and 16th, a pale band between them and faded neighbours",
   "tags": [
     "component",

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-lime-mascot-exchange-instagram-post-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** mascot, lime, black, exchange, instagram, pixel-arrows, grid
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-frequently-asked-questions-as-staggered-white-cards-on-lilac-haze.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** faq, cards, staggered, lilac, haze, white, habit-app, question-answer
 
 ## What it is

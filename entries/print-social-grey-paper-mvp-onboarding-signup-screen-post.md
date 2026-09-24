@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grey-paper-mvp-onboarding-signup-screen-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** educational, mvp, grey, condensed, phone, orange, onboarding
 
 ## What it is

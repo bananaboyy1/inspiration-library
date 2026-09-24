@@ -2,7 +2,7 @@
 
 ![](../images/web-red-black-crypto-trading-desktop-flow-screens.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** crypto, desktop, red, black, sign-up, swap, chart, dashboard
 
 ## What it is

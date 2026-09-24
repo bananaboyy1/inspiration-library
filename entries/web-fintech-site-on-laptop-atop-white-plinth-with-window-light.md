@@ -2,7 +2,7 @@
 
 ![](../images/web-fintech-site-on-laptop-atop-white-plinth-with-window-light.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** laptop-mockup, white-plinth, grey, window-light, fintech, blue, clean, project-cover
 
 ## What it is

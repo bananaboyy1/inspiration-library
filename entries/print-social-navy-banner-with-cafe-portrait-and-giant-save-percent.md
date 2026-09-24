@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-banner-with-cafe-portrait-and-giant-save-percent.jpg)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** banner, navy, giant-type, photo, cafe, promo, overlap
 
 ## What it is

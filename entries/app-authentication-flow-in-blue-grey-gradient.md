@@ -2,7 +2,7 @@
 
 ![](../images/app-authentication-flow-in-blue-grey-gradient.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** authentication, fintech, gradient, slate-blue, otp, keypad, white, italic-serif
 
 ## What it is

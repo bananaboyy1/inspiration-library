@@ -2,7 +2,7 @@
 
 ![](../images/app-realtor-app-long-case-study-with-logo-grid-and-icon-packs.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** real-estate, long-scroll, logo, grid, icon-packs, chrome, white
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/app-dark-sneaker-product-card-with-light-inset.jpg",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Dark Sneaker Product Card",
   "tags": [
     "product-card",

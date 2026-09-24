@@ -3,6 +3,7 @@
   "image": "images/web-two-tab-segmented-switch-with-profile-and-notifications-content.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Two-tab segmented control with a raised white active pill and a content line 'Content for Profile'",
   "tags": [
     "component",

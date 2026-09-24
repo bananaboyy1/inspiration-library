@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-centered-hero-with-dark-teal-pill-logo-and-icon-button.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** hero, white, logo, black-button, centered, minimal, template, teal
 
 ## What it is

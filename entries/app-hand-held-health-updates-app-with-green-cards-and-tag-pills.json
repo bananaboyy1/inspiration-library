@@ -3,6 +3,7 @@
   "image": "images/app-hand-held-health-updates-app-with-green-cards-and-tag-pills.png",
   "discipline": "app",
   "designType": "Device mockup scene",
+  "designStyle": "Glassmorphism",
   "title": "Health Updates App in Dark Hands",
   "tags": [
     "health",

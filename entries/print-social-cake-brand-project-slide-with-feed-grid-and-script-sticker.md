@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cake-brand-project-slide-with-feed-grid-and-script-sticker.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** case-study, social-media, cream, brown, feed-grid, script-sticker, cobalt, bakery
 
 ## What it is

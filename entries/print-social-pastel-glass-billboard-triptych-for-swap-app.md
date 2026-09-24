@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pastel-glass-billboard-triptych-for-swap-app.jpg)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** ooh, posters, pastel, pearl, glass, fintech, 3d-orb, light
 
 ## What it is

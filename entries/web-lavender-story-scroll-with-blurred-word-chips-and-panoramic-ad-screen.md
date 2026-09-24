@@ -2,7 +2,7 @@
 
 ![](../images/web-lavender-story-scroll-with-blurred-word-chips-and-panoramic-ad-screen.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** storytelling, lavender, italic-sans, dashed-path, blurred-chips, photos, billboard
 
 ## What it is

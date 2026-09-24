@@ -2,7 +2,7 @@
 
 ![](../images/branding-vintage-bbq-badge-with-script-and-block-type.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** badge, bbq, vintage, slab, script, banner-shape, black-and-white, restaurant
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-droplet-logo-and-app-icon-applications.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo, droplet, blue, browser-tab, app-icon, health, tall
 
 ## What it is

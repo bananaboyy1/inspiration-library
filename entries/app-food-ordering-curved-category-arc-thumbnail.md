@@ -2,7 +2,7 @@
 
 ![](../images/app-food-ordering-curved-category-arc-thumbnail.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** food, hands, thumbnail, arc, peach, cover, touch
 
 ## What it is

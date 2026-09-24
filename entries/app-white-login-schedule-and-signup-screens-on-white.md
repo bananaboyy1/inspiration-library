@@ -2,7 +2,7 @@
 
 ![](../images/app-white-login-schedule-and-signup-screens-on-white.png)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** onboarding, login, signup, white, black-buttons, date-picker, photo-header, case-study
 
 ## What it is

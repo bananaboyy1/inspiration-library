@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-glass-laptop-with-purple-ui-dashboard-cover.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** laptop, dark, purple, black-glass, hero, dashboard, cover
 
 ## What it is

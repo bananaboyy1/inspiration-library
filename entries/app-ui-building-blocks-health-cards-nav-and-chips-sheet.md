@@ -2,7 +2,7 @@
 
 ![](../images/app-ui-building-blocks-health-cards-nav-and-chips-sheet.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ui-kit, health, cards, nav-bar, chips, white, components
 
 ## What it is

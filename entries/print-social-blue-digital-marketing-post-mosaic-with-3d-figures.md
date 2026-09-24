@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-digital-marketing-post-mosaic-with-3d-figures.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** marketing, blue, white, 3d-figures, chess, laptop, templates, mosaic
 
 ## What it is

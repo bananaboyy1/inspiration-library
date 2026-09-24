@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-swirl-background-phone-in-hand-scalloped-card-travel-ad.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** ad, indigo, travel, phone-in-hand, scalloped-card, serif-italic, green-search
 
 ## What it is

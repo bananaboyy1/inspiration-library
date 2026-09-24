@@ -2,7 +2,7 @@
 
 ![](../images/web-floating-pill-bottom-nav-with-five-line-icons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, navigation, bottom-nav, pill, icons, white, shadow, floating
 
 ## What it is

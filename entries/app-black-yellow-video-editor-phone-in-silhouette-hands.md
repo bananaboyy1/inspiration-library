@@ -2,7 +2,7 @@
 
 ![](../images/app-black-yellow-video-editor-phone-in-silhouette-hands.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** video-editor, yellow, black, silhouette, timeline, floating-cards, cover
 
 ## What it is

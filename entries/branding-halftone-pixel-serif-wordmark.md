@@ -2,7 +2,7 @@
 
 ![](../images/branding-halftone-pixel-serif-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** wordmark, halftone, pixel-type, hybrid-type, nature, dark, texture, monogram, square-format
 
 ## What it is

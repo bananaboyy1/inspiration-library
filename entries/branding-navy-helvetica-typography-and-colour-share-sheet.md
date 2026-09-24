@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-helvetica-typography-and-colour-share-sheet.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** typography, helvetica, navy, mascot, palette, percentages, ring
 
 ## What it is

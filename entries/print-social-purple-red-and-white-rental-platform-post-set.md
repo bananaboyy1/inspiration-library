@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-red-and-white-rental-platform-post-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** rental, platform, violet, red, black, blob-shapes, waves, russian
 
 ## What it is

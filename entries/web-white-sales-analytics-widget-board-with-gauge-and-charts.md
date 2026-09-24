@@ -2,7 +2,7 @@
 
 ![](../images/web-white-sales-analytics-widget-board-with-gauge-and-charts.jpg)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** analytics, widgets, white, gauge, line-chart, hatch-bars, heatmap
 
 ## What it is

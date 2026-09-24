@@ -2,7 +2,7 @@
 
 ![](../images/print-social-flavors-and-fillings-cake-cross-section-collage-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** food, macro, collage, sticker-outline, cobalt, cream-arc, bubble-type, 4-up
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-art-app-phone-on-black-leather-cushions.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** ai-art, dark, leather, orange, gradient, photos, cover
 
 ## What it is

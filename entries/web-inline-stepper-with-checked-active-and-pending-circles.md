@@ -2,7 +2,7 @@
 
 ![](../images/web-inline-stepper-with-checked-active-and-pending-circles.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, stepper, progress, black, grey, white, minimal, inline-labels
 
 ## What it is

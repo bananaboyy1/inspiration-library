@@ -2,7 +2,7 @@
 
 ![](../images/app-frosted-blue-grey-user-persona-with-insight-charts.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** persona, frosted, blue-grey, charts, green, glass-cards, portrait
 
 ## What it is

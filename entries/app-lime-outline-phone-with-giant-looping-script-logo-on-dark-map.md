@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-outline-phone-with-giant-looping-script-logo-on-dark-map.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** lime, dark, logo, script, map, travel, glow
 
 ## What it is

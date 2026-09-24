@@ -2,7 +2,7 @@
 
 ![](../images/web-cloud-sky-fintech-hero-on-tablet-with-navigation-tags.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** tablet, clouds, sky, fintech, light, tags, hand-phone
 
 ## What it is

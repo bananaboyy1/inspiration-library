@@ -8,13 +8,14 @@ import { fileURLToPath } from 'node:url'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DISCIPLINES = ['web', 'app', 'branding', 'print-social']
+const STYLES = JSON.parse(fs.readFileSync(path.join(root, 'scripts', 'styles.json'), 'utf8'))
 const batch = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
 
 const toMd = (e) => `# ${e.title}
 
 ![](../${e.image})
 
-**Discipline:** ${e.discipline} · **Design type:** ${e.designType}
+**Discipline:** ${e.discipline} · **Design type:** ${e.designType} · **Design style:** ${e.designStyle}
 **Tags:** ${e.tags.join(', ')}
 
 ## What it is
@@ -41,10 +42,12 @@ for (const b of batch) {
   const src = fs.existsSync(inboxSrc) ? inboxSrc : path.join(root, 'images', file)
   if (!fs.existsSync(src)) { console.error('MISSING', file); continue }
   if (!DISCIPLINES.includes(rest.discipline) || !slug.startsWith(rest.discipline + '-')) { console.error('BAD SLUG/DISCIPLINE', slug); continue }
+  if (!STYLES.includes(rest.designStyle)) { console.error('BAD designStyle', slug, rest.designStyle); continue }
   const dest = slug + path.extname(file).toLowerCase()
   if (fs.existsSync(path.join(root, 'images', dest))) { console.error('EXISTS', dest); continue }
   fs.renameSync(src, path.join(root, 'images', dest))
-  const entry = { name: slug, image: `images/${dest}`, ...rest }
+  const { discipline, designType, designStyle, ...others } = rest
+  const entry = { name: slug, image: `images/${dest}`, discipline, designType, designStyle, ...others }
   fs.writeFileSync(path.join(root, 'entries', slug + '.json'), JSON.stringify(entry, null, 2) + '\n')
   fs.writeFileSync(path.join(root, 'entries', slug + '.md'), toMd(entry))
   ok++

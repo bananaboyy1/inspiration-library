@@ -2,7 +2,7 @@
 
 ![](../images/web-solar-panel-site-laptop-balanced-on-black-rock.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** laptop, rock, solar, grey, balance, energy, cover
 
 ## What it is

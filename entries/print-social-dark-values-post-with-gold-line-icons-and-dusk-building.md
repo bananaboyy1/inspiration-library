@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-values-post-with-gold-line-icons-and-dusk-building.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** real-estate, values, black, gold, line-icons, dusk, photo-fade, grid
 
 ## What it is

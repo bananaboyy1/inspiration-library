@@ -3,6 +3,7 @@
   "image": "images/web-breadcrumb-pill-with-home-icon-and-chevron-separators.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Rounded breadcrumb pill 'Home > Profile > Settings' with a house icon, grey parents and a black current page",
   "tags": [
     "component",

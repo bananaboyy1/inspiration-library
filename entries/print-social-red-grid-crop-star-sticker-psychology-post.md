@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-grid-crop-star-sticker-psychology-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** psychology, red, grid-crop, stars, white-type, photo-tiles, editorial, portuguese
 
 ## What it is

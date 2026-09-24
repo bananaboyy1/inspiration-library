@@ -2,7 +2,7 @@
 
 ![](../images/app-leaf-house-app-icon-with-notification-badge.png)
 
-**Discipline:** app · **Design type:** App icon showcase
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** app-icon, dark, olive, gradient, badge, line-icon, close-up
 
 ## What it is

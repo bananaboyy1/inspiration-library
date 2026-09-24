@@ -2,7 +2,7 @@
 
 ![](../images/app-earthy-coral-green-cream-ui-screen-wall.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** screen-wall, coral, forest-green, cream, cards, calendar, charts
 
 ## What it is

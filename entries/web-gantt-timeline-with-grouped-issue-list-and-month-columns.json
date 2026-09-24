@@ -3,6 +3,7 @@
   "image": "images/web-gantt-timeline-with-grouped-issue-list-and-month-columns.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Roadmap timeline: left list of grouped issues with coloured status dots and durations, and month columns with white bars",
   "tags": [
     "component",

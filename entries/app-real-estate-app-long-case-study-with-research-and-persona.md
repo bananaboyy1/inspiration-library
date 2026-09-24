@@ -2,7 +2,7 @@
 
 ![](../images/app-real-estate-app-long-case-study-with-research-and-persona.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** real-estate, long-scroll, research, persona, white, gloved-hand, orange-bezel
 
 ## What it is

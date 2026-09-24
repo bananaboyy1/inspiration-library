@@ -2,7 +2,7 @@
 
 ![](../images/app-bad-vs-good-checkout-ui-comparison-split.jpg)
 
-**Discipline:** app · **Design type:** Checkout and forms
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** checkout, comparison, forms, red-green, before-after, education, payment
 
 ## What it is

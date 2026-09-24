@@ -2,7 +2,7 @@
 
 ![](../images/app-amber-smart-home-ai-dashboard.webp)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** dashboard, smart-home, amber, white, radial-gauge, dotted-charts, 3d-render, glass-card
 
 ## What it is

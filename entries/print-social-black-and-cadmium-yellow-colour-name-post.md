@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-cadmium-yellow-colour-name-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** colour, black, yellow, split, hex, minimal, palette
 
 ## What it is

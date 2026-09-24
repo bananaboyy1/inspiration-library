@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-smart-home-app-with-glass-pills-over-ghost-name.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** smart-home, grey, hand, glass-pills, ghost-type, lime, metadata
 
 ## What it is

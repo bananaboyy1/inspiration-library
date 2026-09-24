@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-white-coaching-post-set-with-cyan-loops.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** coaching, navy, white, cyan, stats, hand-drawn-loops, dot-grid, templates
 
 ## What it is

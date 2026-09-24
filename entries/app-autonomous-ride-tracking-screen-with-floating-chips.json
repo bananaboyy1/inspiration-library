@@ -3,6 +3,7 @@
   "image": "images/app-autonomous-ride-tracking-screen-with-floating-chips.gif",
   "discipline": "app",
   "designType": "Ride-hailing app",
+  "designStyle": "Dark & Neon",
   "title": "Ride-progress screen with dark road photo, stat panel and floating chips",
   "tags": [
     "mobility",

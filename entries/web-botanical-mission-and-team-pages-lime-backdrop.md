@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-mission-and-team-pages-lime-backdrop.png)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** mission, faq, team, lime, sage-green, cards, glass-sphere, expert-profile
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-blurred-yoga-photo-with-gradient-app-icon-and-wordmark.png)
 
-**Discipline:** branding · **Design type:** Brand presentation cover
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** cover, icon, wordmark, yoga, blur, gradient, tagline
 
 ## What it is

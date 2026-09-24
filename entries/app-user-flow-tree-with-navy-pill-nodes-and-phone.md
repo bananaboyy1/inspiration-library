@@ -2,7 +2,7 @@
 
 ![](../images/app-user-flow-tree-with-navy-pill-nodes-and-phone.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** user-flow, diagram, navy, pill-nodes, italic-serif, fintech, white, documentation
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-olive-folder-and-square-feed-preview-cover.png)
 
-**Discipline:** branding · **Design type:** Brand presentation cover
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** cover, olive, nature, folder, feed-grid, arrow, forest, social-media
 
 ## What it is

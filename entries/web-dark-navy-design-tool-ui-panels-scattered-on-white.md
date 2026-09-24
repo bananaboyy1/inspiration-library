@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-navy-design-tool-ui-panels-scattered-on-white.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** dark, panels, design-tool, toolbar, styles, search, components, scattered
 
 ## What it is

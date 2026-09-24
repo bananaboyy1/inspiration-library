@@ -25,6 +25,7 @@ src/, index.html Vite + React browsing app (reads entries/*.json at build time)
 | `image` | string | Relative path, `images/<name>.<ext>` |
 | `discipline` | `web` \| `app` \| `branding` \| `print-social` | Top-level category |
 | `designType` | string | Style or format within the discipline (e.g. "SaaS landing page", "Wordmarks", "Social template pack"). **Reuse an existing value when one fits** — the app counts and filters by exact string |
+| `designStyle` | string | The overall look, one value from `scripts/styles.json` (Minimalist, Glassmorphism, Dark & Neon, Gradient & Aurora, Geometric & Bauhaus, Playful & Illustrated, Warm & Organic, Photographic & Cinematic, Corporate & Clean-Tech, 3D & Surreal, Editorial, Retro & Pixel, Neo-Brutalist). Same set across every discipline so one style can be browsed in web, app, branding and print-social together. Pick the *dominant* visual language; the app groups by it and counts it live. ingest.mjs and `npm run check` reject unknown values. To add a new style, add it to `scripts/styles.json` and tell the user |
 | `title` | string | Short descriptive title |
 | `tags` | string[] | Lowercase keywords |
 | `whatItIs` | string | Plain description of what is shown |
@@ -52,7 +53,7 @@ Write batch JSON as plain UTF-8 **without a BOM** (PowerShell's `Set-Content`/`C
 `inbox/` is where new, un-named images are dropped (this repo's root is the library, so it is `inbox/`, alongside `images/` and `entries/`). When the user says **"process the inbox"**, do all of this without further prompting:
 
 1. List `inbox/` (ignore `.gitkeep`). Only image files count (`.png .jpg .jpeg .webp .gif .avif`); if it is empty, say so and stop.
-2. View **every** image closely and analyze it exactly like the existing entries: discipline, designType (reuse existing values where they fit — check with `node -e` over `entries/*.json` if unsure), title, tags, whatItIs, whatItMeans, techniques, bestFor, vocabulary. Follow the classification notes above.
+2. View **every** image closely and analyze it exactly like the existing entries: discipline, designType, designStyle (reuse existing values where they fit — check with `node -e` over `entries/*.json` if unsure), title, tags, whatItIs, whatItMeans, techniques, bestFor, vocabulary. Follow the classification notes above.
 3. Write a batch file (outside the repo, e.g. the scratchpad; UTF-8 without BOM) with `file` = the filename in `inbox/` and a descriptive `slug` starting with the discipline. Work in batches of ~20 for large inboxes.
 4. `node scripts/ingest.mjs <batch.json>` — this moves each image from `inbox/` to `images/<slug>.<ext>` and writes the entry `.json`/`.md`. Fix any `MISSING`/`EXISTS`/`BAD SLUG` lines it prints and re-run for those.
 5. `npm run library`, then `npm run check` (regenerates `LIBRARY.md` and validates).
@@ -71,3 +72,4 @@ Whenever an entry is added, edited, renamed or deleted (JSON, MD or image), run 
 `npm install`, then `npm run dev` (or `npm run build` → `dist/`). The app has no manual counts: discipline, design-type and technique-facet counts are computed from `entries/*.json` at load, so they update automatically as entries are added. Images in `images/` are served at `/images/` by a small plugin in `vite.config.js`.
 
 Features: browse by discipline → design type, technique filter (common words drawn from all `techniques`, with live counts), full-text search across every field, per-entry detail view, glossary of all vocabulary (terms merged case-insensitively across entries). Filters live in the URL hash so views are linkable.
+

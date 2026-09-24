@@ -2,7 +2,7 @@
 
 ![](../images/app-frosted-glass-onboarding-cards-with-3d-coins-and-arrows.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** onboarding, frosted, 3d, coins, pastel, carousel, glass-cards
 
 ## What it is

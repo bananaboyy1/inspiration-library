@@ -3,6 +3,7 @@
   "image": "images/web-subscriptions-stat-card-with-growth-caption-and-month-axis.webp",
   "discipline": "web",
   "designType": "Data visualization",
+  "designStyle": "Minimalist",
   "title": "White stat card 'Subscriptions +2350, +80.1% from last month' with an empty chart area and month labels Jan to Aug",
   "tags": [
     "component",

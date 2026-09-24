@@ -2,7 +2,7 @@
 
 ![](../images/print-social-playful-sticker-badge-poster-set.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** playful, stickers, poster, gradient, rounded-type, portrait, campaign
 
 ## What it is

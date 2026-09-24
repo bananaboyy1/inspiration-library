@@ -2,7 +2,7 @@
 
 ![](../images/app-glucose-report-phone-on-black-rock-with-dot-chart.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, chart, dot-pattern, rock, light-blue, gauge, black
 
 ## What it is

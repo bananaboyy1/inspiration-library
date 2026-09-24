@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-glass-chat-cards-brand-post-on-dark-ghost-lettering.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** lime, green, dark, glass, chat, ghost-type, contact, vector
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-black-about-project-text-fade-slide.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** about, black, text-only, fade, centered, grotesk, minimal
 
 ## What it is

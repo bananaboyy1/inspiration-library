@@ -2,7 +2,7 @@
 
 ![](../images/web-pixel-art-guild-member-cards-with-8-bit-borders-and-role-badges.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** component, pixel-art, 8-bit, black, white, member-cards, retro, badges
 
 ## What it is

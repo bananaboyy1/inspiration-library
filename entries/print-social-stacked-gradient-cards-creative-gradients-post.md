@@ -2,7 +2,7 @@
 
 ![](../images/print-social-stacked-gradient-cards-creative-gradients-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** gradients, stack, red, pink, teal, green, glassy, monospace, resource-post
 
 ## What it is

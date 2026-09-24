@@ -1,0 +1,39 @@
+{
+  "name": "app-chat-list-and-thread-screens-with-empty-states",
+  "image": "images/app-chat-list-and-thread-screens-with-empty-states.avif",
+  "discipline": "app",
+  "designType": "Chat interface",
+  "designStyle": "Minimalist",
+  "title": "Four chat screens: conversation list, empty list, active thread and empty thread",
+  "tags": [
+    "chat",
+    "messaging",
+    "empty-state",
+    "purple",
+    "mobile",
+    "ui-kit"
+  ],
+  "whatItIs": "Four phones titled 'Chat Screens — Conversation List & Messaging': a chat list with avatars, unread badges and media previews, an empty chat list with a faded placeholder and 'No Conversations Yet', a thread with purple sent and grey received bubbles, and an empty thread with only the header and composer.",
+  "whatItMeans": "Complete and practical; pairing each screen with its empty state shows thoughtful design.",
+  "techniques": [
+    "Design the empty state next to the full state.",
+    "Use faded placeholder rows as an empty illustration.",
+    "Keep a bottom tab bar consistent across screens.",
+    "Label each screen above the frame."
+  ],
+  "bestFor": [
+    "Messaging apps",
+    "UI kits",
+    "Design handoff"
+  ],
+  "vocabulary": [
+    {
+      "term": "Empty state",
+      "definition": "What a screen shows when there is no content."
+    },
+    {
+      "term": "Unread badge",
+      "definition": "A small count bubble for new messages."
+    }
+  ]
+}

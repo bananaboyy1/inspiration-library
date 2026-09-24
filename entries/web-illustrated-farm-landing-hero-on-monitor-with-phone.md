@@ -2,7 +2,7 @@
 
 ![](../images/web-illustrated-farm-landing-hero-on-monitor-with-phone.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** illustration, farm, landing, blue, monitor, phone, drone
 
 ## What it is

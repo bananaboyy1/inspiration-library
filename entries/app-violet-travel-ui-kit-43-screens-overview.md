@@ -2,7 +2,7 @@
 
 ![](../images/app-violet-travel-ui-kit-43-screens-overview.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ui-kit, violet, travel, screens, booking, tags, flat
 
 ## What it is

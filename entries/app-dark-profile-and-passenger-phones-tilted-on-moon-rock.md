@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-profile-and-passenger-phones-tilted-on-moon-rock.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** dark, profile, form, rock, tilted, travel, perspective
 
 ## What it is

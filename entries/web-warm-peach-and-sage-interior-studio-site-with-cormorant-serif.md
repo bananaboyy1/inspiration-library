@@ -2,7 +2,7 @@
 
 ![](../images/web-warm-peach-and-sage-interior-studio-site-with-cormorant-serif.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** interior, peach, sage, serif, photography, minimal, long-scroll, warm
 
 ## What it is

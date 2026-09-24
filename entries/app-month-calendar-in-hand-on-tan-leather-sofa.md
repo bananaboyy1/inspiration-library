@@ -2,7 +2,7 @@
 
 ![](../images/app-month-calendar-in-hand-on-tan-leather-sofa.png)
 
-**Discipline:** app · **Design type:** Calendar and planner app
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** calendar, planner, light-ui, colour-dashes, hand, sofa, navy, tan
 
 ## What it is

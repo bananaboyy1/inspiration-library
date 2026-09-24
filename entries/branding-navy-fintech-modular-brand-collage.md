@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-fintech-modular-brand-collage.jpg)
 
-**Discipline:** branding · **Design type:** Brand collage board
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** fintech, navy, collage, bento, photography, logo, card-ui, brand-board
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-smart-ring-health-app-orange-and-cream.webp)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** wearable, health, orange, cream, heatmap, waveform, voice-ai, phones
 
 ## What it is

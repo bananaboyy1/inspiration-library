@@ -2,7 +2,7 @@
 
 ![](../images/print-social-language-hack-post-with-retro-laptop-and-pixel-badges.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** education, language, mustard, pink, starburst, retro-laptop, pixel-art, grain, cyrillic
 
 ## What it is

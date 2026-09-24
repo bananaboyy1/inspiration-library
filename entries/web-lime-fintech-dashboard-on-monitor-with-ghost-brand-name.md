@@ -2,7 +2,7 @@
 
 ![](../images/web-lime-fintech-dashboard-on-monitor-with-ghost-brand-name.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** monitor, dashboard, lime, dark-sidebar, ghost-type, logo, cover
 
 ## What it is

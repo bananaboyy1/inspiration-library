@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-thank-you-slide-with-follow-pill.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** closing-slide, navy, white, follow-button, thumbs-up, contact-rows, agency, hairline
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-dog-mark-on-quilted-lime-harness-and-spotted-fur.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, pet-apparel, dog, lime, black-and-white, fur-pattern, label, mockup
 
 ## What it is

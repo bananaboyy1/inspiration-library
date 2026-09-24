@@ -2,7 +2,7 @@
 
 ![](../images/app-project-timeline-staggered-cards-with-week-pills.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** timeline, cards, blue, lilac, week-pills, dotted-arrows, grey
 
 ## What it is

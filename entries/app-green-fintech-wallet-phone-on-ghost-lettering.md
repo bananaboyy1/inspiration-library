@@ -2,7 +2,7 @@
 
 ![](../images/app-green-fintech-wallet-phone-on-ghost-lettering.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** green, lime, fintech, ghost-type, dark-ui, card, thumbnail
 
 ## What it is

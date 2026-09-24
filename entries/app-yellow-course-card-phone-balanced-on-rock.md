@@ -2,7 +2,7 @@
 
 ![](../images/app-yellow-course-card-phone-balanced-on-rock.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** education, yellow, black, rock, balance, dark, learning
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-and-black-bento-with-mountain-photo-stat-tiles-and-explorer-pass.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** bento, blue, black, white, photo-card, stats, gradient, cta
 
 ## What it is

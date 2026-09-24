@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-yellow-red-doodle-restaurant-concert-instagram-set.jpg)
 
-**Discipline:** print-social · **Design type:** Instagram feed grid
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** instagram, concert, menu, doodles, blue, yellow, red, tilted
 
 ## What it is

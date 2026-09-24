@@ -3,6 +3,7 @@
   "image": "images/app-frosted-glass-onboarding-cards-with-3d-coins-and-arrows.jpg",
   "discipline": "app",
   "designType": "Onboarding screens",
+  "designStyle": "Glassmorphism",
   "title": "Frosted Onboarding Cards with 3D Coins",
   "tags": [
     "onboarding",

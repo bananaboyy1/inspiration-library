@@ -2,7 +2,7 @@
 
 ![](../images/print-social-trendy-wordmark-over-blue-sky-selfie.png)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** fashion, wordmark, sky, blue-sunglasses, lime, script, selfie, cover
 
 ## What it is

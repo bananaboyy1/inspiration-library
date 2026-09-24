@@ -2,7 +2,7 @@
 
 ![](../images/web-circular-ring-of-rotating-photo-cards-around-ai-headline.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** hero, gallery, circle, photo-cards, white, minimal, scroll, kinetic
 
 ## What it is

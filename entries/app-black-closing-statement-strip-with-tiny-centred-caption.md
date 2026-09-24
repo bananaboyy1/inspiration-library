@@ -2,7 +2,7 @@
 
 ![](../images/app-black-closing-statement-strip-with-tiny-centred-caption.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** closing, black, minimal, caption, caps, empty-space, case-study
 
 ## What it is

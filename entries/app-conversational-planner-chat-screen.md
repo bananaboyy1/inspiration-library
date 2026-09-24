@@ -2,7 +2,7 @@
 
 ![](../images/app-conversational-planner-chat-screen.gif)
 
-**Discipline:** app · **Design type:** Chat interface
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** chat, ai-assistant, amber, warm-grey, suggestion-chips, voice-input, case-study-slide
 
 ## What it is

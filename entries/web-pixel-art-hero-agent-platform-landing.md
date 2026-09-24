@@ -2,7 +2,7 @@
 
 ![](../images/web-pixel-art-hero-agent-platform-landing.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** pixel-art, nostalgia, hero-illustration, blue-sky, ai, glass-nav, game-like
 
 ## What it is

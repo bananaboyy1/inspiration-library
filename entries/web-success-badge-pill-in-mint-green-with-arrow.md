@@ -2,7 +2,7 @@
 
 ![](../images/web-success-badge-pill-in-mint-green-with-arrow.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, badge, pill, green, success, arrow, soft, ui-kit
 
 ## What it is

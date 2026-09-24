@@ -2,7 +2,7 @@
 
 ![](../images/branding-indigo-yellow-hanging-colour-tag-palette.jpg)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** palette, indigo, yellow, white, dashed-lines, tilted, vertical-type
 
 ## What it is

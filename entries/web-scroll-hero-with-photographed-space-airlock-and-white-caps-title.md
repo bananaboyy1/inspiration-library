@@ -2,7 +2,7 @@
 
 ![](../images/web-scroll-hero-with-photographed-space-airlock-and-white-caps-title.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** hero, photography, space, airlock, white-type, scroll, cinematic, symmetry
 
 ## What it is

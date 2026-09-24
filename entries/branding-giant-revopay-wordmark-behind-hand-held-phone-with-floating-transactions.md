@@ -2,7 +2,7 @@
 
 ![](../images/branding-giant-revopay-wordmark-behind-hand-held-phone-with-floating-transactions.webp)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, fintech, violet, black, wordmark, sparkle, hand-silhouette, floating-cards
 
 ## What it is

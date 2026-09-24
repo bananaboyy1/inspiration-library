@@ -2,7 +2,7 @@
 
 ![](../images/web-checkout-form-desktop-and-mobile.png)
 
-**Discipline:** web · **Design type:** Checkout and forms
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** checkout, form, cart, blue, cyrillic, ecommerce, ui-kit, responsive
 
 ## What it is

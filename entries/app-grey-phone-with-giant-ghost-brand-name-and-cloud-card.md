@@ -2,7 +2,7 @@
 
 ![](../images/app-grey-phone-with-giant-ghost-brand-name-and-cloud-card.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** ghost-type, grey, clouds, subscription, stars, blue, minimal
 
 ## What it is

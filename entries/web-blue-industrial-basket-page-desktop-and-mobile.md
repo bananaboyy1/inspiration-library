@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-industrial-basket-page-desktop-and-mobile.png)
 
-**Discipline:** web · **Design type:** Checkout and forms
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** cart, checkout, blue, white-ui, footer, mobile, industrial, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-grocery-app-phone-on-ribbed-black-plinth.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** grocery, lime, ghost-type, plinth, black, gradient, cover
 
 ## What it is

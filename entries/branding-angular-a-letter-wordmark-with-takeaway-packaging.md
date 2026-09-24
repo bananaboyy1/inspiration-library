@@ -2,7 +2,7 @@
 
 ![](../images/branding-angular-a-letter-wordmark-with-takeaway-packaging.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** wordmark, monoline, angular, asian-bar, packaging, kraft, sticker, yellow, pink
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-mobile-home-in-hand-on-concrete.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** mobile-web, mockup, hand, blue, concrete, industrial, hero, carousel
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-word-play-poster-trio-orange-and-blue.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** posters, typography, orange, blue, word-image, cropped-type, circle, stripes
 
 ## What it is

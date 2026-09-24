@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fish-and-left-right-poster-pair-in-blue-and-yellow.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** posters, blue, yellow, pattern, arrows, giant-type, white-type, geometric
 
 ## What it is

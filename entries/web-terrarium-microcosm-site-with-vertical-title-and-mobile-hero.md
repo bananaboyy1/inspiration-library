@@ -2,7 +2,7 @@
 
 ![](../images/web-terrarium-microcosm-site-with-vertical-title-and-mobile-hero.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** nature, terrarium, dark-green, vertical-title, mobile-hero, photography, product, cyrillic
 
 ## What it is

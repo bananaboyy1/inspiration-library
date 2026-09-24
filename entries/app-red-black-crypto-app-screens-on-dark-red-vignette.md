@@ -2,7 +2,7 @@
 
 ![](../images/app-red-black-crypto-app-screens-on-dark-red-vignette.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** crypto, red, black, screens, wallet, swap, risk, vignette
 
 ## What it is

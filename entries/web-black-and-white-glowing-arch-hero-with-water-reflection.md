@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-white-glowing-arch-hero-with-water-reflection.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** hero, dark, monochrome, arch, glow, reflection, glass-button, light-type
 
 ## What it is

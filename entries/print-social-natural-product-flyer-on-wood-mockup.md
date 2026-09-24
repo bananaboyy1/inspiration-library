@@ -2,7 +2,7 @@
 
 ![](../images/print-social-natural-product-flyer-on-wood-mockup.jpg)
 
-**Discipline:** print-social · **Design type:** Product flyer
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** flyer, product, natural, green-and-white, botanical, mockup, hair-care
 
 ## What it is

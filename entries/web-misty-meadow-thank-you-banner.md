@@ -2,7 +2,7 @@
 
 ![](../images/web-misty-meadow-thank-you-banner.png)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** closing, meadow, mist, white-type, nature, thin-caps, banner, calm
 
 ## What it is

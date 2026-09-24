@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-photo-frame-festival-poster.jpg)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** music, festival, red, white-frame, portrait, poster, playful, dj
 
 ## What it is

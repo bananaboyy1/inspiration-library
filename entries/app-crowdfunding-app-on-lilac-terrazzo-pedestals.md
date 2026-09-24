@@ -2,7 +2,7 @@
 
 ![](../images/app-crowdfunding-app-on-lilac-terrazzo-pedestals.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** crowdfunding, dark-ui, lilac, terrazzo, 3d-scene, yellow-accent, mockup
 
 ## What it is

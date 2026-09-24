@@ -2,7 +2,7 @@
 
 ![](../images/branding-black-geist-style-guide-with-lime-and-lavender-cards.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** style-guide, black, lime, lavender, geist, palette, cards, icons
 
 ## What it is

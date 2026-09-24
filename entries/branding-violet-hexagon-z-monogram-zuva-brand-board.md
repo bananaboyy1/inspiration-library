@@ -2,7 +2,7 @@
 
 ![](../images/branding-violet-hexagon-z-monogram-zuva-brand-board.png)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** brand-board, violet, black, hexagon, monogram, syne, app-icon, tees
 
 ## What it is

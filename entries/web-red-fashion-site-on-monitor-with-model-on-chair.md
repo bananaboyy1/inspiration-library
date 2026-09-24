@@ -2,7 +2,7 @@
 
 ![](../images/web-red-fashion-site-on-monitor-with-model-on-chair.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** fashion, monitor, model, chair, red, ghost-type, photo-composite
 
 ## What it is

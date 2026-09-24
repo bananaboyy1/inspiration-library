@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-corporate-six-post-carousel-template.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** corporate, green, mint, lime, templates, photo-panels, carousel, business
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-cat-eared-portfolio-title-with-avatar-illustration.gif)
 
-**Discipline:** branding · **Design type:** Portfolio cover
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, cover, orange, illustration, mascot, display-type, blue-hair, character
 
 ## What it is

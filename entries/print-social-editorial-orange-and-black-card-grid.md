@@ -2,7 +2,7 @@
 
 ![](../images/print-social-editorial-orange-and-black-card-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** editorial, cards, orange, black, grey, serif-italic, big-numbers, arrows
 
 ## What it is

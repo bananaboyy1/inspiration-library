@@ -2,7 +2,7 @@
 
 ![](../images/print-social-gradient-glow-fee-breakdown-promo.webp)
 
-**Discipline:** print-social · **Design type:** Product UI promo card
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** gradient, ui-fragment, fintech, promo, pricing, stacked-cards
 
 ## What it is

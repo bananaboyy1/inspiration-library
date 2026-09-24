@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-panel-conference-room-booking-photo-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** pink, panel, photo, meeting, outline-frame, tags, square
 
 ## What it is

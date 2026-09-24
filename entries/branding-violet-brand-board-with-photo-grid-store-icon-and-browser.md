@@ -2,7 +2,7 @@
 
 ![](../images/branding-violet-brand-board-with-photo-grid-store-icon-and-browser.jpg)
 
-**Discipline:** branding · **Design type:** Brand collage board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** brand-board, bento, violet, black, logo-construction, app-store, home-screen, tagline
 
 ## What it is

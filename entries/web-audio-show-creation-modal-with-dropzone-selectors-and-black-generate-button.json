@@ -3,6 +3,7 @@
   "image": "images/web-audio-show-creation-modal-with-dropzone-selectors-and-black-generate-button.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "White modal 'Create Your Audio Show' with an upload tab bar, dashed dropzone, format and voice selectors and a black Generate button",
   "tags": [
     "component",

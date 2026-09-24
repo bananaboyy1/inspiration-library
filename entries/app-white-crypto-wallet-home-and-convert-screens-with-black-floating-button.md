@@ -2,7 +2,7 @@
 
 ![](../images/app-white-crypto-wallet-home-and-convert-screens-with-black-floating-button.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** crypto, wallet, white, black, convert, floating-button, market-list
 
 ## What it is

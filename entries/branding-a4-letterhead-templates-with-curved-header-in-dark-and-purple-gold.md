@@ -2,7 +2,7 @@
 
 ![](../images/branding-a4-letterhead-templates-with-curved-header-in-dark-and-purple-gold.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** letterhead, stationery, template, curve, red, purple, gold, print
 
 ## What it is

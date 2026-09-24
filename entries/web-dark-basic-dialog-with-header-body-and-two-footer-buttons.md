@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-basic-dialog-with-header-body-and-two-footer-buttons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, dialog, modal, dark, buttons, hairline, minimal, ui-kit
 
 ## What it is

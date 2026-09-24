@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-grid-card-people-news-carousel-slide-with-cutouts.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** carousel, white, grid-paper, cutouts, script-labels, arrows, team
 
 ## What it is

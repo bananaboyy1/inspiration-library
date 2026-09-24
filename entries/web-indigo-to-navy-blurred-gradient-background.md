@@ -2,7 +2,7 @@
 
 ![](../images/web-indigo-to-navy-blurred-gradient-background.jpg)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** gradient, indigo, navy, blur, background, dashed-line
 
 ## What it is

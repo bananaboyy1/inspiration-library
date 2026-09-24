@@ -2,7 +2,7 @@
 
 ![](../images/print-social-mint-green-tilted-stacked-pills-scalability-low-cost-security-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** carousel, mint, green, tilted-pills, icons, zigzag, blockchain
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-lime-real-estate-billboard-mockup.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** billboard, outdoor, lime, monogram, real-estate, photo-panel, rounded, mockup
 
 ## What it is

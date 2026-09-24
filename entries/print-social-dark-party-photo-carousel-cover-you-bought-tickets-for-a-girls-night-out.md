@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-party-photo-carousel-cover-you-bought-tickets-for-a-girls-night-out.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** carousel, cover, dark, party-photo, white-type, ticket-logo, tickets, instagram
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-curved-3d-image-carousel-ring-on-dotted-white.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** component, carousel, 3d, photo-cards, rounded, dotted, gallery, perspective
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-tablet-real-estate-site-on-orange-fluted-armchair.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** mockup, tablet, real-estate, orange, fluted-upholstery, dark-ui, project-cover
 
 ## What it is

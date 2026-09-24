@@ -2,7 +2,7 @@
 
 ![](../images/app-super-app-green-glow-hands-mockup.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** super-app, green, monochrome-photo, hands, dark-gradient, illustration, service-grid
 
 ## What it is

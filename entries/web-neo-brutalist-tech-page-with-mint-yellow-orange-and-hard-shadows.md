@@ -2,7 +2,7 @@
 
 ![](../images/web-neo-brutalist-tech-page-with-mint-yellow-orange-and-hard-shadows.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** neo-brutalism, mint, yellow, orange, monospace, hard-shadow, ticker, pricing
 
 ## What it is

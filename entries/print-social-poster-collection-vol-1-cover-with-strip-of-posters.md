@@ -2,7 +2,7 @@
 
 ![](../images/print-social-poster-collection-vol-1-cover-with-strip-of-posters.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** posters, collection, cover, sans, white, strip, variety, volume
 
 ## What it is

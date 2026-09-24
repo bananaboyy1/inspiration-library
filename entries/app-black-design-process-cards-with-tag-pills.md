@@ -2,7 +2,7 @@
 
 ![](../images/app-black-design-process-cards-with-tag-pills.png)
 
-**Discipline:** app · **Design type:** Design process showcase
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** process, black, cards, pills, discovery, ux, lime-highlight
 
 ## What it is

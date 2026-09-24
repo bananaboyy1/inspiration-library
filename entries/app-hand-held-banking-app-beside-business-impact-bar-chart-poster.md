@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-banking-app-beside-business-impact-bar-chart-poster.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** banking, hand, shadow, poster, bar-chart, truss, monochrome
 
 ## What it is

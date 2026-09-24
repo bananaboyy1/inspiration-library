@@ -2,7 +2,7 @@
 
 ![](../images/print-social-metro-screen-posters-in-blue-glass-and-silhouette.jpg)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** ooh, posters, fintech, blue, silhouette, 3d-ribbon, steel-wall, slogans
 
 ## What it is

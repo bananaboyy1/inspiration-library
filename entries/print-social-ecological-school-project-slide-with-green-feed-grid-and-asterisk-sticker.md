@@ -2,7 +2,7 @@
 
 ![](../images/print-social-ecological-school-project-slide-with-green-feed-grid-and-asterisk-sticker.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** case-study, social-media, cream, brown, sage-green, feed-grid, asterisk-sticker, script-sticker
 
 ## What it is

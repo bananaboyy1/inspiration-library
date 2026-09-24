@@ -2,7 +2,7 @@
 
 ![](../images/print-social-volunteer-call-lime-and-black-poster.jpg)
 
-**Discipline:** print-social · **Design type:** Recruitment poster
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** recruitment, poster, black, lime, pills, giant-type, megaphone-icons, community
 
 ## What it is

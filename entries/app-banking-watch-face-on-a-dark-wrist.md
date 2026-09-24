@@ -2,7 +2,7 @@
 
 ![](../images/app-banking-watch-face-on-a-dark-wrist.jpg)
 
-**Discipline:** app · **Design type:** Wearable UI
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** smartwatch, wearable, banking, orange, silhouette, grey-backdrop, glass-card, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-solution-statement-with-soft-yellow-gradient-tile-and-tilted-home-screen.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** case-study, solution, warm-grey, yellow, gradient, app-icon, tilted-phone, rounded
 
 ## What it is

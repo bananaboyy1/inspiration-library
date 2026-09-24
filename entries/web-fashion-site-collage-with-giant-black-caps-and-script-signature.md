@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-site-collage-with-giant-black-caps-and-script-signature.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** fashion, cover, black-and-white, orange, script, giant-type, photo-strip, collage
 
 ## What it is

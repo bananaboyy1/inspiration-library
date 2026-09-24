@@ -2,7 +2,7 @@
 
 ![](../images/branding-logo-construction-grid-with-circles-and-pixel-measurements.jpg)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Retro & Pixel
 **Tags:** logo, construction, violet, white-lines, grid, circles, measurements, guidelines
 
 ## What it is

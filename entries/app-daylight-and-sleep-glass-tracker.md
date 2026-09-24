@@ -2,7 +2,7 @@
 
 ![](../images/app-daylight-and-sleep-glass-tracker.png)
 
-**Discipline:** app · **Design type:** Health dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, sun, sleep, glass, gradient, bar-chart, monospace, low-poly
 
 ## What it is

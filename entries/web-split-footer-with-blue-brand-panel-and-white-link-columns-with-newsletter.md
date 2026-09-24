@@ -2,7 +2,7 @@
 
 ![](../images/web-split-footer-with-blue-brand-panel-and-white-link-columns-with-newsletter.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** component, footer, blue, white, link-columns, newsletter, social-icons, rounded
 
 ## What it is

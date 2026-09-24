@@ -2,7 +2,7 @@
 
 ![](../images/web-pastel-3d-lab-glassware-on-mint-gradient.png)
 
-**Discipline:** web · **Design type:** 3D illustration
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** 3d-render, lab, glassware, mint, green, reflection, hero-asset, science
 
 ## What it is

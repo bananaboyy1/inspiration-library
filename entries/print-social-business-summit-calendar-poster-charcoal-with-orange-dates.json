@@ -1,0 +1,39 @@
+{
+  "name": "print-social-business-summit-calendar-poster-charcoal-with-orange-dates",
+  "image": "images/print-social-business-summit-calendar-poster-charcoal-with-orange-dates.avif",
+  "discipline": "print-social",
+  "designType": "Event poster",
+  "designStyle": "Editorial",
+  "title": "Charcoal 'Business Summit' calendar poster with a 5x3 grid of sessions and orange date numerals",
+  "tags": [
+    "event",
+    "summit",
+    "calendar",
+    "charcoal",
+    "orange",
+    "grid"
+  ],
+  "whatItIs": "A portrait charcoal poster with 'SUMMIT' and large 'BUSINESS', an orange date range, and three timeline rows with orange arrowed lines and times, each holding five sessions with uppercase titles on grey highlight bars, lorem text and big orange day numbers, plus a QR code and contacts.",
+  "whatItMeans": "Dense but ordered; the timeline rows make a festival of sessions feel manageable.",
+  "techniques": [
+    "Run orange timeline rules with times above each row.",
+    "Place big date numerals under each session.",
+    "Highlight titles with grey bars.",
+    "Close with a QR code for details."
+  ],
+  "bestFor": [
+    "Conference programmes",
+    "Multi-day summits",
+    "Business festivals"
+  ],
+  "vocabulary": [
+    {
+      "term": "Timeline rule",
+      "definition": "A line with markers showing time order."
+    },
+    {
+      "term": "Highlight bar",
+      "definition": "A shaded strip behind text."
+    }
+  ]
+}

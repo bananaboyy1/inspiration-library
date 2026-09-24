@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-thanks-for-staying-huge-white-type-with-follow-pill-and-phone-corner.jpg)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** closing, dark, navy, huge-type, emoji, follow, phone-corner
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-emerald-ai-consulting-site-two-column-overview.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** ai, consulting, black, emerald, two-column, overview, pill-nav, mint-backdrop
 
 ## What it is

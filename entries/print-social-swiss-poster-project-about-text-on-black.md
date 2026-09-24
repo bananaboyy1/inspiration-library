@@ -2,7 +2,7 @@
 
 ![](../images/print-social-swiss-poster-project-about-text-on-black.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** case-study, black, orange, white-text, minimal, poster-project, swiss-style, dots
 
 ## What it is

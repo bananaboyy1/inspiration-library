@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-launch-flyer-option-two-with-countdown-and-blob-badge.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** launch, green, countdown, red-blob, geometric-circles, options, nigeria
 
 ## What it is

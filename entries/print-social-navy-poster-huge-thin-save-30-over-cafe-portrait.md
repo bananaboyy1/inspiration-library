@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-poster-huge-thin-save-30-over-cafe-portrait.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** fintech, ad, navy, thin-type, cafe, portrait, behind-subject, promo
 
 ## What it is

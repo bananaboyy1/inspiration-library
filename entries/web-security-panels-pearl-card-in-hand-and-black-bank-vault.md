@@ -2,7 +2,7 @@
 
 ![](../images/web-security-panels-pearl-card-in-hand-and-black-bank-vault.jpg)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** security, fintech, pearl, black, vault, pills, emoji, photography
 
 ## What it is

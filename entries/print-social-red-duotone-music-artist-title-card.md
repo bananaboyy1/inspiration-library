@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-duotone-music-artist-title-card.png)
 
-**Discipline:** print-social · **Design type:** Music and event cover
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** music, cover, red, duotone, chunky-type, portrait, artist, bold
 
 ## What it is

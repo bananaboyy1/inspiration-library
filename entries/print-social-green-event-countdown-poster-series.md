@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-event-countdown-poster-series.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** countdown, event, green, white, poster, qr, series
 
 ## What it is

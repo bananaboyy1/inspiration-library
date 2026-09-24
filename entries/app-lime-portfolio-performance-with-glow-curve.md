@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-portfolio-performance-with-glow-curve.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** fintech, investing, lime, grey, line-chart, glow, phone-mockup, real-estate
 
 ## What it is

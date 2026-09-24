@@ -2,7 +2,7 @@
 
 ![](../images/print-social-berry-sticker-drop-basket-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** food, stickers, cobalt, cream-outline, basket, bubble-type, cutout, motion
 
 ## What it is

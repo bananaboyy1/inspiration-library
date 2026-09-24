@@ -2,7 +2,7 @@
 
 ![](../images/app-black-crypto-super-app-wallet-held-in-hand-with-lime-glow.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** crypto, black, lime, hand, wallet, glow, cover
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/app-payment-receipt-card-over-street-photo.jpg",
   "discipline": "app",
   "designType": "Status widget",
+  "designStyle": "Glassmorphism",
   "title": "Frosted transaction card overlaid on a candid street purchase photo",
   "tags": [
     "payments",

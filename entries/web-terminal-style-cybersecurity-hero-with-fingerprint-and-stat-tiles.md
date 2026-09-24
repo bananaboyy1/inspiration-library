@@ -2,7 +2,7 @@
 
 ![](../images/web-terminal-style-cybersecurity-hero-with-fingerprint-and-stat-tiles.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** cybersecurity, monospace, black, neon-green, corner-brackets, fingerprint, stat-tiles, logos
 
 ## What it is

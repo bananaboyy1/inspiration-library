@@ -2,7 +2,7 @@
 
 ![](../images/app-glucose-monitoring-onboarding-screen-held-in-backlit-hand.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** onboarding, health, glucose, hand, blue, glow, photo
 
 ## What it is

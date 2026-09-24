@@ -3,6 +3,7 @@
   "image": "images/app-dark-question-card-with-lettered-options-and-skip-next.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Compact dark question panel '1 of 2' with a header, lettered options A B C and Skip and blue Next buttons",
   "tags": [
     "component",

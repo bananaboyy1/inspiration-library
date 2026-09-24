@@ -2,7 +2,7 @@
 
 ![](../images/print-social-experimental-poster-wall-in-monochrome-and-red.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** posters, experimental, black-and-white, red, distressed, collage, portfolio, grid
 
 ## What it is

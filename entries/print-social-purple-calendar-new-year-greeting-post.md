@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-calendar-new-year-greeting-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** new-year, purple, calendar, illustration, tilted-card, greeting
 
 ## What it is

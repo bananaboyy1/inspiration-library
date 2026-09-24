@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-hills-portfolio-cover-thumbnail.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** portfolio, thumbnail, halftone, ransom-lettering, sky, dock, project-cover
 
 ## What it is

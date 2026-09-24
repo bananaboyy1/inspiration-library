@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-lime-ui-kit-colour-icons-and-type-board.jpg)
 
-**Discipline:** app · **Design type:** Typography and colour guide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** ui-kit, dark, lime, palette, icons, typography, cards
 
 ## What it is

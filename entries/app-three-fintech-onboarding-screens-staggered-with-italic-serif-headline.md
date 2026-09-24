@@ -2,7 +2,7 @@
 
 ![](../images/app-three-fintech-onboarding-screens-staggered-with-italic-serif-headline.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** onboarding, fintech, blue-grey, serif-italic, staggered, gradient, progress
 
 ## What it is

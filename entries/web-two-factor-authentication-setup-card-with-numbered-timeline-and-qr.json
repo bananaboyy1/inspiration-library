@@ -3,6 +3,7 @@
   "image": "images/web-two-factor-authentication-setup-card-with-numbered-timeline-and-qr.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "White card 'Enable Two-Factor Authentication' with a shield icon, a vertical numbered timeline, a QR code and six code boxes",
   "tags": [
     "component",

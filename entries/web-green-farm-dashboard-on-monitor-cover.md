@@ -2,7 +2,7 @@
 
 ![](../images/web-green-farm-dashboard-on-monitor-cover.jpg)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, green, farm, monitor, aerial-map, charts, cover
 
 ## What it is

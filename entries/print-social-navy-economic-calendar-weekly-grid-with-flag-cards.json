@@ -1,0 +1,39 @@
+{
+  "name": "print-social-navy-economic-calendar-weekly-grid-with-flag-cards",
+  "image": "images/print-social-navy-economic-calendar-weekly-grid-with-flag-cards.jpg",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Dark & Neon",
+  "title": "Navy weekly 'Economic Calendar' grid with flag-labelled event cards and a glowing horizon",
+  "tags": [
+    "finance",
+    "calendar",
+    "trading",
+    "navy",
+    "grid",
+    "flags"
+  ],
+  "whatItIs": "A portrait navy post with a 'GCM 25 years' logo, 'Economic Calendar' title and date range, a Monday–Friday column grid of dark glassy cards each showing a country flag, currency and time (USD 20:30) with the release name, a dashed 'No Event' card, and a blue glowing planet arc at the bottom.",
+  "whatItMeans": "Organised and trustworthy; flags make dense trading data instantly scannable.",
+  "techniques": [
+    "Lay out a week as a column grid of cards.",
+    "Tag each item with a flag and time.",
+    "Show empty slots with a dashed outline.",
+    "Use a glowing horizon to lift a data-heavy post."
+  ],
+  "bestFor": [
+    "Trading brokers",
+    "Finance newsletters",
+    "Weekly schedule posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Economic calendar",
+      "definition": "A schedule of market-moving data releases."
+    },
+    {
+      "term": "Empty state",
+      "definition": "How a slot with no content is shown."
+    }
+  ]
+}

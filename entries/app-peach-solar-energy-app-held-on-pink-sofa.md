@@ -2,7 +2,7 @@
 
 ![](../images/app-peach-solar-energy-app-held-on-pink-sofa.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** pink, peach, sofa, hand, solar, lifestyle, warm
 
 ## What it is

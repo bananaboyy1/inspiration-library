@@ -2,7 +2,7 @@
 
 ![](../images/branding-minimal-black-logo-letterhead-with-slash-footer-bar.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** letterhead, minimal, black-white, footer-bar, script-signature, stationery
 
 ## What it is

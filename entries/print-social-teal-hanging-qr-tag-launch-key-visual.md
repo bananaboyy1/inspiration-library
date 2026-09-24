@@ -2,7 +2,7 @@
 
 ![](../images/print-social-teal-hanging-qr-tag-launch-key-visual.jpg)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** qr, hanging-tag, teal, green, launch, light-rays, event
 
 ## What it is

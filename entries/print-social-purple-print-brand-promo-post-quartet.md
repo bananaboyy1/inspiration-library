@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-print-brand-promo-post-quartet.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** print-shop, promo, purple, glass-panels, product-grid, merchandise, banner, social-ads
 
 ## What it is

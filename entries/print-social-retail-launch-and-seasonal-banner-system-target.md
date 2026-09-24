@@ -2,7 +2,7 @@
 
 ![](../images/print-social-retail-launch-and-seasonal-banner-system-target.png)
 
-**Discipline:** print-social · **Design type:** Campaign banner system
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** banners, retail, royal-blue, red, seasonal, tag-labels, sale-badges, system
 
 ## What it is

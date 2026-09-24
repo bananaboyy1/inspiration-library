@@ -2,7 +2,7 @@
 
 ![](../images/app-long-target-audience-problem-solution-and-system-sheet.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** long-scroll, audience, problem-solution, typography, colour, photos, light
 
 ## What it is

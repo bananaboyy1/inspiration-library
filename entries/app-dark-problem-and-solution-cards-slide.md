@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-problem-and-solution-cards-slide.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** case-study, problem-solution, black, dark-cards, dimmed-text, minimal, two-tone-type
 
 ## What it is

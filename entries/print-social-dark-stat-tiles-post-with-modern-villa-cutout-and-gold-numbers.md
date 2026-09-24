@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-stat-tiles-post-with-modern-villa-cutout-and-gold-numbers.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** real-estate, dark, gold, stat-tiles, cutout, luxury, villa, portrait
 
 ## What it is

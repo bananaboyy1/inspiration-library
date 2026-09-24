@@ -2,7 +2,7 @@
 
 ![](../images/web-3d-animal-photo-card-carousel-on-black-with-perspective-tilt.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** component, carousel, 3d, photo-cards, dark, captions, perspective, gallery
 
 ## What it is

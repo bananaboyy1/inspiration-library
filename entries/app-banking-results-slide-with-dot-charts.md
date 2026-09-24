@@ -2,7 +2,7 @@
 
 ![](../images/app-banking-results-slide-with-dot-charts.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** results, metrics, grey, dot-chart, gauge, testimonials, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-serpent-flower-symbol-with-phone-and-stationery.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** logo, symbol, snake, flower, black, coral, stationery, hidden-animal
 
 ## What it is

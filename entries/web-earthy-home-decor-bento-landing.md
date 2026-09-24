@@ -2,7 +2,7 @@
 
 ![](../images/web-earthy-home-decor-bento-landing.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** earthy, brown, beige, bento, interior, photography, lotus, warm
 
 ## What it is

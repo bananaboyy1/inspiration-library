@@ -2,7 +2,7 @@
 
 ![](../images/web-serif-search-hero-with-modern-house-photo-fading-into-white.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** hero, serif, search, white, photo-fade, architecture, minimal, black-button
 
 ## What it is

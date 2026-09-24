@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-design-goals-card-grid-slide.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** design-goals, lime, green, cards, grid, travel, white
 
 ## What it is

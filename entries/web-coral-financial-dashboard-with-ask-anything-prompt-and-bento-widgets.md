@@ -2,7 +2,7 @@
 
 ![](../images/web-coral-financial-dashboard-with-ask-anything-prompt-and-bento-widgets.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** dashboard, coral, white, bento, concentric-circles, prompt, finance
 
 ## What it is

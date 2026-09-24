@@ -2,7 +2,7 @@
 
 ![](../images/app-authentication-flow-four-phones-on-pale-grey-with-blue-gradient.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** authentication, sign-in, otp, fintech, blue-grey, serif-italic, flow
 
 ## What it is

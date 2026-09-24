@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pixel-retro-coffee-brand-feed-in-violet-orange-yellow.jpg)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** instagram, feed-grid, pixel-art, retro-game, coffee, violet, orange, yellow
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-nunito-typography-scale-curved-path-sheet.jpg)
 
-**Discipline:** app · **Design type:** Typography and colour guide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** typography, nunito, type-scale, lavender, indigo, accessibility, tall
 
 ## What it is

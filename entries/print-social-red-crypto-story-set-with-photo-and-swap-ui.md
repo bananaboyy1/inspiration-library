@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-crypto-story-set-with-photo-and-swap-ui.png)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** stories, crypto, red, photography, neon, swap, dark
 
 ## What it is

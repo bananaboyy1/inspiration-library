@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-smart-home-phone-corner-close-up.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** lime, smart-home, close-up, dark, organic-shapes, humidity, olive
 
 ## What it is

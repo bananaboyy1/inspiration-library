@@ -2,7 +2,7 @@
 
 ![](../images/app-mulish-typography-and-gradient-palette-sheet.png)
 
-**Discipline:** app · **Design type:** Typography and colour guide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** typography, palette, gradient, soft, blue, purple, design-system
 
 ## What it is

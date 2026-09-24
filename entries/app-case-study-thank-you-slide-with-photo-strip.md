@@ -2,7 +2,7 @@
 
 ![](../images/app-case-study-thank-you-slide-with-photo-strip.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** closing-slide, dark, photo-booth, credits, case-study, student-project
 
 ## What it is

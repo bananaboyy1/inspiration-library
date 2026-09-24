@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-neon-lime-recruitment-posts.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** recruitment, black, neon-lime, 3d-objects, condensed-type, templates, vacancy
 
 ## What it is

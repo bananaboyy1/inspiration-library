@@ -2,7 +2,7 @@
 
 ![](../images/app-health-score-phone-on-white-plinths-with-black-disc.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** health, white, plinth, grey, black-disc, score, tilted
 
 ## What it is

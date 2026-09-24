@@ -2,7 +2,7 @@
 
 ![](../images/web-monthly-returns-heatmap-grid-with-green-and-red-cells.webp)
 
-**Discipline:** web · **Design type:** Data visualization
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** chart, heatmap, finance, green, red, white, grid, returns
 
 ## What it is

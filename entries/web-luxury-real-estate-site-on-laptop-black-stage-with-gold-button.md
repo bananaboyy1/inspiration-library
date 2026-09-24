@@ -2,7 +2,7 @@
 
 ![](../images/web-luxury-real-estate-site-on-laptop-black-stage-with-gold-button.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** laptop-mockup, dark, gold, real-estate, luxury, cta, card, centred
 
 ## What it is

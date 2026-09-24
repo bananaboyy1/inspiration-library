@@ -2,7 +2,7 @@
 
 ![](../images/web-members-grid-with-square-photos-role-labels-and-invite-button.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** component, members, grid, portraits, white, grey, black-button, roles
 
 ## What it is

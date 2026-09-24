@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-data-table-with-status-pills-and-total-row.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** component, table, dark, status-pills, green, yellow, total-row, data
 
 ## What it is

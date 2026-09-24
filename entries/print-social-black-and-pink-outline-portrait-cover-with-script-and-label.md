@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-pink-outline-portrait-cover-with-script-and-label.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** cover, black, pink, greyscale, white-outline, script, heavy-caps, cyrillic
 
 ## What it is

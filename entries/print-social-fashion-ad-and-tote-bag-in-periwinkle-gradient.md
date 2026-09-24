@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fashion-ad-and-tote-bag-in-periwinkle-gradient.png)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** fashion, periwinkle, gradient, headline-over-model, tote, street, white-black-type, campaign
 
 ## What it is

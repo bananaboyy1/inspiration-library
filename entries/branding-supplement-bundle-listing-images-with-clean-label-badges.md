@@ -2,7 +2,7 @@
 
 ![](../images/branding-supplement-bundle-listing-images-with-clean-label-badges.png)
 
-**Discipline:** branding · **Design type:** Product infographic set
+**Discipline:** branding ·  · **Design style:** Editorial
 **Tags:** e-commerce, listing-images, supplements, bundle, badges, blue, serif-title, packaging
 
 ## What it is

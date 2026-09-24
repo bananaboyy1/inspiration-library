@@ -2,7 +2,7 @@
 
 ![](../images/app-two-onboarding-screens-orbiting-avatars-and-notification-prompt.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** onboarding, avatars, orbit, notifications, memoji, pink, white
 
 ## What it is

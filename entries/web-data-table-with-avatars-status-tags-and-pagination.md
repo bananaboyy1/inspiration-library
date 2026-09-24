@@ -2,7 +2,7 @@
 
 ![](../images/web-data-table-with-avatars-status-tags-and-pagination.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** component, table, avatars, status-tags, pagination, white, blue, red
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-white-onboarding-phone-keyring-and-lock-screen-notification-board.png)
 
-**Discipline:** app · **Design type:** Brand application mockups
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** onboarding, keyring, lock-screen, notification, white, black, merch
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-strength-coach-app-on-lilac-to-black-gradient.png)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** fitness, coach, lilac, black, gradient, reflection, white-ui, large-numerals
 
 ## What it is

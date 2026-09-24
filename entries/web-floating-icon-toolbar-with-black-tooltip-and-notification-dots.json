@@ -3,6 +3,7 @@
   "image": "images/web-floating-icon-toolbar-with-black-tooltip-and-notification-dots.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "White pill toolbar of six line icons with two notification dots and a black 'Feature Flags' tooltip above the hovered icon",
   "tags": [
     "component",

@@ -3,6 +3,7 @@
   "image": "images/web-tab-navigation-variants-pill-segment-and-underline-with-icons.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Three tab bar styles for Profile, Security and Notifications: raised white pill in a grey track, soft-filled pill and underline",
   "tags": [
     "component",

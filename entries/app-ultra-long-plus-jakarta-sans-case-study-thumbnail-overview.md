@@ -2,7 +2,7 @@
 
 ![](../images/app-ultra-long-plus-jakarta-sans-case-study-thumbnail-overview.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** ultra-long, case-study, typography, monochrome, orange, screens, overview
 
 ## What it is

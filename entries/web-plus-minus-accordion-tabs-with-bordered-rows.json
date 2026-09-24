@@ -3,6 +3,7 @@
   "image": "images/web-plus-minus-accordion-tabs-with-bordered-rows.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Bordered FAQ rows with plus and minus icons; the open row shows a short grey answer",
   "tags": [
     "component",

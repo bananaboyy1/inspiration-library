@@ -2,7 +2,7 @@
 
 ![](../images/web-home-decor-shop-listing-with-serif-tabs-and-acid-yellow-feature.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** e-commerce, home-decor, serif, dusty-pink, acid-yellow, product-grid, filters, feature-block
 
 ## What it is

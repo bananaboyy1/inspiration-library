@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-features-bento-with-typography-aa-globe-and-security-locks.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** features, bento, dark, serif, globe, icons, minimal, cards
 
 ## What it is

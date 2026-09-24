@@ -2,7 +2,7 @@
 
 ![](../images/branding-liquid-blob-wordmark-apparel.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** wordmark, liquid, blob-type, black-and-white, apparel, beanie, business-card, organic
 
 ## What it is

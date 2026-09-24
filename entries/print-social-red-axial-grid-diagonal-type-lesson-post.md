@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-axial-grid-diagonal-type-lesson-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** grid, axial, diagonal-type, red, yellow, black-white, layout
 
 ## What it is

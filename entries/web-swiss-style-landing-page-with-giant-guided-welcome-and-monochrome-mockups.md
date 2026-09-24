@@ -2,7 +2,7 @@
 
 ![](../images/web-swiss-style-landing-page-with-giant-guided-welcome-and-monochrome-mockups.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** swiss-style, monochrome, geometric-type, guide-ticks, mockups, portfolio, black-and-white, lowercase
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-forest-green-lime-travel-brand-bento-board.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** bento, green, lime, travel, logo, script, app-icon, map
 
 ## What it is

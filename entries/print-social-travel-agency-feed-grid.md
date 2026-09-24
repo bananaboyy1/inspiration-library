@@ -2,7 +2,7 @@
 
 ![](../images/print-social-travel-agency-feed-grid.png)
 
-**Discipline:** print-social · **Design type:** Instagram feed grid
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** instagram, feed, travel, blue, swoosh, circle-crop, photography, template-system
 
 ## What it is

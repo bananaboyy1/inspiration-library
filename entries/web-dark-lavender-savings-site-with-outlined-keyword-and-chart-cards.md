@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-lavender-savings-site-with-outlined-keyword-and-chart-cards.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** fintech, dark, lavender, hand-drawn-ring, chart, floating-cards, mobile, saas
 
 ## What it is

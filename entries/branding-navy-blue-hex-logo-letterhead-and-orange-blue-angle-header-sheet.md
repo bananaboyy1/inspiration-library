@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-blue-hex-logo-letterhead-and-orange-blue-angle-header-sheet.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** letterhead, navy, hexagon, orange, blue, angular, stationery
 
 ## What it is

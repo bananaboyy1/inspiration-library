@@ -2,7 +2,7 @@
 
 ![](../images/web-designer-portfolio-hero-with-giant-light-sans-green-keyword-and-rotating-badge.webp)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** portfolio, light-sans, green, circular-text, badge, portrait, toggle, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-black-agency-page-with-four-colour-service-cards.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** agency, black, pink, lime, orange, cards, icons, marketing
 
 ## What it is

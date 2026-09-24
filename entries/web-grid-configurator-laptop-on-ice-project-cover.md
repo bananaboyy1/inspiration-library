@@ -2,7 +2,7 @@
 
 ![](../images/web-grid-configurator-laptop-on-ice-project-cover.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** laptop, ice, grid, monochrome, logo, cover
 
 ## What it is

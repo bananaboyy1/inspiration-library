@@ -2,7 +2,7 @@
 
 ![](../images/app-onboarding-question-screen-with-gradient-arc.gif)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** onboarding, question, periwinkle, gradient, orange, write, voice
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-white-cover-with-pink-script-and-block.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** cover, greyscale, pink, script, heavy-caps, tilted-label, doodles, cyrillic
 
 ## What it is

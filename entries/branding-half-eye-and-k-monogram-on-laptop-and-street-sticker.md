@@ -2,7 +2,7 @@
 
 ![](../images/branding-half-eye-and-k-monogram-on-laptop-and-street-sticker.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** logo, monogram, eye, black-and-white, ai-studio, sticker, laptop, street
 
 ## What it is

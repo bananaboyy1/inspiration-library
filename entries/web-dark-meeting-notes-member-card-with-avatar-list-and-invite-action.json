@@ -3,6 +3,7 @@
   "image": "images/web-dark-meeting-notes-member-card-with-avatar-list-and-invite-action.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Playful & Illustrated",
   "title": "Small dark 'Meeting Notes' card listing members with cartoon avatars and a dashed-circle Invite Member action",
   "tags": [
     "component",

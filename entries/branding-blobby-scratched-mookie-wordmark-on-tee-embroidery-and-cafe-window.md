@@ -2,7 +2,7 @@
 
 ![](../images/branding-blobby-scratched-mookie-wordmark-on-tee-embroidery-and-cafe-window.png)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** wordmark, blob-type, scratchy, black-and-white, espresso-bar, chenille, window, hospitality
 
 ## What it is

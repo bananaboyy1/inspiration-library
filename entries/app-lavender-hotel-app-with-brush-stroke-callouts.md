@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-hotel-app-with-brush-stroke-callouts.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** hotel, lavender, brush-stroke, callout, blue, phones, feature
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-vitala-logo-mark-construction-and-app-icon-on-blue-screen.png)
 
-**Discipline:** branding · **Design type:** Logo guidelines
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** logo, gradient, app-icon, construction, clear-space, health, blue
 
 ## What it is

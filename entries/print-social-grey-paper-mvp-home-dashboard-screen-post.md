@@ -2,7 +2,7 @@
 
 ![](../images/print-social-grey-paper-mvp-home-dashboard-screen-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** educational, mvp, grey, condensed, phone, orange, dashboard
 
 ## What it is

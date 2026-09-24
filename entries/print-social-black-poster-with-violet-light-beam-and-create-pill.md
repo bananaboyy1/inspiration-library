@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-poster-with-violet-light-beam-and-create-pill.jpg)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** dark, violet, light-beam, pill, grid, minimal, studio, ai
 
 ## What it is

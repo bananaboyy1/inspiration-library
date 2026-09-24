@@ -2,7 +2,7 @@
 
 ![](../images/print-social-yellow-tilted-cards-save-the-date-on-calendar-grid.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** save-the-date, calendar, yellow, black, tilted-cards, reminder, vector
 
 ## What it is

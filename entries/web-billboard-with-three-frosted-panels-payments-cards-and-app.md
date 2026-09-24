@@ -2,7 +2,7 @@
 
 ![](../images/web-billboard-with-three-frosted-panels-payments-cards-and-app.jpg)
 
-**Discipline:** web · **Design type:** Out-of-home poster set
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** billboard, ooh, pearl, orange-keyword, refractive-cards, fintech, street, panels
 
 ## What it is

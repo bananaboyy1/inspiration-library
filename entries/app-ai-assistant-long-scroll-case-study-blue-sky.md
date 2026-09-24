@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-assistant-long-scroll-case-study-blue-sky.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** ai, case-study, blue, dandelion, long-scroll, voice, assistant
 
 ## What it is

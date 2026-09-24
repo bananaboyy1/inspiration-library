@@ -2,7 +2,7 @@
 
 ![](../images/app-green-duotone-hands-super-app-close-up.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** green, duotone, hands, super-app, illustration, dark, touch
 
 ## What it is

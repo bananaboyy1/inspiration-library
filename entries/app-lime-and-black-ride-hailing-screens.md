@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-and-black-ride-hailing-screens.png)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** mobility, lime, black, map, phone-mockup, large-type, autonomous-vehicle, case-study
 
 ## What it is

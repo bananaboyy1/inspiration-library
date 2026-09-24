@@ -2,7 +2,7 @@
 
 ![](../images/web-quiet-saas-product-hero.png)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** saas, landing-page, minimal, warm-neutral, product-ui, blurred-photo, sans-serif, monochrome
 
 ## What it is

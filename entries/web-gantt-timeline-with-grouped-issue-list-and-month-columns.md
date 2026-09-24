@@ -2,7 +2,7 @@
 
 ![](../images/web-gantt-timeline-with-grouped-issue-list-and-month-columns.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, timeline, gantt, roadmap, status-dots, white, grey, project-management
 
 ## What it is

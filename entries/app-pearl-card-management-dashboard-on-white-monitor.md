@@ -2,7 +2,7 @@
 
 ![](../images/app-pearl-card-management-dashboard-on-white-monitor.jpg)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, fintech, pearl, grey, serif-numerals, dot-matrix, card, monitor
 
 ## What it is

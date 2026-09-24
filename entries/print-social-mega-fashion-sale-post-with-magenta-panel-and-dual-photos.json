@@ -1,0 +1,38 @@
+{
+  "name": "print-social-mega-fashion-sale-post-with-magenta-panel-and-dual-photos",
+  "image": "images/print-social-mega-fashion-sale-post-with-magenta-panel-and-dual-photos.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Gradient & Aurora",
+  "title": "'Mega Fashion Sale' post with a magenta-to-purple panel and two rounded photos in yellow",
+  "tags": [
+    "fashion",
+    "sale",
+    "magenta",
+    "yellow",
+    "gradient",
+    "ad"
+  ],
+  "whatItIs": "A square white post with a magenta-to-purple gradient panel holding a script 'Mega', 'FASHION' and yellow 'SALE', a yellow 'Shop now' button, and two overlapping rounded photos of a man in a yellow jacket framed by a tilted yellow shape.",
+  "whatItMeans": "Vibrant and energetic; the yellow jacket and frame tie product to brand colour.",
+  "techniques": [
+    "Pair a small and large photo of the same model.",
+    "Frame photos with a tilted accent shape.",
+    "Use a gradient panel for text."
+  ],
+  "bestFor": [
+    "Fashion sales",
+    "Streetwear promos",
+    "Retail ads"
+  ],
+  "vocabulary": [
+    {
+      "term": "Photo pair",
+      "definition": "Two photos of one subject at different scales."
+    },
+    {
+      "term": "Accent frame",
+      "definition": "A coloured shape behind a photo."
+    }
+  ]
+}

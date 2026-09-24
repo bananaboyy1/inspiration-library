@@ -2,7 +2,7 @@
 
 ![](../images/web-two-column-faq-with-heading-left-and-hairline-question-list.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, faq, two-column, white, hairline, chevrons, minimal, support-link
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-three-type-experiment-posters-numbers-apple-pie-flight.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** posters, typography, red, green, pink, apples, numbers, experimental
 
 ## What it is

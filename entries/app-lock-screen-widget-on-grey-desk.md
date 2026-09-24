@@ -2,7 +2,7 @@
 
 ![](../images/app-lock-screen-widget-on-grey-desk.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** mockup, top-down, lock-screen, gradient-widget, neutral, yellow-accent, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-twelve-coffee-green-cream-blue-brand-board-with-packaging.jpg)
 
-**Discipline:** branding · **Design type:** Brand identity board
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** coffee, green, cream, sky-blue, wordmark, packaging, signage, icons
 
 ## What it is

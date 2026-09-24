@@ -2,7 +2,7 @@
 
 ![](../images/branding-gumloop-spiral-g-wordmark-on-hot-pink-with-construction-guides.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** wordmark, spiral, hot-pink, white, dot-grid, guides, ai, tagline
 
 ## What it is

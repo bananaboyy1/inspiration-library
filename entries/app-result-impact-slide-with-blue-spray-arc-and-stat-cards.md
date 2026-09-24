@@ -2,7 +2,7 @@
 
 ![](../images/app-result-impact-slide-with-blue-spray-arc-and-stat-cards.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** results, stats, blue, spray, cards, gauge, light
 
 ## What it is

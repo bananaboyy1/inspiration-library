@@ -3,6 +3,7 @@
   "image": "images/app-crypto-swap-screen-with-floating-detail-cards.jpg",
   "discipline": "app",
   "designType": "Fintech app screens",
+  "designStyle": "Glassmorphism",
   "title": "Coin swap screen with hand and floating enlarged input cards on a pearl gradient",
   "tags": [
     "fintech",

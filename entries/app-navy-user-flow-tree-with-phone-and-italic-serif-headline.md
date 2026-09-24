@@ -2,7 +2,7 @@
 
 ![](../images/app-navy-user-flow-tree-with-phone-and-italic-serif-headline.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** user-flow, tree, navy, pills, serif-italic, white, fintech
 
 ## What it is

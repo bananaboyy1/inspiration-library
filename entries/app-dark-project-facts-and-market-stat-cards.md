@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-project-facts-and-market-stat-cards.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** case-study, dark-mode, navy, project-details, stats, donut, team
 
 ## What it is

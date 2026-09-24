@@ -2,7 +2,7 @@
 
 ![](../images/print-social-frame-and-framework-typographic-poster-with-yellow-slabs.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** poster, yellow, black, cream, rotated-type, overlap, giant-type, concept
 
 ## What it is

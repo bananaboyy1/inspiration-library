@@ -2,7 +2,7 @@
 
 ![](../images/print-social-monochrome-portfolio-closing-slide.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** presentation, typography, black-and-white, qr-code, portfolio, extended-type, gradient-text
 
 ## What it is

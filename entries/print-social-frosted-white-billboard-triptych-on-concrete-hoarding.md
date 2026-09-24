@@ -2,7 +2,7 @@
 
 ![](../images/print-social-frosted-white-billboard-triptych-on-concrete-hoarding.jpg)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** billboard, triptych, frosted, white, orange, cards, phone, street
 
 ## What it is

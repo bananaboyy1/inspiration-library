@@ -2,7 +2,7 @@
 
 ![](../images/app-pixel-art-collectible-card-reveal-screen-in-mint-on-dark.png)
 
-**Discipline:** app · **Design type:** Gamified app screens
+**Discipline:** app ·  · **Design style:** Retro & Pixel
 **Tags:** pixel-art, gamification, mint, dark, collectible, card, retro, year-in-review
 
 ## What it is

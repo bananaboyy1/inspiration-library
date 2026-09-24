@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-defi-site-with-sage-blur-glow-hero-and-glass-cards.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** defi, dark, sage-glow, blur, glass-cards, bar-chart, logo-strip, orbit
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-food-ordering-arc-menu-in-hands-large.jpg)
 
-**Discipline:** app · **Design type:** Food ordering app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** food, delivery, white-ui, arc-menu, hands, black-pill-nav, orange-accent, close-up
 
 ## What it is

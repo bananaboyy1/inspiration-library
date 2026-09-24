@@ -2,7 +2,7 @@
 
 ![](../images/web-hover-photo-fan-card-mountain-hike-with-meta-icons.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** component, card, photo-fan, hover, white, meta-icons, travel, arrow
 
 ## What it is

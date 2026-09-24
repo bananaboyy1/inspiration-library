@@ -2,7 +2,7 @@
 
 ![](../images/print-social-peach-coral-wellness-instagram-post-template-set.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** templates, wellness, peach, coral, food, portraits, instagram, chartreuse
 
 ## What it is

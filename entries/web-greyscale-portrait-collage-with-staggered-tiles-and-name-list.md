@@ -2,7 +2,7 @@
 
 ![](../images/web-greyscale-portrait-collage-with-staggered-tiles-and-name-list.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** team, greyscale, portraits, staggered, list, white, minimal, caps-roles
 
 ## What it is

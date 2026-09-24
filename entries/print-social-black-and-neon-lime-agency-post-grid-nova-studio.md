@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-neon-lime-agency-post-grid-nova-studio.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** agency, black, lime, cream, condensed-type, portrait, templates, mosaic
 
 ## What it is

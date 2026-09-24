@@ -1,0 +1,27 @@
+# Five-screen group chat flow: chat list, thread, group info, members and banned members
+
+![](../images/app-group-chat-management-five-screen-flow-in-lavender.avif)
+
+**Discipline:** app · **Design type:** Chat interface · **Design style:** Minimalist
+**Tags:** chat, group-chat, messaging, lavender, user-flow, admin-roles
+
+## What it is
+Five phones in a row on white: a conversation list with avatars and unread badges, a group thread with purple sent bubbles and grey received, a Group Info screen with a 3D avatar and Add/View/Banned actions plus red Leave and Delete, a members list with Owner/Admin/Moderator role pills, and a banned-members list with remove crosses.
+
+## What it means
+Thorough and orderly; showing the whole management flow proves the product handles real group admin.
+
+## Techniques
+- Lay out a feature as a left-to-right screen sequence with captions.
+- Mark roles with small tinted pills beside names.
+- Put destructive actions in red at the bottom of an info screen.
+- Keep a single lavender accent across every screen.
+
+## Best for
+- Messaging and community apps
+- Admin and moderation flows
+- UI kit showcases
+
+## Vocabulary
+- **Role pill** — A small tag naming a user's permission level.
+- **Destructive action** — An irreversible action styled in red.

@@ -2,7 +2,7 @@
 
 ![](../images/app-taxi-home-screen-in-hand-on-giant-lime-letters.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** mobility, lime, hand, mockup, giant-letters, map-card, rewards
 
 ## What it is

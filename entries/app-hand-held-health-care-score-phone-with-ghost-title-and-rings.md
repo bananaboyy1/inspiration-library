@@ -2,7 +2,7 @@
 
 ![](../images/app-hand-held-health-care-score-phone-with-ghost-title-and-rings.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** health, hand, ghost-type, light-blue, rings, score, cover
 
 ## What it is

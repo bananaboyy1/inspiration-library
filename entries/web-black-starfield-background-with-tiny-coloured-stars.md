@@ -2,7 +2,7 @@
 
 ![](../images/web-black-starfield-background-with-tiny-coloured-stars.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** background, stars, dark, starfield, pixel, minimal, space, particles
 
 ## What it is

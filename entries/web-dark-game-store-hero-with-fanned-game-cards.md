@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-game-store-hero-with-fanned-game-cards.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** games, dark, fan-cards, colourful, hero, store, 3d-grid
 
 ## What it is

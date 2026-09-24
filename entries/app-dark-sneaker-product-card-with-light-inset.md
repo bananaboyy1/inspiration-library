@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-sneaker-product-card-with-light-inset.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** product-card, dark, sneaker, minimal, favorite, cart, rounded
 
 ## What it is

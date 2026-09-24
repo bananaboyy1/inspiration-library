@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-fintech-brand-application-collage.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** navy, fintech, monogram, browser, app-store, photography, payment
 
 ## What it is

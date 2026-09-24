@@ -2,7 +2,7 @@
 
 ![](../images/web-teal-pixel-dither-gradient-background.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** pattern, dither, teal, pixel, scanlines, gradient, retro, background
 
 ## What it is

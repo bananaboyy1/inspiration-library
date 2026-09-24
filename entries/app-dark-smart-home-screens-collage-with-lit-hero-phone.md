@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-smart-home-screens-collage-with-lit-hero-phone.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** smart-home, dark, collage, cream, orange, gauge, climate
 
 ## What it is

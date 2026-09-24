@@ -1,0 +1,38 @@
+{
+  "name": "print-social-novavista-candidate-experience-post-with-line-wave-mesh",
+  "image": "images/print-social-novavista-candidate-experience-post-with-line-wave-mesh.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Novavista candidate-experience post with a violet line-wave mesh and ghost N block",
+  "tags": [
+    "recruitment",
+    "hr-tech",
+    "navy",
+    "violet",
+    "line-wave",
+    "typography"
+  ],
+  "whatItIs": "A square post in four navy and indigo blocks: a fine violet line-wave mesh at top-left above a large white headline ('Our platform enhances your candidate experience…'), short copy with a green pill at top-right, and a dark block with a green logo and ghost 'N' at bottom-right.",
+  "whatItMeans": "Techy and calm; the line mesh suggests data and flow without literal UI.",
+  "techniques": [
+    "Add a fine line-wave mesh as a data texture.",
+    "Split copy across quadrants for rhythm.",
+    "Repeat the ghost letter across the series."
+  ],
+  "bestFor": [
+    "HR tech",
+    "SaaS brand posts",
+    "Typographic series"
+  ],
+  "vocabulary": [
+    {
+      "term": "Line mesh",
+      "definition": "Many thin lines forming a wavy surface."
+    },
+    {
+      "term": "Series consistency",
+      "definition": "Shared elements across a set of posts."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-gradient-hand-held-phone-closing-banner.jpg)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** closing, blue, gradient, hand, cta, follow, phone, thanks
 
 ## What it is

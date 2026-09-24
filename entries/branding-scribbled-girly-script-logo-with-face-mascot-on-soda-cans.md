@@ -2,7 +2,7 @@
 
 ![](../images/branding-scribbled-girly-script-logo-with-face-mascot-on-soda-cans.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** logo, script, hand-drawn, mascot, packaging, soda, pink, lime
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-four-pastel-role-cards-with-status-pills-and-3d-icons.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** cards, pastel, status-pills, 3d-icons, peach, blue, lilac, mint
 
 ## What it is

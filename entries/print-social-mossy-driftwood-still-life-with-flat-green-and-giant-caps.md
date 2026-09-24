@@ -2,7 +2,7 @@
 
 ![](../images/print-social-mossy-driftwood-still-life-with-flat-green-and-giant-caps.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** wellness, green, white-caps, still-life, moss, driftwood, cyrillic, metaphor
 
 ## What it is

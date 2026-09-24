@@ -2,7 +2,7 @@
 
 ![](../images/app-glass-onboarding-cards-with-3d-plane-coin-and-arrows.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fintech, glass-cards, pearl, 3d-objects, carousel, white-buttons, onboarding, coins
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-pricing-grid-with-mono-prices-and-check-lists.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** pricing, dark, monospace, checklist, bordered-cards, minimal, subscribe-buttons, saas
 
 ## What it is

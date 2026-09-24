@@ -2,7 +2,7 @@
 
 ![](../images/branding-navy-triangle-swoosh-letterhead-and-slate-desk-stationery.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** letterhead, navy, blue, swoosh, slate, pencil, stationery
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-swiss-style-portfolio-boards-with-isometric-laptop-and-color-font-specs.png)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** swiss-style, monochrome, geometric-type, laptop-mockup, guide-ticks, colours, fonts, portfolio
 
 ## What it is

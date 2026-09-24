@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-navy-top-navigation-bar-variants-with-search-and-profile.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** top-bar, navigation, dark, navy, search, profile, blue-active, variants
 
 ## What it is

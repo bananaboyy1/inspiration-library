@@ -2,7 +2,7 @@
 
 ![](../images/web-multicolour-beauty-salon-site-with-pink-lime-and-blue-bands.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** beauty, salon, pink, lime, periwinkle, cards, bold-caps, cyrillic
 
 ## What it is

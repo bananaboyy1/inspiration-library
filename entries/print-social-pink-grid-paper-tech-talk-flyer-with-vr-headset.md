@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-grid-paper-tech-talk-flyer-with-vr-headset.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** event, flyer, pink, grid-paper, vr-headset, pills, stickers, women-in-tech
 
 ## What it is

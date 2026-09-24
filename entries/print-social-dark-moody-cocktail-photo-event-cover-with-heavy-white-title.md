@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-moody-cocktail-photo-event-cover-with-heavy-white-title.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** event, photography, dark, cocktail, white-type, location-pill, carousel, instagram
 
 ## What it is

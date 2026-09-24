@@ -2,7 +2,7 @@
 
 ![](../images/web-white-sidebar-navigation-collapsed-expanded-and-profile-menu.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** sidebar, navigation, white, collapsed, submenu, profile-menu, cursor
 
 ## What it is

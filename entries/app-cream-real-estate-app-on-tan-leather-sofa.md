@@ -2,7 +2,7 @@
 
 ![](../images/app-cream-real-estate-app-on-tan-leather-sofa.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** real-estate, cream, leather, tan, phone, warm, lifestyle
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-academy-course-promo-post-grid-violet.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** education, course, violet, lime, grid, templates, tech, bootcamp
 
 ## What it is

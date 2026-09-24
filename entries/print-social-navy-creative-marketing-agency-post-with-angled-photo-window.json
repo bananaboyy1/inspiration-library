@@ -1,0 +1,38 @@
+{
+  "name": "print-social-navy-creative-marketing-agency-post-with-angled-photo-window",
+  "image": "images/print-social-navy-creative-marketing-agency-post-with-angled-photo-window.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Navy 'Creative Marketing Agency' post with an angled photo window and white outline echo",
+  "tags": [
+    "agency",
+    "navy",
+    "yellow",
+    "angled",
+    "outline",
+    "ad"
+  ],
+  "whatItIs": "A square white post with a navy gradient wedge on the left holding a thin-and-bold 'Creative MARKETING AGENCY' headline and contact rows with icons, a photo of a smiling man at a desk in an angled rounded window, a thin white outline echoing the window, and small triangle outlines.",
+  "whatItMeans": "Dynamic and sharp; angled shapes add motion to a standard corporate layout.",
+  "techniques": [
+    "Crop the photo in an angled rounded window.",
+    "Echo the window with an offset outline.",
+    "Put contact rows with icons in the text panel."
+  ],
+  "bestFor": [
+    "Agency ads",
+    "Corporate promos",
+    "Service posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Offset outline",
+      "definition": "A thin stroke shifted from a shape's edge."
+    },
+    {
+      "term": "Wedge",
+      "definition": "A tapered angular shape."
+    }
+  ]
+}

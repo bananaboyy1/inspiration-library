@@ -2,7 +2,7 @@
 
 ![](../images/web-book-a-demo-modal-on-laptop-over-perforated-metal.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** laptop-mockup, modal, dark, yellow, perforated-metal, form, isometric, black
 
 ## What it is

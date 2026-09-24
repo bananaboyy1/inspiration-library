@@ -2,7 +2,7 @@
 
 ![](../images/web-mobile-fashion-flow-search-cart-and-colour-picker.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** mobile-web, search, cart, colour-picker, bottom-sheet, navy, white-ui, e-commerce
 
 ## What it is

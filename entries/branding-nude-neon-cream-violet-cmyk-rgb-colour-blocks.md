@@ -2,7 +2,7 @@
 
 ![](../images/branding-nude-neon-cream-violet-cmyk-rgb-colour-blocks.jpg)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** palette, neon, nude, cream, violet, cmyk, rotated-type, swiss
 
 ## What it is

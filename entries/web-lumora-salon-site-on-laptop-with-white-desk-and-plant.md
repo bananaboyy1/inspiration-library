@@ -2,7 +2,7 @@
 
 ![](../images/web-lumora-salon-site-on-laptop-with-white-desk-and-plant.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** laptop-mockup, salon, pink, plant, white-desk, brown-frame, credits, portfolio
 
 ## What it is

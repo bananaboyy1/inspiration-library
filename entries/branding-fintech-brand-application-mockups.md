@@ -2,7 +2,7 @@
 
 ![](../images/branding-fintech-brand-application-mockups.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Neo-Brutalist
 **Tags:** fintech, navy, brand-application, mockup, logo-application, payment-terminal, photo-collage, monoline-logo
 
 ## What it is

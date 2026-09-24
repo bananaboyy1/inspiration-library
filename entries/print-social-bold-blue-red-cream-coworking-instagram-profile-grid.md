@@ -2,7 +2,7 @@
 
 ![](../images/print-social-bold-blue-red-cream-coworking-instagram-profile-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Instagram feed grid
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** instagram, profile, grid, blue, red, cream, condensed, doodles
 
 ## What it is

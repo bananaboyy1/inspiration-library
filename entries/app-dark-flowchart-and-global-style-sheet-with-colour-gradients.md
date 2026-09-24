@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-flowchart-and-global-style-sheet-with-colour-gradients.jpg)
 
-**Discipline:** app · **Design type:** Design system documentation
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** flowchart, global-style, dark, gradients, typography, projects, 3d-layers
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-fashion-hero-with-melted-figure-and-white-frame.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** fashion, orange, white-frame, giant-caps, serif-logo, profile-portrait, liquid-distortion, minimal
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-yellow-event-app-hand-holding-phone-flyer.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** events, purple, cream, collage, phone, photo-slices, flyer, portrait
 
 ## What it is

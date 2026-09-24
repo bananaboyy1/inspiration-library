@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-and-blue-tech-services-post-with-blurred-blue-shape.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** tech, services, white, blue, blur, pills, grid, logo
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-cut-paper-pals-coffee-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** wordmark, cut-paper, hand-cut, black-and-white, coffee, irregular, corner-labels, playful
 
 ## What it is

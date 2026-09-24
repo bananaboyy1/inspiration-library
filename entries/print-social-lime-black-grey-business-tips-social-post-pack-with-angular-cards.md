@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lime-black-grey-business-tips-social-post-pack-with-angular-cards.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** template-pack, lime, black, grey, angular-cards, typography, business, stock
 
 ## What it is

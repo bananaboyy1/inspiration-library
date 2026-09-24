@@ -2,7 +2,7 @@
 
 ![](../images/print-social-maroon-cafe-menu-with-yellow-and-mint-cards-and-cutout-food.png)
 
-**Discipline:** print-social · **Design type:** Promo flyer
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** menu, food, maroon, yellow, mint, cream, cutouts, price-list
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-duotone-dj-portrait-post-geometric-mosaic-title-view.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** dj, duotone, portrait, geometric, gradient, sage-backdrop, template, mosaic
 
 ## What it is

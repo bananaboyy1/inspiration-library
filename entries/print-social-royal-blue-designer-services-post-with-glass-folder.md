@@ -2,7 +2,7 @@
 
 ![](../images/print-social-royal-blue-designer-services-post-with-glass-folder.jpg)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** designer, promo, royal-blue, glass-folder, pills, thumbnails, brand-info, gradient
 
 ## What it is

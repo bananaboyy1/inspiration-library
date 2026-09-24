@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-rock-tablet-and-flight-booking-phones.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** dark, flights, rock, tablet, brush-title, three-phones
 
 ## What it is

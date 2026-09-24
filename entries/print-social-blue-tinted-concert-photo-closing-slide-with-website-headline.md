@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-tinted-concert-photo-closing-slide-with-website-headline.png)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** carousel, closing, blue-tint, concert, photo, website, call-to-action
 
 ## What it is

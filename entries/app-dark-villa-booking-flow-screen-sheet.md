@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-villa-booking-flow-screen-sheet.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** dark, booking, hotel, calendar, payment, profile, blue, phones
 
 ## What it is

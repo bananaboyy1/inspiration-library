@@ -2,7 +2,7 @@
 
 ![](../images/web-black-and-yellow-tape-marketplace-hero.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** landing-page, dark, yellow, condensed-type, caution-tape, marquee, globe-lines, marketplace
 
 ## What it is

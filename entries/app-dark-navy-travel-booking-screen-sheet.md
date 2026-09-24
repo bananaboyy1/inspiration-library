@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-navy-travel-booking-screen-sheet.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** dark, travel, booking, blue, flights, hotels, forms, phones
 
 ## What it is

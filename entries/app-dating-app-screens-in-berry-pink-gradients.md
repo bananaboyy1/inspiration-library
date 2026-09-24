@@ -2,7 +2,7 @@
 
 ![](../images/app-dating-app-screens-in-berry-pink-gradients.webp)
 
-**Discipline:** app · **Design type:** Dating app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** dating, pink, raspberry, gradient, subscriptions, checkmarks, compatibility, white-ui
 
 ## What it is

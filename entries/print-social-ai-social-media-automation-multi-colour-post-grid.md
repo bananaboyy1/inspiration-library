@@ -2,7 +2,7 @@
 
 ![](../images/print-social-ai-social-media-automation-multi-colour-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** templates, grid, white, black, green, purple, yellow, automation
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-interior-studio-site-with-violet-accent-and-pale-gradient-type.webp)
 
-**Discipline:** web · **Design type:** Portfolio site
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** interior, dark, violet, monospace, bracket-labels, cutout-furniture, grid-lines, long-scroll
 
 ## What it is

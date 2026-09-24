@@ -2,7 +2,7 @@
 
 ![](../images/print-social-violet-cybersecurity-slide-format-posts.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** cybersecurity, violet, 3d-shield, landscape-cards, split-layout, portfolio-cover, dark-purple, photo
 
 ## What it is

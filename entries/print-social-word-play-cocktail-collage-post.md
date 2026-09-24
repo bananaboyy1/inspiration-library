@@ -2,7 +2,7 @@
 
 ![](../images/print-social-word-play-cocktail-collage-post.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** social-media, education, collage, cutout, bubble-type, cream, cocktail, humour
 
 ## What it is

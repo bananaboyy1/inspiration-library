@@ -3,6 +3,7 @@
   "image": "images/web-frosted-blue-grey-banking-dashboards-staggered.jpg",
   "discipline": "web",
   "designType": "Dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Frosted Blue-Grey Banking Dashboards",
   "tags": [
     "dashboard",

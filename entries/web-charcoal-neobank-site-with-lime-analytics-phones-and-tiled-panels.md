@@ -2,7 +2,7 @@
 
 ![](../images/web-charcoal-neobank-site-with-lime-analytics-phones-and-tiled-panels.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** fintech, charcoal, lime, phones, tilted, tiles, dark-ui, bento
 
 ## What it is

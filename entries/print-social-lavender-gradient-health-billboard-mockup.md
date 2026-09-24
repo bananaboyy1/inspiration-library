@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lavender-gradient-health-billboard-mockup.png)
 
-**Discipline:** print-social · **Design type:** Out-of-home poster set
+**Discipline:** print-social ·  · **Design style:** Gradient & Aurora
 **Tags:** billboard, health, lavender, gradient, photography, outdoor, mockup
 
 ## What it is

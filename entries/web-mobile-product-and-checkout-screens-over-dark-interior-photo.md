@@ -2,7 +2,7 @@
 
 ![](../images/web-mobile-product-and-checkout-screens-over-dark-interior-photo.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** mobile-web, product-page, checkout, dark-photo, black-button, violet, express-pay, fashion
 
 ## What it is

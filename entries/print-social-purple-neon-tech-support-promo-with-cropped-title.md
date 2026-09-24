@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-neon-tech-support-promo-with-cropped-title.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** tech, ad, purple, neon, silhouette, condensed-caps, cta-pill, dark
 
 ## What it is

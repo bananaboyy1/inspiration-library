@@ -2,7 +2,7 @@
 
 ![](../images/print-social-retail-shelf-shipper-display-concepts.png)
 
-**Discipline:** print-social · **Design type:** Retail display graphics
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** retail, point-of-purchase, packaging, school-bus, end-cap, blue, illustration, display-design
 
 ## What it is

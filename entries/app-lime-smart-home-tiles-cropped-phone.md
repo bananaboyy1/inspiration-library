@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-smart-home-tiles-cropped-phone.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** smart-home, lime, mockup, crop, dark-olive, photo-tile, bold-shapes
 
 ## What it is

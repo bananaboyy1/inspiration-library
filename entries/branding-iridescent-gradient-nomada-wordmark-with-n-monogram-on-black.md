@@ -2,7 +2,7 @@
 
 ![](../images/branding-iridescent-gradient-nomada-wordmark-with-n-monogram-on-black.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** wordmark, gradient, iridescent, dark, monogram, lilac, aqua, tech
 
 ## What it is

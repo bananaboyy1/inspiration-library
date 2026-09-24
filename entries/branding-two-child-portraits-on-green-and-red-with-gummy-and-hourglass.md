@@ -2,7 +2,7 @@
 
 ![](../images/branding-two-child-portraits-on-green-and-red-with-gummy-and-hourglass.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** photography, portrait, green, red, gummies, split-frame, kids, studio
 
 ## What it is

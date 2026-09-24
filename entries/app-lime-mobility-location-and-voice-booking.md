@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-mobility-location-and-voice-booking.gif)
 
-**Discipline:** app · **Design type:** Ride-hailing app
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** mobility, voice-ui, lime, white, orb, photography, two-panel, case-study
 
 ## What it is

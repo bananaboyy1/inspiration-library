@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-floating-nav-pills-collapsed-and-expanded-on-hatched-white.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** nav, pill, minimal, icons, monospace, white, expanded-state
 
 ## What it is

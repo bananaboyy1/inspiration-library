@@ -2,7 +2,7 @@
 
 ![](../images/app-assistant-ui-kit-floating-components-on-white.png)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** ui-kit, components, white, orange, blue, chart, chips, assistant
 
 ## What it is

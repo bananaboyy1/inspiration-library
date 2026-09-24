@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-3d-building-model-phone-screen-with-yield-panel.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** real-estate, 3d-model, lime, frosted, phone, yield, chart, light-grey
 
 ## What it is

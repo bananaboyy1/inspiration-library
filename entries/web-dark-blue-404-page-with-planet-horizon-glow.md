@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-blue-404-page-with-planet-horizon-glow.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** 404, error-page, dark, blue-glow, planet, glass-button, rounded-frame, saas
 
 ## What it is

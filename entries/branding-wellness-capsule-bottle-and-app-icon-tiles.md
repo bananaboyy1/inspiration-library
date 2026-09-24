@@ -2,7 +2,7 @@
 
 ![](../images/branding-wellness-capsule-bottle-and-app-icon-tiles.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** wellness, capsule, bottle, app-icon, rounded-tiles, photography, black-white
 
 ## What it is

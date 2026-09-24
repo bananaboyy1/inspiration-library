@@ -2,7 +2,7 @@
 
 ![](../images/web-process-slide-with-eight-blue-cards-and-steel-photos.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** case-study, process, blue, cards, white-pills, photos, industrial, cyrillic
 
 ## What it is

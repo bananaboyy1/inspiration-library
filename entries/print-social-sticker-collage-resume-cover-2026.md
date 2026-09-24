@@ -2,7 +2,7 @@
 
 ![](../images/print-social-sticker-collage-resume-cover-2026.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** resume, collage, sticker, paper, cutting-mat, mixed-lettering, pink, green
 
 ## What it is

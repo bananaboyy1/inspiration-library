@@ -2,7 +2,7 @@
 
 ![](../images/web-tablet-cart-page-on-wood-and-grey-knit.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** tablet, mockup, cart, wood, knit, texture, white-ui, blue, cyrillic
 
 ## What it is

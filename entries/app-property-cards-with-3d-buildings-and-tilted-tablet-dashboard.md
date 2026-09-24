@@ -2,7 +2,7 @@
 
 ![](../images/app-property-cards-with-3d-buildings-and-tilted-tablet-dashboard.png)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** real-estate, 3d-buildings, cards, light-grey, lime, tablet, bar-chart, status-tags
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-testimonial-post-with-tower-collage-and-dashed-path.png)
 
-**Discipline:** print-social · **Design type:** Social testimonial post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** success-story, red, grain, blue-banners, dashed-path, tower, flag, cyrillic
 
 ## What it is

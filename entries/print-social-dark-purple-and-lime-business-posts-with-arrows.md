@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-purple-and-lime-business-posts-with-arrows.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** business, plum, lime, lavender, arrows, stats, templates, grid
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-desktop-folder-designer-portfolio-cover-large.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** portfolio, cover, cream, folders, script-overlay, desktop-metaphor, brown, blue
 
 ## What it is

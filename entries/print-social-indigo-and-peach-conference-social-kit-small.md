@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-and-peach-conference-social-kit-small.jpg)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** conference, indigo, peach, thumbnail, blob-pattern, pills, kit, preview
 
 ## What it is

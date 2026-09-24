@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-store-menu-listing-mobile-scatter-board.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** e-commerce, fashion, mega-menu, plp, mobile, grey-board, white-ui, footer-wordmark
 
 ## What it is

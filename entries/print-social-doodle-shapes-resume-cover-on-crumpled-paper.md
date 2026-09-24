@@ -2,7 +2,7 @@
 
 ![](../images/print-social-doodle-shapes-resume-cover-on-crumpled-paper.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** resume, doodles, crumpled-paper, multicolour, shapes, hand-drawn, cover
 
 ## What it is

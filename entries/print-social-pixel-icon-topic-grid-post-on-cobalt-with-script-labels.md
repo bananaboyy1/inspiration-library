@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pixel-icon-topic-grid-post-on-cobalt-with-script-labels.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** language, pixel-art, cobalt, yellow, script, glitter, icons, cyrillic
 
 ## What it is

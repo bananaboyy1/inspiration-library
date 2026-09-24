@@ -2,7 +2,7 @@
 
 ![](../images/web-teal-and-orange-education-landing-with-mobile-and-hero-portrait-panel.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** education, teal, peach, orange, hero-portrait, category-cards, mobile, gradient-backdrop
 
 ## What it is

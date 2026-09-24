@@ -2,7 +2,7 @@
 
 ![](../images/web-early-access-login-card-on-big-screen.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** sign-up, login, serif, mountains, white, card, screen-mockup, reflective-floor
 
 ## What it is

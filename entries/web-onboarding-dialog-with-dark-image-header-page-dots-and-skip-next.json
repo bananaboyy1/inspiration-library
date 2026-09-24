@@ -3,6 +3,7 @@
   "image": "images/web-onboarding-dialog-with-dark-image-header-page-dots-and-skip-next.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "White onboarding modal on black with a dark image area holding a grey 3D ring, a heading, description, four page dots and Skip and Next buttons",
   "tags": [
     "component",

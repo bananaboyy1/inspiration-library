@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-grid-lines-agentic-dashboard-landing.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dark, grid-lines, blueprint, monospace, dashboard, enterprise, striped-logo
 
 ## What it is

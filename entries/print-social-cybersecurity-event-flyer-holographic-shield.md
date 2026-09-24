@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cybersecurity-event-flyer-holographic-shield.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** event, flyer, tech, dark, holographic, 3d-shield, pills, google-colours
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-retro-branded-ui-poster-red-and-cream.jpg)
 
-**Discipline:** print-social · **Design type:** Poster
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** poster, retro, red, cream, bubble-type, portrait, round-glasses, editorial
 
 ## What it is

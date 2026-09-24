@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lakeside-tree-swing-cover-with-light-caps.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** wellness, photo, tree, swing, white-caps, golden-hour, arrow, cyrillic
 
 ## What it is

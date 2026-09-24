@@ -2,7 +2,7 @@
 
 ![](../images/branding-app-store-card-and-iphone-home-screen-with-white-logo-icon.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** app-icon, store-card, home-screen, black, violet, titanium, close-up, application
 
 ## What it is

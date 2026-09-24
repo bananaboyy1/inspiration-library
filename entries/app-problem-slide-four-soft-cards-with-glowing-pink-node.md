@@ -2,7 +2,7 @@
 
 ![](../images/app-problem-slide-four-soft-cards-with-glowing-pink-node.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** problem, cards, white, lime, pink-node, numbered, minimal
 
 ## What it is

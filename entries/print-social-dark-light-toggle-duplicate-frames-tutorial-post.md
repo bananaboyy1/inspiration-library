@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-light-toggle-duplicate-frames-tutorial-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** tutorial, toggle, dark-light, step-05, frames, grey, glass
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-google-calendar-sharing-feature-section-with-check-list-and-photo.png)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** feature-section, white, blue, google, checklist, photo-card, integration, cards
 
 ## What it is

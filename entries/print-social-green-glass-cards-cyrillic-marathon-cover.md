@@ -2,7 +2,7 @@
 
 ![](../images/print-social-green-glass-cards-cyrillic-marathon-cover.jpg)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** glass, green, cyrillic, cards, dark, marathon, cover
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-question-card-with-lettered-options-and-skip-next.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** component, question, dark, options, keycaps, blue-button, pagination, ai-assistant
 
 ## What it is

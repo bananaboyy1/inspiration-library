@@ -2,7 +2,7 @@
 
 ![](../images/web-integration-diagram-with-arc-of-round-icons.gif)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** illustration, feature, white, blue, icons, arc, integration, cards
 
 ## What it is

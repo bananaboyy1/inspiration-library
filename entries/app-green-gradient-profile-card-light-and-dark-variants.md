@@ -2,7 +2,7 @@
 
 ![](../images/app-green-gradient-profile-card-light-and-dark-variants.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** profile-card, gradient, green, avatar, stats, cta, variants
 
 ## What it is

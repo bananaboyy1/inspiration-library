@@ -2,7 +2,7 @@
 
 ![](../images/web-grid-system-with-column-overlay-on-phone-and-italic-serif-headline.jpg)
 
-**Discipline:** web · **Design type:** Design system documentation
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** grid-system, columns, fintech, serif-italic, overlay, spec, navy
 
 ## What it is

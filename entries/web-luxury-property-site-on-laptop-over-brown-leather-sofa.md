@@ -2,7 +2,7 @@
 
 ![](../images/web-luxury-property-site-on-laptop-over-brown-leather-sofa.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** laptop-mockup, leather, brown, luxury, real-estate, warm, cream-frame, project-cover
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-travel-brand-tiles-billboard-bottle-card.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** blue, travel, billboard, business-card, bottle, app-icon, glass-cards
 
 ## What it is

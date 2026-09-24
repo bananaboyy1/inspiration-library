@@ -2,7 +2,7 @@
 
 ![](../images/web-marquee-of-avatar-name-pills-in-three-offset-rows-with-fade-edges.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** social-proof, marquee, pills, avatars, white, fade-edges, staggered, testimonial
 
 ## What it is

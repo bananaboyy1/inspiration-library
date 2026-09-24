@@ -2,7 +2,7 @@
 
 ![](../images/app-construction-progress-card-over-interior-photo.png)
 
-**Discipline:** app · **Design type:** Status widget
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** progress, real-estate, dark, widget, photo-fade, warm-neutral, minimal
 
 ## What it is

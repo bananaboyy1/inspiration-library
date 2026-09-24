@@ -2,7 +2,7 @@
 
 ![](../images/web-automotive-hero-on-monitor-with-aerial-forest-road-video.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** automotive, monitor, forest, white-type, aerial, video-hero, minimal, campaign-card
 
 ## What it is

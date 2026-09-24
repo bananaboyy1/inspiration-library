@@ -2,7 +2,7 @@
 
 ![](../images/print-social-groovy-flower-bg-tip-post-with-pixel-speech-bubble.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** language, retro, groovy, orange, pixel-speech-bubble, loading-bar, glitter-stars, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-neo-brutalist-accordion-with-blue-header-and-hard-shadow.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** component, accordion, neo-brutalism, blue, hard-shadow, black-outline, faq, ui-kit
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-space-pitch-slides-with-planets-mars-horizon-and-flow-diagram.png)
 
-**Discipline:** web · **Design type:** Presentation slides
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** pitch-deck, space, mars, dark, planets, flow-diagram, sustainability, monochrome-slides
 
 ## What it is

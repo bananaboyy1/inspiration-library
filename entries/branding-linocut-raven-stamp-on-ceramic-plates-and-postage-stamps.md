@@ -2,7 +2,7 @@
 
 ![](../images/branding-linocut-raven-stamp-on-ceramic-plates-and-postage-stamps.png)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** logo, linocut, raven, ceramic, stamp, kraft, blue, hand-made
 
 ## What it is

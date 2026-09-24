@@ -2,7 +2,7 @@
 
 ![](../images/print-social-distressed-red-portfolio-title-on-cream-paper.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** portfolio, cover, red, cream, distressed, condensed-caps, cropped, grunge
 
 ## What it is

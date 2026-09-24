@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-to-blue-pixel-tile-gradient-background.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** pattern, pixel-grid, gradient, orange, yellow, blue, tiles, background
 
 ## What it is

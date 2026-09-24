@@ -2,7 +2,7 @@
 
 ![](../images/web-framed-property-card-over-beach-villa-photo.png)
 
-**Discipline:** web · **Design type:** Project cover
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** real-estate, card-over-photo, white-card, rounded, bold-title, dubai, cyrillic, cover
 
 ## What it is

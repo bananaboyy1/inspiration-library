@@ -3,6 +3,7 @@
   "image": "images/web-data-table-with-avatars-status-tags-and-pagination.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "Simple table with expand chevrons, avatar names, emails, locations, blue Approved and red Pending tags, rows-per-page and page numbers",
   "tags": [
     "component",

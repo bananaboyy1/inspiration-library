@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-vocab-drop-with-pixel-icons.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** education, orange, lavender-pill, pixel-art, arrows, photo-centre, grain, cyrillic
 
 ## What it is

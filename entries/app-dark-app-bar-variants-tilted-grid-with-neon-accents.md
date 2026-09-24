@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-app-bar-variants-tilted-grid-with-neon-accents.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** app-bar, dark, tilted, navigation, neon, components, catalog
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-concentric-circle-user-persona-slide.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** persona, circles, minimal, serif-italic, white, quote, pain-gain
 
 ## What it is

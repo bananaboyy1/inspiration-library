@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-emails-purple.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, purple, magenta, stars, serif-label, icons
 
 ## What it is

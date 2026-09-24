@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-organic-landscape.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, green, blue, landscape, desktop-metaphor
 
 ## What it is

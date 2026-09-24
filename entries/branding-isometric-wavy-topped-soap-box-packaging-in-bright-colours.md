@@ -2,7 +2,7 @@
 
 ![](../images/branding-isometric-wavy-topped-soap-box-packaging-in-bright-colours.png)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** packaging, boxes, colourful, wavy-bands, barcode, isometric, flavours, olive-background
 
 ## What it is

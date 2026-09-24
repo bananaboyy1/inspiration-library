@@ -2,7 +2,7 @@
 
 ![](../images/print-social-deep-forest-and-honeydew-two-colour-name-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** colour, green, mint, split, hex, minimal, palette
 
 ## What it is

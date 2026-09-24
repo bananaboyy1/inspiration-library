@@ -2,7 +2,7 @@
 
 ![](../images/web-nft-creator-dashboard-with-lime-active-states-and-ai-art-engine.png)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, nft, lime, black, beige, gallery, charts, ai
 
 ## What it is

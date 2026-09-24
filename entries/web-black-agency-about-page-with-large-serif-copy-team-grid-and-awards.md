@@ -2,7 +2,7 @@
 
 ![](../images/web-black-agency-about-page-with-large-serif-copy-team-grid-and-awards.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** agency, about-page, black, white, team-grid, stats, awards, minimal
 
 ## What it is

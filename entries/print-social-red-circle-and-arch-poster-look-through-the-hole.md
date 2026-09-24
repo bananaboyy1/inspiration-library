@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-circle-and-arch-poster-look-through-the-hole.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** poster, red, black, circle, cutout, giant-type, concept, swiss
 
 ## What it is

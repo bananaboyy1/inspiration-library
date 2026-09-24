@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-dna-mobile-hero-with-glass-orb-and-scientist.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** mobile-web, hero, glass-sphere, botanical, thin-caps, lab, split, white-button
 
 ## What it is

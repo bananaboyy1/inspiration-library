@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cobalt-and-grey-concentric-arc-post-frames-with-title-variants.png)
 
-**Discipline:** print-social · **Design type:** Feed mockup
+**Discipline:** print-social ·  · **Design style:** Geometric & Bauhaus
 **Tags:** instagram-frames, cobalt, grey, concentric-arcs, circle-logo, title-post, template
 
 ## What it is

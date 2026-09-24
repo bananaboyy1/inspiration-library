@@ -2,7 +2,7 @@
 
 ![](../images/web-mechanic-services-site-on-laptop-in-garage-scene.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** laptop-mockup, garage, dark, blue, service-site, tools, car, project-cover
 
 ## What it is

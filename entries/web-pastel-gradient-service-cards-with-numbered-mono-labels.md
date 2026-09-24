@@ -2,7 +2,7 @@
 
 ![](../images/web-pastel-gradient-service-cards-with-numbered-mono-labels.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** services, pastel-gradient, lilac, mint, blush, cards, monospace, icons
 
 ## What it is

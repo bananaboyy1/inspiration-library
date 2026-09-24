@@ -2,7 +2,7 @@
 
 ![](../images/branding-dark-olive-app-icon-close-up-and-store-card.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Glassmorphism
 **Tags:** app-icon, olive, dark, store-card, house-leaf, glass
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-listing-page-desktop-and-mobile-over-silhouette.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** e-commerce, plp, filters, grid, dark-backdrop, mobile, giant-footer-wordmark, fashion
 
 ## What it is

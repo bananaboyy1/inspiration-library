@@ -2,7 +2,7 @@
 
 ![](../images/web-orange-glow-real-estate-listing-site-on-tilted-screen.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** real-estate, dark-orange, tilted, listing-cards, pills, project-cover, glow, perspective
 
 ## What it is

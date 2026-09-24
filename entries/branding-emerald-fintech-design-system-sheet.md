@@ -2,7 +2,7 @@
 
 ![](../images/branding-emerald-fintech-design-system-sheet.webp)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** design-system, teal, emerald, typography, palette, browser-mockup, fintech, swatches
 
 ## What it is

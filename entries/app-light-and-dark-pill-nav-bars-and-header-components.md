@@ -2,7 +2,7 @@
 
 ![](../images/app-light-and-dark-pill-nav-bars-and-header-components.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** header, navigation, pill, light-dark, search, avatar, components
 
 ## What it is

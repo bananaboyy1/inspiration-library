@@ -2,7 +2,7 @@
 
 ![](../images/print-social-indigo-discover-your-potential-banner-with-green-cta-and-duotone-photo.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** banner, indigo, green-cta, duotone-photo, logo, business, template
 
 ## What it is

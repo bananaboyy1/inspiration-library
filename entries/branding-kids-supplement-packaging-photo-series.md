@@ -2,7 +2,7 @@
 
 ![](../images/branding-kids-supplement-packaging-photo-series.png)
 
-**Discipline:** branding · **Design type:** Packaging photography
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** packaging, photography, gummies, green, yellow, blue, kids, flat-lay
 
 ## What it is

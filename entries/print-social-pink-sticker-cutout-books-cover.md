@@ -2,7 +2,7 @@
 
 ![](../images/print-social-pink-sticker-cutout-books-cover.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** cover, pink, cutout, sticker-outline, heavy-caps, script, ghost-pattern, cyrillic
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-architecture-site-on-tablet-held-against-mountain-house-photo.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** tablet, architecture, hands, blue, black-white-logos, hero, cover
 
 ## What it is

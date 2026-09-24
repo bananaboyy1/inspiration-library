@@ -3,6 +3,7 @@
   "image": "images/web-black-and-white-glowing-arch-hero-with-water-reflection.webp",
   "discipline": "web",
   "designType": "Landing page hero",
+  "designStyle": "Glassmorphism",
   "title": "Monochrome hero with a glowing white arch reflected in rippled water and a glass CTA",
   "tags": [
     "hero",

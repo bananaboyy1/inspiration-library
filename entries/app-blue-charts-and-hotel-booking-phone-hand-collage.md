@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-charts-and-hotel-booking-phone-hand-collage.jpg)
 
-**Discipline:** app · **Design type:** Travel app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** bars, sky, ghost-type, hotel, hand, lavender, blue
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-subscription-tracker-long-scroll-showcase.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** subscriptions, long-scroll, orange, blue, typography, lightbox, white
 
 ## What it is

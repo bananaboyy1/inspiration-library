@@ -3,6 +3,7 @@
   "image": "images/web-frosted-card-management-dashboard-on-light-monitor.jpg",
   "discipline": "web",
   "designType": "Dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Frosted Card Management Dashboard",
   "tags": [
     "dashboard",

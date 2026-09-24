@@ -2,7 +2,7 @@
 
 ![](../images/web-travel-landing-faq-and-dark-app-download-footer.jpg)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** travel, faq, dark-band, footer, circled-word, download, blue
 
 ## What it is

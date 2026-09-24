@@ -2,7 +2,7 @@
 
 ![](../images/print-social-torn-graph-paper-portfolio-cover-with-black-letters.png)
 
-**Discipline:** print-social · **Design type:** Presentation slides
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** portfolio, cover, torn-paper, grid-paper, tape, stickers, ransom-lettering, black-backdrop
 
 ## What it is

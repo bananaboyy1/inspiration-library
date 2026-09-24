@@ -2,7 +2,7 @@
 
 ![](../images/print-social-good-friday-car-tracks-red-distressed-type-ad.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** holiday, good-friday, red, white, distressed-type, car, thorns, concept
 
 ## What it is

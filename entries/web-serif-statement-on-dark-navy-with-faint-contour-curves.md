@@ -2,7 +2,7 @@
 
 ![](../images/web-serif-statement-on-dark-navy-with-faint-contour-curves.png)
 
-**Discipline:** web · **Design type:** Closing banner
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** statement, dark-navy, serif, contour-lines, minimal, transition, health, centred
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-3d-glass-tag-event-invitation-poster-blue.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** event, invitation, royal-blue, 3d-icons, glass-tags, qr-code, maze-pattern, business
 
 ## What it is

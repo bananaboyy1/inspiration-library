@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-white-events-app-home-and-detail-two-phones.jpg)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** events, orange, white, photos, tickets, two-phones, categories
 
 ## What it is

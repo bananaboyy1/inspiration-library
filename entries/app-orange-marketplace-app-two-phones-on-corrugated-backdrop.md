@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-marketplace-app-two-phones-on-corrugated-backdrop.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** orange, marketplace, two-phones, ribbed, podium, shopping
 
 ## What it is

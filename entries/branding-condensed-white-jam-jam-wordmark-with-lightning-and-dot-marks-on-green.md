@@ -2,7 +2,7 @@
 
 ![](../images/branding-condensed-white-jam-jam-wordmark-with-lightning-and-dot-marks-on-green.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** wordmark, condensed, white, green, lightning, exclamation, music, registered
 
 ## What it is

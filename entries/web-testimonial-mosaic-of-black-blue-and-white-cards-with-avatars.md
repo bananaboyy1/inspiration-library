@@ -2,7 +2,7 @@
 
 ![](../images/web-testimonial-mosaic-of-black-blue-and-white-cards-with-avatars.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** testimonials, mosaic, black, blue, white, avatars, cards, grid-lines
 
 ## What it is

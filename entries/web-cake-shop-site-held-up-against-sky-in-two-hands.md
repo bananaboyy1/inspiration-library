@@ -2,7 +2,7 @@
 
 ![](../images/web-cake-shop-site-held-up-against-sky-in-two-hands.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** mockup, laptop, sky, cobalt, hands, cake, bubble-type, cream-frame
 
 ## What it is

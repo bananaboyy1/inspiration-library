@@ -2,7 +2,7 @@
 
 ![](../images/app-warm-grey-smart-home-screens-with-side-descriptions.png)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** smart-home, warm-grey, screens, descriptions, climate, time-picker, documentation
 
 ## What it is

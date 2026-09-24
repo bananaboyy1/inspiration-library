@@ -2,7 +2,7 @@
 
 ![](../images/web-lavender-lime-ui-kit-buttons-inputs-cards-sheet.jpg)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** ui-kit, buttons, inputs, states, lavender, lime, yellow
 
 ## What it is

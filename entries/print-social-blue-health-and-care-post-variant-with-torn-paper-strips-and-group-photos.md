@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-health-and-care-post-variant-with-torn-paper-strips-and-group-photos.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** health, blue, paper-strips, group-photos, tilted-cards, template, medical, stock
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-burgundy-luxury-catering-hero-with-script-title.jpg)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** hero, burgundy, script, luxury, catering, still-life, silver, serif-sans
 
 ## What it is

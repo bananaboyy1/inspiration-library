@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-product-list-page-with-hanger-banner-and-filter-sidebar.jpg)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** e-commerce, plp, grey, filters, checkboxes, price-slider, model-photos, pill-nav
 
 ## What it is

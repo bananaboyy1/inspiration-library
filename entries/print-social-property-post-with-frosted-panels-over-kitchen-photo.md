@@ -2,7 +2,7 @@
 
 ![](../images/print-social-property-post-with-frosted-panels-over-kitchen-photo.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** real-estate, interior, frosted-glass, white-text, warm, kitchen, portrait, price
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-studio-services-ad-desk-scene.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** ad, services, blue, desk-scene, sans-serif, contact-info, square-format
 
 ## What it is

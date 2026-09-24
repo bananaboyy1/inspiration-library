@@ -2,7 +2,7 @@
 
 ![](../images/web-tilted-testimonial-card-carousel-with-black-notched-focus-card.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** component, testimonials, carousel, black, white, clipped-corner, tilted, avatars
 
 ## What it is

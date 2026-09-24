@@ -2,7 +2,7 @@
 
 ![](../images/web-industrial-mobile-cart-with-steel-photo.png)
 
-**Discipline:** web · **Design type:** Responsive mobile web
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** mobile-web, empty-state, cart, blue, steel, photography-pairing, cyrillic
 
 ## What it is

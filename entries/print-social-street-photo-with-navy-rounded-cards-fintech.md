@@ -2,7 +2,7 @@
 
 ![](../images/print-social-street-photo-with-navy-rounded-cards-fintech.jpg)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** campaign, photography, navy, glass-tile, fintech, italic-serif, dollar-orb, rounded-square
 
 ## What it is

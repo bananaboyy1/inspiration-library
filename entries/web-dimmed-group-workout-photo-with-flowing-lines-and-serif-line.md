@@ -2,7 +2,7 @@
 
 ![](../images/web-dimmed-group-workout-photo-with-flowing-lines-and-serif-line.png)
 
-**Discipline:** web · **Design type:** Hero section
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** hero, photography, dark-overlay, serif, wave-lines, fitness, health, minimal
 
 ## What it is

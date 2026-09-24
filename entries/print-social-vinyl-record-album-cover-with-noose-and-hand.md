@@ -2,7 +2,7 @@
 
 ![](../images/print-social-vinyl-record-album-cover-with-noose-and-hand.png)
 
-**Discipline:** print-social · **Design type:** Music and event cover
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** album, vinyl, sepia, sleeve, black, mockup, moody, music
 
 ## What it is

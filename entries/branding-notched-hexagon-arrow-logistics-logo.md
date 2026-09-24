@@ -2,7 +2,7 @@
 
 ![](../images/branding-notched-hexagon-arrow-logistics-logo.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo, symbol, logistics, arrow, black-and-white, chamfered, condensed, corner-labels
 
 ## What it is

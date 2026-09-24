@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-toggle-bubble-highlight-tutorial-post.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** tutorial, dark, toggle, step, neumorphic, grey, how-to
 
 ## What it is

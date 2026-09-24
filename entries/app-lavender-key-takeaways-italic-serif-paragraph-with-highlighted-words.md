@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-key-takeaways-italic-serif-paragraph-with-highlighted-words.jpg)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** takeaways, italic-serif, lavender, highlight, centered, dashed-arc, text-only
 
 ## What it is

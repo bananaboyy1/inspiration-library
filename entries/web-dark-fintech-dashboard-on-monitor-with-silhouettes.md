@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-fintech-dashboard-on-monitor-with-silhouettes.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** monitor, dashboard, dark, silhouettes, lime, lilac, charts
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-chat-bubble-captions-over-product-on-wood.png)
 
-**Discipline:** print-social · **Design type:** Social product post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** product, chat-bubbles, pastel, wood, hair-clips, ceramic-dish, minimal, cyrillic
 
 ## What it is

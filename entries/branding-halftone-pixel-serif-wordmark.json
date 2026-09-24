@@ -3,8 +3,19 @@
   "image": "images/branding-halftone-pixel-serif-wordmark.jpg",
   "discipline": "branding",
   "designType": "Wordmarks",
+  "designStyle": "Retro & Pixel",
   "title": "Pixel-serif wordmark over halftone forest",
-  "tags": ["wordmark", "halftone", "pixel-type", "hybrid-type", "nature", "dark", "texture", "monogram", "square-format"],
+  "tags": [
+    "wordmark",
+    "halftone",
+    "pixel-type",
+    "hybrid-type",
+    "nature",
+    "dark",
+    "texture",
+    "monogram",
+    "square-format"
+  ],
   "whatItIs": "A square brand cover for a fictional nature reserve pact called Willow. A cream wordmark sits centred over a heavily blurred forest photograph converted to a coarse coloured halftone (blue, green, black). The 'W' is a jagged, hand-cut zig-zag glyph, and the rest of the word is set in a chunky pixelated serif. Tiny caps text ('EST 2026', 'NATURE RESERVE PACT') is tucked around the mark.",
   "whatItMeans": "It blends the organic with the digital: a forest seen through a screen. The mood is moody, underground and campaigning rather than soft-eco. The blur keeps it atmospheric, while the pixel serif and lightning-bolt W feel like a movement or a collective.",
   "techniques": [
@@ -23,11 +34,29 @@
     "Social profile images and campaign covers that need instant texture"
   ],
   "vocabulary": [
-    {"term": "Halftone", "definition": "An image rendered as a grid of dots of varying size or colour, imitating print reproduction."},
-    {"term": "Pixel serif", "definition": "A serif typeface built on a visible pixel grid, mixing classic proportions with digital roughness."},
-    {"term": "Hybrid wordmark", "definition": "A wordmark whose letters come from different styles or a custom glyph combined with a stock typeface."},
-    {"term": "Monogram glyph", "definition": "A single initial drawn as a distinctive symbol, used as the anchor of the logo."},
-    {"term": "Micro-typography", "definition": "Very small supporting text, such as dates or descriptors, set around a logo as detail."},
-    {"term": "Low-key image", "definition": "A predominantly dark photograph that lets light-coloured elements stand out."}
+    {
+      "term": "Halftone",
+      "definition": "An image rendered as a grid of dots of varying size or colour, imitating print reproduction."
+    },
+    {
+      "term": "Pixel serif",
+      "definition": "A serif typeface built on a visible pixel grid, mixing classic proportions with digital roughness."
+    },
+    {
+      "term": "Hybrid wordmark",
+      "definition": "A wordmark whose letters come from different styles or a custom glyph combined with a stock typeface."
+    },
+    {
+      "term": "Monogram glyph",
+      "definition": "A single initial drawn as a distinctive symbol, used as the anchor of the logo."
+    },
+    {
+      "term": "Micro-typography",
+      "definition": "Very small supporting text, such as dates or descriptors, set around a logo as detail."
+    },
+    {
+      "term": "Low-key image",
+      "definition": "A predominantly dark photograph that lets light-coloured elements stand out."
+    }
   ]
 }

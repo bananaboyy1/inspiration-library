@@ -2,7 +2,7 @@
 
 ![](../images/web-cream-analytics-feature-cards-with-hard-shadows-and-testimonial-grid.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** saas, analytics, cream, neo-brutalism, black-outline, red-keyline, charts, testimonials
 
 ## What it is

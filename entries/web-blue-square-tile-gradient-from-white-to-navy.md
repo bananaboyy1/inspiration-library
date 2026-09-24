@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-square-tile-gradient-from-white-to-navy.webp)
 
-**Discipline:** web · **Design type:** Background pattern
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** pattern, pixel-grid, gradient, blue, squares, background, diagonal, flat
 
 ## What it is

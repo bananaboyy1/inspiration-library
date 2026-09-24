@@ -2,7 +2,7 @@
 
 ![](../images/print-social-halftone-folder-banner-product-packaging.png)
 
-**Discipline:** print-social · **Design type:** Social banner
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** banner, halftone, folder, pink, blue, gradient, desktop-metaphor, serif-label
 
 ## What it is

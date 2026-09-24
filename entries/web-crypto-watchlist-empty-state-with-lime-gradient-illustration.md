@@ -2,7 +2,7 @@
 
 ![](../images/web-crypto-watchlist-empty-state-with-lime-gradient-illustration.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** empty-state, crypto, white, lime, gradient, sidebar, ticker
 
 ## What it is

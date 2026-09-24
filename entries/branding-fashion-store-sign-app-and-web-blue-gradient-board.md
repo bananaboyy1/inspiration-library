@@ -2,7 +2,7 @@
 
 ![](../images/branding-fashion-store-sign-app-and-web-blue-gradient-board.png)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Gradient & Aurora
 **Tags:** signage, gradient, periwinkle, fashion, mobile, web, wordmark, application
 
 ## What it is

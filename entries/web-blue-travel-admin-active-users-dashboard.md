@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-travel-admin-active-users-dashboard.jpg)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, admin, table, kpi, blue, sidebar, brush-title
 
 ## What it is

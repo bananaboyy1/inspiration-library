@@ -2,7 +2,7 @@
 
 ![](../images/web-botanical-supplement-formats-reviews-and-meadow-footer.png)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** supplements, sage-green, format-cards, testimonials, uppercase-headline, meadow-footer, 3d-render, rounded
 
 ## What it is

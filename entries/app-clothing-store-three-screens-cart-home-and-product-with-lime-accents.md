@@ -2,7 +2,7 @@
 
 ![](../images/app-clothing-store-three-screens-cart-home-and-product-with-lime-accents.webp)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** fashion, e-commerce, lime, white, three-phones, cart, product-detail
 
 ## What it is

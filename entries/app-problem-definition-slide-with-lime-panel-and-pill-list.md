@@ -2,7 +2,7 @@
 
 ![](../images/app-problem-definition-slide-with-lime-panel-and-pill-list.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** case-study, problem-statement, lime, white, pills, stats, how-might-we, rounded-frame
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-thanks-for-watching-fading-caps-slide.png)
 
-**Discipline:** app · **Design type:** Case study closing slide
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** closing, dark, caps, fade, follow, contact, columns
 
 ## What it is

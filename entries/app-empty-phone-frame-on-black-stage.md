@@ -2,7 +2,7 @@
 
 ![](../images/app-empty-phone-frame-on-black-stage.gif)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** mockup, blank, black, minimal, phone-frame, template, white-screen
 
 ## What it is

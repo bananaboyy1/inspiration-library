@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-social-media-slide-with-post-story-and-lifestyle-photo.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** social-media, dark, story, post, photography, progress-bar, travel
 
 ## What it is

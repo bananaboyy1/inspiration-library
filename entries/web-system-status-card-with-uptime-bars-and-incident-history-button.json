@@ -3,6 +3,7 @@
   "image": "images/web-system-status-card-with-uptime-bars-and-incident-history-button.webp",
   "discipline": "web",
   "designType": "Data visualization",
+  "designStyle": "Corporate & Clean-Tech",
   "title": "System Status card: API, Database, Auth and Email rows with status icons and long strips of green and red uptime bars",
   "tags": [
     "component",

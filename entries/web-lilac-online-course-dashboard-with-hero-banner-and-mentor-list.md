@@ -2,7 +2,7 @@
 
 ![](../images/web-lilac-online-course-dashboard-with-hero-banner-and-mentor-list.webp)
 
-**Discipline:** web · **Design type:** Dashboard
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** dashboard, education, lilac, violet, cards, mentors, memoji, white
 
 ## What it is

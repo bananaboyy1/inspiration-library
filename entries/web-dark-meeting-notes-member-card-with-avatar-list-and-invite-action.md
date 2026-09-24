@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-meeting-notes-member-card-with-avatar-list-and-invite-action.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** component, member-list, dark, avatars, invite, cartoon, card, minimal
 
 ## What it is

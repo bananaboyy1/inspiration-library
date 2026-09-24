@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-spending-overview-card-over-photo-beside-hand-held-cards-screen.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fintech, glass-card, photo, ring-chart, card-fan, pearl, split
 
 ## What it is

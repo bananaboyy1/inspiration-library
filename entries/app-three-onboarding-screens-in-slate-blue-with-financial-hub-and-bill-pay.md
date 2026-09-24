@@ -2,7 +2,7 @@
 
 ![](../images/app-three-onboarding-screens-in-slate-blue-with-financial-hub-and-bill-pay.jpg)
 
-**Discipline:** app · **Design type:** Onboarding screens
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** onboarding, fintech, slate-blue, italic-serif, progress, skip-next, white-cards, phones
 
 ## What it is

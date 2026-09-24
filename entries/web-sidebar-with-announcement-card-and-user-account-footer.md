@@ -2,7 +2,7 @@
 
 ![](../images/web-sidebar-with-announcement-card-and-user-account-footer.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, sidebar, announcement, user-menu, white, blue-dot, minimal, ui-kit
 
 ## What it is

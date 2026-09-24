@@ -2,7 +2,7 @@
 
 ![](../images/app-smartwatch-reminder-glance-on-cream.png)
 
-**Discipline:** app · **Design type:** Wearable UI
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** smartwatch, reminder, cream, orange, blue, minimal, glance
 
 ## What it is

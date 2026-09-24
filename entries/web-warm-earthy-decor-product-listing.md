@@ -2,7 +2,7 @@
 
 ![](../images/web-warm-earthy-decor-product-listing.webp)
 
-**Discipline:** web · **Design type:** E-commerce product listing
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** e-commerce, product-grid, earthy, brown, serif-italic, acid-yellow, editorial, home-decor
 
 ## What it is

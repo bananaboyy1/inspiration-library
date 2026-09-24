@@ -2,7 +2,7 @@
 
 ![](../images/app-transactions-table-dashboard-on-tilted-tablet.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, fintech, tablet, table, status-pills, gradient-cards, 3d-coins, monogram-logo
 
 ## What it is

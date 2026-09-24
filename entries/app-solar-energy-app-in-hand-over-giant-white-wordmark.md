@@ -2,7 +2,7 @@
 
 ![](../images/app-solar-energy-app-in-hand-over-giant-white-wordmark.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** energy, green, hand, glass-notifications, giant-wordmark, gradient, mockup, project-cover
 
 ## What it is

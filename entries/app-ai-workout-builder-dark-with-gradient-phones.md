@@ -2,7 +2,7 @@
 
 ![](../images/app-ai-workout-builder-dark-with-gradient-phones.png)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** ai, fitness, dark, gradient, orb, suggestion-list, phones, case-study
 
 ## What it is

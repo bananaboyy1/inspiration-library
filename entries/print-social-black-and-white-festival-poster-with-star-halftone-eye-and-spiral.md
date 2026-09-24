@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-white-festival-poster-with-star-halftone-eye-and-spiral.png)
 
-**Discipline:** print-social · **Design type:** Event poster
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** festival, black-and-white, halftone, op-art, heavy-type, boxes, grunge, vintage
 
 ## What it is

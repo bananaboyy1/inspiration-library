@@ -2,7 +2,7 @@
 
 ![](../images/branding-family-supplement-lifestyle-and-ingredient-photo-collection.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** photography, lifestyle, still-life, supplements, colour-block, kitchen, fruits, family
 
 ## What it is

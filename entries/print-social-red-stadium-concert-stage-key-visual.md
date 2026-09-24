@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-stadium-concert-stage-key-visual.jpg)
 
-**Discipline:** print-social · **Design type:** Event key visual
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** event, stage, red, led-screens, crowd, brand-activation, key-visual, render
 
 ## What it is

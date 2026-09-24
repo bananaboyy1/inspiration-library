@@ -2,7 +2,7 @@
 
 ![](../images/print-social-love-match-tic-tac-toe-hearts-with-product.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** game, tic-tac-toe, hearts, pink, coral, serif, cream, candle-shop
 
 ## What it is

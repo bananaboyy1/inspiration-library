@@ -2,7 +2,7 @@
 
 ![](../images/branding-typography-and-colour-system-with-pencil-mascot.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** typography, colour-palette, mascot, navy, italic-serif, weight-slider, brand-guidelines
 
 ## What it is

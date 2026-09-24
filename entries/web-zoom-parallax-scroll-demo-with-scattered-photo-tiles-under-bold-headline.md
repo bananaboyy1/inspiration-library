@@ -2,7 +2,7 @@
 
 ![](../images/web-zoom-parallax-scroll-demo-with-scattered-photo-tiles-under-bold-headline.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** parallax, scroll, photo-grid, white, blue, zoom, layout, motion
 
 ## What it is

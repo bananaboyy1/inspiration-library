@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-and-white-crypto-wallet-screens-tilted-with-fingerprint-security.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** crypto, wallet, blue, white, tilted, fingerprint, convert, assets
 
 ## What it is

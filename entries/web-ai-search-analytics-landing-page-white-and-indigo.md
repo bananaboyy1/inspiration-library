@@ -2,7 +2,7 @@
 
 ![](../images/web-ai-search-analytics-landing-page-white-and-indigo.webp)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, analytics, white, indigo, dashboard, logo-strip, pricing, testimonials, giant-footer-wordmark
 
 ## What it is

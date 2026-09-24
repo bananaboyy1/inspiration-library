@@ -2,7 +2,7 @@
 
 ![](../images/app-pastel-mesh-ai-agent-onboarding-phone-with-ghost-name.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** pastel, mesh-gradient, ai-agent, ghost-type, tilted, iridescent, cover
 
 ## What it is

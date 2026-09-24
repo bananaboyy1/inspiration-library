@@ -2,7 +2,7 @@
 
 ![](../images/web-collapsible-sidebar-layout-with-icon-nav-and-main-content.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, sidebar, layout, white, line-icons, app-shell, minimal, navigation
 
 ## What it is

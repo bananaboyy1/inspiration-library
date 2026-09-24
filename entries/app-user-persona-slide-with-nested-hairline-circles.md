@@ -2,7 +2,7 @@
 
 ![](../images/app-user-persona-slide-with-nested-hairline-circles.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** persona, research, white, hairline-circles, italic-serif, quote, case-study, navy
 
 ## What it is

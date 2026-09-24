@@ -2,7 +2,7 @@
 
 ![](../images/app-mobile-app-overview-long-board-with-hand-and-pearl-screens.jpg)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** fintech, pearl, glass, hand, long-board, serif-numerals, onboarding, staggered
 
 ## What it is

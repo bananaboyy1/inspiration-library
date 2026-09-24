@@ -2,7 +2,7 @@
 
 ![](../images/app-pastel-pink-healthy-eating-tracker-two-screens.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** nutrition, pastel, pink, cards, tracker, icons, two-phones
 
 ## What it is

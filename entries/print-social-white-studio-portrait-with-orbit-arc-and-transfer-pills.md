@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-studio-portrait-with-orbit-arc-and-transfer-pills.jpg)
 
-**Discipline:** print-social · **Design type:** Brand campaign visual
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** campaign, white, navy, portrait, motion-blur, serif-italic, arc
 
 ## What it is

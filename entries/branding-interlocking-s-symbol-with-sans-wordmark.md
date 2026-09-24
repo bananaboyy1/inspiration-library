@@ -2,7 +2,7 @@
 
 ![](../images/branding-interlocking-s-symbol-with-sans-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Logo with symbol
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** logo, symbol, violet, black, rounded-geometry, tech, wordmark, white-background
 
 ## What it is

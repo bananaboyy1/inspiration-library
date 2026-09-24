@@ -2,7 +2,7 @@
 
 ![](../images/web-webcore-page-footer-with-receipt-card-barcode-and-bracket-wordmark.png)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** footer, barcode, wordmark, monospace, webcore, social-icons, pink
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-lime-delivery-app-with-3d-isometric-truck-and-shipment-cards.webp)
 
-**Discipline:** app · **Design type:** Delivery app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** delivery, lime, black, 3d-illustration, isometric, tracking, progress-steps, phones
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-boutique-residence-post-with-two-frosted-panels-at-dusk.png)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** real-estate, dusk, frosted-glass, white-caps, photo, portrait, price, luxury
 
 ## What it is

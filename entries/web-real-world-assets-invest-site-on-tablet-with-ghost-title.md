@@ -2,7 +2,7 @@
 
 ![](../images/web-real-world-assets-invest-site-on-tablet-with-ghost-title.jpg)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** tablet, ghost-type, invest, pastel, stand, fintech, cover
 
 ## What it is

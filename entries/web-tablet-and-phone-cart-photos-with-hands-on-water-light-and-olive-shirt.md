@@ -2,7 +2,7 @@
 
 ![](../images/web-tablet-and-phone-cart-photos-with-hands-on-water-light-and-olive-shirt.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** mockup, hands, tablet, phone, cart, blue, water-light, olive
 
 ## What it is

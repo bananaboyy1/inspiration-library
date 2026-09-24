@@ -2,7 +2,7 @@
 
 ![](../images/app-nightlife-map-with-story-bubbles.jpg)
 
-**Discipline:** app · **Design type:** Map and discovery app
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** map, nightlife, dark-mode, neon, story-bubbles, purple, discovery, tilted-mockup
 
 ## What it is

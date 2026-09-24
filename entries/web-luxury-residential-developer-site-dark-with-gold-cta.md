@@ -2,7 +2,7 @@
 
 ![](../images/web-luxury-residential-developer-site-dark-with-gold-cta.png)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** real-estate, dark, gold, giant-type, stat-tiles, project-list, faq, mobile
 
 ## What it is

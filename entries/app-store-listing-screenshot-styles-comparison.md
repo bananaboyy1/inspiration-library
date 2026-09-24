@@ -2,7 +2,7 @@
 
 ![](../images/app-store-listing-screenshot-styles-comparison.png)
 
-**Discipline:** app · **Design type:** App store presentation
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** app-store, screenshots, marketing, purple-orange, photography, diagonal-split, listing
 
 ## What it is

@@ -3,6 +3,7 @@
   "image": "images/web-vertical-ruler-of-dashes-with-timestamp-tooltip-card.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Dark & Neon",
   "title": "Vertical ruler of grey dashes where nearby dashes grow long and black, pointing to a white timestamp note '01:50' with a bold line",
   "tags": [
     "component",

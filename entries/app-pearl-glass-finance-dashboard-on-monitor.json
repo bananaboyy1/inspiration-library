@@ -3,6 +3,7 @@
   "image": "images/app-pearl-glass-finance-dashboard-on-monitor.jpg",
   "discipline": "app",
   "designType": "Dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Frosted pearl finance dashboard with fanned cards and hairline bar charts on a monitor",
   "tags": [
     "dashboard",

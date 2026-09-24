@@ -3,6 +3,7 @@
   "image": "images/web-dark-basic-dialog-with-header-body-and-two-footer-buttons.webp",
   "discipline": "web",
   "designType": "UI components",
+  "designStyle": "Minimalist",
   "title": "Dark modal 'Hello there!' with a close icon, hairline sections and Close and Okay buttons on black",
   "tags": [
     "component",

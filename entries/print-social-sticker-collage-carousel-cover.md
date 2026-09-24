@@ -2,7 +2,7 @@
 
 ![](../images/print-social-sticker-collage-carousel-cover.png)
 
-**Discipline:** print-social · **Design type:** Social carousel cover
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** social-media, carousel, sticker-collage, hot-pink, cutout, script-and-grotesk, cyrillic, portrait-4x5, playful
 
 ## What it is

@@ -1,0 +1,39 @@
+{
+  "name": "print-social-next-stage-of-digital-business-post-with-violet-planet-edges",
+  "image": "images/print-social-next-stage-of-digital-business-post-with-violet-planet-edges.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Gradient & Aurora",
+  "title": "'The Next Stage of Digital Business' post with glowing violet planet edges and a split CTA",
+  "tags": [
+    "business",
+    "violet",
+    "planet",
+    "cta",
+    "dark",
+    "minimal"
+  ],
+  "whatItIs": "A square dark violet post on a faint dot grid with two huge glowing violet spheres cropped at left and right edges, a white four-point star, a centred headline and subline, and a split pill CTA ('Get a fresh look »' plus a glowing 'Get started' button with a hand cursor).",
+  "whatItMeans": "Futuristic and inviting; the framing planets make the message feel like a portal.",
+  "techniques": [
+    "Crop two glowing spheres at opposite edges to frame text.",
+    "Build a split CTA with a prompt and a button.",
+    "Add a hand cursor to imply clicking.",
+    "Use a dot grid background."
+  ],
+  "bestFor": [
+    "Tech agency posts",
+    "SaaS launches",
+    "Minimal CTA posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Split CTA",
+      "definition": "A pill with a text prompt and a button."
+    },
+    {
+      "term": "Edge crop",
+      "definition": "A shape cut by the frame edge."
+    }
+  ]
+}

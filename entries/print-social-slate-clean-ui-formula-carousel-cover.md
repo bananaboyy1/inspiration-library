@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-clean-ui-formula-carousel-cover.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel cover
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** carousel, cover, slate, cream, column-lines, weight-mix, swipe
 
 ## What it is

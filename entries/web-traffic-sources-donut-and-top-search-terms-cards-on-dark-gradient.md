@@ -2,7 +2,7 @@
 
 ![](../images/web-traffic-sources-donut-and-top-search-terms-cards-on-dark-gradient.webp)
 
-**Discipline:** web · **Design type:** Feature illustration
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** feature-illustration, analytics, donut, blue, white, search-terms, dark, glow
 
 ## What it is

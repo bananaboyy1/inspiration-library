@@ -2,7 +2,7 @@
 
 ![](../images/branding-supplement-tubs-on-fruit-colour-blocks-photo-grid.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** photography, packaging, fruit, colour-block, supplements, flat-lay, grid, food-styling
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/web-four-service-cards-in-red-white-grey-and-blue-with-3d-object-icons.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** 3D & Surreal
 **Tags:** services, cards, red, blue, 3d-icons, learn-more, grid, colour-block
 
 ## What it is

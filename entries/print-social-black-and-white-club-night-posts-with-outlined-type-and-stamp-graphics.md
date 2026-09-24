@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-and-white-club-night-posts-with-outlined-type-and-stamp-graphics.webp)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** music, club, black-and-white, outline-type, lineup, sparkle, stamp, instagram
 
 ## What it is

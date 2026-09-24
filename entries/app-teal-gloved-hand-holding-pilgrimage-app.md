@@ -2,7 +2,7 @@
 
 ![](../images/app-teal-gloved-hand-holding-pilgrimage-app.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** teal, glove, silver, gradient, religion, cover, hand
 
 ## What it is

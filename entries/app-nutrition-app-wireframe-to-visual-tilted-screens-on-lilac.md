@@ -2,7 +2,7 @@
 
 ![](../images/app-nutrition-app-wireframe-to-visual-tilted-screens-on-lilac.webp)
 
-**Discipline:** app · **Design type:** Wireframe showcase
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** wireframes, nutrition, lilac, grey, tilted-phones, meal-plan, flow, photography
 
 ## What it is

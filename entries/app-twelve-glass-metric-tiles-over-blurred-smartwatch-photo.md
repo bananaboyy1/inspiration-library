@@ -2,7 +2,7 @@
 
 ![](../images/app-twelve-glass-metric-tiles-over-blurred-smartwatch-photo.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** health, glass, serif-numerals, metrics, blue, watch, status-colours, tiles
 
 ## What it is

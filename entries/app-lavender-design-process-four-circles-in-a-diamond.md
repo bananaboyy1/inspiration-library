@@ -2,7 +2,7 @@
 
 ![](../images/app-lavender-design-process-four-circles-in-a-diamond.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** process, circles, diamond, lavender, logo, progress-bar, neumorphic
 
 ## What it is

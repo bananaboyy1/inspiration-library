@@ -2,7 +2,7 @@
 
 ![](../images/app-circle-diagram-problem-and-solution-cards-slide.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** problem-solution, circle, ruler, serif-italic, cards, white, minimal
 
 ## What it is

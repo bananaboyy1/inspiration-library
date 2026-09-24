@@ -2,7 +2,7 @@
 
 ![](../images/web-royal-blue-and-lime-supplement-landing-page.webp)
 
-**Discipline:** web · **Design type:** E-commerce landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** landing-page, supplement, royal-blue, lime, bold-type, bento, testimonial, dark-footer
 
 ## What it is

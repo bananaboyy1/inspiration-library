@@ -2,7 +2,7 @@
 
 ![](../images/app-pale-blue-testimonial-quotes-with-portrait-tiles.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** testimonials, quotes, pale-blue, portraits, phone, tone-shift
 
 ## What it is

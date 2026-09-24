@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-money-transfer-ad-with-hand-and-orbit-flags.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** fintech, ad, lilac, purple, flags, orbit, hand, app-badges
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-serif-italic-persona-cards-on-dashed-path.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** persona, serif-italic, dashed-path, portraits, quotes, pills, white
 
 ## What it is

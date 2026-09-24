@@ -2,7 +2,7 @@
 
 ![](../images/app-social-feed-phone-on-dark-rock-under-pink-halo.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** social, rock, halo, pastel, serif, stories, cover
 
 ## What it is

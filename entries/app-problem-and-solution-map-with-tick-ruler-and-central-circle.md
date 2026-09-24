@@ -2,7 +2,7 @@
 
 ![](../images/app-problem-and-solution-map-with-tick-ruler-and-central-circle.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Editorial
 **Tags:** problem-solution, diagram, white, italic-serif, ruler, dashed-connectors, quote, fintech
 
 ## What it is

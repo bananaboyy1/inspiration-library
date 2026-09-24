@@ -2,7 +2,7 @@
 
 ![](../images/print-social-spiral-calendar-sticker-bakery-post.png)
 
-**Discipline:** print-social · **Design type:** Social promo post
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** calendar, bakery, sale-sticker, bubble-type, cutout, blue-and-cream, grid, social-media
 
 ## What it is

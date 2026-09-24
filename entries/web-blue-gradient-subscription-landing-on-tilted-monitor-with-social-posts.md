@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-gradient-subscription-landing-on-tilted-monitor-with-social-posts.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** monitor, tilted, blue-gradient, serif-italic, social-posts, white, subscriptions
 
 ## What it is

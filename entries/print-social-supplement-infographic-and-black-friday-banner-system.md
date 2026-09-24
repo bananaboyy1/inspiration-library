@@ -2,7 +2,7 @@
 
 ![](../images/print-social-supplement-infographic-and-black-friday-banner-system.png)
 
-**Discipline:** print-social · **Design type:** Product infographic set
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** e-commerce, infographic, royal-blue, hydration, black-friday, hang-tag, banners, listing-images
 
 ## What it is

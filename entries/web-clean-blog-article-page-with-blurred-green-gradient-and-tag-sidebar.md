@@ -2,7 +2,7 @@
 
 ![](../images/web-clean-blog-article-page-with-blurred-green-gradient-and-tag-sidebar.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** blog, article, green, white, meta-pills, sidebar, tags, related-posts
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-embossed-crest-perfume-packaging-and-gift-card.jpg)
 
-**Discipline:** branding · **Design type:** Packaging and print collateral
+**Discipline:** branding ·  · **Design style:** Warm & Organic
 **Tags:** packaging, perfume, emboss, purple, cream, black, crest, gift-card, tactile
 
 ## What it is

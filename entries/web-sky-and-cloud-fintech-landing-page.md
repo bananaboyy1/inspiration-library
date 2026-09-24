@@ -2,7 +2,7 @@
 
 ![](../images/web-sky-and-cloud-fintech-landing-page.jpg)
 
-**Discipline:** web · **Design type:** SaaS landing page
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** fintech, sky, clouds, blue, light-weight-type, phone-in-hand, pricing, testimonials
 
 ## What it is

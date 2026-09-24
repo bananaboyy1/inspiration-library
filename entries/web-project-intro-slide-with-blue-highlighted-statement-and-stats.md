@@ -2,7 +2,7 @@
 
 ![](../images/web-project-intro-slide-with-blue-highlighted-statement-and-stats.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** case-study, intro, light, blue, stats, centered, cyrillic, numbers
 
 ## What it is

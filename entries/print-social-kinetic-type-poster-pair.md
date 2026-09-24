@@ -2,7 +2,7 @@
 
 ![](../images/print-social-kinetic-type-poster-pair.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** poster, typography, black-and-white, red, grotesque, repetition, numerals, orange-backdrop
 
 ## What it is

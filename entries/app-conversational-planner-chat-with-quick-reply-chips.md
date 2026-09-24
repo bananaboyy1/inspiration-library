@@ -2,7 +2,7 @@
 
 ![](../images/app-conversational-planner-chat-with-quick-reply-chips.gif)
 
-**Discipline:** app · **Design type:** Chat interface
+**Discipline:** app ·  · **Design style:** Warm & Organic
 **Tags:** chat, quick-replies, yellow, cream, voice, assistant, calendar
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-orange-yellow-brand-kit-tiles-with-atom-heart-mark.png)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** brand-kit, blue, orange, yellow, palette, typeface, logo, bento
 
 ## What it is

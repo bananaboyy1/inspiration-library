@@ -2,7 +2,7 @@
 
 ![](../images/branding-tilted-business-cards-violet-and-white-on-black.jpg)
 
-**Discipline:** branding · **Design type:** Brand application mockups
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** business-cards, violet, white, black, floating, monogram, minimal, tech
 
 ## What it is

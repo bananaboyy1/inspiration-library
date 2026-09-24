@@ -2,7 +2,7 @@
 
 ![](../images/app-project-details-slide-with-inline-logo-headline-and-pills.png)
 
-**Discipline:** app · **Design type:** Case study intro slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** project-details, grey, inline-logo, pills, metadata, light, health
 
 ## What it is

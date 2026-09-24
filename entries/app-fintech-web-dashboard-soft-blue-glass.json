@@ -3,6 +3,7 @@
   "image": "images/app-fintech-web-dashboard-soft-blue-glass.jpg",
   "discipline": "app",
   "designType": "Dashboard",
+  "designStyle": "Glassmorphism",
   "title": "Fintech web dashboards with blurred blue-grey glass headers",
   "tags": [
     "dashboard",

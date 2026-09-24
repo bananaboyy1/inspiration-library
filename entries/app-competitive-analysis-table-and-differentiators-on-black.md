@@ -2,7 +2,7 @@
 
 ![](../images/app-competitive-analysis-table-and-differentiators-on-black.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** competitive-analysis, dark, lime, table, check-marks, cards, case-study, outlined-pills
 
 ## What it is

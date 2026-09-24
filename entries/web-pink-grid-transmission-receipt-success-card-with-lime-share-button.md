@@ -2,7 +2,7 @@
 
 ![](../images/web-pink-grid-transmission-receipt-success-card-with-lime-share-button.png)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** success-state, receipt, pink, grid-paper, monospace, lime, sticker
 
 ## What it is

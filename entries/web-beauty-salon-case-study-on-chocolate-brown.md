@@ -2,7 +2,7 @@
 
 ![](../images/web-beauty-salon-case-study-on-chocolate-brown.png)
 
-**Discipline:** web · **Design type:** Case study slide
+**Discipline:** web ·  · **Design style:** Warm & Organic
 **Tags:** case-study, beauty, chocolate-brown, cream, sticker, laptop-mockup, script
 
 ## What it is

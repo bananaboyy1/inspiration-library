@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-ai-assistant-brand-and-ui-long-case-study.jpg)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** long-scroll, blue, ai, logomark, typography, dark, photo
 
 ## What it is

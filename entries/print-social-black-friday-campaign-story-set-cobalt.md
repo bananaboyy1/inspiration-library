@@ -2,7 +2,7 @@
 
 ![](../images/print-social-black-friday-campaign-story-set-cobalt.png)
 
-**Discipline:** print-social · **Design type:** Campaign social ad set
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** campaign, black-friday, cobalt, sale, starburst, phone-parody, calendar, retail, stories
 
 ## What it is

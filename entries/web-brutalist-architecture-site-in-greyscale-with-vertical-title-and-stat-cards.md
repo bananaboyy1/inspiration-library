@@ -2,7 +2,7 @@
 
 ![](../images/web-brutalist-architecture-site-in-greyscale-with-vertical-title-and-stat-cards.webp)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Neo-Brutalist
 **Tags:** architecture, greyscale, brutalist, vertical-title, glass-cards, monospace, grid, photography
 
 ## What it is

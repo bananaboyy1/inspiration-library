@@ -2,7 +2,7 @@
 
 ![](../images/app-green-betting-assistant-store-screenshots-on-laptop.jpg)
 
-**Discipline:** app · **Design type:** App store presentation
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** app-store, screenshots, green, dark-ui, chat, bold-headline, laptop-photo, sports
 
 ## What it is

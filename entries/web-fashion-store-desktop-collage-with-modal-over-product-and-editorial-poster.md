@@ -2,7 +2,7 @@
 
 ![](../images/web-fashion-store-desktop-collage-with-modal-over-product-and-editorial-poster.png)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Editorial
 **Tags:** e-commerce, fashion, white-modal, pastel-photos, editorial, brown, text-card, shop-now
 
 ## What it is

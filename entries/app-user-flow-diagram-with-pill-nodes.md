@@ -2,7 +2,7 @@
 
 ![](../images/app-user-flow-diagram-with-pill-nodes.jpg)
 
-**Discipline:** app · **Design type:** UX documentation
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** user-flow, diagram, sitemap, grey, pill-nodes, fintech, documentation
 
 ## What it is

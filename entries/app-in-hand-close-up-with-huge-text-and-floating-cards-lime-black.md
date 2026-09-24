@@ -2,7 +2,7 @@
 
 ![](../images/app-in-hand-close-up-with-huge-text-and-floating-cards-lime-black.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** mobility, lime, black, hand, photo-blur, floating-chips, real-life, giant-type
 
 ## What it is

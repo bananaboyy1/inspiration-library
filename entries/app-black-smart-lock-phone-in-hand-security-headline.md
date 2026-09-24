@@ -2,7 +2,7 @@
 
 ![](../images/app-black-smart-lock-phone-in-hand-security-headline.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** black, smart-lock, hand, headline, cream, security, minimal
 
 ## What it is

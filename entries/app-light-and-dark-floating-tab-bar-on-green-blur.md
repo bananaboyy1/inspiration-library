@@ -2,7 +2,7 @@
 
 ![](../images/app-light-and-dark-floating-tab-bar-on-green-blur.webp)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** tab-bar, navigation, green, blur, light-dark, icons, hover
 
 ## What it is

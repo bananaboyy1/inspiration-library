@@ -2,7 +2,7 @@
 
 ![](../images/print-social-slate-real-problem-highlighted-text-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** educational, problem, slate, highlight, corner-marks, justified, text-only
 
 ## What it is

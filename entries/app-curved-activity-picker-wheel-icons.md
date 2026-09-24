@@ -2,7 +2,7 @@
 
 ![](../images/app-curved-activity-picker-wheel-icons.jpg)
 
-**Discipline:** app · **Design type:** UI components
+**Discipline:** app ·  · **Design style:** Geometric & Bauhaus
 **Tags:** picker, curved, icons, activity, light, selection, depth-fade
 
 ## What it is

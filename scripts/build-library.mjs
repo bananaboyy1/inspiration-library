@@ -12,7 +12,8 @@ const DISCIPLINES = [
   ['branding', 'Branding'],
   ['print-social', 'Print & Social'],
 ]
-const REQUIRED = ['name', 'image', 'discipline', 'designType', 'title', 'tags', 'whatItIs', 'whatItMeans', 'techniques', 'bestFor', 'vocabulary']
+const STYLES = JSON.parse(fs.readFileSync(path.join(root, 'scripts', 'styles.json'), 'utf8'))
+const REQUIRED = ['name', 'image', 'discipline', 'designType', 'designStyle', 'title', 'tags', 'whatItIs', 'whatItMeans', 'techniques', 'bestFor', 'vocabulary']
 const check = process.argv.includes('--check')
 
 const dir = path.join(root, 'entries')
@@ -29,6 +30,7 @@ for (const { file, data: e } of entries) {
   if (e.name !== base) problems.push(`${file}: name "${e.name}" does not match filename`)
   if (!DISCIPLINES.some(([s]) => s === e.discipline)) problems.push(`${file}: bad discipline "${e.discipline}"`)
   else if (!base.startsWith(e.discipline + '-')) problems.push(`${file}: filename must start with "${e.discipline}-"`)
+  if (e.designStyle && !STYLES.includes(e.designStyle)) problems.push(`${file}: unknown designStyle "${e.designStyle}"`)
   if (e.image && !fs.existsSync(path.join(root, e.image))) problems.push(`${file}: image not found (${e.image})`)
   if (!fs.existsSync(path.join(dir, base + '.md'))) problems.push(`${file}: missing ${base}.md`)
   for (const v of e.vocabulary || []) if (!v.term || !v.definition) problems.push(`${file}: vocabulary item needs term and definition`)
@@ -54,6 +56,7 @@ An open reference for web, app, branding and print/social design. **Nothing here
 
 **${entries.length} entries**\n\n`
 
+md += '\n**Design styles (across all disciplines):** ' + STYLES.map((s) => `${s} (${entries.filter((e) => e.data.designStyle === s).length})`).join(' · ') + '\n\n'
 md += DISCIPLINES.map(([slug, label]) => {
   const n = entries.filter((e) => e.data.discipline === slug).length
   return `- [${label} (${n})](#${label.toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/ +/g, '-')})`
@@ -73,6 +76,7 @@ for (const [slug, label] of DISCIPLINES) {
     md += `\n### ${label} › ${t} (${list.length})\n\n`
     for (const { data: e } of list.sort(byTitle)) {
       md += `- **[${e.title}](entries/${e.name}.md)** — ${oneLine(e.whatItIs)}\n`
+      md += `  - Style: ${e.designStyle}\n`
       md += `  - Techniques: ${e.techniques.map((x) => x.replace(/\s+/g, ' ').replace(/[.;]+$/, '')).join('; ')}\n`
       md += `  - Best for: ${e.bestFor.map((x) => x.replace(/\s+/g, ' ').replace(/[.;]+$/, '')).join('; ')}\n`
       md += `  - Image: \`${e.image}\`\n`

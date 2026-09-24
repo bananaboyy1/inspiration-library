@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-banking-app-phone-on-black-pedestal-with-charging-cable.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** banking, dark, blue, pedestal, cable, dramatic, cover
 
 ## What it is

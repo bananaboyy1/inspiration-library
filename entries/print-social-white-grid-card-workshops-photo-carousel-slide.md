@@ -2,7 +2,7 @@
 
 ![](../images/print-social-white-grid-card-workshops-photo-carousel-slide.jpg)
 
-**Discipline:** print-social · **Design type:** Social carousel
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** carousel, white, blue-pills, photos, dates, list, portrait
 
 ## What it is

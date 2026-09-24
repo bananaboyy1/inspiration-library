@@ -2,7 +2,7 @@
 
 ![](../images/print-social-lilac-and-white-blob-review-card-with-black-offset-shadow.png)
 
-**Discipline:** print-social · **Design type:** Social testimonial post
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** testimonial, lilac, white, blobs, offset-shadow, five-stars, sparkles, tape-label
 
 ## What it is

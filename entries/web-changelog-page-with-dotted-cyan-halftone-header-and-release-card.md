@@ -2,7 +2,7 @@
 
 ![](../images/web-changelog-page-with-dotted-cyan-halftone-header-and-release-card.webp)
 
-**Discipline:** web · **Design type:** Page section
+**Discipline:** web ·  · **Design style:** Retro & Pixel
 **Tags:** changelog, dark, halftone, cyan, release-notes, avatars, minimal, banner
 
 ## What it is

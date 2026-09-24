@@ -2,7 +2,7 @@
 
 ![](../images/app-white-cards-with-huge-percentages-and-blue-progress-bars.png)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** research, percentages, progress-bars, white-cards, blue, staggered, interview
 
 ## What it is

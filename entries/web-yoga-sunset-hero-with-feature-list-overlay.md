@@ -2,7 +2,7 @@
 
 ![](../images/web-yoga-sunset-hero-with-feature-list-overlay.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** hero, sunset, photo, white-type, feature-list, rounded, wellness
 
 ## What it is

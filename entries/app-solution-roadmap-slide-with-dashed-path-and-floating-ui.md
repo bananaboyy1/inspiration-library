@@ -2,7 +2,7 @@
 
 ![](../images/app-solution-roadmap-slide-with-dashed-path-and-floating-ui.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** roadmap, process, lilac, indigo, dashed-path, floating-cards, numerals, accessibility
 
 ## What it is

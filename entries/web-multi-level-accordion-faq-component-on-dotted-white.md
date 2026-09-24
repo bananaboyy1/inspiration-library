@@ -2,7 +2,7 @@
 
 ![](../images/web-multi-level-accordion-faq-component-on-dotted-white.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** component, accordion, faq, white, dotted, nested, minimal, ui-kit
 
 ## What it is

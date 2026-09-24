@@ -3,6 +3,7 @@
   "image": "images/app-minimal-floating-nav-pill-with-cursor-tooltip-on-hatched-white.webp",
   "discipline": "app",
   "designType": "UI components",
+  "designStyle": "Neo-Brutalist",
   "title": "Floating Nav Pill with Cursor Tooltip",
   "tags": [
     "navigation",

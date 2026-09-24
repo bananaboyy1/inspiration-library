@@ -2,7 +2,7 @@
 
 ![](../images/app-violet-gradient-ecommerce-cards-cart-and-product-detail.png)
 
-**Discipline:** app · **Design type:** E-commerce app
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** e-commerce, violet, cards, cart, product-detail, chrome-ribbons, white
 
 ## What it is

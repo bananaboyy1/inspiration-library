@@ -2,7 +2,7 @@
 
 ![](../images/web-minimal-fashion-product-detail-page-with-reviews.jpg)
 
-**Discipline:** web · **Design type:** Product detail page
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** pdp, fashion, white, black-and-white, pill-buttons, reviews, rounded-images, product-grid
 
 ## What it is

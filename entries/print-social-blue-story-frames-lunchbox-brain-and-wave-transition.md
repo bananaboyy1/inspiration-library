@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-story-frames-lunchbox-brain-and-wave-transition.gif)
 
-**Discipline:** print-social · **Design type:** Animated story set
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** stories, animated, royal-blue, mint, 3d-objects, wave, benefit-chips, supplements
 
 ## What it is

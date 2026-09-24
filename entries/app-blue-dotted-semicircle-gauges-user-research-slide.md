@@ -2,7 +2,7 @@
 
 ![](../images/app-blue-dotted-semicircle-gauges-user-research-slide.jpg)
 
-**Discipline:** app · **Design type:** Research insight slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** research, gauges, dotted, blue, progress-bar, plane, lavender
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/app-tilted-laptop-with-pearl-glass-finance-dashboard-on-blue-velvet.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** dashboard, fintech, pearl, glass, laptop, blue-velvet, light-grey, card
 
 ## What it is

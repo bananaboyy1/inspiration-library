@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-hero-with-peach-gradient-keyword-and-avatar-rating-strip.webp)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Gradient & Aurora
 **Tags:** hero, dark, peach, gradient-text, badge, buttons, avatars, stars
 
 ## What it is

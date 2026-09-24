@@ -2,7 +2,7 @@
 
 ![](../images/branding-blue-industrial-logo-icons-and-catalog-phone.png)
 
-**Discipline:** branding · **Design type:** Brand identity presentation
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** industrial, blue, logo, line-icons, rounded-tiles, catalog, phone-in-hand, cyrillic
 
 ## What it is

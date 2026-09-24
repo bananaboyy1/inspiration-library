@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-rounded-list-week-celebration-activities-lineup.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Editorial
 **Tags:** lineup, schedule, blue, rounded-bars, event, student, gold-highlight
 
 ## What it is

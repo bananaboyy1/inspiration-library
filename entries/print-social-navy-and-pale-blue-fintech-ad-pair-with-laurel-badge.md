@@ -2,7 +2,7 @@
 
 ![](../images/print-social-navy-and-pale-blue-fintech-ad-pair-with-laurel-badge.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad
+**Discipline:** print-social ·  · **Design style:** Neo-Brutalist
 **Tags:** fintech, ads, navy, pale-blue, laurel, italic-serif, portrait, card-terminal
 
 ## What it is

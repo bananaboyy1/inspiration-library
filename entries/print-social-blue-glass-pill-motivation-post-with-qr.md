@@ -2,7 +2,7 @@
 
 ![](../images/print-social-blue-glass-pill-motivation-post-with-qr.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Glassmorphism
 **Tags:** motivation, royal-blue, pills, glass-shape, qr-code, steps, gradient, creative-studio
 
 ## What it is

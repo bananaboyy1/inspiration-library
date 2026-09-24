@@ -2,7 +2,7 @@
 
 ![](../images/branding-maroon-pink-star-wordmark-type-and-palette-board.jpg)
 
-**Discipline:** branding · **Design type:** Typography and colour guide
+**Discipline:** branding ·  · **Design style:** Playful & Illustrated
 **Tags:** wordmark, maroon, pink, sky-blue, palette, type-specimen, charity, playful
 
 ## What it is

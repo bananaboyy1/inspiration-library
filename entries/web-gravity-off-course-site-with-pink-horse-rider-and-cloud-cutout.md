@@ -2,7 +2,7 @@
 
 ![](../images/web-gravity-off-course-site-with-pink-horse-rider-and-cloud-cutout.png)
 
-**Discipline:** web · **Design type:** Landing page hero
+**Discipline:** web ·  · **Design style:** Playful & Illustrated
 **Tags:** course, sky-blue, yellow, pink, giant-type, cutout, cloud, playful
 
 ## What it is

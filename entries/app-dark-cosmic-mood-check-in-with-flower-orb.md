@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-cosmic-mood-check-in-with-flower-orb.png)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** ai, mood, dark, starfield, flower, slider, case-study, emphasis-text
 
 ## What it is

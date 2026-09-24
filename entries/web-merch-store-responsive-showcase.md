@@ -2,7 +2,7 @@
 
 ![](../images/web-merch-store-responsive-showcase.webp)
 
-**Discipline:** web · **Design type:** E-commerce storefront
+**Discipline:** web ·  · **Design style:** Photographic & Cinematic
 **Tags:** e-commerce, merch, responsive, pastel, product-photography, black-footer, giant-wordmark
 
 ## What it is

@@ -2,7 +2,7 @@
 
 ![](../images/print-social-thank-you-post-with-purple-pixel-glow-and-uppercase-details.jpg)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** thank-you, pixel-gradient, violet, white, sans-serif, resource-post, grid, save-for-later
 
 ## What it is

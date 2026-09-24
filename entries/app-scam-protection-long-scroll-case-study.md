@@ -2,7 +2,7 @@
 
 ![](../images/app-scam-protection-long-scroll-case-study.png)
 
-**Discipline:** app · **Design type:** Case study slide
+**Discipline:** app ·  · **Design style:** Playful & Illustrated
 **Tags:** security, long-scroll, pastel, pills, robot, case-study, light-gradient
 
 ## What it is

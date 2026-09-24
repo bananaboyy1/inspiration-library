@@ -2,7 +2,7 @@
 
 ![](../images/web-four-kpi-stat-cards-with-delta-arrows-beside-heading-block.webp)
 
-**Discipline:** web · **Design type:** UI components
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** component, kpi, stats, white, arrows, tight-headline, cards, saas
 
 ## What it is

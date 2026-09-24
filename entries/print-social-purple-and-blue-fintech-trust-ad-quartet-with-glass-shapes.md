@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-and-blue-fintech-trust-ad-quartet-with-glass-shapes.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** fintech, ads, purple, blue, green, portraits, glass, trust
 
 ## What it is

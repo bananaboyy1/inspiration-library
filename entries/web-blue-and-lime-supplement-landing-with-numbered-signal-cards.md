@@ -2,7 +2,7 @@
 
 ![](../images/web-blue-and-lime-supplement-landing-with-numbered-signal-cards.webp)
 
-**Discipline:** web · **Design type:** E-commerce landing page
+**Discipline:** web ·  · **Design style:** Dark & Neon
 **Tags:** supplements, royal-blue, lime, white, condensed-type, numbered-cards, testimonial, long-scroll
 
 ## What it is

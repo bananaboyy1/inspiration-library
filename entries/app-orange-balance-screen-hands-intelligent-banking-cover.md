@@ -2,7 +2,7 @@
 
 ![](../images/app-orange-balance-screen-hands-intelligent-banking-cover.jpg)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Glassmorphism
 **Tags:** orange, banking, hands, blur, balance, card, cover
 
 ## What it is

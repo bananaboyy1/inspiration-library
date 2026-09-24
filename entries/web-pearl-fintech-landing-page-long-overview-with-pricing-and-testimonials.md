@@ -2,7 +2,7 @@
 
 ![](../images/web-pearl-fintech-landing-page-long-overview-with-pricing-and-testimonials.jpg)
 
-**Discipline:** web · **Design type:** Landing page
+**Discipline:** web ·  · **Design style:** Glassmorphism
 **Tags:** fintech, pearl, serif, landing, pricing, testimonials, long-page, overview
 
 ## What it is

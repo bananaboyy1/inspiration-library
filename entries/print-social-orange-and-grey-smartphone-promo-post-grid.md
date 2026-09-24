@@ -2,7 +2,7 @@
 
 ![](../images/print-social-orange-and-grey-smartphone-promo-post-grid.jpg)
 
-**Discipline:** print-social · **Design type:** Social ad set
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** electronics, smartphone, orange, grey, product-render, bold-headline, ads, grid
 
 ## What it is

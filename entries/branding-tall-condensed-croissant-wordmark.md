@@ -2,7 +2,7 @@
 
 ![](../images/branding-tall-condensed-croissant-wordmark.jpg)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Minimalist
 **Tags:** wordmark, condensed, black-and-white, bakery, minimal, corner-labels, sans
 
 ## What it is

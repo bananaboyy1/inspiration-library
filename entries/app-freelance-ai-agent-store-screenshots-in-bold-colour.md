@@ -2,7 +2,7 @@
 
 ![](../images/app-freelance-ai-agent-store-screenshots-in-bold-colour.jpg)
 
-**Discipline:** app · **Design type:** App store presentation
+**Discipline:** app ·  · **Design style:** Photographic & Cinematic
 **Tags:** app-store, screenshots, multicolour, black, orange, blue, bold-headline, marketplace
 
 ## What it is

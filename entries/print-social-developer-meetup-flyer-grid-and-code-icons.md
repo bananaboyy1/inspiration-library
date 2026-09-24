@@ -2,7 +2,7 @@
 
 ![](../images/print-social-developer-meetup-flyer-grid-and-code-icons.jpg)
 
-**Discipline:** print-social · **Design type:** Event flyer
+**Discipline:** print-social ·  · **Design style:** Playful & Illustrated
 **Tags:** event, meetup, mint, grid-paper, stickers, pills, developer, weekly
 
 ## What it is

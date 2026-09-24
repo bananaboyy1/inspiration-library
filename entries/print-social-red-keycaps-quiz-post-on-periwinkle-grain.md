@@ -2,7 +2,7 @@
 
 ![](../images/print-social-red-keycaps-quiz-post-on-periwinkle-grain.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Retro & Pixel
 **Tags:** language, quiz, periwinkle, red, keycaps, dashed-line, grain, cyrillic
 
 ## What it is

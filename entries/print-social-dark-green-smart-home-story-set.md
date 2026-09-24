@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-green-smart-home-story-set.png)
 
-**Discipline:** print-social · **Design type:** Story set
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** stories, dark, green, lifestyle, app, phone, portrait
 
 ## What it is

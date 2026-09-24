@@ -2,7 +2,7 @@
 
 ![](../images/app-design-process-staircase-of-pills-with-gradient-final-step.png)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** process, staircase, light-grey, dashed-lines, gradient-pill, minimal, lime, case-study
 
 ## What it is

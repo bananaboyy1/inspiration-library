@@ -2,7 +2,7 @@
 
 ![](../images/print-social-cage-poster-with-vertical-bars-and-rotated-type.png)
 
-**Discipline:** print-social · **Design type:** Typographic posters
+**Discipline:** print-social ·  · **Design style:** Dark & Neon
 **Tags:** poster, bars, black, white, orange, red, rotated-type, concept
 
 ## What it is

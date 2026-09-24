@@ -2,7 +2,7 @@
 
 ![](../images/print-social-horse-pun-glitter-collage-post.png)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Photographic & Cinematic
 **Tags:** idiom, collage, pink, glitter, stars, sunburst, cutout, bubble-type, humour
 
 ## What it is

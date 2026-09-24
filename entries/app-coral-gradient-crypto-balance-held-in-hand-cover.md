@@ -2,7 +2,7 @@
 
 ![](../images/app-coral-gradient-crypto-balance-held-in-hand-cover.png)
 
-**Discipline:** app · **Design type:** Device mockup scene
+**Discipline:** app ·  · **Design style:** Gradient & Aurora
 **Tags:** coral, pink, crypto, hand, balance, ghost-type, cover
 
 ## What it is

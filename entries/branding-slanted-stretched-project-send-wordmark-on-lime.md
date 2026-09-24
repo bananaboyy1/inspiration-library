@@ -2,7 +2,7 @@
 
 ![](../images/branding-slanted-stretched-project-send-wordmark-on-lime.webp)
 
-**Discipline:** branding · **Design type:** Wordmarks
+**Discipline:** branding ·  · **Design style:** Dark & Neon
 **Tags:** wordmark, warped-type, lime, black, perspective, heavy-sans, stacked, expressive
 
 ## What it is

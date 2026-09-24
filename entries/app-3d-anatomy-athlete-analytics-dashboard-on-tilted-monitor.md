@@ -2,7 +2,7 @@
 
 ![](../images/app-3d-anatomy-athlete-analytics-dashboard-on-tilted-monitor.png)
 
-**Discipline:** app · **Design type:** Dashboard
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** dashboard, sports, 3d-anatomy, light-ui, blue, gauges, monitor, health
 
 ## What it is

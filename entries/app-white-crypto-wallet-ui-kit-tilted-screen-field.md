@@ -2,7 +2,7 @@
 
 ![](../images/app-white-crypto-wallet-ui-kit-tilted-screen-field.png)
 
-**Discipline:** app · **Design type:** Fintech app screens
+**Discipline:** app ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** ui-kit, crypto, white, blue, tilted, sign-in, settings, figma
 
 ## What it is

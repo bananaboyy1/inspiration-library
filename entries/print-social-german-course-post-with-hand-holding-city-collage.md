@@ -2,7 +2,7 @@
 
 ![](../images/print-social-german-course-post-with-hand-holding-city-collage.png)
 
-**Discipline:** print-social · **Design type:** Social cover post
+**Discipline:** print-social ·  · **Design style:** Warm & Organic
 **Tags:** collage, education, mustard, greyscale, teal, denim-stars, arched-text, paper-banner
 
 ## What it is

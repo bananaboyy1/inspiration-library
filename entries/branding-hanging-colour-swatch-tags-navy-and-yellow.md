@@ -2,7 +2,7 @@
 
 ![](../images/branding-hanging-colour-swatch-tags-navy-and-yellow.jpg)
 
-**Discipline:** branding · **Design type:** Colour palette
+**Discipline:** branding ·  · **Design style:** Geometric & Bauhaus
 **Tags:** colour-palette, navy, indigo, yellow, dashed-lines, vertical-type, stepped-blocks
 
 ## What it is

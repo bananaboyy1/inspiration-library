@@ -2,7 +2,7 @@
 
 ![](../images/web-isometric-tilted-dark-orange-ai-writing-ui-wall.webp)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Geometric & Bauhaus
 **Tags:** saas, ai, dark, orange, isometric, screens, perspective, wall
 
 ## What it is

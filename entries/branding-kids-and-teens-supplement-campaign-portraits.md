@@ -2,7 +2,7 @@
 
 ![](../images/branding-kids-and-teens-supplement-campaign-portraits.png)
 
-**Discipline:** branding · **Design type:** Campaign photography
+**Discipline:** branding ·  · **Design style:** Photographic & Cinematic
 **Tags:** photography, packaging, portrait, purple, orange, stacked-tubs, split-frame, kids
 
 ## What it is

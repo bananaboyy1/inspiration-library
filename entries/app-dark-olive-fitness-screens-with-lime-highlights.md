@@ -2,7 +2,7 @@
 
 ![](../images/app-dark-olive-fitness-screens-with-lime-highlights.webp)
 
-**Discipline:** app · **Design type:** Fitness app screens
+**Discipline:** app ·  · **Design style:** Dark & Neon
 **Tags:** fitness, running, dark-olive, lime, toggles, map, notifications, settings
 
 ## What it is

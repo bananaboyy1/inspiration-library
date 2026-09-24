@@ -2,7 +2,7 @@
 
 ![](../images/web-dark-core-features-bento-with-selectable-feature-tiles-and-code-snippet.webp)
 
-**Discipline:** web · **Design type:** Landing page sections
+**Discipline:** web ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** saas, dark, bento, code-block, metrics, selectable, integrations, stats
 
 ## What it is

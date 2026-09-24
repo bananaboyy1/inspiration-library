@@ -2,7 +2,7 @@
 
 ![](../images/app-lilac-daily-challenge-app-with-3d-shapes-and-pastel-plan-cards.jpg)
 
-**Discipline:** app · **Design type:** Health app screens
+**Discipline:** app ·  · **Design style:** 3D & Surreal
 **Tags:** fitness, lilac, 3d-shapes, pastel-cards, date-strip, yoga, phone
 
 ## What it is

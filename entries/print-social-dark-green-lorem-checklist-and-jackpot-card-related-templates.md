@@ -2,7 +2,7 @@
 
 ![](../images/print-social-dark-green-lorem-checklist-and-jackpot-card-related-templates.png)
 
-**Discipline:** print-social · **Design type:** Social template pack
+**Discipline:** print-social ·  · **Design style:** Corporate & Clean-Tech
 **Tags:** checklist, green, dark, cards, promo, template, vector
 
 ## What it is

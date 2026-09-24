@@ -2,7 +2,7 @@
 
 ![](../images/print-social-fintech-brand-social-profile-kit.jpg)
 
-**Discipline:** print-social · **Design type:** Brand social kit
+**Discipline:** print-social ·  · **Design style:** 3D & Surreal
 **Tags:** social-media, profile-cover, fintech, 3d-render, glass, orange-accent, brand-application, mockup
 
 ## What it is

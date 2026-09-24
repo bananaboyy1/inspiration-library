@@ -2,7 +2,7 @@
 
 ![](../images/print-social-purple-ribbon-awareness-post-with-strikethrough-month.jpg)
 
-**Discipline:** print-social · **Design type:** Social educational post
+**Discipline:** print-social ·  · **Design style:** Minimalist
 **Tags:** awareness, lilac, ribbon, strikethrough, white, minimal, health, portuguese
 
 ## What it is

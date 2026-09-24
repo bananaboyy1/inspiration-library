@@ -2,7 +2,7 @@
 
 ![](../images/app-scope-of-work-four-sprint-staircase-slide.jpg)
 
-**Discipline:** app · **Design type:** Process slide
+**Discipline:** app ·  · **Design style:** Minimalist
 **Tags:** scope, sprints, staircase, grey, icons, lists, minimal
 
 ## What it is

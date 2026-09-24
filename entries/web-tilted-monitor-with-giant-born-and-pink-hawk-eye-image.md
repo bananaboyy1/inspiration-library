@@ -2,7 +2,7 @@
 
 ![](../images/web-tilted-monitor-with-giant-born-and-pink-hawk-eye-image.png)
 
-**Discipline:** web · **Design type:** Device mockup scene
+**Discipline:** web ·  · **Design style:** Minimalist
 **Tags:** monitor, pink, white-type, hawk, focus-brackets, grey, minimal, project-cover
 
 ## What it is
