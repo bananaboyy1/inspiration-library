@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-information-architecture-full-sitemap-tree",
+  "image": "images/app-oviah-information-architecture-full-sitemap-tree.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'Making health information easier to navigate' full information-architecture sitemap tree",
+  "tags": [
+    "information-architecture",
+    "sitemap",
+    "ux-documentation",
+    "lilac",
+    "tree-diagram"
+  ],
+  "whatItIs": "A dense colour-coded sitemap tree from Application through Login and Register into five main sections (Home, Track, Conditions, Health, Support), each branching into sub-pages and leaf items, plus a separate pink-outlined branch for a floating action button's quick-add options.",
+  "whatItMeans": "Exhaustive and disciplined; mapping the entire app's structure before UI design prevents missing or orphaned screens.",
+  "techniques": [
+    "Colour-code root, section and leaf nodes differently.",
+    "Branch a floating action button's shortcuts as a separate tree.",
+    "Map the complete app structure before any screen design begins."
+  ],
+  "bestFor": [
+    "Information architecture documentation",
+    "Sitemaps",
+    "Content structure planning"
+  ],
+  "vocabulary": [
+    {
+      "term": "Information architecture",
+      "definition": "The organisation and structure of an app or site's content."
+    },
+    {
+      "term": "Leaf node",
+      "definition": "An end point in a tree diagram with no further children."
+    }
+  ]
+}

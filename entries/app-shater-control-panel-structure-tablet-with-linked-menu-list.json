@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-control-panel-structure-tablet-with-linked-menu-list",
+  "image": "images/app-shater-control-panel-structure-tablet-with-linked-menu-list.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater 'Control Panel' structure: tablet dashboard linked to a vertical list of admin sections",
+  "tags": [
+    "dashboard",
+    "arabic",
+    "information-architecture",
+    "tablet",
+    "blue",
+    "admin"
+  ],
+  "whatItIs": "A light page with a big orange-and-navy Arabic 'لوحة التحكم' (Control Panel) title, a hand holding a tablet showing the admin dashboard, an explanatory Arabic paragraph, and a vertical list of pill-labelled sections (Dashboard, Customers, Craftsmen, Verification Requests, Services, Departments, Withdrawal Methods, Refund Requests) each linked by a dotted line, closed with '+70 screens' claim.",
+  "whatItMeans": "Reassuringly thorough; listing every admin section with a line to the hub proves depth of scope.",
+  "techniques": [
+    "List every module as a pill linked to the hub screen.",
+    "State a total screen count as a scale claim.",
+    "Use a tablet-in-hand mockup for the main view."
+  ],
+  "bestFor": [
+    "Admin panel case studies",
+    "Platform scope slides",
+    "B2B dashboard documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Module list",
+      "definition": "Every functional section of an admin system."
+    },
+    {
+      "term": "Scale claim",
+      "definition": "A number used to show a project's size."
+    }
+  ]
+}

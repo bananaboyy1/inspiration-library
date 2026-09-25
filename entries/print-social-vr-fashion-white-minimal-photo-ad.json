@@ -1,0 +1,34 @@
+{
+  "name": "print-social-vr-fashion-white-minimal-photo-ad",
+  "image": "images/print-social-vr-fashion-white-minimal-photo-ad.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Minimalist",
+  "title": "White minimalist VR fashion photo ad with translucent city overlay",
+  "tags": [
+    "social ad",
+    "vr",
+    "fashion",
+    "white minimal",
+    "photo overlay",
+    "city skyline"
+  ],
+  "whatItIs": "A minimalist square ad on a near-white background, showing a smiling woman wearing VR glasses over a faded translucent city-skyline photo, with a bold 'Hello Dear Customer' headline.",
+  "whatItMeans": "Blending a translucent skyline behind a bright, clean-lit portrait suggests connectivity and scale while staying visually light and airy rather than dark and 'techy.'",
+  "techniques": [
+    "fade a secondary background photo to low opacity so it reads as texture rather than competing imagery",
+    "light the hero subject brightly and cleanly to keep a minimalist ad feeling approachable, not stark",
+    "reserve a torn-paper corner cutout as a small textural detail against an otherwise flat white field"
+  ],
+  "bestFor": [
+    "lifestyle tech/VR product ads",
+    "clean minimalist e-commerce marketing",
+    "fashion-tech crossover campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "opacity fade",
+      "definition": "reducing an element's transparency so it recedes visually behind more prominent foreground content"
+    }
+  ]
+}

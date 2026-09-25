@@ -1,0 +1,34 @@
+{
+  "name": "print-social-carousel-olive-cream-interior-design-brand",
+  "image": "images/print-social-carousel-olive-cream-interior-design-brand.avif",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Olive and cream interior design brand carousel",
+  "tags": [
+    "carousel",
+    "interior design",
+    "olive green",
+    "cream",
+    "corporate",
+    "testimonial"
+  ],
+  "whatItIs": "A six-tile carousel for an interior design company in olive green and cream, mixing a photo tile, service icons, a circular process diagram, stat callouts, team photo and a client testimonial.",
+  "whatItMeans": "Cycling through photo, process, stats, team and testimonial tiles in one restrained two-color palette gives a services business a complete 'about us' story in a single swipe sequence.",
+  "techniques": [
+    "sequence a carousel to tell a story arc: intro, services, process, proof, team, testimonial",
+    "use a circular/radial diagram for a repeating process rather than a linear list",
+    "hold a two-color earthy palette throughout to feel calm and premium"
+  ],
+  "bestFor": [
+    "interior design or architecture firm marketing",
+    "professional services carousels",
+    "earthy/organic brand social kits"
+  ],
+  "vocabulary": [
+    {
+      "term": "process diagram",
+      "definition": "a visual representation of sequential steps, often arranged circularly to imply an ongoing cycle"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "print-social-blogging-stats-poster-with-world-map-and-camera-crew",
+  "image": "images/print-social-blogging-stats-poster-with-world-map-and-camera-crew.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "'Blogging' infographic with a central world-map ring chart, age-group bars and camera-crew illustrations",
+  "tags": [
+    "infographic",
+    "blogging",
+    "teal",
+    "red",
+    "world-map",
+    "stats"
+  ],
+  "whatItIs": "A teal-and-white infographic centred on a 'BLOGGING' banner, with a world-outline ring chart split by category (Beauty, Fashion, Travel, Talking, Cooking) at its centre, flanking illustrations of bloggers filming and vlogging, age-group percentage bars (14–18, 18–26, >26), a Trends donut chart, a Statistics panel with heart/comment/follower icons and bar charts, and a growth line chart at the bottom.",
+  "whatItMeans": "Busy but anchored; centring everything around one ring chart keeps a stat-heavy poster from feeling scattered.",
+  "techniques": [
+    "Anchor an infographic around one central ring or donut chart.",
+    "Illustrate the subject (bloggers) alongside their own statistics.",
+    "Repeat a two-colour palette across every chart type for cohesion."
+  ],
+  "bestFor": [
+    "Social media marketing reports",
+    "Content creator statistics",
+    "Blogging industry infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Ring chart",
+      "definition": "A circular chart, similar to a donut chart, split into proportional segments."
+    },
+    {
+      "term": "Growth line chart",
+      "definition": "A chart showing a value's change over time."
+    }
+  ]
+}

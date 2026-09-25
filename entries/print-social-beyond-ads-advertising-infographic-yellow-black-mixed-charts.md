@@ -1,0 +1,26 @@
+# 'Beyond Ads, Creating Experiences' advertising infographic with four donut charts and labelled speech-bubble stats
+
+![](../images/print-social-beyond-ads-advertising-infographic-yellow-black-mixed-charts.avif)
+
+**Discipline:** print-social · **Design type:** Product infographic set · **Design style:** Playful & Illustrated
+**Tags:** infographic, advertising, yellow, donut-chart, flat-illustration, stats
+
+## What it is
+A white infographic with a bold 'Beyond Ads, Creating Experiences' title, four yellow feature bars with icons (checklist, magnet, video, lightbulb), a 2x2 grid of donut charts (40%, 75%, 60%, 25%) with a legend, three labelled speech-bubble stat rows (A, B, C), a bar chart and a flat illustration of a person at a desk.
+
+## What it means
+Dense but friendly; mixing chart types with a flat character illustration keeps a data-heavy agency pitch approachable.
+
+## Techniques
+- Combine several chart types (donut, bar) in one infographic.
+- Label stat call-outs with single letters for easy reference.
+- Add a flat character illustration to humanise the data.
+
+## Best for
+- Advertising agency reports
+- Marketing infographics
+- Mixed-chart data presentations
+
+## Vocabulary
+- **Donut chart** — A ring-shaped chart showing proportional values.
+- **Stat call-out** — A labelled box highlighting one data point.

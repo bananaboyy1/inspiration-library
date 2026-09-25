@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-fashion-hero-introducing-with-model-and-product-cards",
+  "image": "images/web-orlina-fashion-hero-introducing-with-model-and-product-cards.webp",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "designStyle": "Editorial",
+  "title": "Orlina fashion 'Introducing' hero: a model in a leather coat over a giant serif wordmark with floating product cards",
+  "tags": [
+    "fashion",
+    "ecommerce",
+    "editorial",
+    "serif",
+    "hero",
+    "case-study"
+  ],
+  "whatItIs": "A blurred warm background with a grey rounded panel reading 'Introducing' and a giant faint 'Orlina' serif, a cut-out model in a brown leather coat and sunglasses standing in front, floating product and category cards (Man, Women, Kids), 'Trending Now' filter pills and a circular text badge.",
+  "whatItMeans": "Luxurious and editorial; the model breaks out of the panel like a magazine cover.",
+  "techniques": [
+    "Let a cut-out model break out of the content panel.",
+    "Set a giant faint serif wordmark behind.",
+    "Float small product cards at different depths."
+  ],
+  "bestFor": [
+    "Fashion e-commerce",
+    "Editorial storefronts",
+    "Case study covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Break-out",
+      "definition": "An element extending beyond its container."
+    },
+    {
+      "term": "Editorial commerce",
+      "definition": "Shopping design that borrows magazine style."
+    }
+  ]
+}

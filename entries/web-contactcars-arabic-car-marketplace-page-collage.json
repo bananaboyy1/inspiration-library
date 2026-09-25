@@ -1,0 +1,38 @@
+{
+  "name": "web-contactcars-arabic-car-marketplace-page-collage",
+  "image": "images/web-contactcars-arabic-car-marketplace-page-collage.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "ContactCars Arabic car marketplace: tilted collage of long pages with a red Mercedes",
+  "tags": [
+    "automotive",
+    "marketplace",
+    "arabic",
+    "rtl",
+    "collage",
+    "blue"
+  ],
+  "whatItIs": "A light-blue cover with several long Arabic website pages tilted and overlapping: a hero with a red Mercedes coupé and a search form, brand logo rows, listing cards of cars with prices, and a mobile app screenshot, with the ContactCars logo in the corner.",
+  "whatItMeans": "Busy but trustworthy; the page collage shows breadth of a large marketplace at a glance.",
+  "techniques": [
+    "Tilt and overlap full-length pages into a collage.",
+    "Repeat a hero car cut-out across pages.",
+    "Include brand logo rows as a navigation device."
+  ],
+  "bestFor": [
+    "Automotive marketplaces",
+    "Large website case studies",
+    "Arabic web projects"
+  ],
+  "vocabulary": [
+    {
+      "term": "Page collage",
+      "definition": "Several full screens arranged overlapping."
+    },
+    {
+      "term": "Listing card",
+      "definition": "A card showing one item for sale."
+    }
+  ]
+}

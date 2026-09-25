@@ -1,0 +1,34 @@
+{
+  "name": "print-social-carousel-red-white-black-typographic-motion",
+  "image": "images/print-social-carousel-red-white-black-typographic-motion.jpg",
+  "discipline": "print-social",
+  "designType": "Social carousel",
+  "designStyle": "Neo-Brutalist",
+  "title": "Red/white/black carousel with warped typographic motion",
+  "tags": [
+    "carousel",
+    "typography",
+    "warped text",
+    "red",
+    "neo-brutalist",
+    "motion"
+  ],
+  "whatItIs": "A nine-tile carousel in red, white and black using distorted, curved and isometric typography treatments (spinning ribbons, folded 3D words) to spell out marketing terms like SEO, CASE and CONVERSION.",
+  "whatItMeans": "Treating each keyword as its own typographic illustration turns plain marketing jargon into something visually memorable and shareable, rather than default flat labels.",
+  "techniques": [
+    "warp or curve type along a path to add motion and personality to a single word",
+    "render a word in isometric 3D fold to make it feel like a physical object",
+    "keep the palette to red/white/black across every tile so wildly different type treatments stay unified"
+  ],
+  "bestFor": [
+    "marketing agency brand carousels",
+    "typography-led social content",
+    "case study or portfolio teaser posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "warped type",
+      "definition": "typography distorted along a curve or path rather than set on a straight baseline"
+    }
+  ]
+}

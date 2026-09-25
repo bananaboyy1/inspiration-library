@@ -1,0 +1,34 @@
+{
+  "name": "print-social-poster-yellow-black-workshop-photo-split",
+  "image": "images/print-social-poster-yellow-black-workshop-photo-split.avif",
+  "discipline": "print-social",
+  "designType": "Event poster",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Yellow/black World Graphics Day workshop poster",
+  "tags": [
+    "poster",
+    "workshop",
+    "yellow black",
+    "photo duotone",
+    "event",
+    "corporate"
+  ],
+  "whatItIs": "A vertical A4 poster split into a black headline zone, a yellow-duotone photo of a designer at a desk, and a blue footer zone with registration details and concentric arc decoration.",
+  "whatItMeans": "Splitting the poster into three horizontal color zones (black/yellow/blue) creates clear reading order — hook, proof, action — without needing any borders or dividers.",
+  "techniques": [
+    "stack three flat-colored horizontal zones to create implicit hook/proof/action reading order",
+    "duotone a photo into the poster's accent color so it doesn't need its own separate palette",
+    "add a corner grid texture over the photo zone for a subtle 'design tool' reference"
+  ],
+  "bestFor": [
+    "design workshop/course event posters",
+    "corporate training marketing",
+    "three-zone informational poster templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "reading order",
+      "definition": "the implied sequence in which a viewer's eye moves through a composition's zones or elements"
+    }
+  ]
+}

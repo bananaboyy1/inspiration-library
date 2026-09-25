@@ -1,0 +1,34 @@
+{
+  "name": "print-social-infographic-retro-teal-cream-device-stack",
+  "image": "images/print-social-infographic-retro-teal-cream-device-stack.avif",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Retro & Pixel",
+  "title": "Retro teal/cream infographic with stacked device illustrations",
+  "tags": [
+    "infographic",
+    "retro",
+    "teal",
+    "cream",
+    "device stack",
+    "donut chart"
+  ],
+  "whatItIs": "A vertically stacked infographic in muted teal and cream, using flat retro-style monitor/laptop/phone illustrations, a donut chart, gender icon comparison bars and a bottom row of small social icons.",
+  "whatItMeans": "A muted retro palette and rounded flat device illustrations soften a data-heavy layout, making device-usage statistics feel more editorial than a typical dashboard export.",
+  "techniques": [
+    "stack devices by size (monitor, laptop, phone) to visually represent a usage hierarchy",
+    "use dashed leader lines from a donut chart to labeled percentages",
+    "bookend the layout with a banner header and icon-row footer for clear start/end points"
+  ],
+  "bestFor": [
+    "device usage/market share reports",
+    "retro-branded tech content",
+    "editorial-style data infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "donut chart",
+      "definition": "a pie chart variant with a hollow center, often used to display proportional data"
+    }
+  ]
+}

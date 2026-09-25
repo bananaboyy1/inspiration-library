@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-the-solution-banner-with-faded-laptop-heart-sketch",
+  "image": "images/web-fatis-the-solution-banner-with-faded-laptop-heart-sketch.webp",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Playful & Illustrated",
+  "title": "'The Solution' banner mirrored: faded pink laptop, heart and rising arrow sketch on the left",
+  "tags": [
+    "case-study",
+    "solution",
+    "pink",
+    "sketch",
+    "banner",
+    "illustration"
+  ],
+  "whatItIs": "A wide beige banner mirroring 'The Problem': a faded pink sketch of a laptop with a donut, a heart, sparkles, a cursor and a rising arrow on the left, and a hot pink 'The Solution' heading and paragraph on the right.",
+  "whatItMeans": "Uplifting and paired; mirroring the layout tells the reader this answers the problem.",
+  "techniques": [
+    "Mirror the problem layout for the solution.",
+    "Swap worried motifs for hearts and rising arrows.",
+    "Keep both banners in the same palette."
+  ],
+  "bestFor": [
+    "Case study pairs",
+    "Before/after storytelling",
+    "Illustrated headers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mirrored layout",
+      "definition": "A layout flipped left to right to pair two ideas."
+    },
+    {
+      "term": "Visual rhyme",
+      "definition": "Repeating a structure to link two sections."
+    }
+  ]
+}

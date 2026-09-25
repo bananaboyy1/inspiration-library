@@ -1,0 +1,38 @@
+{
+  "name": "print-social-aida-funnel-poster-isometric-magenta-with-3d-type",
+  "image": "images/print-social-aida-funnel-poster-isometric-magenta-with-3d-type.avif",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "designStyle": "3D & Surreal",
+  "title": "'AIDA' marketing funnel poster with isometric 3D block letters, a striped funnel and tiny business figures",
+  "tags": [
+    "aida",
+    "marketing-funnel",
+    "magenta",
+    "isometric",
+    "3d-type",
+    "presentation"
+  ],
+  "whatItIs": "A magenta poster with 'BUSINESS — Attention, Interest, Desire & Action' as the title, a large isometric 3D 'AIDA' wordmark behind a striped funnel shape (teal Attention, orange Interest, yellow Desire, navy Action), surrounded by small isometric business figures, a target, coins, cash and a magnifier, with concentric ring shadows beneath.",
+  "whatItMeans": "Authoritative and dimensional; rendering both the acronym and the funnel in 3D makes an abstract marketing model feel like a physical machine.",
+  "techniques": [
+    "Render an acronym as extruded 3D block letters.",
+    "Colour-code each funnel stage and repeat the colour in its label.",
+    "Populate a diagram with small isometric figures for scale and life."
+  ],
+  "bestFor": [
+    "Marketing framework explainers",
+    "Business training presentations",
+    "Isometric infographic posters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Isometric illustration",
+      "definition": "3D-style art drawn without perspective distortion, at a fixed angle."
+    },
+    {
+      "term": "Marketing funnel",
+      "definition": "A model showing stages from awareness to purchase."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-homepage-problem-and-solution-before-after",
+  "image": "images/web-fatis-homepage-problem-and-solution-before-after.gif",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Playful & Illustrated",
+  "title": "Fati's homepage before/after: 'Problem' and 'Solution' frames with pink explanatory copy",
+  "tags": [
+    "case-study",
+    "before-after",
+    "donuts",
+    "pink",
+    "homepage",
+    "animation"
+  ],
+  "whatItIs": "An animated beige slide with two offset rounded frames: the old homepage (a plain photo banner and 'Popular' row) and the redesigned one (categories and a playful hero), each paired with a pink 'Problem' or 'Solution' heading and paragraph.",
+  "whatItMeans": "Persuasive and honest; showing the old site next to the new makes the value of the redesign obvious.",
+  "techniques": [
+    "Stagger before and after frames diagonally.",
+    "Pair each frame with a short labelled explanation.",
+    "Keep text in the brand colour on a neutral base."
+  ],
+  "bestFor": [
+    "Redesign case studies",
+    "Stakeholder presentations",
+    "Portfolio storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Before/after",
+      "definition": "Showing an old and new version side by side."
+    },
+    {
+      "term": "Problem statement",
+      "definition": "A short description of what needed fixing."
+    }
+  ]
+}

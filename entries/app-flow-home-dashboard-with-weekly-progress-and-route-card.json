@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-home-dashboard-with-weekly-progress-and-route-card",
+  "image": "images/app-flow-home-dashboard-with-weekly-progress-and-route-card.webp",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "designStyle": "Minimalist",
+  "title": "Flow cycling app home dashboard: greeting, weekly progress bar, stat cards and a dark route-summary card",
+  "tags": [
+    "cycling",
+    "fitness",
+    "dashboard",
+    "light-ui",
+    "progress-bar",
+    "greeting"
+  ],
+  "whatItIs": "A light page with 'Akıllı Takip.' and 'Gerçek Zamanlı Performans Analizi.' headlines, a phone home screen greeting 'Günaydın, Ahmet' with a weekly progress bar (3/5 rides), three stat cards (distance, time, miles) and a recent-ride thumbnail, plus a separate dark route-summary card with a green route line, distance and date.",
+  "whatItMeans": "Encouraging and legible; a personal greeting and weekly bar make daily opens feel like progress, not just data.",
+  "techniques": [
+    "Greet the user by name with a friendly prompt.",
+    "Show a weekly goal as a simple progress bar.",
+    "Summarise a completed route as its own shareable card."
+  ],
+  "bestFor": [
+    "Fitness app home screens",
+    "Habit-building dashboards",
+    "Case study feature slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Progress bar",
+      "definition": "A bar showing how far along a goal is."
+    },
+    {
+      "term": "Route card",
+      "definition": "A compact summary of one completed route."
+    }
+  ]
+}

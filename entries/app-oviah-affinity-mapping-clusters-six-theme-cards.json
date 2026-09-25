@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-affinity-mapping-clusters-six-theme-cards",
+  "image": "images/app-oviah-affinity-mapping-clusters-six-theme-cards.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH affinity mapping: six themed lilac clusters grouping research findings into insight statements",
+  "tags": [
+    "affinity-mapping",
+    "ux-research",
+    "clusters",
+    "lilac",
+    "synthesis"
+  ],
+  "whatItIs": "A 3x2 grid of alternating light and mid-lilac cards titled 'Affinity Mapping (Clusters)': Physical Challenges, Emotional Challenges, Tracking Issues, Information Gap, Medical Record Management and a second Tracking Issues cluster, each listing bullet findings and closing with an italic synthesised insight quote.",
+  "whatItMeans": "Synthesised and traceable; grouping raw findings into named clusters shows how research became design direction.",
+  "techniques": [
+    "Cluster raw findings under named themes.",
+    "Close each cluster with a synthesised first-person insight.",
+    "Alternate card tints to distinguish adjacent clusters."
+  ],
+  "bestFor": [
+    "Affinity mapping documentation",
+    "Research synthesis slides",
+    "UX process decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Affinity mapping",
+      "definition": "Grouping research data into themes based on natural relationships."
+    },
+    {
+      "term": "Synthesis statement",
+      "definition": "A summarising insight drawn from grouped data."
+    }
+  ]
+}

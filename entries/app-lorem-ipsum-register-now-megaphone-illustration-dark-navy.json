@@ -1,0 +1,38 @@
+{
+  "name": "app-lorem-ipsum-register-now-megaphone-illustration-dark-navy",
+  "image": "images/app-lorem-ipsum-register-now-megaphone-illustration-dark-navy.avif",
+  "discipline": "app",
+  "designType": "App store presentation",
+  "designStyle": "Playful & Illustrated",
+  "title": "'Lorem ipsum' phone-shaped app promo with a flat illustration of people announcing through a giant megaphone",
+  "tags": [
+    "app-promo",
+    "megaphone",
+    "flat-illustration",
+    "navy",
+    "placeholder",
+    "register"
+  ],
+  "whatItIs": "A rounded phone-shaped card in dark navy with a flat illustration of two people beside a giant megaphone in front of an oversized phone, speech bubbles, scattered confetti shapes, placeholder 'Lorem ipsum' headline and a white 'Register now' pill button.",
+  "whatItMeans": "Energetic and generic-friendly; the placeholder text shows how a flat illustration template is meant to be reused across many campaigns.",
+  "techniques": [
+    "Frame a promo illustration inside a rounded phone-card shape.",
+    "Scatter simple confetti shapes for casual energy.",
+    "Keep the CTA button contrast-white against a dark card."
+  ],
+  "bestFor": [
+    "App promotion templates",
+    "Referral and announcement campaigns",
+    "Flat illustration marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Phone-card frame",
+      "definition": "A rounded rectangle mimicking a phone's shape as a layout container."
+    },
+    {
+      "term": "Placeholder copy",
+      "definition": "Generic filler text like 'Lorem ipsum' left for later replacement."
+    }
+  ]
+}

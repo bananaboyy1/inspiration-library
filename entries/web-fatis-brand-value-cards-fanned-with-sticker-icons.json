@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-brand-value-cards-fanned-with-sticker-icons",
+  "image": "images/web-fatis-brand-value-cards-fanned-with-sticker-icons.gif",
+  "discipline": "web",
+  "designType": "Page section",
+  "designStyle": "Playful & Illustrated",
+  "title": "Fati's brand values: five colourful cards fanned in a wave with sticker donut icons",
+  "tags": [
+    "values",
+    "cards",
+    "colourful",
+    "stickers",
+    "donuts",
+    "animation"
+  ],
+  "whatItIs": "An animated section of five tilted, overlapping cards in green, hot pink, orange, periwinkle and plum ('Freshly Made', 'Made for You', 'Full of Flavor', 'Made to Share', 'Crafted with Care') each with bullet points and a white-outlined donut sticker icon at the top corner.",
+  "whatItMeans": "Joyful and generous; each value gets its own colour, like a box of assorted donuts.",
+  "techniques": [
+    "Fan cards in a wave with slight rotations.",
+    "Give each card its own saturated colour.",
+    "Pin a sticker icon on each card's corner."
+  ],
+  "bestFor": [
+    "About and values sections",
+    "Feature lists",
+    "Playful brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Card fan",
+      "definition": "Overlapping cards spread in an arc."
+    },
+    {
+      "term": "Sticker icon",
+      "definition": "An illustration with a white cut-out border."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "web-learnnova-e-learning-case-study-cover-with-tag-labels-and-tape",
+  "image": "images/web-learnnova-e-learning-case-study-cover-with-tag-labels-and-tape.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "LearnNova e-learning case study cover with cursor tag labels and a yellow caution-tape banner",
+  "tags": [
+    "e-learning",
+    "blue",
+    "lime",
+    "tape",
+    "case-study-cover",
+    "dashboard"
+  ],
+  "whatItIs": "A pale lavender cover with the 'LearnNova' wordmark (lightbulb 'N'), blue pill labels with cursor arrows (E-Learning, UI/UX Design, Web Design, Case Study), a desktop screen of the learning dashboard with mentor photos, and a lime tape strip repeating the disciplines across the bottom.",
+  "whatItMeans": "Energetic and organised; cursor labels feel like a live design file.",
+  "techniques": [
+    "Label a cover with Figma-style cursor tags.",
+    "Run a repeating tape strip across the bottom.",
+    "Frame the main screen between cropped side screens."
+  ],
+  "bestFor": [
+    "E-learning platforms",
+    "Portfolio case study covers",
+    "Education startups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cursor tag",
+      "definition": "A pill with a pointer like a collaborator's cursor."
+    },
+    {
+      "term": "Tape banner",
+      "definition": "A strip of repeated text like barrier tape."
+    }
+  ]
+}

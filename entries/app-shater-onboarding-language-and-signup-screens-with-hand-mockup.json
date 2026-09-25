@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-onboarding-language-and-signup-screens-with-hand-mockup",
+  "image": "images/app-shater-onboarding-language-and-signup-screens-with-hand-mockup.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater onboarding: hand-held hero phone above ten language, welcome and signup screens",
+  "tags": [
+    "onboarding",
+    "arabic",
+    "language-picker",
+    "signup",
+    "orange",
+    "hand-mockup"
+  ],
+  "whatItIs": "A light page with a numbered 'تطبيق العميل' (Client App) title, a hand holding the app's home screen, and ten sequential onboarding screens below: two handshake intros, a notification preview, a feature carousel, a splash logo, welcome screens with phone-number and OTP fields, and a language picker listing Arabic, English, French, Urdu, Hindi, Bengali and more.",
+  "whatItMeans": "Inclusive and thorough; a full language list signals the product was built for a genuinely international audience.",
+  "techniques": [
+    "Sequence onboarding screens left to right in reading order.",
+    "Offer a wide language list with flags for recognition.",
+    "Use OTP verification for a lightweight signup."
+  ],
+  "bestFor": [
+    "Onboarding flow documentation",
+    "Multilingual apps",
+    "Signup UX case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "OTP",
+      "definition": "One-time password sent to verify a phone number."
+    },
+    {
+      "term": "Language picker",
+      "definition": "A screen for choosing the app's display language."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "web-liquid-glass-quote-card-green-accent",
+  "image": "images/web-liquid-glass-quote-card-green-accent.avif",
+  "discipline": "web",
+  "designType": "UI components",
+  "designStyle": "Glassmorphism",
+  "title": "Liquid-glass quote card with green accent word",
+  "tags": [
+    "glassmorphism",
+    "quote card",
+    "liquid glass",
+    "dark mode",
+    "green accent",
+    "grid"
+  ],
+  "whatItIs": "A second variant of the jagged glass-panel quote card, this time with a green highlighted keyword and glass hexagonal prop shapes at its corners.",
+  "whatItMeans": "Using one accent color inside otherwise white text draws the eye straight to the concept word, turning a quote into a one-glance takeaway.",
+  "techniques": [
+    "highlight a single keyword in an accent color instead of styling the whole quote",
+    "vary the glass corner props (spheres, prisms) across a template set to keep a series feeling designed, not copy-pasted",
+    "keep the background grid identical across variants to build a recognizable template family"
+  ],
+  "bestFor": [
+    "quote-of-the-day social series",
+    "dark-mode design system UI kits",
+    "brand thought-leadership posts"
+  ],
+  "vocabulary": [
+    {
+      "term": "accent color",
+      "definition": "a single distinct color used sparingly to draw attention within an otherwise neutral palette"
+    }
+  ]
+}

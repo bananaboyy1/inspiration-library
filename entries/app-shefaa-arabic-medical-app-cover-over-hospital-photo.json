@@ -1,0 +1,38 @@
+{
+  "name": "app-shefaa-arabic-medical-app-cover-over-hospital-photo",
+  "image": "images/app-shefaa-arabic-medical-app-cover-over-hospital-photo.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shefaa Arabic medical app cover: two phones over a blue-tinted hospital photo with store badges",
+  "tags": [
+    "health",
+    "arabic",
+    "blue",
+    "hospital",
+    "app-store",
+    "case-study-cover"
+  ],
+  "whatItIs": "A cover with a blue-tinted photo of a doctor helping a patient, two phones showing an Arabic health home screen (services grid, doctors, banners), App Store and Google Play badges, a heart-shield logo and an Arabic tagline.",
+  "whatItMeans": "Caring and reliable; the real clinic photo grounds the app in human care.",
+  "techniques": [
+    "Tint a background photo in the brand blue.",
+    "Float two phones at slightly different angles.",
+    "Add store badges to signal a real product."
+  ],
+  "bestFor": [
+    "Health apps",
+    "Arabic-market apps",
+    "Launch covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Store badges",
+      "definition": "Official App Store and Google Play buttons."
+    },
+    {
+      "term": "Colour tint",
+      "definition": "A single colour laid over a photo."
+    }
+  ]
+}

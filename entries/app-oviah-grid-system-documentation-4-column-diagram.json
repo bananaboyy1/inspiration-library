@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-grid-system-documentation-4-column-diagram",
+  "image": "images/app-oviah-grid-system-documentation-4-column-diagram.webp",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH grid system: a labelled 4-column, 16px-gutter phone grid diagram with a rationale note",
+  "tags": [
+    "design-system",
+    "grid",
+    "lilac",
+    "documentation",
+    "layout"
+  ],
+  "whatItIs": "A white slide with a short rationale paragraph on the left and, on the right, a diagram of a rounded phone frame divided into four lilac columns each 16px apart, labelled '4 Column Grid' and '440px' for the total width.",
+  "whatItMeans": "Rigorous and reusable; documenting the exact grid keeps every future screen consistent without guesswork.",
+  "techniques": [
+    "Diagram a layout grid with exact pixel measurements.",
+    "Explain the grid's purpose in one short paragraph.",
+    "Show the grid overlaid on the actual device frame shape."
+  ],
+  "bestFor": [
+    "Design system documentation",
+    "Layout grid specs",
+    "Handoff-ready UX files"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gutter",
+      "definition": "The fixed space between grid columns."
+    },
+    {
+      "term": "Layout grid",
+      "definition": "An invisible structure of columns guiding alignment."
+    }
+  ]
+}

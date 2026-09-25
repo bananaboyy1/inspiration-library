@@ -1,0 +1,38 @@
+{
+  "name": "app-bmw-i7-automotive-dashboard-on-tablet-stand",
+  "image": "images/app-bmw-i7-automotive-dashboard-on-tablet-stand.png",
+  "discipline": "app",
+  "designType": "Dashboard",
+  "designStyle": "Dark & Neon",
+  "title": "BMW i7 automotive dashboard on a tablet stand: dark UI with orange energy charts and seat heating",
+  "tags": [
+    "automotive",
+    "dashboard",
+    "dark-ui",
+    "orange",
+    "tablet",
+    "ev"
+  ],
+  "whatItIs": "A tablet on a desk stand showing a dark car app: 'Good evening' header with the car photo, battery and charging gauges, orange bar charts of energy consumption, tyre pressure, a performance line chart and a climate view with blue-lit seats, with a finger tapping the screen.",
+  "whatItMeans": "Premium and technical; amber accents on black echo a car's night-time instrument panel.",
+  "techniques": [
+    "Borrow the palette of real car interiors.",
+    "Lead with a photo of the owner's vehicle.",
+    "Use small multiples of charts in a card grid."
+  ],
+  "bestFor": [
+    "Automotive apps",
+    "EV companion dashboards",
+    "Connected device UIs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Small multiples",
+      "definition": "Many small charts in a grid for comparison."
+    },
+    {
+      "term": "Companion app",
+      "definition": "An app that controls or monitors a device."
+    }
+  ]
+}

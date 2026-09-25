@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-onboarding-and-symptom-logging-screens-grid",
+  "image": "images/app-oviah-onboarding-and-symptom-logging-screens-grid.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Minimalist",
+  "title": "OVIAH onboarding and daily logging: mode selection, calendar setup, symptom and lifestyle tracker screens",
+  "tags": [
+    "onboarding",
+    "period-tracking",
+    "lilac",
+    "symptom-logging",
+    "forms"
+  ],
+  "whatItIs": "A tilted grid of 15 phone screens: mode selection (First Period vs Regular), a feature preview grid, a calendar for last-period date, notification preferences, a setup-complete screen, the home dashboard, an insights summary, a symptom logger (flow, mood, symptoms), and lifestyle/medication tracking forms with icon toggles.",
+  "whatItMeans": "Personalised and thorough; branching onboarding by period stage shows the app adapts to very different users.",
+  "techniques": [
+    "Branch onboarding early based on a key user difference.",
+    "Preview what each mode unlocks before committing.",
+    "Use icon toggle grids for fast symptom logging."
+  ],
+  "bestFor": [
+    "Health app onboarding",
+    "Personalised setup flows",
+    "Daily logging UX"
+  ],
+  "vocabulary": [
+    {
+      "term": "Branching onboarding",
+      "definition": "Onboarding that adapts based on an early user choice."
+    },
+    {
+      "term": "Icon toggle",
+      "definition": "A selectable button combining an icon and label."
+    }
+  ]
+}

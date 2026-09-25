@@ -1,0 +1,34 @@
+{
+  "name": "print-social-slide-social-proof-stat-cards-teal-blob",
+  "image": "images/print-social-slide-social-proof-stat-cards-teal-blob.avif",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "designStyle": "Minimalist",
+  "title": "Minimal slide with social platform stat cards over a soft blob",
+  "tags": [
+    "presentation",
+    "slide",
+    "stat card",
+    "teal gradient",
+    "blob shape",
+    "minimal"
+  ],
+  "whatItIs": "A clean presentation slide pairing a short headline and body copy on the left with three floating white stat cards (Facebook, YouTube, Twitter follower counts) laid over a soft teal organic blob shape.",
+  "whatItMeans": "A single soft gradient blob gives an otherwise flat white slide a focal point and depth, letting small stat cards feel like they're 'floating' with purpose rather than just placed.",
+  "techniques": [
+    "use one large soft organic blob as a background anchor instead of a busy image",
+    "float small white data cards partially over the blob edge for layered depth",
+    "keep typography strictly left-aligned and minimal so the blob/cards carry the visual interest"
+  ],
+  "bestFor": [
+    "pitch deck social proof slides",
+    "minimal SaaS presentation templates",
+    "marketing report title slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "blob shape",
+      "definition": "an organic, irregularly rounded background shape used to add softness and focal interest"
+    }
+  ]
+}

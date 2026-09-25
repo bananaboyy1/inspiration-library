@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-admin-panel-country-modal-and-tablet-hero",
+  "image": "images/app-shater-admin-panel-country-modal-and-tablet-hero.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater control panel: tablet hero with a country-selector modal and a grid of admin sub-screens",
+  "tags": [
+    "admin-panel",
+    "arabic",
+    "modal",
+    "tablet",
+    "orange",
+    "country-selector"
+  ],
+  "whatItIs": "A light page with a big orange-and-navy 'لوحة التحكم' title, a tablet held in a hand showing the dashboard, and a grid of six framed admin screens including a new-admin form, a country-selection modal with flag radio buttons, a delete-confirmation dialog and further dashboard variants.",
+  "whatItMeans": "Detail-oriented; surfacing modals and edge-case dialogs shows the admin panel was designed beyond the happy path.",
+  "techniques": [
+    "Include modals and dialogs, not just base screens.",
+    "Use flag radio buttons for a country selector.",
+    "Frame every admin screen in a consistent outlined card."
+  ],
+  "bestFor": [
+    "Admin panel documentation",
+    "Modal and dialog design",
+    "B2B platform case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Modal",
+      "definition": "A dialog that appears over the current screen and blocks interaction."
+    },
+    {
+      "term": "Radio button",
+      "definition": "A control for picking exactly one option from a list."
+    }
+  ]
+}

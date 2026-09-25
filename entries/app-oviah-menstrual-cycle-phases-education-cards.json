@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-menstrual-cycle-phases-education-cards",
+  "image": "images/app-oviah-menstrual-cycle-phases-education-cards.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH educational slide: the four menstrual cycle phases explained in a 2x2 lilac card grid",
+  "tags": [
+    "health-education",
+    "period-tracking",
+    "lilac",
+    "cards",
+    "research"
+  ],
+  "whatItIs": "A white slide titled 'Different phases in a menstrual cycle' with a 2x2 grid of lilac cards (Menstrual, Follicular, Ovulation, Luteal), each naming its approximate day range, bullet facts and a 'What is happening' explanation.",
+  "whatItMeans": "Educational and credible; grounding app content in real physiology builds trust before showing any UI.",
+  "techniques": [
+    "Explain domain knowledge before showing the product.",
+    "Pair each phase with both facts and a plain-language summary.",
+    "Use a consistent card template across all four phases."
+  ],
+  "bestFor": [
+    "Health education content",
+    "Domain research slides",
+    "Content strategy documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Domain knowledge",
+      "definition": "Background subject expertise informing a design."
+    },
+    {
+      "term": "Card grid",
+      "definition": "Content arranged in equal rectangular cells."
+    }
+  ]
+}

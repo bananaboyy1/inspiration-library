@@ -1,0 +1,26 @@
+# Orlina 'Introducing' hero, alternate wide crop with trending filter pills and product cards
+
+![](../images/web-orlina-introducing-hero-alternate-crop-with-model-cards.png)
+
+**Discipline:** web · **Design type:** E-commerce · **Design style:** Editorial
+**Tags:** fashion, hero, editorial, crop-variant, model, cards
+
+## What it is
+The same warm-toned Orlina hero as the primary case (model in a brown leather coat over a giant faint wordmark) shown in a slightly different crop with 'Trending Now' filter pills (Formal, Man, Woman, Kids) fully visible and floating product cards for Man, Women and Kids to the right.
+
+## What it means
+Same idea, wider view; useful for seeing how the filter row and product cards sit beside the hero.
+
+## Techniques
+- Keep filter pills visible above a full-bleed hero.
+- Float category cards along one edge.
+- Reuse a hero across crops for responsive variations.
+
+## Best for
+- Fashion e-commerce heroes
+- Responsive layout reference
+- Filter row placement
+
+## Vocabulary
+- **Filter pill** — A rounded button for narrowing a category.
+- **Crop variant** — The same design shown at a different crop or size.

@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-wireframes-mid-fidelity-signup-onboarding-flow",
+  "image": "images/app-oviah-wireframes-mid-fidelity-signup-onboarding-flow.webp",
+  "discipline": "app",
+  "designType": "Wireframe showcase",
+  "designStyle": "Minimalist",
+  "title": "OVIAH mid-fidelity wireframes: greyscale signup, onboarding and reminders screens in a row",
+  "tags": [
+    "wireframes",
+    "mid-fidelity",
+    "greyscale",
+    "onboarding",
+    "ux-process"
+  ],
+  "whatItIs": "Seven greyscale phone wireframes labelled 'Wireframes (Mid Fidelity)': create account, login, name and photo entry, date of birth, calendar setup, a setup-complete screen with a placeholder ring, and a reminders list with pill frequency options.",
+  "whatItMeans": "Structural and honest; showing bare wireframes before the styled screens proves the layout was solved first.",
+  "techniques": [
+    "Strip colour and imagery to test layout alone.",
+    "Sequence wireframes in the exact order a user experiences them.",
+    "Use placeholder circles for imagery not yet designed."
+  ],
+  "bestFor": [
+    "UX process documentation",
+    "Wireframe presentations",
+    "Design critique decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Mid-fidelity wireframe",
+      "definition": "A layout mockup with structure but no final visual style."
+    },
+    {
+      "term": "Placeholder",
+      "definition": "A temporary stand-in for content not yet finalised."
+    }
+  ]
+}

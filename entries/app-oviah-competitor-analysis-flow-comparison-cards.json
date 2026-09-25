@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-competitor-analysis-flow-comparison-cards",
+  "image": "images/app-oviah-competitor-analysis-flow-comparison-cards.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH competitor analysis: four period-app flows compared as arrow-linked step chains with logos",
+  "tags": [
+    "competitor-analysis",
+    "ux-research",
+    "health",
+    "lilac",
+    "comparison"
+  ],
+  "whatItIs": "A white slide titled 'We looked beyond the interface. What already exists?' with four competitor cards (My Period Calendar, Flo, Clue, Ovia), each showing its core flow as arrow-linked steps (Track → Record → Predict) with bullet pros/cons and the app's logo, closing with 'The more features we add, the easier it is to overwhelm the user.'",
+  "whatItMeans": "Analytical and honest; reducing each competitor to one flow line makes differences instantly comparable.",
+  "techniques": [
+    "Reduce each competitor to a single arrow-linked flow.",
+    "Pair pros and cons as short bullets under each flow.",
+    "End competitive analysis with a stated design principle."
+  ],
+  "bestFor": [
+    "Competitor analysis slides",
+    "UX research documentation",
+    "Market positioning"
+  ],
+  "vocabulary": [
+    {
+      "term": "Flow chain",
+      "definition": "A sequence of steps linked by arrows."
+    },
+    {
+      "term": "Design principle",
+      "definition": "A guiding statement derived from research."
+    }
+  ]
+}

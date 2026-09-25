@@ -1,0 +1,34 @@
+{
+  "name": "print-social-carousel-dark-mint-digital-tech-headline-tile",
+  "image": "images/print-social-carousel-dark-mint-digital-tech-headline-tile.avif",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Dark and mint digital-technology carousel with bold headline lead tile",
+  "tags": [
+    "carousel",
+    "tech",
+    "mint dark",
+    "outline icons",
+    "corporate",
+    "instagram"
+  ],
+  "whatItIs": "A companion grid from the same Digital Technology brand, reordering the lead tile to a bold 'DIGITAL TECHNOLOGY' dark headline card with a large outline gear icon and glow-dot accent.",
+  "whatItMeans": "Swapping the grid's lead tile for a headline-forward cover shows an alternate first impression a brand can test, while every downstream tile stays visually identical to the sibling set.",
+  "techniques": [
+    "use a giant single icon as the dominant graphic on a cover/title tile",
+    "add a small glowing dot accent to a flat icon to hint at 'active/on' status",
+    "keep a consistent grid density (mix of photo and icon tiles) across cover variants"
+  ],
+  "bestFor": [
+    "B2B tech company social content",
+    "conference/summit promotional grids",
+    "cover-tile A/B testing for template packs"
+  ],
+  "vocabulary": [
+    {
+      "term": "A/B cover testing",
+      "definition": "producing multiple lead/cover tile variants of the same content set to compare performance"
+    }
+  ]
+}

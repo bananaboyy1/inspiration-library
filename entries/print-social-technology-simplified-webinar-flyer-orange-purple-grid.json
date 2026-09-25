@@ -1,0 +1,38 @@
+{
+  "name": "print-social-technology-simplified-webinar-flyer-orange-purple-grid",
+  "image": "images/print-social-technology-simplified-webinar-flyer-orange-purple-grid.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Playful & Illustrated",
+  "title": "'Technology Simplified' webinar flyer with an orange-purple grid of flat illustration and abstract tiles",
+  "tags": [
+    "webinar",
+    "grid-layout",
+    "orange",
+    "purple",
+    "flat-illustration",
+    "flyer"
+  ],
+  "whatItIs": "A purple-bordered black flyer with a pill-shaped 'TECHNOLOGY SIMPLIFIED' header, a grid of tiles: a flat illustration of a man checking his phone on orange, two abstract geometric pattern tiles, pink 'Join the Webinar' and yellow date pills, and a bold purple 'Innovate the Future' headline with speaker credit and registration link.",
+  "whatItMeans": "Organised and modern; treating logistics as grid tiles alongside illustration makes a webinar flyer feel like a tidy dashboard.",
+  "techniques": [
+    "Arrange mixed content types (illustration, pattern, logistics) as grid tiles.",
+    "Use pill-shaped tiles for date and action details.",
+    "Frame the whole flyer in one bold border colour."
+  ],
+  "bestFor": [
+    "Webinar and course promotion",
+    "Grid-based flyer layouts",
+    "Tech education marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tile grid",
+      "definition": "A layout of equal-sized cells each holding different content."
+    },
+    {
+      "term": "Pill tile",
+      "definition": "A rounded rectangle used to hold a short piece of information."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-medscan-ai-medical-app-cover-with-dna-strands",
+  "image": "images/app-medscan-ai-medical-app-cover-with-dna-strands.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "MedScan medical app cover with a teal wordmark, AI diagnosis card and 3D DNA strands",
+  "tags": [
+    "health",
+    "ai",
+    "teal",
+    "dna",
+    "case-study-cover",
+    "doctors"
+  ],
+  "whatItIs": "A pale blue cover with a big teal 'MedScan' title, orange 'Medical App' subtitle and a paragraph, a phone showing a greeting, search bar, teal AI 'Diagnose now' card with a robot, and a 'Top Doctor' row, framed by blurry 3D DNA helixes in the corners.",
+  "whatItMeans": "Clinical yet friendly; DNA props tell you it's medical before you read a word.",
+  "techniques": [
+    "Frame the cover with a blurred 3D subject motif.",
+    "Lead the home screen with an AI feature card.",
+    "Pair a teal title with a warm orange subtitle."
+  ],
+  "bestFor": [
+    "Health app case studies",
+    "AI diagnosis products",
+    "Behance covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Project cover",
+      "definition": "The thumbnail image that introduces a case study."
+    },
+    {
+      "term": "Feature card",
+      "definition": "A highlighted card promoting one capability."
+    }
+  ]
+}

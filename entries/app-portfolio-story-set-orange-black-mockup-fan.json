@@ -1,0 +1,34 @@
+{
+  "name": "app-portfolio-story-set-orange-black-mockup-fan",
+  "image": "images/app-portfolio-story-set-orange-black-mockup-fan.jpg",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Editorial",
+  "title": "Fanned phone mockups showing an orange/black portfolio story set",
+  "tags": [
+    "phone mockup",
+    "stories",
+    "orange black",
+    "portfolio",
+    "editorial",
+    "fan layout"
+  ],
+  "whatItIs": "Five phone mockups fanned out on a grey background, each displaying a different story screen (podcast, live talks, Q&A, branding, work-with-us) from one cohesive orange-and-black portfolio brand.",
+  "whatItMeans": "A fanned multi-device arrangement lets a designer showcase a full story sequence at once, giving viewers the sense of flipping through a real Instagram highlight reel.",
+  "techniques": [
+    "fan multiple device mockups at slight angles to show a sequence as one composition",
+    "hold a strict two-color (orange/black) system across every screen for instant brand recognition",
+    "mix full-bleed photography screens with pure typographic screens for pacing"
+  ],
+  "bestFor": [
+    "personal brand/portfolio story highlights",
+    "case study presentation of a social system",
+    "creative agency self-promotion"
+  ],
+  "vocabulary": [
+    {
+      "term": "device mockup fan",
+      "definition": "a presentation arrangement showing multiple screens on angled, overlapping device frames"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-oviah-problem-statement-symptom-map-and-impact-cards",
+  "image": "images/app-oviah-problem-statement-symptom-map-and-impact-cards.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH period-tracker problem slide: a symptom callout illustration and four lilac impact cards",
+  "tags": [
+    "ux-research",
+    "health",
+    "period-tracking",
+    "lilac",
+    "illustration",
+    "problem-statement"
+  ],
+  "whatItIs": "A white slide headed 'Period tracking is easy. Understanding your health isn't.' with a bullet list of consequences, a flat illustration of a woman with dotted lines pointing to symptoms (Cramps, PMS, Heavy Bleeding, Acne & Skin), and four lilac cards (Study, Work, Well-being, Daily Life) each with bullet impacts.",
+  "whatItMeans": "Empathetic and evidence-based; mapping symptoms directly onto a figure makes an abstract health problem visceral.",
+  "techniques": [
+    "Point dotted lines from a figure to named symptoms.",
+    "Group real-world impact into labelled category cards.",
+    "Pair a 'what' statement with a 'why it matters' section."
+  ],
+  "bestFor": [
+    "Health app UX research",
+    "Problem framing slides",
+    "Case study openers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Symptom map",
+      "definition": "An illustration linking a body to labelled symptoms."
+    },
+    {
+      "term": "Impact card",
+      "definition": "A card grouping consequences of a problem by category."
+    }
+  ]
+}

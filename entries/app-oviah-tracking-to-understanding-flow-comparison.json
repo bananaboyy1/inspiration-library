@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-tracking-to-understanding-flow-comparison",
+  "image": "images/app-oviah-tracking-to-understanding-flow-comparison.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'From Tracking to Understanding': a three-step industry flow versus a five-step desired flow",
+  "tags": [
+    "ux-strategy",
+    "flow-comparison",
+    "lilac",
+    "insight",
+    "research"
+  ],
+  "whatItIs": "A white slide comparing 'Most apps follow' (Track → Record → Predict, three purple pills with arrows) against the 'Desired Experience' (Tracking → Understanding → Personalized Guidance → Action → Better Health Management, five pills), closing with an italic insight statement in a left-bordered quote block.",
+  "whatItMeans": "Strategic and persuasive; stretching three steps into five makes the product's added value visually obvious.",
+  "techniques": [
+    "Show the industry-standard flow before your improved one.",
+    "Grow the number of steps to visualise added value.",
+    "Close a comparison with a left-bordered italic insight."
+  ],
+  "bestFor": [
+    "Product strategy slides",
+    "UX research insights",
+    "Competitive differentiation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Blockquote styling",
+      "definition": "A left-border and italic treatment marking a key insight."
+    },
+    {
+      "term": "Flow expansion",
+      "definition": "Adding meaningful steps to show deeper value."
+    }
+  ]
+}

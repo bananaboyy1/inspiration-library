@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-preview-summary-achievements-profile-closing-tagline",
+  "image": "images/app-flow-preview-summary-achievements-profile-closing-tagline.webp",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "designStyle": "Dark & Neon",
+  "title": "Flow cycling app: route preview, ride summary, achievements and profile screens ending in a bold closing tagline",
+  "tags": [
+    "cycling",
+    "fitness",
+    "dark-ui",
+    "achievements",
+    "profile",
+    "closing-slide"
+  ],
+  "whatItIs": "A dark closing spread: a route-preview map, a ride-summary score card (85, distance, pace), a gamified 'Başarılar' (Achievements) screen with badges and level progress, a profile with stats and settings list, each captioned with rationale, then a bold black slide with a white organic blob and 'Dikkatin Yolda, Destek Flow'da.' (Your focus on the road, support from Flow).",
+  "whatItMeans": "Motivating and complete; gamified badges close the loop from tracking to encouragement before the sign-off.",
+  "techniques": [
+    "Close a fitness flow with badges and level progress.",
+    "End a case study with a short, punchy brand line.",
+    "Reuse the organic blob shape from the cover as a closing bookend."
+  ],
+  "bestFor": [
+    "Fitness gamification",
+    "Case study closings",
+    "Sports app profile screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Gamification",
+      "definition": "Using game mechanics like badges and levels to motivate."
+    },
+    {
+      "term": "Bookend",
+      "definition": "A visual element repeated at the start and end for unity."
+    }
+  ]
+}

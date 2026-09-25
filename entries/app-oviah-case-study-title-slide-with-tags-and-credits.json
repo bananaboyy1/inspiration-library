@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-case-study-title-slide-with-tags-and-credits",
+  "image": "images/app-oviah-case-study-title-slide-with-tags-and-credits.webp",
+  "discipline": "app",
+  "designType": "Case study cover",
+  "designStyle": "Minimalist",
+  "title": "OVIAH case study title slide: wordmark, category tags and full team credit line beside a glossy 3D app icon",
+  "tags": [
+    "case-study-cover",
+    "title-slide",
+    "tags",
+    "credits",
+    "lilac"
+  ],
+  "whatItIs": "A white cover with 'Women's Health & Period Tracking App' eyebrow, the large OVIAH wordmark, tagline, a 'UX/UI Case Study' label with four pink-outlined tag pills (UX Research, UX Strategy, UI/UX Design, Prototyping), a full team credit line, and the same glossy 3D app-icon tile with badge on the right.",
+  "whatItMeans": "Professional and scannable; tag pills let a viewer instantly see the case study's scope before reading further.",
+  "techniques": [
+    "List a case study's discipline scope as tag pills.",
+    "Credit the full team on the opening slide, not just the close.",
+    "Bookend a case study with the same 3D icon tile at start and end."
+  ],
+  "bestFor": [
+    "Case study title slides",
+    "Portfolio project covers",
+    "UX case study openers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tag pill",
+      "definition": "A small rounded label naming one category or skill."
+    },
+    {
+      "term": "Bookending",
+      "definition": "Repeating a visual element at both the start and end of a piece."
+    }
+  ]
+}

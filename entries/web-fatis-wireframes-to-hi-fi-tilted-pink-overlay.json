@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-wireframes-to-hi-fi-tilted-pink-overlay",
+  "image": "images/web-fatis-wireframes-to-hi-fi-tilted-pink-overlay.webp",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Playful & Illustrated",
+  "title": "Fati's wireframes fading into hi-fi: tilted pages with pale pink placeholder blocks and live headings",
+  "tags": [
+    "wireframes",
+    "pink",
+    "tilted",
+    "case-study",
+    "ecommerce",
+    "process"
+  ],
+  "whatItIs": "A tilted collage of long pages where pale pink placeholder rectangles stand in for images while headings ('Best Seller', 'New Favorite', 'More Than Donuts') and product details are already styled, framed by thin pink lines.",
+  "whatItMeans": "Transparent and thoughtful; the half-finished look reveals the step between structure and polish.",
+  "techniques": [
+    "Show placeholders in a pale brand tint instead of grey.",
+    "Keep headings fully styled while images are blanks.",
+    "Tilt the whole canvas for dynamism."
+  ],
+  "bestFor": [
+    "Design process slides",
+    "Wireframe presentations",
+    "UX case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Wireframe",
+      "definition": "A simplified layout showing structure without final visuals."
+    },
+    {
+      "term": "Placeholder",
+      "definition": "A temporary block marking where content will go."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-cycling-icon-reveal-on-iphone-home-screen",
+  "image": "images/app-flow-cycling-icon-reveal-on-iphone-home-screen.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Minimalist",
+  "title": "Flow cycling app icon revealed on an iPhone lock screen with a Turkish tagline",
+  "tags": [
+    "cycling",
+    "app-icon",
+    "home-screen",
+    "turkish",
+    "mint-green",
+    "case-study"
+  ],
+  "whatItIs": "A white slide with the bold headline 'Daha Akıllı Sür, Daha Uzağa Git.' (Ride Smarter, Go Further) above a cropped iPhone showing the mint 'Flow' app icon with a red notification badge among Maps, Health, Wallet and Settings on a lock screen.",
+  "whatItMeans": "Confident and real; placing the icon among familiar system apps makes a concept feel like a shipped product.",
+  "techniques": [
+    "Reveal an app icon in situ on a real lock screen.",
+    "Lead with a benefit-driven tagline before any UI.",
+    "Keep the palette to mint green and white."
+  ],
+  "bestFor": [
+    "App icon reveals",
+    "Fitness and sports apps",
+    "Case study openers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon badge",
+      "definition": "The small number or dot on an app icon showing new activity."
+    },
+    {
+      "term": "In situ mockup",
+      "definition": "Showing a design in its real, expected context."
+    }
+  ]
+}

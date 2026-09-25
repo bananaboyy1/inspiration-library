@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-project-intro-timeline-with-tilted-phone",
+  "image": "images/app-oviah-project-intro-timeline-with-tilted-phone.webp",
+  "discipline": "app",
+  "designType": "Case study intro slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'More than just a Period tracker' intro with a three-week timeline beside a tilted splash-screen phone",
+  "tags": [
+    "case-study-intro",
+    "timeline",
+    "lilac",
+    "splash-screen",
+    "project-scope"
+  ],
+  "whatItIs": "A white slide with a reframing headline and description, a 'Project Timeline — 3 Weeks' section with three lilac cards (Week 01 Research & Ideation, Week 02 User Flows & Wireframes, Week 03 UI Design & Prototyping), beside a large tilted phone showing the OVIAH splash screen on a purple blob backdrop.",
+  "whatItMeans": "Scoped and credible; naming exact weekly phases shows the whole process fit a realistic, disciplined timeline.",
+  "techniques": [
+    "State the project timeline as named weekly phases.",
+    "Open with a reframing headline before the details.",
+    "Balance a text-heavy left side with one large hero device."
+  ],
+  "bestFor": [
+    "Case study introductions",
+    "Project scope slides",
+    "Process timeline documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reframing headline",
+      "definition": "An opening line that redefines what a product really is."
+    },
+    {
+      "term": "Weekly phase",
+      "definition": "A project stage bounded by a specific week."
+    }
+  ]
+}

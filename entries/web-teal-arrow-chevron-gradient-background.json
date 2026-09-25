@@ -1,0 +1,38 @@
+{
+  "name": "web-teal-arrow-chevron-gradient-background",
+  "image": "images/web-teal-arrow-chevron-gradient-background.avif",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "designStyle": "Gradient & Aurora",
+  "title": "Teal gradient background with layered translucent arrow-chevron shapes pointing right",
+  "tags": [
+    "background",
+    "teal",
+    "gradient",
+    "chevron",
+    "arrow",
+    "minimal"
+  ],
+  "whatItIs": "A horizontal teal gradient background with two overlapping translucent chevron/arrow shapes pointing right, darker at the edges and brighter cyan at the tip, leaving open space on the right for text.",
+  "whatItMeans": "Directional and calm; the arrow shapes quietly suggest forward motion or progress without any text.",
+  "techniques": [
+    "Layer translucent chevrons for depth without clutter.",
+    "Brighten a shape's tip to draw the eye in one direction.",
+    "Leave open negative space for a headline to sit later."
+  ],
+  "bestFor": [
+    "Presentation backgrounds",
+    "Banner templates",
+    "Corporate slide decks"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chevron",
+      "definition": "A V-shaped arrow form."
+    },
+    {
+      "term": "Negative space",
+      "definition": "Empty area left deliberately for content or breathing room."
+    }
+  ]
+}

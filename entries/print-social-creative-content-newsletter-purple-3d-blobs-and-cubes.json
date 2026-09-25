@@ -1,0 +1,38 @@
+{
+  "name": "print-social-creative-content-newsletter-purple-3d-blobs-and-cubes",
+  "image": "images/print-social-creative-content-newsletter-purple-3d-blobs-and-cubes.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "3D & Surreal",
+  "title": "'It's Time For Creative Content!' newsletter with glossy purple 3D blobs and a wireframe cube",
+  "tags": [
+    "newsletter",
+    "purple",
+    "3d-blobs",
+    "wireframe",
+    "business",
+    "email"
+  ],
+  "whatItIs": "A white newsletter cover with glossy purple 3D blob shapes and a large soft triangle in the top corner, bold black headline 'It's Time For Creative Content!', two boxed sections ('What Is Trending Now!', 'The Top Business Tools') with placeholder body text, a wireframe cube shape, and a 'Lorem Agency' logo.",
+  "whatItMeans": "Glossy and premium; 3D blob shapes give a plain newsletter template unexpected visual richness.",
+  "techniques": [
+    "Use glossy 3D blob shapes as pure decoration.",
+    "Box each content section for a clean newsletter scan.",
+    "Add a wireframe object for technical contrast against the glossy blobs."
+  ],
+  "bestFor": [
+    "Email newsletter design",
+    "Digital marketing content",
+    "3D-accented branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "3D blob",
+      "definition": "A glossy, softly rendered organic shape."
+    },
+    {
+      "term": "Wireframe shape",
+      "definition": "A 3D object shown only as its edges."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "web-scaire-ai-assistant-hero-glowing-diamond-icon-on-black",
+  "image": "images/web-scaire-ai-assistant-hero-glowing-diamond-icon-on-black.png",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "designStyle": "Dark & Neon",
+  "title": "Scaire AI assistant hero: a glowing green diamond icon over 'Your personal AI for real life assistant'",
+  "tags": [
+    "ai",
+    "saas",
+    "black",
+    "neon-green",
+    "hero",
+    "integrations"
+  ],
+  "whatItIs": "A black landing hero with a top nav (Product, Use cases, Docs, Customers, Pricing), a glowing green faceted diamond icon radiating light rays and forming a V-shape, a headline 'Your personal AI for real life assistant' with 'personal' in green, 'Get started' and 'Request demo' buttons, and a row of partner logos (justo, amazon, Adobe, Webflow, shopify).",
+  "whatItMeans": "Futuristic and premium; the glowing gem icon gives an abstract AI assistant a striking, ownable symbol.",
+  "techniques": [
+    "Use a glowing 3D icon with radiating light rays as the hero.",
+    "Let the icon's light form a V leading to the headline.",
+    "Colour only the emotionally key word in the headline."
+  ],
+  "bestFor": [
+    "AI assistant products",
+    "Dark-mode SaaS heroes",
+    "Icon-led brand identities"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radiating rays",
+      "definition": "Light lines emanating outward from a glowing object."
+    },
+    {
+      "term": "Hero icon",
+      "definition": "A central graphic symbol representing the product."
+    }
+  ]
+}

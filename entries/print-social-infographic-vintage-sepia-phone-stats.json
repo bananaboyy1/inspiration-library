@@ -1,0 +1,34 @@
+{
+  "name": "print-social-infographic-vintage-sepia-phone-stats",
+  "image": "images/print-social-infographic-vintage-sepia-phone-stats.avif",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Retro & Pixel",
+  "title": "Vintage sepia phone-and-map statistics infographic",
+  "tags": [
+    "infographic",
+    "vintage",
+    "sepia",
+    "retro",
+    "map",
+    "statistics"
+  ],
+  "whatItIs": "A muted sepia-green infographic centered on three antique-style phone mockups with speech-bubble stat callouts, a world map with location pins, and rows of bar/line/pie charts below.",
+  "whatItMeans": "Aging the palette and phone illustrations to look vintage gives a modern mobile-usage report a nostalgic, storybook credibility rather than a sterile corporate feel.",
+  "techniques": [
+    "render modern devices in an antique illustration style to shift the whole piece's tone",
+    "use a restricted sepia/muted palette across every chart type for cohesion",
+    "mix multiple chart types (map pins, bars, line, pie) in one infographic organized by section"
+  ],
+  "bestFor": [
+    "retro-themed marketing reports",
+    "vintage brand storytelling",
+    "editorial infographics needing a nostalgic tone"
+  ],
+  "vocabulary": [
+    {
+      "term": "sepia palette",
+      "definition": "a warm brown-toned monochrome color scheme associated with aged or vintage photography"
+    }
+  ]
+}

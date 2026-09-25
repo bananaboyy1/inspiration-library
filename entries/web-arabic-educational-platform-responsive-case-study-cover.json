@@ -1,0 +1,38 @@
+{
+  "name": "web-arabic-educational-platform-responsive-case-study-cover",
+  "image": "images/web-arabic-educational-platform-responsive-case-study-cover.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Arabic educational platform UI/UX case study cover on laptop, tablet and phone",
+  "tags": [
+    "education",
+    "arabic",
+    "rtl",
+    "responsive",
+    "dark-green",
+    "case-study-cover"
+  ],
+  "whatItIs": "A light cover with a 'UI/UX Case Study' label and a mortarboard logo, showing an Arabic right-to-left learning site on a laptop, tablet and phone: a classroom hero photo with dark green overlay, green CTAs and course cards.",
+  "whatItMeans": "Credible and accessible; three devices prove the RTL layout works everywhere.",
+  "techniques": [
+    "Show the same page on three devices.",
+    "Use a photo hero with a brand-colour overlay.",
+    "Label the cover as a case study in the corner."
+  ],
+  "bestFor": [
+    "Education platforms",
+    "Arabic/RTL web projects",
+    "Portfolio covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "RTL",
+      "definition": "Right-to-left layout used for Arabic and Hebrew."
+    },
+    {
+      "term": "Responsive",
+      "definition": "A design that adapts to different screen sizes."
+    }
+  ]
+}

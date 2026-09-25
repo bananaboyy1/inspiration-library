@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-research-stats-summary-cards-with-hero-phone",
+  "image": "images/app-oviah-research-stats-summary-cards-with-hero-phone.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH research summary: four bold stat cards (82 responses, 07 interviews, 04 competitors, 01 opportunity) beside a phone's onboarding buttons",
+  "tags": [
+    "research-summary",
+    "stats",
+    "lilac",
+    "case-study",
+    "onboarding"
+  ],
+  "whatItIs": "A 2x2 grid of lilac cards with huge numerals and labels ('82 Survey Responses', '07 User Interviews', '04 Competitors Studied', '01 Design Opportunity'), beside a cropped phone screen showing 'Get Started' and 'I Already have an Account' buttons.",
+  "whatItMeans": "Confident and concise; distilling a whole research phase into four big numbers makes rigour easy to skim.",
+  "techniques": [
+    "Summarise a research phase as four headline numbers.",
+    "Use consistent card sizing so numbers, not cards, draw focus.",
+    "Pair a research recap with a glimpse of where it led."
+  ],
+  "bestFor": [
+    "Case study research summaries",
+    "Process recap slides",
+    "Portfolio stat highlights"
+  ],
+  "vocabulary": [
+    {
+      "term": "Stat card",
+      "definition": "A card highlighting one number as its focal point."
+    },
+    {
+      "term": "Research recap",
+      "definition": "A condensed summary of a research phase's scope."
+    }
+  ]
+}

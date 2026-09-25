@@ -1,0 +1,34 @@
+{
+  "name": "print-social-phone-product-ad-purple-gradient",
+  "image": "images/print-social-phone-product-ad-purple-gradient.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Gradient & Aurora",
+  "title": "Purple gradient smartphone product ad",
+  "tags": [
+    "product ad",
+    "smartphone",
+    "gradient",
+    "purple",
+    "spec callouts",
+    "ecommerce"
+  ],
+  "whatItIs": "A square ad for a flagship phone tilted at an angle over a soft purple-to-green gradient, with spec callouts for camera, screen and processor placed around it.",
+  "whatItMeans": "Angling the product and scattering short spec tags around it (rather than a dense spec sheet) keeps the ad feeling premium and easy to scan at a glance.",
+  "techniques": [
+    "tilt the hero product off-axis for dynamism instead of a flat frontal shot",
+    "place short spec callouts in loose orbit around the product rather than in a table",
+    "use an ambient color gradient background instead of a solid or photographic backdrop"
+  ],
+  "bestFor": [
+    "e-commerce product ads",
+    "tech retailer social promos",
+    "flash-sale campaign graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "callout",
+      "definition": "a short label pointing to a specific detail or feature within a larger image"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "print-social-mass-media-infographic-orange-skyline-history-chart",
+  "image": "images/print-social-mass-media-infographic-orange-skyline-history-chart.avif",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "'Mass Media Infographic' with an orange city-skyline header and a history-of-media bar chart",
+  "tags": [
+    "infographic",
+    "mass-media",
+    "orange",
+    "skyline",
+    "bar-chart",
+    "flat-icons"
+  ],
+  "whatItIs": "A white infographic with a bold orange skyline header reading 'Mass Media Infographic', percentage stats (19%, 22%, 27%, 32%) beside flat icons (radio, TV, phone, globe), a bar chart titled 'History of Mass Media' comparing paper, TV/radio and internet from 1900-2015, and icon rows for SMS, News, Cinema, Social Media with two hands holding phones.",
+  "whatItMeans": "Historical and structured; combining a timeline chart with modern icons shows media evolution in one connected story.",
+  "techniques": [
+    "Use a skyline silhouette as a thematic header graphic.",
+    "Pair a historical bar chart with modern channel icons.",
+    "Show hands holding devices to ground abstract stats in real use."
+  ],
+  "bestFor": [
+    "Media industry reports",
+    "History and technology infographics",
+    "Educational presentation graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Skyline header",
+      "definition": "A city silhouette used as a decorative banner element."
+    },
+    {
+      "term": "Comparative bar chart",
+      "definition": "A chart comparing multiple categories over time."
+    }
+  ]
+}

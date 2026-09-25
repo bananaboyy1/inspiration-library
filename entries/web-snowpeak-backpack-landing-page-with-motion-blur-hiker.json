@@ -1,0 +1,38 @@
+{
+  "name": "web-snowpeak-backpack-landing-page-with-motion-blur-hiker",
+  "image": "images/web-snowpeak-backpack-landing-page-with-motion-blur-hiker.png",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Snowpeak winter backpack landing page with a motion-blurred hiker in an orange jacket",
+  "tags": [
+    "outdoor",
+    "backpacks",
+    "winter",
+    "motion-blur",
+    "orange",
+    "hero"
+  ],
+  "whatItIs": "A snowy hero with a hiker in an orange jacket and backpack streaked by motion blur, condensed uppercase 'Push the limits, don't feel the cold', 'Snowboard & Ski Backpacks' and an orange 'Explore Collection' button, under a 'Landing Page Design' title.",
+  "whatItMeans": "Fast and raw; motion blur makes the cold and speed almost physical.",
+  "techniques": [
+    "Use motion blur on the hero photo for energy.",
+    "Match the CTA colour to the jacket.",
+    "Set tagline in condensed uppercase."
+  ],
+  "bestFor": [
+    "Outdoor gear brands",
+    "Sports e-commerce",
+    "Adventure landing pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Motion blur",
+      "definition": "Streaking that shows movement in a photo."
+    },
+    {
+      "term": "Colour pickup",
+      "definition": "Taking the UI accent from the photo."
+    }
+  ]
+}

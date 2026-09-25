@@ -1,0 +1,38 @@
+{
+  "name": "web-synais-founder-quote-and-project-meta-info-block",
+  "image": "images/web-synais-founder-quote-and-project-meta-info-block.webp",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Synais case study 'About Project' slide: a founder pull-quote beside client, category and date meta rows",
+  "tags": [
+    "case-study",
+    "quote",
+    "maroon",
+    "meta-data",
+    "founder",
+    "typography"
+  ],
+  "whatItIs": "A maroon slide with 'About Project' label, a large pull-quote from the founder about automating financial reporting with AI, his photo and title, and on the right four meta rows (Client: Synais, Category: FinTech/SaaS/AI Finance Tools, Project: Landing Page Design, Date: 2026).",
+  "whatItMeans": "Credible and human; a real quote from a named founder grounds an AI product pitch in an actual problem.",
+  "techniques": [
+    "Pair a large pull-quote with the speaker's photo and title.",
+    "List project meta as simple label-value rows.",
+    "Keep the quote focused on the problem, not the solution."
+  ],
+  "bestFor": [
+    "Case study intro slides",
+    "Client testimonial layouts",
+    "Project summary pages"
+  ],
+  "vocabulary": [
+    {
+      "term": "Pull-quote",
+      "definition": "A quotation set in large type to draw attention."
+    },
+    {
+      "term": "Meta row",
+      "definition": "A line pairing a label with its value."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "print-social-business-model-canvas-nine-colour-block-diagram",
+  "image": "images/print-social-business-model-canvas-nine-colour-block-diagram.jpg",
+  "discipline": "print-social",
+  "designType": "Presentation slides",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Business Model Canvas diagram: nine colour-coded blocks with flat illustrated icons for each section",
+  "tags": [
+    "business-model-canvas",
+    "framework",
+    "colour-blocks",
+    "flat-illustration",
+    "presentation"
+  ],
+  "whatItIs": "The classic nine-block Business Model Canvas (Key Partners, Key Activities, Key Resources, Value Proposition, Customer Relationships, Channels, Customer Segments, Cost Structure, Revenue Streams) with each block in its own solid colour and a small flat illustration relevant to that section, like a handshake, gears or a delivery van.",
+  "whatItMeans": "Instantly readable; giving every block both a colour and an illustration makes a dense strategy framework memorable at a glance.",
+  "techniques": [
+    "Assign one solid colour per section of a framework diagram.",
+    "Pair every block with one small, literal illustration.",
+    "Keep block proportions matched to the canvas's real relative importance."
+  ],
+  "bestFor": [
+    "Startup strategy presentations",
+    "Business planning workshops",
+    "Framework infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "Business Model Canvas",
+      "definition": "A strategic template for describing a business's value proposition and operations."
+    },
+    {
+      "term": "Colour-coded block",
+      "definition": "A section distinguished by a unique fill colour."
+    }
+  ]
+}

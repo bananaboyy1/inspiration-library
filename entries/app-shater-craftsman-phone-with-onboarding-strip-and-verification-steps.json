@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-craftsman-phone-with-onboarding-strip-and-verification-steps",
+  "image": "images/app-shater-craftsman-phone-with-onboarding-strip-and-verification-steps.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater craftsman onboarding: a big glowing phone over five sequenced screens and a green-checked verification row",
+  "tags": [
+    "onboarding",
+    "arabic",
+    "hand-mockup",
+    "orange",
+    "verification",
+    "case-study"
+  ],
+  "whatItIs": "A near-identical companion slide to the craftsman onboarding spread: a large glowing phone held in a hand above a strip of five sequential app screens, and below, four verification steps ending in a green-checked 'account activated' state with an orange divider line and Arabic caption.",
+  "whatItMeans": "Reinforcing; repeating the same verification story with a bigger hero phone emphasises the flow's importance.",
+  "techniques": [
+    "Scale up the hero device for emphasis.",
+    "Keep the verification steps identical across slides for consistency.",
+    "Divide sections with a thin orange rule."
+  ],
+  "bestFor": [
+    "Onboarding documentation",
+    "Verification flow slides",
+    "Marketplace case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Hero device",
+      "definition": "The largest, most prominent screen mockup in a layout."
+    },
+    {
+      "term": "Section rule",
+      "definition": "A thin line separating parts of a layout."
+    }
+  ]
+}

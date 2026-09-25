@@ -1,0 +1,38 @@
+{
+  "name": "app-insight-fintech-dark-dashboard-held-in-two-hands",
+  "image": "images/app-insight-fintech-dark-dashboard-held-in-two-hands.png",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "designStyle": "Minimalist",
+  "title": "INSIGHT fintech app: dark financial-health dashboard in two hands on light grey",
+  "tags": [
+    "fintech",
+    "dark-ui",
+    "red",
+    "charts",
+    "hand-mockup",
+    "health-score"
+  ],
+  "whatItIs": "A light grey cover with 'INSIGHT - Fintech App' and 'A New Way to Understand Your Financial Behavior' with the last words in red, and two hands holding a phone with a dark dashboard: financial health score 78 with a red area chart, balance cards and a red donut chart of spending.",
+  "whatItMeans": "Clear and grown-up; a dark UI on a light page draws all attention to the data.",
+  "techniques": [
+    "Contrast a dark UI against a light background.",
+    "Summarise finances as one score.",
+    "Colour the key phrase to match the UI accent."
+  ],
+  "bestFor": [
+    "Personal finance apps",
+    "Fintech case studies",
+    "Data-led app covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Health score",
+      "definition": "A single number summarising a state."
+    },
+    {
+      "term": "Donut chart",
+      "definition": "A ring chart showing proportions."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "branding-oviah-logo-construction-grid-and-final-lockup",
+  "image": "images/branding-oviah-logo-construction-grid-and-final-lockup.webp",
+  "discipline": "branding",
+  "designType": "Logo guidelines",
+  "designStyle": "Minimalist",
+  "title": "OVIAH logo construction: grid and circle-overlap diagrams beside the final droplet mark and wordmark lockup",
+  "tags": [
+    "logo-design",
+    "construction-grid",
+    "droplet",
+    "lilac",
+    "wordmark"
+  ],
+  "whatItIs": "A page showing the logo's underlying geometry — a dashed grid and three overlapping construction circles that form a droplet ring — beside two 'Final Logo' cards: the lilac droplet-ring mark alone, and the full 'OVIAH' lockup with the mark replacing the O.",
+  "whatItMeans": "Rigorous and intentional; showing the geometric construction proves the mark wasn't drawn freehand.",
+  "techniques": [
+    "Reveal the grid and circles behind a finished logo.",
+    "Show the mark both standalone and inside the wordmark.",
+    "Let the mark double as the first letter of the name."
+  ],
+  "bestFor": [
+    "Logo design case studies",
+    "Brand guideline documents",
+    "Identity construction proof"
+  ],
+  "vocabulary": [
+    {
+      "term": "Construction grid",
+      "definition": "The geometric guides used to draw a logo precisely."
+    },
+    {
+      "term": "Lockup",
+      "definition": "A logo and wordmark combined into one fixed unit."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-two-apps-installed-side-by-side-on-iphone-home-screen",
+  "image": "images/app-shater-two-apps-installed-side-by-side-on-iphone-home-screen.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater client and craftsman apps shown installed side by side on an iPhone home screen",
+  "tags": [
+    "app-icons",
+    "home-screen",
+    "arabic",
+    "blue",
+    "orange",
+    "case-study"
+  ],
+  "whatItIs": "Two cropped iPhone home screens on orange: one labelled 'تطبيق العميل' (Client App) with the blue Shater icon among Calendar, Photos, Camera and Mail; the other 'تطبيق الحرفي' (Craftsman App) with an orange 'Shater Craftsman' icon in the same layout, plus supporting app screenshots beside each.",
+  "whatItMeans": "Real and installable; seeing both icons live on a phone's home screen proves the two-app strategy actually shipped.",
+  "techniques": [
+    "Distinguish sibling apps with a different icon colour.",
+    "Show the icon in situ among familiar system apps.",
+    "Pair each home screen with its in-app UI beside it."
+  ],
+  "bestFor": [
+    "Multi-app product launches",
+    "App icon presentations",
+    "Case study proof slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "App icon",
+      "definition": "The small image representing an app on a home screen."
+    },
+    {
+      "term": "In situ mockup",
+      "definition": "Showing a design in its real, expected context."
+    }
+  ]
+}

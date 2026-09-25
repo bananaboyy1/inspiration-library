@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-product-details-and-build-your-bundle-pages",
+  "image": "images/web-fatis-product-details-and-build-your-bundle-pages.webp",
+  "discipline": "web",
+  "designType": "Product detail page",
+  "designStyle": "Playful & Illustrated",
+  "title": "Fati's product details page and 'Build Your Bundle' box builder with explanations",
+  "tags": [
+    "food",
+    "donuts",
+    "pink",
+    "product-page",
+    "bundle-builder",
+    "ecommerce"
+  ],
+  "whatItIs": "Two tall page frames on beige: a product page (donut photo, rating, size chips, quantity and 'Add to cart', 'You may also like' cards) and a bundle page where you pick 8/12/24 pieces and fill an empty-slot grid, each with pink explanatory text and a big 'Fati's' script footer.",
+  "whatItMeans": "Helpful and on-brand; the empty slot grid makes building a box feel like a game.",
+  "techniques": [
+    "Show a box builder as empty slots that fill up.",
+    "Offer size chips for pack quantity.",
+    "End every page with an oversized logo footer."
+  ],
+  "bestFor": [
+    "Food e-commerce",
+    "Custom bundle flows",
+    "Product page redesigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Bundle builder",
+      "definition": "A tool for assembling a custom set of items."
+    },
+    {
+      "term": "Empty slot",
+      "definition": "A placeholder showing space still to fill."
+    }
+  ]
+}

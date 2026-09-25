@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-favourites-and-about-pages-with-speech-bubble-quote",
+  "image": "images/web-orlina-favourites-and-about-pages-with-speech-bubble-quote.webp",
+  "discipline": "web",
+  "designType": "Page section",
+  "designStyle": "Editorial",
+  "title": "Orlina favourites and about pages with a serif speech-bubble quote and rainbow gradient logo mark",
+  "tags": [
+    "ecommerce",
+    "favourites",
+    "about",
+    "speech-bubble",
+    "dark",
+    "fashion"
+  ],
+  "whatItIs": "A dark page with a beige speech-bubble quote 'A seamless experience that keeps users connected with Orlina.' above a 'Your favourites' cart-style list and an About page with a long brand story beside a rainbow gradient abstract logo mark, both ending in the same footer.",
+  "whatItMeans": "Personable and consistent; the speech bubble makes UX goals sound like a promise to the user.",
+  "techniques": [
+    "Frame a section goal as a speech-bubble quote.",
+    "Pair a wishlist screen with the brand story page.",
+    "Reuse the same footer across all screens for continuity."
+  ],
+  "bestFor": [
+    "Wishlist and account pages",
+    "Brand story sections",
+    "E-commerce case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Speech bubble",
+      "definition": "A callout shape used for a quoted line."
+    },
+    {
+      "term": "Footer consistency",
+      "definition": "Repeating the same footer for a unified feel."
+    }
+  ]
+}

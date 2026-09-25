@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-three-roles-handshake-diagram-with-tablet-dashboard",
+  "image": "images/app-shater-three-roles-handshake-diagram-with-tablet-dashboard.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater three-role diagram: client and craftsman shaking hands with a control-panel tablet arcing above",
+  "tags": [
+    "user-roles",
+    "arabic",
+    "handshake",
+    "tablet",
+    "orange",
+    "ecosystem"
+  ],
+  "whatItIs": "A light page with 'فهم وبناء التجربة' (Understanding and Building the Experience), an intro line, and a triangular diagram: client (01) and craftsman (02) phones flank a tablet control panel (03), with two curved orange arrows connecting to a handshake photo between them.",
+  "whatItMeans": "Warm and structural; the handshake makes an abstract three-role system feel like a real partnership the platform enables.",
+  "techniques": [
+    "Arrange roles in a triangle around a connecting photo.",
+    "Use curved arrows to show relationships, not just hierarchy.",
+    "Number each role for easy reference later."
+  ],
+  "bestFor": [
+    "Multi-sided marketplace UX",
+    "Ecosystem diagrams",
+    "Stakeholder presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Multi-sided platform",
+      "definition": "A product serving two or more distinct user groups."
+    },
+    {
+      "term": "Relationship diagram",
+      "definition": "A diagram showing how entities connect, not just rank."
+    }
+  ]
+}

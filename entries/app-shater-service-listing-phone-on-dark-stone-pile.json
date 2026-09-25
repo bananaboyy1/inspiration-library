@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-service-listing-phone-on-dark-stone-pile",
+  "image": "images/app-shater-service-listing-phone-on-dark-stone-pile.webp",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Dark & Neon",
+  "title": "Shater craftsman service-listing screen on a phone resting among dark grey stones",
+  "tags": [
+    "mockup",
+    "dark",
+    "stone",
+    "service-list",
+    "arabic",
+    "phone"
+  ],
+  "whatItIs": "A moody black-and-grey photo of jagged stones with a phone propped among them showing the craftsman's 'الخدمات' (Services) screen: a search bar, popular-service filter chips, and job cards with descriptions, price offers and action buttons.",
+  "whatItMeans": "Rugged and grounded; the stone setting matches the trade (construction/repair) the app serves.",
+  "techniques": [
+    "Match the mockup's material to the app's industry.",
+    "Desaturate the scene so the phone screen stays legible.",
+    "Prop the phone naturally rather than floating it."
+  ],
+  "bestFor": [
+    "Trade and construction app mockups",
+    "Mood-driven device shots",
+    "Portfolio hero images"
+  ],
+  "vocabulary": [
+    {
+      "term": "Prop mockup",
+      "definition": "A device shown resting on a physical object rather than floating."
+    },
+    {
+      "term": "Filter chip",
+      "definition": "A small toggle for narrowing a list."
+    }
+  ]
+}

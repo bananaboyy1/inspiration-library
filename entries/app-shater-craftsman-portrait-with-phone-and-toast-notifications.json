@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-craftsman-portrait-with-phone-and-toast-notifications",
+  "image": "images/app-shater-craftsman-portrait-with-phone-and-toast-notifications.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Craftsman holding a phone and hard hat, beside two dark toast notification mockups and portrait photos",
+  "tags": [
+    "notifications",
+    "toast",
+    "arabic",
+    "craftsman",
+    "portrait",
+    "dark-ui"
+  ],
+  "whatItIs": "A collage: a close crop of a craftsman in a flannel shirt holding both a phone and a yellow hard hat, a dark lock-screen phone showing two toast notifications ('New offer arrived!', 'Service in progress!'), and two more portrait photos of craftsmen each beside phone screens.",
+  "whatItMeans": "Human and immediate; showing the notification on a lock screen makes the app's real-time updates feel tangible.",
+  "techniques": [
+    "Mock a notification on a realistic lock screen.",
+    "Pair each persona photo with their relevant screens.",
+    "Crop photos tightly for an intimate, documentary feel."
+  ],
+  "bestFor": [
+    "Notification design documentation",
+    "Persona photography",
+    "Real-time feature showcases"
+  ],
+  "vocabulary": [
+    {
+      "term": "Toast notification",
+      "definition": "A brief pop-up message that appears and fades."
+    },
+    {
+      "term": "Lock screen",
+      "definition": "A phone's screen before it is unlocked."
+    }
+  ]
+}

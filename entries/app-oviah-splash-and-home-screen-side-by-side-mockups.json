@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-splash-and-home-screen-side-by-side-mockups",
+  "image": "images/app-oviah-splash-and-home-screen-side-by-side-mockups.webp",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Minimalist",
+  "title": "OVIAH splash screen and home dashboard shown side by side as tilted phone mockups on a gold-thread backdrop",
+  "tags": [
+    "mockup",
+    "splash-screen",
+    "dashboard",
+    "lilac",
+    "phone-mockup"
+  ],
+  "whatItIs": "Two tilted phone mockups: a white splash screen with the OVIAH droplet logo and 'Get Started' buttons on a plain background, and the home dashboard (greeting, week strip, ovulation countdown ring, 'Expecting Period on 20 August') resting on a backdrop of looping gold threads.",
+  "whatItMeans": "Polished and contrasting; pairing a plain splash mockup with an elaborately styled dashboard mockup shows range in presentation.",
+  "techniques": [
+    "Vary mockup backdrop elaborateness to suit each screen's role.",
+    "Tilt devices slightly for a more dynamic composition.",
+    "Use decorative thread or ribbon textures for a premium feel."
+  ],
+  "bestFor": [
+    "App store screenshots",
+    "Portfolio presentation mockups",
+    "Splash and home screen pairs"
+  ],
+  "vocabulary": [
+    {
+      "term": "Thread backdrop",
+      "definition": "A decorative looping-line texture behind a mockup."
+    },
+    {
+      "term": "Splash screen",
+      "definition": "The first branded screen shown when an app opens."
+    }
+  ]
+}

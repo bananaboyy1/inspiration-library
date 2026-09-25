@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-mens-catalogue-and-product-checkout-flow",
+  "image": "images/web-orlina-mens-catalogue-and-product-checkout-flow.webp",
+  "discipline": "web",
+  "designType": "Checkout and forms",
+  "designStyle": "Editorial",
+  "title": "Orlina men's catalogue, product page and cart drawer flow with a quote banner",
+  "tags": [
+    "ecommerce",
+    "checkout",
+    "catalogue",
+    "cart",
+    "dark",
+    "fashion"
+  ],
+  "whatItIs": "A dark page with a quote banner 'Own your presence. Elevated essentials crafted for the modern man.' above a men's catalogue grid, a product detail page (Relaxed Fit Cotton Overshirt, size and colour options, similar products) and a small cart drawer overlay showing item, quantity and checkout total, linked by lines.",
+  "whatItMeans": "Complete and premium; the quote frames a purely functional shopping flow in brand voice.",
+  "techniques": [
+    "Open a functional flow with a branded quote.",
+    "Overlay a cart drawer as a small floating panel.",
+    "Show size and colour pickers explicitly."
+  ],
+  "bestFor": [
+    "Menswear e-commerce",
+    "Checkout flow documentation",
+    "Case study UX slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Cart drawer",
+      "definition": "A slide-out panel showing the current cart."
+    },
+    {
+      "term": "Quote banner",
+      "definition": "A short branded statement used as a section intro."
+    }
+  ]
+}

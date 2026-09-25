@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-three-phase-methodology-diagram-with-pill-tasks",
+  "image": "images/app-shater-three-phase-methodology-diagram-with-pill-tasks.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater process methodology: three circled phase icons (Requirements, UX, Design) each with pill task tags",
+  "tags": [
+    "methodology",
+    "process",
+    "arabic",
+    "icons",
+    "pills",
+    "orange"
+  ],
+  "whatItIs": "A light page with 'منهجية العمل والخطوات' (Work Methodology and Steps) and an intro, three columns each headed by a circled icon (document, clock, brush) labelled 'المتطلبات' (Requirements), 'فهم وبناء التجربة' (Understand & Build Experience) and 'التصميم' (Design), each with two or three pill task tags below, over screens of the finished product.",
+  "whatItMeans": "Transparent and methodical; naming each phase's concrete tasks makes the process feel rigorous, not just decorative.",
+  "techniques": [
+    "Represent each process phase with one icon and a name.",
+    "List concrete tasks as pill tags under each phase.",
+    "Preview the outcome faintly behind the process diagram."
+  ],
+  "bestFor": [
+    "Case study process slides",
+    "Design methodology documentation",
+    "Client-facing process explainers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Process phase",
+      "definition": "A distinct stage in a project's workflow."
+    },
+    {
+      "term": "Pill tag",
+      "definition": "A small rounded label for a short term."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-admin-persona-key-needs-with-desktop-analytics",
+  "image": "images/app-shater-admin-persona-key-needs-with-desktop-analytics.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater admin persona 'the mind managing the system' key needs with a full desktop analytics screen",
+  "tags": [
+    "persona",
+    "admin",
+    "arabic",
+    "key-needs",
+    "dashboard",
+    "orange"
+  ],
+  "whatItIs": "A pale blue slide numbered 03 with 'لوحة التحكم — العقل المدبر للمنظومة' (Control Panel — the mind managing the system), five pill needs (handling complaints, managing services, managing users and craftsmen, tracking orders, managing payments), a faded 'Shater' wordmark, and a full desktop dashboard screenshot with stat cards, a chart and a sidebar.",
+  "whatItMeans": "Systems-level and confident; treating the admin as a persona too completes the three-sided user picture.",
+  "techniques": [
+    "Treat the internal operator as a persona, same as external users.",
+    "Close a three-persona set with a summary line.",
+    "Show the admin's real screen at full desktop size."
+  ],
+  "bestFor": [
+    "Admin UX research",
+    "Three-sided platform design",
+    "B2B dashboard case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Internal user",
+      "definition": "A persona who operates rather than uses the product externally."
+    },
+    {
+      "term": "Sidebar navigation",
+      "definition": "A vertical menu along a dashboard's edge."
+    }
+  ]
+}

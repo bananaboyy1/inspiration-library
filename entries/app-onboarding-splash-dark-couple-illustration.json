@@ -1,0 +1,34 @@
+{
+  "name": "app-onboarding-splash-dark-couple-illustration",
+  "image": "images/app-onboarding-splash-dark-couple-illustration.jpg",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Playful & Illustrated",
+  "title": "Dark app splash screen with flat couple illustration",
+  "tags": [
+    "splash screen",
+    "app screen",
+    "flat illustration",
+    "dark",
+    "couple",
+    "confetti"
+  ],
+  "whatItIs": "A single dark-background phone splash/registration screen, featuring a flat illustration of a couple at a café table surrounded by small confetti shapes, with a 'Lorem ipsum' headline and a 'Register now' pill button.",
+  "whatItMeans": "A warm illustrated scene against an otherwise dark UI screen softens what could feel like a cold registration prompt, making the sign-up moment feel inviting rather than transactional.",
+  "techniques": [
+    "center a warm illustrated scene within an otherwise dark, minimal UI screen for contrast",
+    "scatter small confetti/celebration shapes around the illustration to add lightness without clutter",
+    "use a single full-width pill button as the only interactive element for a focused call to action"
+  ],
+  "bestFor": [
+    "dating/social app registration screens",
+    "dark-mode consumer app onboarding",
+    "illustrated splash screen templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "splash screen",
+      "definition": "a brief introductory screen shown while an app loads or before a key action like registration"
+    }
+  ]
+}

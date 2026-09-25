@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-information-architecture-tree-with-red-silk",
+  "image": "images/web-orlina-information-architecture-tree-with-red-silk.webp",
+  "discipline": "web",
+  "designType": "UX documentation",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Orlina information architecture: red silk divider and a branching sitemap of pill nodes",
+  "tags": [
+    "information-architecture",
+    "sitemap",
+    "dark",
+    "silk",
+    "ux",
+    "case-study"
+  ],
+  "whatItIs": "A dark page with numbered goals (Easy Discovery, Visual Storytelling, Clear Navigation, Product Exploration), a red satin ribbon behind 'Information Architecture 03', and a sitemap drawn as thin diagonal lines branching from a bronze 'Home' pill to pills like New Arrivals, Men, Women, Kids and a checkout path.",
+  "whatItMeans": "Clear yet stylish; a technical sitemap gets the same luxe treatment as the visuals.",
+  "techniques": [
+    "Draw a sitemap with diagonal branches and pill nodes.",
+    "Highlight start and key nodes in the accent colour.",
+    "Precede it with numbered goals."
+  ],
+  "bestFor": [
+    "UX case studies",
+    "Sitemaps",
+    "E-commerce navigation planning"
+  ],
+  "vocabulary": [
+    {
+      "term": "Information architecture",
+      "definition": "How content and pages are organised."
+    },
+    {
+      "term": "Sitemap",
+      "definition": "A diagram of a site's pages and hierarchy."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-onboarding-first-time-users-branching-flowchart",
+  "image": "images/app-oviah-onboarding-first-time-users-branching-flowchart.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'Onboarding — First time users' flowchart with a period-mode diamond branching to two setup paths",
+  "tags": [
+    "user-flow",
+    "onboarding",
+    "flowchart",
+    "decision-node",
+    "lilac"
+  ],
+  "whatItIs": "A flowchart from 'Opens App' through a welcome screen, sign-up/login, profile setup and a red 'Period Mode' diamond branching into First Period Mode and Regular Period Mode paths, each with its own app-preview and notification steps, converging on separate 'Home' end states, with 'Not clickable' labels marking read-only screens.",
+  "whatItMeans": "Precise and developer-friendly; marking non-interactive screens prevents ambiguity during handoff.",
+  "techniques": [
+    "Label read-only screens explicitly as 'Not clickable'.",
+    "End each onboarding branch at its own tailored home state.",
+    "Use a diamond decision node to branch by user type early."
+  ],
+  "bestFor": [
+    "Onboarding flow specification",
+    "Branching flow documentation",
+    "Developer handoff diagrams"
+  ],
+  "vocabulary": [
+    {
+      "term": "Not clickable",
+      "definition": "A label marking a screen or state with no interactive action."
+    },
+    {
+      "term": "Branch convergence",
+      "definition": "Where separate flow paths lead to related but distinct end states."
+    }
+  ]
+}

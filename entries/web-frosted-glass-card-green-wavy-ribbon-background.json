@@ -1,0 +1,38 @@
+{
+  "name": "web-frosted-glass-card-green-wavy-ribbon-background",
+  "image": "images/web-frosted-glass-card-green-wavy-ribbon-background.jpg",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "designStyle": "Glassmorphism",
+  "title": "'Frosted Style Is The Latest Phase of Design' card over glowing green wavy ribbon shapes",
+  "tags": [
+    "glassmorphism",
+    "green",
+    "frosted-glass",
+    "wavy-ribbon",
+    "dark",
+    "template"
+  ],
+  "whatItIs": "A dark background with glowing green wavy ribbon shapes flowing diagonally, overlaid by a large frosted-glass rounded rectangle card with white text stating the design trend, an asterisk icon, resolution and dimension labels, and an arrow indicating scale.",
+  "whatItMeans": "Premium and on-trend; a frosted glass card over a glowing ribbon shows the glassmorphism effect in its ideal habitat.",
+  "techniques": [
+    "Layer a frosted glass card over a vivid glowing background.",
+    "Label technical specs (resolution, dimensions) directly on a template asset.",
+    "Use flowing ribbon shapes to give a glass card something to refract."
+  ],
+  "bestFor": [
+    "Glassmorphism UI templates",
+    "Design asset marketplaces",
+    "Dark-mode background design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted glass card",
+      "definition": "A translucent blurred panel mimicking textured glass."
+    },
+    {
+      "term": "Wavy ribbon shape",
+      "definition": "A flowing curved band used as a background element."
+    }
+  ]
+}

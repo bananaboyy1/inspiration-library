@@ -1,0 +1,38 @@
+{
+  "name": "web-change-community-asymmetric-portrait-grid-duotone-orange-teal",
+  "image": "images/web-change-community-asymmetric-portrait-grid-duotone-orange-teal.avif",
+  "discipline": "web",
+  "designType": "Landing page",
+  "designStyle": "Neo-Brutalist",
+  "title": "'Change, Community' asymmetric duotone portrait grid in splattered orange and teal with bold headlines",
+  "tags": [
+    "political",
+    "duotone",
+    "orange-teal",
+    "asymmetric-grid",
+    "portraits",
+    "brutalist"
+  ],
+  "whatItIs": "A dark portrait-heavy layout with paint-splatter textures, five duotone (orange/teal) portraits in an asymmetric offset grid, numbered corner badges, headlines ('Achange, Community,', 'Find Out Acre', 'Take Action Action.') and a bold CTA button at the bottom.",
+  "whatItMeans": "Urgent and raw; splattered duotone portraits in an uneven grid feel activist and unpolished on purpose.",
+  "techniques": [
+    "Duotone portraits in two clashing bold colours.",
+    "Break the grid into deliberately uneven, offset blocks.",
+    "Add paint-splatter texture for a grassroots, non-corporate feel."
+  ],
+  "bestFor": [
+    "Political and activist campaigns",
+    "Community organising sites",
+    "Bold editorial layouts"
+  ],
+  "vocabulary": [
+    {
+      "term": "Duotone",
+      "definition": "An image rendered using only two colours."
+    },
+    {
+      "term": "Asymmetric grid",
+      "definition": "A layout grid with deliberately uneven block sizes."
+    }
+  ]
+}

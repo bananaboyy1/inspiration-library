@@ -1,0 +1,38 @@
+{
+  "name": "web-travel-guide-case-study-cover-laptop-on-green-hill",
+  "image": "images/web-travel-guide-case-study-cover-laptop-on-green-hill.png",
+  "discipline": "web",
+  "designType": "Project cover",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Travel Guide case study cover: laptop and phone on a green hill with a huge white wordmark",
+  "tags": [
+    "travel",
+    "case-study-cover",
+    "blue-sky",
+    "wordmark",
+    "laptop",
+    "phone"
+  ],
+  "whatItIs": "A cover with a blue sky, a big white 'Travel Guide' wordmark where the 'G' holds a plane and pin, and a laptop and phone resting on a rounded green hill showing the tours website with arched destination cards.",
+  "whatItMeans": "Open and aspirational; sky and hill make the devices feel outdoors.",
+  "techniques": [
+    "Set devices in a simple landscape instead of a desk.",
+    "Hide a travel icon inside a letter.",
+    "Use arched cards for destinations."
+  ],
+  "bestFor": [
+    "Travel sites",
+    "Portfolio covers",
+    "Tourism apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Letter icon",
+      "definition": "A symbol placed inside a letterform."
+    },
+    {
+      "term": "Arched card",
+      "definition": "An image card with a rounded top."
+    }
+  ]
+}

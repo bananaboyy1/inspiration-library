@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-ride-overview-and-active-tracking-screens-dark-green",
+  "image": "images/app-flow-ride-overview-and-active-tracking-screens-dark-green.webp",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "designStyle": "Dark & Neon",
+  "title": "Flow cycling app: ride overview and active-tracking screens in dark green with rationale notes",
+  "tags": [
+    "cycling",
+    "fitness",
+    "dark-ui",
+    "green",
+    "route",
+    "tracking"
+  ],
+  "whatItIs": "Two dark phone screens with glowing green accents: 'Sürüşün' (Your Ride) showing a route map, distance and start button, and an active-tracking screen with a circular progress ring, distance/time stats and a live road photo, each paired with a Turkish designer's-rationale caption and a dotted connector.",
+  "whatItMeans": "Focused and considered; pairing each screen with the designer's own reasoning turns a UI shot into a mini case study.",
+  "techniques": [
+    "Caption each screen with the design rationale behind it.",
+    "Use a dotted line to link a screen to its explanation.",
+    "Keep only essential data visible during active use."
+  ],
+  "bestFor": [
+    "Fitness tracking apps",
+    "UX rationale documentation",
+    "Dark-mode sports UI"
+  ],
+  "vocabulary": [
+    {
+      "term": "Progress ring",
+      "definition": "A circular stroke showing completion or a live metric."
+    },
+    {
+      "term": "Design rationale",
+      "definition": "The stated reasoning behind a design decision."
+    }
+  ]
+}

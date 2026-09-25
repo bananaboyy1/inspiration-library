@@ -1,0 +1,34 @@
+{
+  "name": "print-social-infographic-numbered-list-red-gradient",
+  "image": "images/print-social-infographic-numbered-list-red-gradient.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Gradient & Aurora",
+  "title": "Ten-item numbered social media checklist on red gradient",
+  "tags": [
+    "infographic",
+    "numbered list",
+    "gradient",
+    "red",
+    "icons",
+    "checklist"
+  ],
+  "whatItIs": "A ten-item two-column list infographic on a dark red-to-purple gradient, each row pairing a large numeral, a simple icon and a short label.",
+  "whatItMeans": "A strict two-column numbered grid makes a ten-step process feel finite and organized rather than overwhelming, letting a reader mentally 'count down' through it.",
+  "techniques": [
+    "split a long numbered list into two columns to keep the overall shape compact",
+    "pair each numeral with a small flat icon for faster visual scanning than text alone",
+    "use a dark gradient background so white list cards read with strong contrast"
+  ],
+  "bestFor": [
+    "strategy/process explainer graphics",
+    "social media agency checklists",
+    "step-by-step educational infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "numbered list infographic",
+      "definition": "an infographic format organizing content as a sequence of numbered items, often used for steps or tips"
+    }
+  ]
+}

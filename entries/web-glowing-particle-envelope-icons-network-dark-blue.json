@@ -1,0 +1,38 @@
+{
+  "name": "web-glowing-particle-envelope-icons-network-dark-blue",
+  "image": "images/web-glowing-particle-envelope-icons-network-dark-blue.jpg",
+  "discipline": "web",
+  "designType": "Feature illustration",
+  "designStyle": "Dark & Neon",
+  "title": "Glowing particle-built envelope icons connected by thin data-network lines on deep blue",
+  "tags": [
+    "email-marketing",
+    "particles",
+    "network",
+    "dark-blue",
+    "glow",
+    "abstract"
+  ],
+  "whatItIs": "A dark blue abstract composition of several envelope icons rendered as glowing particle grids and connected by thin white lines and dot nodes, evoking a digital network or data visualisation.",
+  "whatItMeans": "Abstract and technical; particle-built icons feel more like data science than a literal photo, fitting automation and analytics themes.",
+  "techniques": [
+    "Build an icon from a grid of glowing particles instead of a solid shape.",
+    "Connect multiple icons with thin network lines for a systemic feel.",
+    "Keep the palette to one glowing colour on near-black for focus."
+  ],
+  "bestFor": [
+    "Email automation and MarTech",
+    "Data science visuals",
+    "Abstract tech backgrounds"
+  ],
+  "vocabulary": [
+    {
+      "term": "Particle grid",
+      "definition": "An icon or shape formed from many small glowing points."
+    },
+    {
+      "term": "Network line",
+      "definition": "A thin connecting line suggesting data flow between nodes."
+    }
+  ]
+}

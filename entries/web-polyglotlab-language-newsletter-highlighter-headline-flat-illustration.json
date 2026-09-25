@@ -1,0 +1,38 @@
+{
+  "name": "web-polyglotlab-language-newsletter-highlighter-headline-flat-illustration",
+  "image": "images/web-polyglotlab-language-newsletter-highlighter-headline-flat-illustration.avif",
+  "discipline": "web",
+  "designType": "Landing page",
+  "designStyle": "Playful & Illustrated",
+  "title": "'PolyglotLab' language-learning newsletter with a purple-highlighted headline and speech-bubble phone illustration",
+  "tags": [
+    "language-learning",
+    "newsletter",
+    "purple-highlight",
+    "paper-texture",
+    "flat-illustration",
+    "email"
+  ],
+  "whatItIs": "A cream paper-textured newsletter with a bold black headline where 'LANGUAGE SKILLS' is highlighted in purple, yellow labelled sections (New This Week, Don't Miss, Quick Tip!) with grammar and phrase tips, and flat illustrations of people learning via a whiteboard and a phone with 'Hello'/'Hola' speech bubbles.",
+  "whatItMeans": "Friendly and organised; highlighter-style emphasis and labelled sections make a content-heavy newsletter easy to skim like a study guide.",
+  "techniques": [
+    "Highlight key headline words in a bold solid colour block.",
+    "Label each content section with a small coloured tag and emoji.",
+    "Show the product in use through speech-bubble language examples."
+  ],
+  "bestFor": [
+    "Language learning platforms",
+    "Educational email newsletters",
+    "Content-heavy digital newsletters"
+  ],
+  "vocabulary": [
+    {
+      "term": "Highlighter block",
+      "definition": "A solid colour block behind text mimicking a highlighter pen."
+    },
+    {
+      "term": "Section tag",
+      "definition": "A small labelled header introducing a content block."
+    }
+  ]
+}

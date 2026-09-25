@@ -1,0 +1,33 @@
+{
+  "name": "print-social-ad-vr-headset-orange-spec-callout",
+  "image": "images/print-social-ad-vr-headset-orange-spec-callout.jpg",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Orange VR headset ad with dotted spec callout lines",
+  "tags": [
+    "social ad",
+    "vr headset",
+    "orange",
+    "spec callouts",
+    "product photo"
+  ],
+  "whatItIs": "A square product ad on an orange gradient background, featuring a dramatic close-up VR headset photo with thin white dotted lines pointing to four spec callouts (audio, visuals, refresh rate, frame weight).",
+  "whatItMeans": "Dotted callout lines pointing from specific product parts to labeled specs let a single hero photo double as a mini spec sheet, common in premium tech advertising.",
+  "techniques": [
+    "point thin dotted leader lines from specific product details to surrounding spec labels",
+    "angle the hero product diagonally across the frame for dynamic energy",
+    "use a warm gradient background to contrast against a cool-toned metallic product"
+  ],
+  "bestFor": [
+    "gadget/VR product launch ads",
+    "premium tech e-commerce marketing",
+    "spec-forward product advertising"
+  ],
+  "vocabulary": [
+    {
+      "term": "leader line",
+      "definition": "a thin line connecting a label to the specific part of an image it describes"
+    }
+  ]
+}

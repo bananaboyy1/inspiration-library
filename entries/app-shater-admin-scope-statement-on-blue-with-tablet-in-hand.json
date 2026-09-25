@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-admin-scope-statement-on-blue-with-tablet-in-hand",
+  "image": "images/app-shater-admin-scope-statement-on-blue-with-tablet-in-hand.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater admin scope statement on blue with a highlighted phrase and a tablet held in hand",
+  "tags": [
+    "admin-panel",
+    "arabic",
+    "scope",
+    "blue",
+    "tablet",
+    "case-study"
+  ],
+  "whatItIs": "A blue slide with an Arabic sentence stating the system also supports a control panel for managing users, craftsmen, services, orders, payments and complaints — with 'إدارة تحكم' (management panel) highlighted in white — above a faded 'Shater' wordmark and a hand holding a tablet with the dashboard.",
+  "whatItMeans": "Reinforcing; restating the admin scope in plain language after the detailed slides drives home how much the panel covers.",
+  "techniques": [
+    "Highlight the key phrase in a summary sentence.",
+    "Repeat a scope statement in different visual contexts for emphasis.",
+    "Keep the same wordmark watermark across related slides."
+  ],
+  "bestFor": [
+    "Case study scope summaries",
+    "Admin capability statements",
+    "Recap slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Watermark",
+      "definition": "A faint background mark, often a logo or wordmark."
+    },
+    {
+      "term": "Scope statement",
+      "definition": "A sentence defining what a system covers."
+    }
+  ]
+}

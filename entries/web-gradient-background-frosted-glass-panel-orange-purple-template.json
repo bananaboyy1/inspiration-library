@@ -1,0 +1,37 @@
+{
+  "name": "web-gradient-background-frosted-glass-panel-orange-purple-template",
+  "image": "images/web-gradient-background-frosted-glass-panel-orange-purple-template.avif",
+  "discipline": "web",
+  "designType": "Background pattern",
+  "designStyle": "Glassmorphism",
+  "title": "'Gradient Background' template with a frosted glass panel over a vivid orange-purple blurred gradient",
+  "tags": [
+    "glassmorphism",
+    "gradient",
+    "orange-purple",
+    "frosted-panel",
+    "template"
+  ],
+  "whatItIs": "A vivid blurred orange-to-purple gradient background with a large frosted-glass rounded rectangle panel at centre holding a bold 'GRADIENT BACKGROUND' title, a subtitle and placeholder body text.",
+  "whatItMeans": "Warm and premium; a frosted panel over a rich sunset-toned gradient gives any headline instant visual depth.",
+  "techniques": [
+    "Blur a vivid multi-colour gradient for a soft, glowing backdrop.",
+    "Float a frosted glass panel at centre for content legibility.",
+    "Keep panel content minimal so the gradient stays the star."
+  ],
+  "bestFor": [
+    "Glassmorphism UI templates",
+    "Warm-toned background assets",
+    "Presentation and banner backgrounds"
+  ],
+  "vocabulary": [
+    {
+      "term": "Frosted glass panel",
+      "definition": "A translucent blurred rectangle mimicking textured glass."
+    },
+    {
+      "term": "Blurred gradient",
+      "definition": "A soft, out-of-focus colour transition."
+    }
+  ]
+}

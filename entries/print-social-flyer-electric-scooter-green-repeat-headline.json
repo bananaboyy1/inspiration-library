@@ -1,0 +1,34 @@
+{
+  "name": "print-social-flyer-electric-scooter-green-repeat-headline",
+  "image": "images/print-social-flyer-electric-scooter-green-repeat-headline.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Neo-Brutalist",
+  "title": "Green electric transport flyer with repeated stacked headline",
+  "tags": [
+    "flyer",
+    "transport",
+    "electric",
+    "green",
+    "repeated headline",
+    "photo"
+  ],
+  "whatItIs": "A square flyer on a lime-green background with a black photo panel, a repeated 'THE BEST TRANSPORT' headline stacked three times in shifting gradient colors, and a rotated 'ELECTRIC' text running vertically.",
+  "whatItMeans": "Repeating the same headline phrase directly on top of itself in slightly different colors creates a strobing, glitch-like emphasis effect without needing motion or video.",
+  "techniques": [
+    "stack the identical headline phrase multiple times in different colors for a strobe/echo effect",
+    "run supporting text vertically along the frame edge to use otherwise empty margin space",
+    "convert the hero photo to black-and-white so only text and small accent shapes carry color"
+  ],
+  "bestFor": [
+    "e-mobility/EV brand marketing",
+    "bold youth-oriented product flyers",
+    "high-contrast, energetic ad templates"
+  ],
+  "vocabulary": [
+    {
+      "term": "echo/strobe text effect",
+      "definition": "repeating the same text in a stack with slight offsets or color shifts to create visual vibration"
+    }
+  ]
+}

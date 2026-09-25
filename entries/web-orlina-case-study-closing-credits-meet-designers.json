@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-case-study-closing-credits-meet-designers",
+  "image": "images/web-orlina-case-study-closing-credits-meet-designers.webp",
+  "discipline": "web",
+  "designType": "Case study closing slide",
+  "designStyle": "Editorial",
+  "title": "Orlina case study closing: 'Meet Designers' portrait cards and a gold 'Thanks for watching'",
+  "tags": [
+    "credits",
+    "closing-slide",
+    "portrait",
+    "gold",
+    "dark",
+    "case-study"
+  ],
+  "whatItIs": "A dark brown closing slide with a script-and-serif 'Meet Designers' heading, a small 'Artists' pill, two rounded photo cards of the designers in matching orange scarves with their names and role, and a large gold 'Thanks for watching' with 'Appreciate your feelings' below, over a faint radial grid.",
+  "whatItMeans": "Personal and gracious; naming and picturing the team closes the story on a human note.",
+  "techniques": [
+    "Show both designers in matching styling for cohesion.",
+    "Fade a radial grid behind the sign-off.",
+    "Pair a script word with serif italics in the thank-you."
+  ],
+  "bestFor": [
+    "Portfolio closing slides",
+    "Team credits",
+    "Case study endings"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radial grid",
+      "definition": "Concentric lines fading from a centre point."
+    },
+    {
+      "term": "Sign-off",
+      "definition": "The closing message of a presentation."
+    }
+  ]
+}

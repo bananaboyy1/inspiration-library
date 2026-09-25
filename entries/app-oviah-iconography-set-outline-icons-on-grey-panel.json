@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-iconography-set-outline-icons-on-grey-panel",
+  "image": "images/app-oviah-iconography-set-outline-icons-on-grey-panel.webp",
+  "discipline": "app",
+  "designType": "Design system documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH iconography sheet: a full set of thin outline icons for health tracking on a grey rounded panel",
+  "tags": [
+    "iconography",
+    "icon-set",
+    "outline-icons",
+    "lilac",
+    "design-system"
+  ],
+  "whatItIs": "A grey rounded panel holding roughly 50 thin-stroke outline icons in three rows, covering navigation (link, moon, calendar), health symbols (droplet, heart, no-symbol), actions (edit, lock, search), and body/lifestyle icons (person, food, exercise), all in one consistent line weight.",
+  "whatItMeans": "Cohesive and legible; one uniform stroke weight across so many icons keeps a dense health app visually calm.",
+  "techniques": [
+    "Draw every icon at the same stroke weight and corner radius.",
+    "Group icons loosely by function within one sheet.",
+    "Present the whole set on a single neutral panel for review."
+  ],
+  "bestFor": [
+    "Icon set documentation",
+    "Design system libraries",
+    "Health app UI kits"
+  ],
+  "vocabulary": [
+    {
+      "term": "Icon set",
+      "definition": "A collection of icons sharing one visual style."
+    },
+    {
+      "term": "Stroke weight",
+      "definition": "The thickness of an icon's outline."
+    }
+  ]
+}

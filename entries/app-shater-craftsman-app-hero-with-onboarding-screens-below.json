@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-craftsman-app-hero-with-onboarding-screens-below",
+  "image": "images/app-shater-craftsman-app-hero-with-onboarding-screens-below.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater craftsman app hero with a phone in hand, followed by five onboarding and identity-verification screens",
+  "tags": [
+    "onboarding",
+    "arabic",
+    "verification",
+    "hand-mockup",
+    "orange",
+    "identity"
+  ],
+  "whatItIs": "A light page with the 'تطبيق الحرفي' hero (phone in hand over a hard-hat photo) above five app screens (order tracking steps, chat, an empty package illustration, service browsing, a splash logo), then a row of four numbered identity-verification steps (Complete Data, Verify Account, Personal Data, Professional Data) with a green checkmark for accepted accounts.",
+  "whatItMeans": "Trust-building and thorough; a numbered verification flow shows how the platform screens craftsmen before letting them work.",
+  "techniques": [
+    "Number onboarding steps for clarity.",
+    "Use an empty-state illustration for a no-content moment.",
+    "Mark the final accepted state in green."
+  ],
+  "bestFor": [
+    "Marketplace onboarding",
+    "Identity verification flows",
+    "Two-sided platform apps"
+  ],
+  "vocabulary": [
+    {
+      "term": "Empty state illustration",
+      "definition": "An image shown when there is nothing to display yet."
+    },
+    {
+      "term": "Identity verification",
+      "definition": "Confirming a user's real identity before granting access."
+    }
+  ]
+}

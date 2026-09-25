@@ -1,0 +1,34 @@
+{
+  "name": "print-social-flyer-vr-glitch-cyan-purple-outline-type",
+  "image": "images/print-social-flyer-vr-glitch-cyan-purple-outline-type.avif",
+  "discipline": "print-social",
+  "designType": "Social ad",
+  "designStyle": "Dark & Neon",
+  "title": "VR flyer with glitch photo effect and outline typography",
+  "tags": [
+    "flyer",
+    "vr",
+    "glitch effect",
+    "cyan",
+    "outline type",
+    "tech"
+  ],
+  "whatItIs": "A square tech flyer on a purple/cyan split background, featuring a VR-headset photo with a red/cyan RGB glitch offset effect and a large outline-only 'TECH' wordmark.",
+  "whatItMeans": "A glitch/chromatic-aberration effect on the photo signals 'digital/VR' more viscerally than a clean photo would, while the outline-only headline keeps the layout from feeling cluttered.",
+  "techniques": [
+    "offset red and cyan color channels on a photo for a glitch/VR distortion effect",
+    "render a large headline in outline-only type so it reads as bold without adding visual weight",
+    "split the background into two flat color fields to separate photo and text zones"
+  ],
+  "bestFor": [
+    "VR/AR product marketing",
+    "tech conference/event flyers",
+    "glitch-aesthetic digital brand campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "chromatic aberration / glitch effect",
+      "definition": "an intentional offsetting of color channels to simulate digital distortion or a glitch"
+    }
+  ]
+}

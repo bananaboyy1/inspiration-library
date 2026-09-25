@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-live-data-and-route-planning-screens-with-notes",
+  "image": "images/app-flow-live-data-and-route-planning-screens-with-notes.webp",
+  "discipline": "app",
+  "designType": "Fitness app screens",
+  "designStyle": "Minimalist",
+  "title": "Flow cycling app: live performance data and personalised route-planning screens on light grey cards",
+  "tags": [
+    "cycling",
+    "fitness",
+    "route-planning",
+    "light-ui",
+    "cards",
+    "data"
+  ],
+  "whatItIs": "Two phones on light grey cards: 'Canlı Veri' (Live Data) listing speed, heart rate, cadence, altitude and power each with a mini sparkline, and 'Rota Planlama' (Route Planning) with from/to fields and stacked route-option cards (Fastest, Scenic, Safest) with a 'Create Route' button, each with a rationale caption below.",
+  "whatItMeans": "Data-rich yet calm; sparklines and named route personalities make dense metrics feel approachable.",
+  "techniques": [
+    "Pair each metric with a small sparkline trend.",
+    "Offer named route personalities instead of raw options.",
+    "Set data screens on light cards for a calmer read than the dark tracking view."
+  ],
+  "bestFor": [
+    "Fitness data dashboards",
+    "Route planning UX",
+    "Sports app case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sparkline",
+      "definition": "A small trend-line chart with no axes."
+    },
+    {
+      "term": "Route personality",
+      "definition": "A named route type reflecting a different priority."
+    }
+  ]
+}

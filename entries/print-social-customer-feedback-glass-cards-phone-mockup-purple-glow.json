@@ -1,0 +1,38 @@
+{
+  "name": "print-social-customer-feedback-glass-cards-phone-mockup-purple-glow",
+  "image": "images/print-social-customer-feedback-glass-cards-phone-mockup-purple-glow.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Glassmorphism",
+  "title": "Customer feedback shown as frosted-glass testimonial cards inside a phone mockup on a purple glow",
+  "tags": [
+    "testimonial",
+    "feedback",
+    "purple-glow",
+    "glassmorphism",
+    "phone-mockup",
+    "instagram"
+  ],
+  "whatItIs": "A phone outline mockup on a dark purple radial glow, with two overlapping frosted-glass testimonial cards each showing a circular customer photo, name, five-star rating and a short quote, plus standard Instagram action icons below.",
+  "whatItMeans": "Trustworthy and modern; presenting reviews as glass cards inside a phone frame makes social proof feel like a live, native app experience.",
+  "techniques": [
+    "Overlap two testimonial cards for a layered, dynamic feel.",
+    "Frame testimonials inside a phone outline for an in-app feel.",
+    "Glow the background radially to draw focus to the centre cards."
+  ],
+  "bestFor": [
+    "Customer testimonial posts",
+    "Review and social proof marketing",
+    "Glassmorphism UI branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Testimonial card",
+      "definition": "A card featuring a customer's photo, rating and quote."
+    },
+    {
+      "term": "Radial glow",
+      "definition": "Light fading outward from a central point."
+    }
+  ]
+}

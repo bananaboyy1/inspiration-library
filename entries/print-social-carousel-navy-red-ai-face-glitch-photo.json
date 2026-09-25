@@ -1,0 +1,34 @@
+{
+  "name": "print-social-carousel-navy-red-ai-face-glitch-photo",
+  "image": "images/print-social-carousel-navy-red-ai-face-glitch-photo.avif",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "designStyle": "Dark & Neon",
+  "title": "Navy/red AI carousel with glitched face-splash photography",
+  "tags": [
+    "carousel",
+    "ai",
+    "glitch photo",
+    "navy red",
+    "instagram",
+    "technology"
+  ],
+  "whatItIs": "An eight-tile Instagram grid on a deep navy background, repeating a heavily glitch/color-splashed portrait photo (red-blue channel split) alongside bold '80% We are the future' statistic headlines.",
+  "whatItMeans": "A single dramatically distorted portrait reused across every tile, rather than eight different photos, keeps production simple while still filling a whole grid with striking, on-theme imagery.",
+  "techniques": [
+    "reuse one heavily stylized hero photo across every tile of a grid instead of sourcing new imagery each time",
+    "apply a strong red/blue channel-split glitch treatment to signal 'AI/digital' distortion",
+    "pair a single large percentage stat with a short bold claim for an easily quotable headline tile"
+  ],
+  "bestFor": [
+    "AI/tech brand social campaigns",
+    "futuristic content marketing",
+    "glitch-aesthetic template packs"
+  ],
+  "vocabulary": [
+    {
+      "term": "channel split",
+      "definition": "offsetting an image's red, green and blue color channels from each other to create a distorted, digital look"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "print-social-your-digital-marketing-partner-poster-blue-red-duotone-wireframe",
+  "image": "images/print-social-your-digital-marketing-partner-poster-blue-red-duotone-wireframe.avif",
+  "discipline": "print-social",
+  "designType": "Poster",
+  "designStyle": "Editorial",
+  "title": "'Your Digital Marketing Partner' poster with a red-duotone portrait and a wireframe mesh accent",
+  "tags": [
+    "agency",
+    "blue",
+    "red-duotone",
+    "wireframe-mesh",
+    "serif",
+    "poster"
+  ],
+  "whatItIs": "A blue-bordered white poster with a bold high-contrast serif headline 'Your Digital Marketing Partner', a dotted pattern and solid orange circle accent, a red-duotone photo of a smiling person, a wireframe mesh grid shape, and a small connected-node logo mark with the brand name 'TARUKA'.",
+  "whatItMeans": "Editorial and confident; pairing serif type with a duotone photo and wireframe mesh feels design-forward rather than templated.",
+  "techniques": [
+    "Pair a high-contrast serif headline with a duotone photo.",
+    "Add a wireframe mesh shape as an abstract tech accent.",
+    "Use a connected-node icon as a distinctive small logo mark."
+  ],
+  "bestFor": [
+    "Marketing agency posters",
+    "Editorial-style corporate branding",
+    "Duotone photo campaigns"
+  ],
+  "vocabulary": [
+    {
+      "term": "Wireframe mesh",
+      "definition": "A grid of lines suggesting a 3D or digital surface."
+    },
+    {
+      "term": "Node logo",
+      "definition": "A mark built from connected dots, suggesting a network."
+    }
+  ]
+}

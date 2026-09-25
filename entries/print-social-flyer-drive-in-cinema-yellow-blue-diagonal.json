@@ -1,0 +1,34 @@
+{
+  "name": "print-social-flyer-drive-in-cinema-yellow-blue-diagonal",
+  "image": "images/print-social-flyer-drive-in-cinema-yellow-blue-diagonal.avif",
+  "discipline": "print-social",
+  "designType": "Event flyer",
+  "designStyle": "Retro & Pixel",
+  "title": "Drive-in cinema flyer with diagonal yellow/blue split",
+  "tags": [
+    "flyer",
+    "cinema",
+    "diagonal split",
+    "yellow blue",
+    "retro",
+    "popcorn"
+  ],
+  "whatItIs": "A square flyer for a drive-in cinema, split diagonally into dark, yellow and blue triangular fields, with a line-art car illustration, popcorn photo cutouts and a rounded logo lockup.",
+  "whatItMeans": "A diagonal color split breaks the usual rectangular grid, giving a simple flyer a sense of motion appropriate to a car/drive-in theme.",
+  "techniques": [
+    "split a square canvas diagonally into contrasting color fields instead of stacking horizontal bands",
+    "overlay a cut-out real photo prop (popcorn) atop flat vector shapes for tactile contrast",
+    "contain the brand name in a rounded pill/blob logo lockup to soften a geometric layout"
+  ],
+  "bestFor": [
+    "cinema/entertainment event flyers",
+    "retro-themed local business marketing",
+    "diagonal-composition poster designs"
+  ],
+  "vocabulary": [
+    {
+      "term": "diagonal split",
+      "definition": "a layout technique dividing a canvas along an angled line rather than horizontally or vertically"
+    }
+  ]
+}

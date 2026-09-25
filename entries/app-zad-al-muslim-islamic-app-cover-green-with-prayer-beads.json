@@ -1,0 +1,38 @@
+{
+  "name": "app-zad-al-muslim-islamic-app-cover-green-with-prayer-beads",
+  "image": "images/app-zad-al-muslim-islamic-app-cover-green-with-prayer-beads.png",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Zad Al-Muslim Islamic app cover in deep green with prayer beads and two phones",
+  "tags": [
+    "islamic",
+    "arabic",
+    "green",
+    "prayer-times",
+    "quran",
+    "case-study-cover"
+  ],
+  "whatItIs": "A dark green cover over a faded mosque interior with a large white Arabic calligraphic title, green prayer beads with a gold tassel, two phones (Quran page, home with prayer times and features), and pill tags 'Islamic App' and 'App Design'.",
+  "whatItMeans": "Reverent and calm; deep green and the tasbih set a spiritual tone.",
+  "techniques": [
+    "Use a culturally meaningful object as a prop.",
+    "Fade an architectural photo into the brand colour.",
+    "Let a large calligraphic title span the top."
+  ],
+  "bestFor": [
+    "Religious apps",
+    "Arabic apps",
+    "Lifestyle app covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tasbih",
+      "definition": "Muslim prayer beads."
+    },
+    {
+      "term": "Calligraphic title",
+      "definition": "A heading written in decorative script."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "app-oviah-dashboard-on-books-and-onboarding-on-violet",
+  "image": "images/app-oviah-dashboard-on-books-and-onboarding-on-violet.webp",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Minimalist",
+  "title": "OVIAH home dashboard staged on stacked books beside onboarding screens on a solid violet backdrop",
+  "tags": [
+    "mockup",
+    "dashboard",
+    "violet",
+    "books",
+    "onboarding",
+    "phone-mockup"
+  ],
+  "whatItIs": "Two mockup scenes: the home dashboard phone lying flat on a stack of blue books beside abstract blue cylinder props, and two phones on solid violet — the dashboard tilted behind a foreground splash screen with 'Get Started' and 'I already have an account' buttons.",
+  "whatItMeans": "Versatile and polished; pairing a styled prop scene with a clean colour-block scene shows the design works in varied presentation contexts.",
+  "techniques": [
+    "Stage a phone flat among unrelated props for an editorial mood.",
+    "Use a solid brand-colour backdrop for a cleaner alternative shot.",
+    "Overlap two phones at different depths for a sense of flow."
+  ],
+  "bestFor": [
+    "App store screenshots",
+    "Portfolio mockup variety",
+    "Dashboard and onboarding pairing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Prop styling",
+      "definition": "Arranging unrelated objects around a product for mood."
+    },
+    {
+      "term": "Colour-block backdrop",
+      "definition": "A flat single-colour background behind a mockup."
+    }
+  ]
+}

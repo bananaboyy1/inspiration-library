@@ -1,0 +1,38 @@
+{
+  "name": "app-spiritual-journey-music-player-geometric-teal-purple-pattern",
+  "image": "images/app-spiritual-journey-music-player-geometric-teal-purple-pattern.avif",
+  "discipline": "app",
+  "designType": "UI components",
+  "designStyle": "Geometric & Bauhaus",
+  "title": "Music player app with a geometric teal-purple triangle pattern behind the album art and track list",
+  "tags": [
+    "music-player",
+    "geometric",
+    "teal",
+    "purple",
+    "pattern",
+    "app-ui"
+  ],
+  "whatItIs": "Three phone screens for a music app: a 'Now Playing' screen with a circular album art disc over a triangle-and-circle geometric pattern, a track list ('Anchor', 'State Lines'...) with heart icons on the same pattern, and an 'Other Albums' grid on a plain white background.",
+  "whatItMeans": "Rhythmic and stylish; the geometric pattern behind the player controls gives the interface a strong, memorable visual identity beyond typical album art.",
+  "techniques": [
+    "Use a bold geometric pattern as a persistent UI background.",
+    "Keep the pattern only on player screens, switching to plain white for browsing.",
+    "Render the album art as a circular disc echoing a vinyl record."
+  ],
+  "bestFor": [
+    "Music streaming apps",
+    "Geometric UI branding",
+    "Audio product design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Persistent background",
+      "definition": "A pattern or colour kept consistent across a set of screens."
+    },
+    {
+      "term": "Disc motif",
+      "definition": "A circular shape referencing a vinyl or CD."
+    }
+  ]
+}

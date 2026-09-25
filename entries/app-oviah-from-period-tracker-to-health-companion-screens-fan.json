@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-from-period-tracker-to-health-companion-screens-fan",
+  "image": "images/app-oviah-from-period-tracker-to-health-companion-screens-fan.webp",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH closing statement 'From a Period tracker to a Health Companion' beside a fan of health-record screens",
+  "tags": [
+    "closing-slide",
+    "health-records",
+    "lilac",
+    "reminders",
+    "case-study"
+  ],
+  "whatItIs": "A fanned row of ten phone screens (weight logging, pill reminders with success states, a health hub with view/upload actions, a records list, a prescription form with report type, and the home dashboard) beside the italic closing statement 'From a Period tracker to a Health Companion.'",
+  "whatItMeans": "Ambitious and conclusive; the closing line reframes the whole case study as evolving beyond its original brief.",
+  "techniques": [
+    "Close with a statement that reframes the product's scope.",
+    "Fan the broadest range of screens as final proof of depth.",
+    "Mix serif-weight emphasis for a memorable closing line."
+  ],
+  "bestFor": [
+    "Case study conclusions",
+    "Product vision statements",
+    "Portfolio closing slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Reframing statement",
+      "definition": "A closing line that repositions what the product really is."
+    },
+    {
+      "term": "Screen fan",
+      "definition": "Multiple screens arranged in an overlapping row."
+    }
+  ]
+}

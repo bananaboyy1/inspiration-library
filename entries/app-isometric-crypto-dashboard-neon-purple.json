@@ -1,0 +1,35 @@
+{
+  "name": "app-isometric-crypto-dashboard-neon-purple",
+  "image": "images/app-isometric-crypto-dashboard-neon-purple.avif",
+  "discipline": "app",
+  "designType": "Fintech app screens",
+  "designStyle": "Dark & Neon",
+  "title": "Isometric crypto dashboard scene in neon purple and pink",
+  "tags": [
+    "isometric",
+    "crypto",
+    "fintech",
+    "dark ui",
+    "neon",
+    "bitcoin",
+    "dashboard"
+  ],
+  "whatItIs": "A tilted isometric collage of phone and tablet crypto-trading screens connected by glowing pink circuit lines over a checkerboard dark background, with bitcoin coin icons scattered around.",
+  "whatItMeans": "The isometric 'floating circuit board' framing turns a set of flat UI mockups into a single dramatic hero image that reads as high-tech and valuable.",
+  "techniques": [
+    "arrange multiple UI screens in isometric perspective to form one connected scene",
+    "link screens with glowing neon circuit-line paths to imply data flow",
+    "scatter oversized brand icon tokens (coins) around the scene for thematic reinforcement"
+  ],
+  "bestFor": [
+    "crypto/fintech app landing pages",
+    "dark-mode trading dashboard case studies",
+    "tech conference or pitch-deck hero art"
+  ],
+  "vocabulary": [
+    {
+      "term": "isometric illustration",
+      "definition": "a style depicting 3D objects with parallel projection lines and no perspective convergence, common in tech marketing"
+    }
+  ]
+}

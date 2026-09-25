@@ -1,0 +1,38 @@
+{
+  "name": "print-social-april-fools-instagram-stories-purple-tap-to-claim-prank",
+  "image": "images/print-social-april-fools-instagram-stories-purple-tap-to-claim-prank.avif",
+  "discipline": "print-social",
+  "designType": "Story set",
+  "designStyle": "Playful & Illustrated",
+  "title": "Purple April Fools' story set with a 'TAP to claim your prize' fake-giveaway prank card",
+  "tags": [
+    "april-fools",
+    "stories",
+    "purple",
+    "prank",
+    "interactive",
+    "typography"
+  ],
+  "whatItIs": "Five purple story cards with a party-horn icon: a giveaway card with a large 'TAP' circle button and 'Gotcha. No prize. But hey, you won our respect.' beneath, and four more cards pranking with a silent audio waveform, a fake 'new video', an unreadable QR-style pattern and a fake new-message notification, each tagged 'April Fool's Day'.",
+  "whatItMeans": "Witty and interactive; mimicking real UI patterns (tap buttons, notifications) makes the prank feel like an actual app moment.",
+  "techniques": [
+    "Mimic real app UI (buttons, notifications) for a convincing prank.",
+    "Reveal the joke's payoff only after the fake interaction.",
+    "Use one consistent badge label across all prank variations."
+  ],
+  "bestFor": [
+    "April Fools' social campaigns",
+    "Interactive story content",
+    "UI-mimicking marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fake interaction",
+      "definition": "A mimicked UI element used for comedic or marketing effect."
+    },
+    {
+      "term": "Payoff line",
+      "definition": "The punchline text revealed after an interaction."
+    }
+  ]
+}

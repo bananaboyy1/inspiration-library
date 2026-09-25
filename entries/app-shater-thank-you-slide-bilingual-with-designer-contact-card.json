@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-thank-you-slide-bilingual-with-designer-contact-card",
+  "image": "images/app-shater-thank-you-slide-bilingual-with-designer-contact-card.webp",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater case study closing: bilingual 'Thank You For Watching' with a designer contact card and 'BRD to' tagline",
+  "tags": [
+    "closing-slide",
+    "arabic",
+    "bilingual",
+    "contact-card",
+    "blue",
+    "case-study"
+  ],
+  "whatItIs": "A light blue closing slide with a boxed Arabic 'شكراً علي المشاهدة' above 'Thank You For Watching', a designer contact card (photo, name, role, WhatsApp, email, 'Follow Me' button), an Arabic tagline 'من الـ BRD إلى تج...' and a dashboard-plus-phones cluster with a hard-hat icon.",
+  "whatItMeans": "Professional and personal; a real contact card turns a portfolio ending into an invitation to connect.",
+  "techniques": [
+    "Close bilingually for a wider audience.",
+    "Include a full contact card with a follow CTA.",
+    "Reuse hero screens small as a closing visual."
+  ],
+  "bestFor": [
+    "Bilingual case studies",
+    "Freelance designer portfolios",
+    "Closing slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Contact card",
+      "definition": "A block with photo and ways to reach someone."
+    },
+    {
+      "term": "Bilingual layout",
+      "definition": "Content shown in two languages together."
+    }
+  ]
+}

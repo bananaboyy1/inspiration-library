@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-the-problem-banner-with-faded-sketch-illustration",
+  "image": "images/web-fatis-the-problem-banner-with-faded-sketch-illustration.webp",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Playful & Illustrated",
+  "title": "'The Problem' case study banner with a faded pink sketch of a stressed face and laptop",
+  "tags": [
+    "case-study",
+    "problem",
+    "pink",
+    "sketch",
+    "banner",
+    "illustration"
+  ],
+  "whatItIs": "A wide beige banner with a hot pink 'The Problem' heading and paragraph on the left and a large faded pink line sketch on the right: a worried face, a laptop showing a donut site, a question mark and a scribble.",
+  "whatItMeans": "Honest but light; the doodle eases a serious section with humour.",
+  "techniques": [
+    "Put a faded line illustration behind half the banner.",
+    "Use one brand colour for both text and art.",
+    "Keep the section to a heading and one paragraph."
+  ],
+  "bestFor": [
+    "Case study section headers",
+    "Problem statements",
+    "Illustrated banners"
+  ],
+  "vocabulary": [
+    {
+      "term": "Spot illustration",
+      "definition": "A small illustration supporting text."
+    },
+    {
+      "term": "Low-opacity art",
+      "definition": "An image faded to sit behind content."
+    }
+  ]
+}

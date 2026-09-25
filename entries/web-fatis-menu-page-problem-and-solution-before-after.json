@@ -1,0 +1,38 @@
+{
+  "name": "web-fatis-menu-page-problem-and-solution-before-after",
+  "image": "images/web-fatis-menu-page-problem-and-solution-before-after.gif",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Playful & Illustrated",
+  "title": "Fati's menu before/after: striped pink 'Menu' header with sidebar categories versus the old grid",
+  "tags": [
+    "case-study",
+    "before-after",
+    "menu",
+    "sidebar",
+    "pink",
+    "ecommerce"
+  ],
+  "whatItIs": "An animated slide comparing menu pages: the redesign with a hot-pink striped 'Menu' header, left category sidebar with arrows, search and sort, and product cards, versus the old 'Cuts' page with a pink pill category list and sandwich photos, each labelled Problem or Solution.",
+  "whatItMeans": "Clear and structured; the case for better navigation is shown, not just told.",
+  "techniques": [
+    "Use a striped awning header for a shopfront feel.",
+    "Add a sidebar of categories with arrow affordances.",
+    "Place search and sort above the grid."
+  ],
+  "bestFor": [
+    "E-commerce menu redesigns",
+    "Food ordering sites",
+    "UX case studies"
+  ],
+  "vocabulary": [
+    {
+      "term": "Affordance",
+      "definition": "A visual hint that something is clickable."
+    },
+    {
+      "term": "Category sidebar",
+      "definition": "A vertical list for filtering products."
+    }
+  ]
+}

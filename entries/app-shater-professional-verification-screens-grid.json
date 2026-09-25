@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-professional-verification-screens-grid",
+  "image": "images/app-shater-professional-verification-screens-grid.webp",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater craftsman professional-data verification: profession, skills, languages and document-upload screens",
+  "tags": [
+    "verification",
+    "arabic",
+    "onboarding",
+    "documents",
+    "forms",
+    "craftsman"
+  ],
+  "whatItIs": "A grid of ten phone screens covering professional data entry (profession, skills, years of experience, spoken languages with pill chips), messaging and notifications, and a document-upload form for national ID front/back and a criminal record certificate before final submission.",
+  "whatItMeans": "Thorough and trustworthy; requiring real documents before activation shows the platform vets craftsmen seriously.",
+  "techniques": [
+    "Collect structured professional data as pill-chip selections.",
+    "Require document uploads before granting full access.",
+    "Pair form screens with the messaging and alerts they lead to."
+  ],
+  "bestFor": [
+    "Marketplace vetting flows",
+    "Professional verification UX",
+    "Two-sided platform onboarding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Vetting",
+      "definition": "Checking a person's credentials before approval."
+    },
+    {
+      "term": "Pill chip selection",
+      "definition": "Choosing multiple options shown as rounded tags."
+    }
+  ]
+}

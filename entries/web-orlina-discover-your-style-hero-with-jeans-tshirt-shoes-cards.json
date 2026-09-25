@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-discover-your-style-hero-with-jeans-tshirt-shoes-cards",
+  "image": "images/web-orlina-discover-your-style-hero-with-jeans-tshirt-shoes-cards.webp",
+  "discipline": "web",
+  "designType": "E-commerce",
+  "designStyle": "Editorial",
+  "title": "Orlina 'Discover your style, your way' hero linking to Jeans, T-shirt and Shoes style pages",
+  "tags": [
+    "fashion",
+    "hero",
+    "editorial",
+    "product-cards",
+    "connectors",
+    "ecommerce"
+  ],
+  "whatItIs": "A dark page with a beige quote pill 'Discover your style, your way. Explore curated collections made for every expression.' above a homepage screenshot, connected by dotted lines to three sub-pages: 'New Drop Collections 2026' (jeans), 'Design for modern lifestyle' (T-shirts) and 'New colored, stay comfy' (shoes).",
+  "whatItMeans": "Guided and editorial; the quote sets intent, then real category pages prove it was delivered.",
+  "techniques": [
+    "Pair a homepage with its category sub-pages via connectors.",
+    "Give each category page its own headline voice.",
+    "Label each connector with the linked style."
+  ],
+  "bestFor": [
+    "Category page documentation",
+    "Fashion site flows",
+    "Case study UX slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Sub-page",
+      "definition": "A page reached from a main landing page."
+    },
+    {
+      "term": "Style category",
+      "definition": "A product grouping like jeans or T-shirts."
+    }
+  ]
+}

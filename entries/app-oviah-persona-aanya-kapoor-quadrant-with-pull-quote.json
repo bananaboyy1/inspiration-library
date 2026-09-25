@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-persona-aanya-kapoor-quadrant-with-pull-quote",
+  "image": "images/app-oviah-persona-aanya-kapoor-quadrant-with-pull-quote.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Minimalist",
+  "title": "OVIAH persona 'Aanya Kapoor': photo and quote beside a four-quadrant goals/behaviour/pain-points/needs grid",
+  "tags": [
+    "persona",
+    "ux-research",
+    "lilac",
+    "quadrant",
+    "quote"
+  ],
+  "whatItIs": "A slide with a lilac blob background holding Aanya Kapoor's photo, age, occupation and a pull-quote ('I want to understand my cycle, not just know when my period is coming.'), beside a four-quadrant grid (Goals, Behaviour, Pain Points, Needs) split by dashed lines, closing with a bolded insight line.",
+  "whatItMeans": "Human and structured; the quote humanises the persona while the quadrant keeps the research scannable.",
+  "techniques": [
+    "Split persona research into a four-quadrant grid with dashed dividers.",
+    "Lead with a first-person pull-quote that states the real need.",
+    "Close with one bolded sentence summarising the insight."
+  ],
+  "bestFor": [
+    "Persona documentation",
+    "UX research decks",
+    "User-centred design presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Persona",
+      "definition": "A fictional profile representing a group of real users."
+    },
+    {
+      "term": "Quadrant grid",
+      "definition": "Content split into four labelled sections."
+    }
+  ]
+}

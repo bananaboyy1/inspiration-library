@@ -1,0 +1,34 @@
+{
+  "name": "print-social-flyer-orange-delivery-photo-rounded-panel",
+  "image": "images/print-social-flyer-orange-delivery-photo-rounded-panel.jpg",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Warm & Organic",
+  "title": "Orange delivery service flyer with rounded photo panel",
+  "tags": [
+    "flyer",
+    "delivery",
+    "orange",
+    "rounded panel",
+    "photo",
+    "service"
+  ],
+  "whatItIs": "A delivery-service social flyer pairing a warm orange photo of a smiling customer with a large rounded dark panel overlapping the image, containing the offer copy and checkmark features.",
+  "whatItMeans": "Letting a rounded content panel overlap directly onto the photo (rather than sitting beside it) merges photo and message into one continuous composition.",
+  "techniques": [
+    "overlap a large rounded content panel onto the edge of a photo rather than placing it beside it",
+    "use a duotone-orange treatment on the photo so it harmonizes with a flat orange background",
+    "pair checkmark icons with short benefit phrases for fast scannability"
+  ],
+  "bestFor": [
+    "local delivery/service business promos",
+    "small business social flyers",
+    "warm-toned service marketing"
+  ],
+  "vocabulary": [
+    {
+      "term": "content panel",
+      "definition": "a distinct shaped area (often rounded or angled) used to hold text separately from a background image"
+    }
+  ]
+}

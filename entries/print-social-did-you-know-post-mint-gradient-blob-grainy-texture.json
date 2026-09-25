@@ -1,0 +1,38 @@
+{
+  "name": "print-social-did-you-know-post-mint-gradient-blob-grainy-texture",
+  "image": "images/print-social-did-you-know-post-mint-gradient-blob-grainy-texture.avif",
+  "discipline": "print-social",
+  "designType": "Social educational post",
+  "designStyle": "Gradient & Aurora",
+  "title": "'Did You Know?' fact post with a grainy mint gradient blob and a numbered fact category",
+  "tags": [
+    "fact-post",
+    "mint",
+    "gradient",
+    "grainy-texture",
+    "numbered",
+    "educational"
+  ],
+  "whatItIs": "A square post with pale mint-to-teal gradient background, a huge ghosted 'DID YOU KNOW?' headline overlapping a grainy glossy teal-and-yellow blob shape, a small corner arrow, and a numbered fact line ('04 Fact & Mystery') introducing a short trivia statement about streaming technology.",
+  "whatItMeans": "Curious and premium; the grainy gradient blob makes a simple trivia fact feel like a polished, collectible card.",
+  "techniques": [
+    "Add film-grain noise to a gradient blob for texture.",
+    "Let a giant ghosted headline overlap the hero shape.",
+    "Number and categorise facts for a recognisable series."
+  ],
+  "bestFor": [
+    "Educational fact series",
+    "Trivia and 'did you know' content",
+    "Gradient-textured branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "Grain texture",
+      "definition": "A fine noise texture added over a gradient or photo."
+    },
+    {
+      "term": "Ghosted headline",
+      "definition": "Oversized, low-contrast text layered behind other content."
+    }
+  ]
+}

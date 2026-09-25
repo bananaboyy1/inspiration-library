@@ -1,0 +1,34 @@
+{
+  "name": "web-landing-hero-music-app-colorful-blob-shapes",
+  "image": "images/web-landing-hero-music-app-colorful-blob-shapes.avif",
+  "discipline": "web",
+  "designType": "Landing page hero",
+  "designStyle": "Playful & Illustrated",
+  "title": "Colorful music app landing hero with organic blob shapes and phone mockup",
+  "tags": [
+    "landing page",
+    "hero section",
+    "music app",
+    "blob shapes",
+    "colorful",
+    "phone mockup"
+  ],
+  "whatItIs": "A web hero section with a blue border frame, colorful overlapping blob shapes on the left surrounding a music-app phone mockup, and a bold 'More Music. More Fun.' headline with CTA on the right.",
+  "whatItMeans": "Overlapping organic blobs in varied bright colors behind a phone mockup create energy and playfulness appropriate for a consumer entertainment product, without needing a busy photo.",
+  "techniques": [
+    "overlap several organic blob shapes in varied colors to create a playful, energetic backdrop",
+    "frame the entire hero section in a bold solid-color border for a distinct 'card' feel",
+    "balance a graphic-heavy left side against a clean typographic right side"
+  ],
+  "bestFor": [
+    "music/entertainment app landing pages",
+    "playful consumer product websites",
+    "colorful SaaS hero sections"
+  ],
+  "vocabulary": [
+    {
+      "term": "hero section",
+      "definition": "the large, prominent top section of a landing page, usually containing the main headline and call to action"
+    }
+  ]
+}

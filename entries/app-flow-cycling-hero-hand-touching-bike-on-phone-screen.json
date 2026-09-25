@@ -1,0 +1,38 @@
+{
+  "name": "app-flow-cycling-hero-hand-touching-bike-on-phone-screen",
+  "image": "images/app-flow-cycling-hero-hand-touching-bike-on-phone-screen.webp",
+  "discipline": "app",
+  "designType": "Device mockup scene",
+  "designStyle": "Minimalist",
+  "title": "Flow cycling app hero: a hand touching a bike photo on a phone screen against black and white curves",
+  "tags": [
+    "cycling",
+    "hero",
+    "mint-green",
+    "hand-mockup",
+    "black-white",
+    "case-study-cover"
+  ],
+  "whatItIs": "A cover with a black background curving into a white organic shape, a phone held by a hand with a finger touching a close-up bike photo captioned 'Daha Akıllı Sür / Daha / Uzağa Git.' with a mint 'Başla' (Start) button, and the mint 'flow' logo with a flower-like icon bottom-left.",
+  "whatItMeans": "Tactile and premium; the touch gesture and organic black/white split give a fitness app a design-object feel.",
+  "techniques": [
+    "Show a finger touching the screen for tactility.",
+    "Split the backdrop with an organic black-and-white curve.",
+    "Keep the logo simple and place it away from the action."
+  ],
+  "bestFor": [
+    "App case study covers",
+    "Cycling and sports brands",
+    "Hand-interaction mockups"
+  ],
+  "vocabulary": [
+    {
+      "term": "Organic curve",
+      "definition": "A smooth, non-geometric dividing line."
+    },
+    {
+      "term": "Touch gesture",
+      "definition": "A photo showing a finger interacting with a screen."
+    }
+  ]
+}

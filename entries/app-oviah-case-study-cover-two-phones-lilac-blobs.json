@@ -1,0 +1,38 @@
+{
+  "name": "app-oviah-case-study-cover-two-phones-lilac-blobs",
+  "image": "images/app-oviah-case-study-cover-two-phones-lilac-blobs.jpg",
+  "discipline": "app",
+  "designType": "Case study cover",
+  "designStyle": "Minimalist",
+  "title": "OVIAH case study cover: two phones over lilac blob shapes with a droplet-O logo",
+  "tags": [
+    "case-study-cover",
+    "health",
+    "period-tracking",
+    "lilac",
+    "logo",
+    "hero"
+  ],
+  "whatItIs": "A lavender cover with soft overlapping circle blobs, two phones showing a home screen with a cycle countdown ring and an onboarding welcome screen with a droplet-shaped 'O' logo, and 'OVIAH — Understanding your body. Managing your health.' beside them.",
+  "whatItMeans": "Calm and reassuring; soft blobs and a droplet logo make a health topic feel gentle rather than clinical.",
+  "techniques": [
+    "Use a droplet or organic shape as a wordmark's first letter.",
+    "Show a countdown ring as the home screen's focal metric.",
+    "Layer soft overlapping blobs for a calm backdrop."
+  ],
+  "bestFor": [
+    "Health and wellness app covers",
+    "Period-tracking apps",
+    "Case study title slides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Countdown ring",
+      "definition": "A circular progress indicator counting down to an event."
+    },
+    {
+      "term": "Droplet logo",
+      "definition": "A logo shaped like a water drop, often used for health or fluid themes."
+    }
+  ]
+}

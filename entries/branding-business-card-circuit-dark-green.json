@@ -1,0 +1,33 @@
+{
+  "name": "branding-business-card-circuit-dark-green",
+  "image": "images/branding-business-card-circuit-dark-green.avif",
+  "discipline": "branding",
+  "designType": "Brand application mockups",
+  "designStyle": "Dark & Neon",
+  "title": "Dark green circuit-line tech business card",
+  "tags": [
+    "business card",
+    "circuit lines",
+    "dark green",
+    "tech branding",
+    "mockup"
+  ],
+  "whatItIs": "A two-sided business card mockup on a wood surface, using thin green circuit-trace lines over a black background with white/green typography for name and contact details.",
+  "whatItMeans": "Circuit-line traces read instantly as 'tech company' without needing a literal chip or gadget icon, letting the typography stay the clear focal point.",
+  "techniques": [
+    "draw thin branching circuit-trace lines as a background texture standing in for a tech logo mark",
+    "limit the palette to black, one accent green and white for high contrast at small card size",
+    "carry the same corner graphic motif from front to back for a matched two-sided card"
+  ],
+  "bestFor": [
+    "tech/electronics company stationery",
+    "dark-mode brand identity systems",
+    "IT or engineering firm branding"
+  ],
+  "vocabulary": [
+    {
+      "term": "circuit trace",
+      "definition": "a thin line motif resembling the conductive paths on a printed circuit board"
+    }
+  ]
+}

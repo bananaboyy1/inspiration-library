@@ -1,0 +1,34 @@
+{
+  "name": "web-swot-diagram-cream-bold-geometric-shapes",
+  "image": "images/web-swot-diagram-cream-bold-geometric-shapes.avif",
+  "discipline": "web",
+  "designType": "Data visualization",
+  "designStyle": "Geometric & Bauhaus",
+  "title": "Cream SWOT diagram with bold geometric shape accents",
+  "tags": [
+    "swot",
+    "diagram",
+    "cream",
+    "bauhaus",
+    "geometric shapes",
+    "quadrant"
+  ],
+  "whatItIs": "A cream-background SWOT quadrant diagram labeled with rounded dark letter badges, decorated with abstract bold geometric shape clusters (starbursts, arches, dots) instead of literal icons.",
+  "whatItMeans": "Replacing typical corporate icon sets with purely abstract shape clusters gives a standard business-analysis template a distinct, non-generic art-directed identity.",
+  "techniques": [
+    "label a quadrant framework with rounded letter badges instead of full word headers for a cleaner grid",
+    "decorate with abstract geometric shape clusters rather than literal topic icons",
+    "keep decorative shapes clustered at diagram corners so they frame rather than compete with the content"
+  ],
+  "bestFor": [
+    "strategy workshop templates",
+    "pitch deck analysis slides",
+    "brand-forward business documentation"
+  ],
+  "vocabulary": [
+    {
+      "term": "SWOT analysis",
+      "definition": "a strategic planning framework evaluating Strengths, Weaknesses, Opportunities and Threats"
+    }
+  ]
+}

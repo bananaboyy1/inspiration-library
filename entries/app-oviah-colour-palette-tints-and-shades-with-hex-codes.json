@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-colour-palette-tints-and-shades-with-hex-codes",
+  "image": "images/app-oviah-colour-palette-tints-and-shades-with-hex-codes.webp",
+  "discipline": "app",
+  "designType": "Typography and colour guide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'Visual Language of the app': five core colours each expanded into five tints and five shades",
+  "tags": [
+    "colour-palette",
+    "tints-and-shades",
+    "hex-codes",
+    "lilac",
+    "design-system"
+  ],
+  "whatItIs": "A slide with five large colour swatches (off-white #faf9f7, lilac #9890e7, navy #1f1e50, pale pink #f3dde1, coral pink #f192a3) each labelled with its hex code, and beneath each a small card showing five lighter tints and five darker shades with percentage labels.",
+  "whatItMeans": "Scalable and precise; expanding each core colour into a full ramp equips every future UI state with the right shade.",
+  "techniques": [
+    "Pair each core colour with its full tint and shade ramp.",
+    "Label tints and shades by percentage for exact reproduction.",
+    "Name the overall system 'visual language' to frame it as more than just colours."
+  ],
+  "bestFor": [
+    "Colour system documentation",
+    "Design token libraries",
+    "Brand palette guides"
+  ],
+  "vocabulary": [
+    {
+      "term": "Tint",
+      "definition": "A colour mixed with white, making it lighter."
+    },
+    {
+      "term": "Shade",
+      "definition": "A colour mixed with black, making it darker."
+    }
+  ]
+}

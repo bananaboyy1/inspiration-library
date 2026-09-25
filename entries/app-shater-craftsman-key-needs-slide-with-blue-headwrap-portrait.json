@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-craftsman-key-needs-slide-with-blue-headwrap-portrait",
+  "image": "images/app-shater-craftsman-key-needs-slide-with-blue-headwrap-portrait.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater 'Client' persona key needs slide with a man in a keffiyeh and two Arabic phone screens",
+  "tags": [
+    "persona",
+    "arabic",
+    "key-needs",
+    "blue",
+    "portrait",
+    "case-study"
+  ],
+  "whatItIs": "A pale blue slide with 'Key Needs' and 'العميل — صاحب الاحتياج' (The Client — the one with the need), five pill bullets about pricing clarity, trust and payment safety, a large faded 'Shater' wordmark, a smiling man in a red-and-white keffiyeh, and two phone screens showing service details and craftsman search.",
+  "whatItMeans": "Empathetic and specific; naming exact worries like payment safety justifies later features like the wallet.",
+  "techniques": [
+    "List concrete worries as the persona's key needs.",
+    "Fade the product wordmark behind the persona photo.",
+    "Match phone screens to the stated needs."
+  ],
+  "bestFor": [
+    "Persona research slides",
+    "Marketplace UX documentation",
+    "Trust-focused product design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Key needs",
+      "definition": "The specific problems a persona needs solved."
+    },
+    {
+      "term": "Trust signal",
+      "definition": "A design element that reduces a user's uncertainty."
+    }
+  ]
+}

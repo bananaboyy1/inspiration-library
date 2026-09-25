@@ -1,0 +1,34 @@
+{
+  "name": "print-social-screen-time-infographic-mauve-flat",
+  "image": "images/print-social-screen-time-infographic-mauve-flat.avif",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Playful & Illustrated",
+  "title": "Mauve flat-illustration screen-time infographic",
+  "tags": [
+    "infographic",
+    "screen time",
+    "flat illustration",
+    "mauve",
+    "charts",
+    "icons"
+  ],
+  "whatItIs": "A vertical infographic on a dusty mauve background breaking down phone screen time by category (health, messengers, social, work, entertaining) with small illustrated panels, a pie chart and bar chart.",
+  "whatItMeans": "Grouping stats into labeled illustrated 'windows' rather than one dense chart lets a reader skim by topic instead of parsing everything at once.",
+  "techniques": [
+    "frame each data category in its own small illustrated panel/device screen",
+    "mix chart types (pie, bar) within one infographic to match each metric's shape",
+    "use one muted background color to let the varied panel colors stay legible without clashing"
+  ],
+  "bestFor": [
+    "digital wellbeing content",
+    "app usage reports",
+    "lifestyle blog infographics"
+  ],
+  "vocabulary": [
+    {
+      "term": "infographic",
+      "definition": "a visual representation of data or information designed for quick comprehension"
+    }
+  ]
+}

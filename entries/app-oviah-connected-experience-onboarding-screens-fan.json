@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-connected-experience-onboarding-screens-fan",
+  "image": "images/app-oviah-connected-experience-onboarding-screens-fan.webp",
+  "discipline": "app",
+  "designType": "Case study slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH 'Designed to work as one connected experience' with a fanned row of onboarding screens and a hand-held hero",
+  "tags": [
+    "onboarding",
+    "hand-mockup",
+    "lilac",
+    "case-study",
+    "consistency"
+  ],
+  "whatItIs": "A white slide with the statement heading, a row of six onboarding phone screens (splash, create account, personalise, welcome-back login) fanned in a line, and a large hand holding a phone showing the splash screen and 'Get Started' buttons at the right.",
+  "whatItMeans": "Cohesive and confident; the fanned row argues that every screen shares one visual language.",
+  "techniques": [
+    "Fan a sequence of screens in a single row to show consistency.",
+    "Pair a summary statement with a hand-held hero device.",
+    "Repeat the same button and card styling across all screens shown."
+  ],
+  "bestFor": [
+    "Design consistency slides",
+    "Onboarding overviews",
+    "Case study cohesion proof"
+  ],
+  "vocabulary": [
+    {
+      "term": "Fanned row",
+      "definition": "Screens arranged side by side to show sequence or variety."
+    },
+    {
+      "term": "Connected experience",
+      "definition": "A product where every screen feels part of one coherent system."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "print-social-remarketing-stock-photo-icon-overlay-1",
+  "image": "images/print-social-remarketing-stock-photo-icon-overlay-1.jpg",
+  "discipline": "print-social",
+  "designType": "Product infographic set",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Office stock photo overlaid with remarketing icon hexagons",
+  "tags": [
+    "stock photo",
+    "overlay icons",
+    "hexagon",
+    "business",
+    "remarketing",
+    "marketing concept"
+  ],
+  "whatItIs": "A desk scene of coworkers reviewing charts, overlaid with a translucent hexagonal icon network and the word REMARKETING glowing in cyan.",
+  "whatItMeans": "Layering abstract data icons over a real photo grounds an intangible concept (digital marketing) in a relatable human moment, a common technique for B2B blog headers.",
+  "techniques": [
+    "overlay a glowing icon network atop a photo to visualize an abstract digital concept",
+    "connect icons with thin lines radiating from a central glowing keyword",
+    "desaturate the underlying photo slightly so the overlay graphics pop forward"
+  ],
+  "bestFor": [
+    "marketing/adtech blog headers",
+    "B2B service explainer graphics",
+    "concept-driven stock photography compositions"
+  ],
+  "vocabulary": [
+    {
+      "term": "overlay graphic",
+      "definition": "a semi-transparent graphic layer placed on top of a photograph to add conceptual or data information"
+    }
+  ]
+}

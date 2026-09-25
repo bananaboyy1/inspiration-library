@@ -1,0 +1,38 @@
+{
+  "name": "app-fashion-online-store-screens-magenta-gradient-filters",
+  "image": "images/app-fashion-online-store-screens-magenta-gradient-filters.jpg",
+  "discipline": "app",
+  "designType": "E-commerce app",
+  "designStyle": "Gradient & Aurora",
+  "title": "Fashion Online Store app screens: magenta gradient onboarding, account, categories and filter panels",
+  "tags": [
+    "fashion",
+    "ecommerce",
+    "magenta",
+    "gradient",
+    "filters",
+    "onboarding"
+  ],
+  "whatItIs": "Four phone screens with a magenta-to-purple gradient: an onboarding screen with a shopping photo and 'Start Shopping' button, an account screen with sign-up/log-in buttons, a categories grid (Men's, Women's Clothing, Cosmetics, Shoes) and a filters panel with colour swatches, a price slider and size buttons.",
+  "whatItMeans": "Vivid and energetic; one bold gradient across every screen makes a fashion app feel youthful and distinctive.",
+  "techniques": [
+    "Apply one consistent gradient across every screen for brand recognition.",
+    "Use a 2x2 photo grid for category browsing.",
+    "Offer colour swatches directly inside the filter panel."
+  ],
+  "bestFor": [
+    "Fashion e-commerce apps",
+    "Gradient-branded UI kits",
+    "Category and filter UX"
+  ],
+  "vocabulary": [
+    {
+      "term": "Filter panel",
+      "definition": "A UI section for narrowing results by attributes like size or price."
+    },
+    {
+      "term": "Category grid",
+      "definition": "A grid of images representing browsable product groups."
+    }
+  ]
+}

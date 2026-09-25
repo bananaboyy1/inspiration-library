@@ -1,0 +1,38 @@
+{
+  "name": "print-social-3-days-to-launch-countdown-poster-glowing-green-numeral",
+  "image": "images/print-social-3-days-to-launch-countdown-poster-glowing-green-numeral.avif",
+  "discipline": "print-social",
+  "designType": "Social promo post",
+  "designStyle": "Dark & Neon",
+  "title": "'3 Days to Launch' countdown poster with a huge glowing green numeral and radial floor glow",
+  "tags": [
+    "countdown",
+    "launch",
+    "dark-green",
+    "glow",
+    "numeral",
+    "minimal"
+  ],
+  "whatItIs": "A dark green portrait poster with a small logo circle, double-chevron up arrows in the corners, a giant black numeral '3' outlined in a bright green glow, 'Days to Launch' beneath in white and green, 'Backed by Your Company' and a website line, all sitting above a glowing radial floor light.",
+  "whatItMeans": "Suspenseful and minimal; one giant glowing number does all the work a busy countdown graphic usually needs many elements for.",
+  "techniques": [
+    "Let one huge glowing numeral carry the entire message.",
+    "Ground the numeral with a radial floor glow for weight.",
+    "Use tiny repeated chevron marks as a subtle branding motif."
+  ],
+  "bestFor": [
+    "Product launch countdowns",
+    "App and SaaS teasers",
+    "Minimal dark-mode promos"
+  ],
+  "vocabulary": [
+    {
+      "term": "Radial floor glow",
+      "definition": "A light that fades outward from a point at the base of a composition."
+    },
+    {
+      "term": "Hero numeral",
+      "definition": "A number rendered extremely large as the focal graphic."
+    }
+  ]
+}

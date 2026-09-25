@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-closing-thank-you-slide-with-3d-app-icon-tile",
+  "image": "images/app-oviah-closing-thank-you-slide-with-3d-app-icon-tile.webp",
+  "discipline": "app",
+  "designType": "Case study closing slide",
+  "designStyle": "Minimalist",
+  "title": "OVIAH closing 'Until we Meet again! Thank You!' slide with team-name pills and a glossy 3D app icon tile",
+  "tags": [
+    "closing-slide",
+    "thank-you",
+    "3d-icon",
+    "lilac",
+    "credits"
+  ],
+  "whatItIs": "A white slide with an italic 'Until we Meet again!' eyebrow, a huge navy 'Thank You!', four pink-outlined pills naming the team members, and on the right a glossy white 3D app-icon tile with the droplet logo and a small numbered badge, set against a purple blob.",
+  "whatItMeans": "Warm and polished; the glossy icon tile turns a simple thank-you into a final piece of brand presentation.",
+  "techniques": [
+    "Render the app icon as a glossy 3D tile for the closing slide.",
+    "List team members as individual pills rather than one line.",
+    "Keep the closing tone personal with a light, informal eyebrow line."
+  ],
+  "bestFor": [
+    "Case study closing slides",
+    "Team credits",
+    "Portfolio endings"
+  ],
+  "vocabulary": [
+    {
+      "term": "3D icon tile",
+      "definition": "An app icon rendered with depth and shading like a physical object."
+    },
+    {
+      "term": "Eyebrow text",
+      "definition": "A small line of text above a main headline."
+    }
+  ]
+}

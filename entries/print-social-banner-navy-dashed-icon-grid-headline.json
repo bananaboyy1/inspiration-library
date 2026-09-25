@@ -1,0 +1,34 @@
+{
+  "name": "print-social-banner-navy-dashed-icon-grid-headline",
+  "image": "images/print-social-banner-navy-dashed-icon-grid-headline.jpg",
+  "discipline": "print-social",
+  "designType": "Social banner",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Navy banner with dashed-outline icon rows framing a headline",
+  "tags": [
+    "banner",
+    "navy",
+    "dashed border",
+    "icon row",
+    "headline",
+    "orange accent"
+  ],
+  "whatItIs": "A wide navy banner with a huge centered headline, flanked above and below by rows of five dashed-outline icon boxes representing planning-related concepts.",
+  "whatItMeans": "Framing bold type between symmetric icon rows gives a text-only headline extra visual structure and implies a fuller feature set without adding real complexity.",
+  "techniques": [
+    "frame a large centered headline with symmetric rows of small icon tiles above and below",
+    "use dashed/dotted outline strokes on icons for a lighter, technical feel than solid fills",
+    "limit accent colors to small dot details so the navy/white/orange palette stays disciplined"
+  ],
+  "bestFor": [
+    "SaaS/productivity brand banners",
+    "content calendar or planning tool marketing",
+    "LinkedIn/blog header graphics"
+  ],
+  "vocabulary": [
+    {
+      "term": "icon row",
+      "definition": "a horizontal series of small pictograms used to suggest a feature set or process steps"
+    }
+  ]
+}

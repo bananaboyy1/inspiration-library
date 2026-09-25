@@ -1,0 +1,38 @@
+{
+  "name": "web-zinde-juice-product-page-with-ux-annotation-callouts",
+  "image": "images/web-zinde-juice-product-page-with-ux-annotation-callouts.png",
+  "discipline": "web",
+  "designType": "UX documentation",
+  "designStyle": "Warm & Organic",
+  "title": "Zinde juice e-commerce product page with UX rationale callouts pointing at add-to-cart and options",
+  "tags": [
+    "ecommerce",
+    "juice",
+    "annotation",
+    "ux-notes",
+    "green",
+    "product-page"
+  ],
+  "whatItIs": "A beige page for 'Zinde' cold-pressed juices: a raised hand holding three bottles above a product page (smoothie photo, subscription options, quantity and 'Add to Cart'), with three small callout notes and dotted lines pointing to the subscription choice, quantity selector and cart action, explaining each UX decision.",
+  "whatItMeans": "Transparent and instructive; short callouts turn a finished page into a lesson on why each control exists.",
+  "techniques": [
+    "Annotate a real UI with short UX-rationale notes.",
+    "Point each note to the exact element it explains.",
+    "Keep annotations brief enough to scan in seconds."
+  ],
+  "bestFor": [
+    "UX case study callouts",
+    "E-commerce subscription flows",
+    "Health food brands"
+  ],
+  "vocabulary": [
+    {
+      "term": "Callout annotation",
+      "definition": "A short note pointing to a specific UI element."
+    },
+    {
+      "term": "Subscription selector",
+      "definition": "A control for choosing one-time or recurring purchase."
+    }
+  ]
+}

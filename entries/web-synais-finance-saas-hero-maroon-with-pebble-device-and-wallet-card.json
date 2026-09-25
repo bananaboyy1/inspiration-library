@@ -1,0 +1,38 @@
+{
+  "name": "web-synais-finance-saas-hero-maroon-with-pebble-device-and-wallet-card",
+  "image": "images/web-synais-finance-saas-hero-maroon-with-pebble-device-and-wallet-card.webp",
+  "discipline": "web",
+  "designType": "SaaS landing page",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Synais AI finance SaaS: maroon three-panel spread with a pebble-shaped device and a multi-currency wallet card",
+  "tags": [
+    "fintech",
+    "saas",
+    "maroon",
+    "3d-render",
+    "wallet",
+    "hero"
+  ],
+  "whatItIs": "Three maroon panels: an 'About Us' block with mission text and stats (500+ Companies, 80% Faster Reporting, 20B+ Data Processed), a hero with 'Smarter Financial Management', Get Started/Request Demo buttons and a hand holding a glowing pebble-shaped 3D device, and a features panel with a multi-currency wallet card and a spending-overview heatmap calendar.",
+  "whatItMeans": "Premium and trustworthy; the tactile pebble object gives an abstract AI finance tool a physical, brandable identity.",
+  "techniques": [
+    "Invent a signature 3D object to represent an intangible AI product.",
+    "State trust stats early, before the feature list.",
+    "Use a heatmap calendar to visualise spending at a glance."
+  ],
+  "bestFor": [
+    "Fintech SaaS landing pages",
+    "AI product marketing",
+    "B2B dashboards"
+  ],
+  "vocabulary": [
+    {
+      "term": "Heatmap calendar",
+      "definition": "A calendar grid coloured by a value like spend."
+    },
+    {
+      "term": "Signature object",
+      "definition": "A custom 3D form used as a brand's visual icon."
+    }
+  ]
+}

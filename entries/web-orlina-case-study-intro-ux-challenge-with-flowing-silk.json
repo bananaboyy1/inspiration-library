@@ -1,0 +1,38 @@
+{
+  "name": "web-orlina-case-study-intro-ux-challenge-with-flowing-silk",
+  "image": "images/web-orlina-case-study-intro-ux-challenge-with-flowing-silk.webp",
+  "discipline": "web",
+  "designType": "Case study slide",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Orlina case study intro: moody portrait, chapter index and 'UX Challenge' over flowing black silk",
+  "tags": [
+    "case-study",
+    "silk",
+    "dark",
+    "serif",
+    "chapters",
+    "fashion"
+  ],
+  "whatItIs": "A tall dark page opening with a softly lit woman in a grey blazer, an italic serif chapter index (UX Challenge, Goals, Information Architecture, User Flow…), then big bronze 'UX' and italic 'Challenge' with a large '01' over a 3D ribbon of black satin, followed by a text block and '02 UX Goals'.",
+  "whatItMeans": "Luxurious and cinematic; flowing fabric separates chapters like a fashion film.",
+  "techniques": [
+    "Use a flowing 3D fabric as each chapter divider.",
+    "Number chapters with large thin numerals.",
+    "Mix a bold sans with an italic serif in headings."
+  ],
+  "bestFor": [
+    "Fashion case studies",
+    "Luxury presentations",
+    "Long-scroll storytelling"
+  ],
+  "vocabulary": [
+    {
+      "term": "Chapter divider",
+      "definition": "A visual break introducing a new section."
+    },
+    {
+      "term": "Italic serif",
+      "definition": "A slanted, elegant serif typeface."
+    }
+  ]
+}

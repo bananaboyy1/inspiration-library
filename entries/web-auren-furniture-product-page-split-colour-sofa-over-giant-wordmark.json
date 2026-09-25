@@ -1,0 +1,38 @@
+{
+  "name": "web-auren-furniture-product-page-split-colour-sofa-over-giant-wordmark",
+  "image": "images/web-auren-furniture-product-page-split-colour-sofa-over-giant-wordmark.png",
+  "discipline": "web",
+  "designType": "Product detail page",
+  "designStyle": "Editorial",
+  "title": "Auren furniture product page: a sofa split grey/ochre over a giant black wordmark",
+  "tags": [
+    "furniture",
+    "sofa",
+    "editorial",
+    "typography",
+    "monospace",
+    "product-page"
+  ],
+  "whatItIs": "A white layout with monospace bracketed labels '[Product Design Page]' and '[Auren - Furniture]', a huge black 'Auren' wordmark cropped at the edges, and a sofa whose left half is grey inside a pale square and right half ochre, showing colour options.",
+  "whatItMeans": "Architectural and bold; the split sofa demonstrates choice in one striking image.",
+  "techniques": [
+    "Split a product image to show two variants.",
+    "Crop a giant wordmark behind the product.",
+    "Use bracketed monospace labels as captions."
+  ],
+  "bestFor": [
+    "Furniture e-commerce",
+    "Product configurators",
+    "Editorial web design"
+  ],
+  "vocabulary": [
+    {
+      "term": "Variant",
+      "definition": "A version of a product in another colour or size."
+    },
+    {
+      "term": "Cropped type",
+      "definition": "Letters cut off by the frame edge."
+    }
+  ]
+}

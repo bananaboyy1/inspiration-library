@@ -1,0 +1,38 @@
+{
+  "name": "app-shahyti-food-delivery-app-cover-red-with-script-overlay",
+  "image": "images/app-shahyti-food-delivery-app-cover-red-with-script-overlay.png",
+  "discipline": "app",
+  "designType": "Food ordering app",
+  "designStyle": "Playful & Illustrated",
+  "title": "Shahyti food delivery app cover with giant red caps, yellow script overlay and three phones",
+  "tags": [
+    "food-delivery",
+    "red",
+    "yellow",
+    "script",
+    "case-study-cover",
+    "burger"
+  ],
+  "whatItIs": "A cream cover with huge red 'SHAHYTI' caps overlapped by a yellow handwritten 'Food delivery app', and three phones: a home screen with 'Spin & win', a red welcome screen with fried chicken and fries, and a restaurant menu screen, with yellow sparkle doodles.",
+  "whatItMeans": "Hungry and fun; the red and yellow fast-food palette and script feel lively and local.",
+  "techniques": [
+    "Overlap a script tagline across bold caps.",
+    "Put the splash screen in the centre phone.",
+    "Add doodle sparkles around devices."
+  ],
+  "bestFor": [
+    "Food delivery apps",
+    "Restaurant apps",
+    "Case study covers"
+  ],
+  "vocabulary": [
+    {
+      "term": "Splash screen",
+      "definition": "The first branded screen when an app opens."
+    },
+    {
+      "term": "Script overlay",
+      "definition": "Handwritten text layered across other type."
+    }
+  ]
+}

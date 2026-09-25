@@ -1,0 +1,34 @@
+{
+  "name": "print-social-carousel-magenta-possibilities-3d-render",
+  "image": "images/print-social-carousel-magenta-possibilities-3d-render.avif",
+  "discipline": "print-social",
+  "designType": "Social template pack",
+  "designStyle": "Dark & Neon",
+  "title": "Magenta 'World of Possibilities' carousel with 3D orb accents",
+  "tags": [
+    "carousel",
+    "tech",
+    "magenta",
+    "3d spheres",
+    "dark",
+    "instagram"
+  ],
+  "whatItIs": "A nine-tile Instagram grid on a magenta-to-black gradient, combining a glossy 3D product render on the cover tile, floating 3D sphere props, and bold white headlines like 'Innovation Thrives' across each panel.",
+  "whatItMeans": "Floating glossy 3D spheres act as a consistent decorative signature across every tile, giving a text-heavy carousel a tactile, premium 'physical object' quality.",
+  "techniques": [
+    "scatter small glossy 3D sphere props consistently across every tile as a brand signature",
+    "reserve the cover tile for a photographic/render hero shot while inner tiles stay typographic",
+    "use one saturated magenta-to-black gradient throughout for a moody, premium tone"
+  ],
+  "bestFor": [
+    "tech innovation campaign carousels",
+    "premium/dark-mode brand kits",
+    "product launch social content"
+  ],
+  "vocabulary": [
+    {
+      "term": "hero render",
+      "definition": "a polished 3D or photographic product image used as the primary visual anchor of a design"
+    }
+  ]
+}

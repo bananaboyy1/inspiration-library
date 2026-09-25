@@ -1,0 +1,37 @@
+{
+  "name": "app-oviah-low-fidelity-wireframes-full-flow-grid",
+  "image": "images/app-oviah-low-fidelity-wireframes-full-flow-grid.webp",
+  "discipline": "app",
+  "designType": "Wireframe showcase",
+  "designStyle": "Minimalist",
+  "title": "OVIAH low-fidelity wireframes: 'Before colour, before polish, We solved the experience' — 18 hand-drawn screens",
+  "tags": [
+    "wireframes",
+    "low-fidelity",
+    "sketch",
+    "ux-process",
+    "hand-drawn"
+  ],
+  "whatItIs": "A grid of 18 hand-sketched phone wireframes in black ink on white, covering splash, onboarding, home, tracking and settings screens, each with rough placeholder shapes for logos, buttons, circles and lists, captioned by the statement 'Before colour, before polish. We solved the experience.'",
+  "whatItMeans": "Foundational and honest; sketchy hand-drawn frames prove the flow was validated before any visual design began.",
+  "techniques": [
+    "Sketch wireframes by hand to keep early ideas fast and disposable.",
+    "State a process philosophy directly as the slide's headline.",
+    "Cover the full flow breadth even at the roughest fidelity."
+  ],
+  "bestFor": [
+    "Early-stage UX documentation",
+    "Design process storytelling",
+    "Wireframe presentations"
+  ],
+  "vocabulary": [
+    {
+      "term": "Low-fidelity wireframe",
+      "definition": "A rough, quickly made layout sketch focused on structure."
+    },
+    {
+      "term": "Placeholder shape",
+      "definition": "A simple shape standing in for future content."
+    }
+  ]
+}

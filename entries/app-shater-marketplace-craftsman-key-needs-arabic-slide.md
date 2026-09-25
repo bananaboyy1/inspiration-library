@@ -1,0 +1,26 @@
+# Shater marketplace app: 'Craftsman' persona key needs slide with two Arabic phone screens
+
+![](../images/app-shater-marketplace-craftsman-key-needs-arabic-slide.webp)
+
+**Discipline:** app · **Design type:** Case study slide · **Design style:** Corporate & Clean-Tech
+**Tags:** marketplace, arabic, persona, blue, construction, case-study
+
+## What it is
+A pale lavender-blue slide with 'Key Needs' and a persona header 'الحـرفي — صاحب الخبرة' (The Craftsman — the experienced one), five pill bullet points on access to jobs and managing offers, a large faded 'Shater' wordmark, a construction worker in a hard hat and orange vest, and two Arabic phone screens (services search, request stats).
+
+## What it means
+Research-grounded and human; the persona quote and real photo make the user need concrete.
+
+## Techniques
+- Pair a persona statement with pill bullet needs.
+- Fade the wordmark large behind the hero photo.
+- Show two supporting phone screens beside the person.
+
+## Best for
+- Marketplace app case studies
+- Persona and needs slides
+- Arabic-market UX research
+
+## Vocabulary
+- **Persona** — A fictional user representing a segment of real users.
+- **Key needs** — The core problems a persona must solve.

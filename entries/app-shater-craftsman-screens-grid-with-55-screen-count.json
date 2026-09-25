@@ -1,0 +1,38 @@
+{
+  "name": "app-shater-craftsman-screens-grid-with-55-screen-count",
+  "image": "images/app-shater-craftsman-screens-grid-with-55-screen-count.webp",
+  "discipline": "app",
+  "designType": "UX documentation",
+  "designStyle": "Corporate & Clean-Tech",
+  "title": "Shater craftsman app: 20-screen grid covering search, chat, orders and payment, with '+55 Screen' banner",
+  "tags": [
+    "screens-grid",
+    "arabic",
+    "chat",
+    "payment",
+    "orange",
+    "case-study"
+  ],
+  "whatItIs": "A 4x5 grid of Arabic phone screens: craftsman search and notifications, chat threads and offer negotiation, a map with location pins, service management and completed/failed orders, and payment method cards, closing with an orange '+55 Screen' banner.",
+  "whatItMeans": "Comprehensive and confident; tiling dozens of real screens proves the flow was fully designed, not just imagined.",
+  "techniques": [
+    "Tile many real screens in a dense grid.",
+    "Close a grid with a bold screen-count banner.",
+    "Keep consistent phone frames across the grid."
+  ],
+  "bestFor": [
+    "Large app case studies",
+    "Screen inventories",
+    "Portfolio scale proof"
+  ],
+  "vocabulary": [
+    {
+      "term": "Screen grid",
+      "definition": "A tiled overview of many app screens."
+    },
+    {
+      "term": "Screen count banner",
+      "definition": "A callout stating how many screens were designed."
+    }
+  ]
+}

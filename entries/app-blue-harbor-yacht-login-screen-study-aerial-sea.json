@@ -1,0 +1,38 @@
+{
+  "name": "app-blue-harbor-yacht-login-screen-study-aerial-sea",
+  "image": "images/app-blue-harbor-yacht-login-screen-study-aerial-sea.png",
+  "discipline": "app",
+  "designType": "Onboarding screens",
+  "designStyle": "Photographic & Cinematic",
+  "title": "Blue Harbor Yacht login study: aerial yacht wake on deep teal sea filling a phone",
+  "tags": [
+    "luxury",
+    "yacht",
+    "login",
+    "teal",
+    "aerial-photo",
+    "onboarding"
+  ],
+  "whatItIs": "A deep teal ocean cover with 'Blue Harbor Yacht — Login / Register Screens Study' in white on the left and a phone whose splash screen shows an aerial yacht carving a white wake, with a serif 'BL' logo and 'BlueHarbor' wordmark.",
+  "whatItMeans": "Luxurious and calm; the photo flows from background into the phone, so the brand feels seamless.",
+  "techniques": [
+    "Continue the background photo into the device screen.",
+    "Use an aerial shot for drama and space.",
+    "Keep the splash to logo and image only."
+  ],
+  "bestFor": [
+    "Luxury travel apps",
+    "Login screen studies",
+    "Premium splash screens"
+  ],
+  "vocabulary": [
+    {
+      "term": "Splash screen",
+      "definition": "The first branded screen shown on launch."
+    },
+    {
+      "term": "Aerial shot",
+      "definition": "A photo taken from high above."
+    }
+  ]
+}
